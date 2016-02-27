@@ -1,0 +1,48 @@
+.addthis_sharing_toolbox {
+  display: none;
+
+  @include media($medium-screen-up) {
+      display: block;
+      position: fixed;
+    bottom:4px;
+    left:6em;
+  }
+}
+.addthis_32x32_style .dummy .at300bs, .addthis_32x32_style .at300bs, .addthis_32x32_style .at15t,
+.addthis_32x32_style .dummy .at300bs, .addthis_32x32_style .at300bs, .addthis_32x32_style .at15t, 
+.addthis_toolbox img {
+  border-radius:3px;
+}
+
+//this is the follow buttons on the below-hero nav bar
+.at-follow-tbx-element {
+  margin-top: 2.375rem;
+}
+  .at-follow-tbx-element p {
+    font-size: .8em;
+    line-height: 1;
+    display: inline;
+  }
+
+  .at300b {margin-left:.5em;
+
+  }
+a.at300b .at4-icon, a.at300m .at4-icon {
+  border-radius: 50%;  
+
+}
+
+.addthis-smartlayers, div#at4-share, div#at4-follow, div#at4-whatsnext, div#at4-thankyou {
+  top: 138px !important;
+  
+}
+
+.at-svc-facebook {
+  -webkit-border-radius: 3px 0 0 0;
+border-radius: 3px 0 0 0;
+}
+
+.at-svc-email {
+ -webkit-border-radius: 0 0 0 3px;
+border-radius: 0 0 0 3px;
+}

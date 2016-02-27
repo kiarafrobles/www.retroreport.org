@@ -1,0 +1,373 @@
+//small screen
+.layout-grid h1:first-of-type, article h1:first-of-type, article h2:first-of-type, article h3:first-of-type {
+     margin-top: 0;
+  @include media($medium-screen-up) {
+   margin-top: $small-spacing;
+  }
+}
+
+.outer-container {
+  @include outer-container(100%);
+}
+.row {
+  @include outer-container;
+  @include clearfix;
+}
+.has-layout {
+  clear: both;
+  @include clearfix;
+  @include outer-container(100%);
+}
+.centered-content {
+  width:98%;
+  margin:3em auto;
+  @include media($medium-screen-up) {
+    width:60%;
+    margin:3em auto;
+  }
+}
+.layout-posts {
+  clear: both;
+  @include clearfix;
+  @include outer-container(80%);
+}
+
+///////////////////////// ARTICLES /////////////////////////
+
+article.hentry, article.subcontent {
+  padding: 0 1.5rem 1.5rem 1.5rem;
+  margin:auto;
+  position:relative;
+
+  max-width:100%;
+  p {
+    font-family: $paragraph-font-family;
+  }
+  header {
+    margin-bottom: .5em;
+  }
+  .lede , .lede p{
+    font-size: 1.5em;
+    font-weight: 500;
+    margin: 1em auto;
+  }
+  @include media($medium-screen-up) {
+    width: 50%;
+    padding: 1rem 1.5rem 5rem 1.5rem;
+  }
+}
+
+///////////////////////// SIDEBARS /////////////////////////
+
+// Displays aside content on either the right or left of the main content
+.sidebar {
+    background-color: $lightest-gray;
+    border-bottom: 1px solid darken($lightest-gray, 5%);
+    ul {
+      width: 100%;
+      padding:2em 0 2em 0;
+      margin:0;
+    }
+    ul li {
+      display: inline-block;
+      @include media($large-screen-up) {
+       display: block;
+    }
+    }
+
+    ul li {
+
+      padding: 0;
+      font-size: 1em;
+      margin-bottom: .125em;
+      a {
+        width: 100%;
+        @include transition (all .25s ease-out);
+        display: block;
+        width: 100%;
+        padding: .5em 1.5em .5em 1.5em;
+        color: $black;
+        .active-item {
+          background-color: $black;
+          color: $yellow;
+        }
+        &:hover {
+          background-color: $black;
+          color: white;
+        }
+      }
+    }
+
+    ul.article-list {
+      padding: .5em 0;
+      li {
+        margin-bottom: .875em;
+      }
+      a {
+        padding: .25em 0.25em .25em .25em;
+      }
+    }
+  }
+
+.sidebar-right {
+  @include span-columns(12 of 12);
+  @include media($large-screen-up) {
+    @include omega();
+    @include span-columns(2.5 of 12);
+    border-left: 1px solid darken($lightest-gray, 5%);
+
+  }
+}
+
+.sidebar-right-large {
+  font-size: .875em;
+  @include span-columns(12 of 12);
+  padding: 2em;
+  iframe {
+    max-height: 60px !important;
+
+  }
+  .color-bg {
+      background-color: black !important;
+    }
+
+  @include media($medium-screen-up) {
+    background-color: darken($lightest-gray, 5%);
+    margin-bottom: 3em;
+    //@include omega();
+    @include span-columns(3.5 of 12);
+    border-left: 1px solid darken($lightest-gray, 5%);
+
+  }
+}
+
+.sidebar-left {
+  @include media($large-screen-up) {
+    display: block;
+    @include span-columns(2.5 of 12);
+    border-right: 1px solid darken($lightest-gray, 5%);
+  }
+}
+
+///////////////////////// SIDEBARS /////////////////////////
+
+.title-bar {
+  .title-bar-inner {
+    @include outer-container;
+  }
+  background-color: $lightest-gray;
+  font-size: 1.375em;
+  padding: .5em 1em;
+  @include span-columns(12 of 12);
+  //@include shift(.5);
+  button {
+    background-color: $black;
+    color: white;
+    font-size: .875rem;
+    display: inline-block;
+    margin-right: .25em;
+    a {
+      color: white;
+    }
+    &:active, &:hover {
+      background-color: $yellow2;
+      color: $black;
+    }
+  }
+  h2 {
+    margin:0;
+  }
+}
+
+.layout-grid, .hentry-left {
+  padding:0 .875em;
+  clear:both;
+  @include span-columns(12 of 12);
+  @include media($large-screen-up) {
+    padding: 0;
+    @include span-columns(9 of 12);
+    @include shift(.5);
+    }
+  }
+.layout-copy {
+  padding: 1em;
+  clear:both;
+  @include span-columns(12 of 12);
+  @include media($large-screen-up) {
+    padding:0 4em 0 0;
+    p {
+      max-width: 38em;
+    }
+    @include span-columns(8 of 12);
+    @include shift(.5);
+     ul.inline {
+      margin-bottom: 1em;
+    }
+    li {
+      font-size: 1.25em;
+    }
+  }
+  }
+
+///////////////////////// HOME PAGE /////////////////////////
+
+// .home-left {
+//   @include span-columns(12 of 12);
+//   padding: 0 1em;
+//   @include media($medium-screen-up) {
+//     @include span-columns(8 of 12);
+//     @include shift(.5);
+//     padding: 0;
+//   }
+// }
+
+.home-left {
+  @include span-columns(12 of 12);
+  padding: 0 1em;
+  @media screen and (min-width: $m) and (max-width: $l)
+  {
+    @include span-columns(7.75 of 12);
+    @include shift(.25);
+    padding: 0;
+  }
+  @include media($l-up) {
+    @include span-columns(8 of 12);
+    @include shift(.5);
+    padding: 0;
+  }
+}
+
+
+
+
+.sidebar-home {
+  $background: darken($lightest-gray, 2%);
+  background-color: $background;
+  border-bottom: 1px solid darken($background, 6%);
+  border-left: 1px solid darken($background, 6%);
+  font-size: .875em;
+  @include span-columns(12 of 12);
+  padding: .625em 2em 2em 2em;
+  margin-bottom: 3em;
+  @media screen and (min-width: $m) and (max-width: $l){
+    @include omega();
+    @include span-columns(4 of 12);
+    padding: .625em 1em 2em 1em;
+  }
+  @include media($l-up) {
+    @include omega();
+    @include span-columns(3.5 of 12);
+    padding: .625em 2em 2em 2em;
+
+  }
+
+
+
+  ////////// STYLING
+  hr {
+    border-top-color: darken($background, 6%);
+    width: 60%;
+    margin: 2em auto 3em auto;
+  }
+  ul {
+    width: 100%;
+    padding:2em 0 2em 0;
+    margin:0;
+  }
+  ul li {
+    padding: 0;
+    font-size: 1em;
+    margin-bottom: .125em;
+    a {
+      @include transition (all .25s ease-out);
+      display: block;
+      width: 100%;
+      padding: .5em 0 .5em 1em;
+      color: $black;
+      .active-item {
+        background-color: $black;
+        color: $yellow;
+      }
+      &:hover {
+        background-color: $black;
+        color: white;
+      }
+    }
+  }
+  ul.article-list {
+    padding: .5em 0;
+    li {
+      margin-bottom: .875em;
+    }
+    a {
+      padding: .25em 0.25em .25em .25em;
+    }
+  }
+}
+
+
+
+///////////////////////// BOXES IN ROWS  /////////////////////////
+
+.boxes-3-across {
+  margin-bottom: 2em;
+  img {
+    width:100%;
+  }
+  @include span-columns(12 of 12);
+
+  //@include media($l-down)
+@media screen and (min-width: $m) and (max-width: $l)
+  {
+    @include span-columns(6 of 12);
+    @include omega(2n);
+  }
+  @include media($l-up) {
+    @include span-columns(4 of 12);
+    @include omega(3n);
+  }
+}
+
+
+.boxes-2-across {
+  margin-bottom: 2em;
+  img {
+    width:100%;
+  }
+  @include span-columns(12 of 12);
+  @include media($medium-screen-up) {
+    @include span-columns(6 of 12);
+    @include omega(2n);
+  }
+}
+
+.mc-field-group {
+@include fill-parent();
+@include row(table);
+}
+
+
+
+
+
+
+///////////////////////// INNER LAYOUTS /////////////////////////
+
+.columns-3-4, .columns-1-4 {
+  position: relative;
+}
+
+.columns-1-4 {
+  @include span-columns(12 of 12);
+  @include media($xl-up) {
+    @include span-columns(4 of 12);
+    @include reset-display;
+  }
+}
+.columns-3-4 {
+
+  @include span-columns(12 of 12);
+  @include media($xl-up) {
+    @include span-columns(8 of 12);
+  }
+}

@@ -1,0 +1,138 @@
+# Site settings
+title: Your awesome title
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+image_url: http://thenewdynamic.imgix.net
+twitter_username: jekyllrb
+github_username:  jekyll
+
+appearances:
+  - light-text
+  - dark-text
+## DO NOT EDIT BELOW THIS LINE
+destination:  ./.build
+plugins_dir:  ./app/_plugins
+layouts_dir:  ./app/_layouts
+includes_dir: ./app/_includes
+
+production: false
+# PLUGINS
+# gems:
+#  - jekyll-assets
+full_rebuild: true
+timezone: Etc/Zulu
+exclude:
+  - app
+  - readme.md
+  - todo.md
+  - license.md
+  - Gemfile
+  - Gemfile.lock
+  - bower.json
+  - CNAME
+  - node_modules
+  - sass
+  - gulpfile.js
+  - package.json
+  - javascript
+  - vendor
+permalink: pretty
+future: false
+
+# PRODUCTION
+google_analytics_id: UA-xxxxxxx-4
+bust_css_cache: true
+
+# CONTENT
+collections:
+  backstory:
+    output: false
+  board:
+    output: true
+  landing_pages:
+    output: true
+    permalink: '/:path/'
+  playlists:
+    output: true
+  reports:
+    output: true
+  producers:
+    output: true
+  topics:
+    output: true
+  transcripts:
+    output: true
+    permalink: '/video/transcript/:path/'
+  videos:
+    output: true
+    permalink: '/video/:path/'
+  voices:
+    output: true
+
+# DEFAULTS
+defaults:
+  - scope:
+      path: ''
+      type: 'posts'
+    values:
+      layout: 'post'
+  - scope:
+      path: ''
+      type: 'pages'
+    values:
+      layout: 'page'
+  - scope:
+      path: ''
+      type: 'backstory'
+    values:
+      layout: 'post'
+  - scope:
+      path: ''
+      type: 'board'
+    values:
+      layout: 'post'
+  - scope:
+      path: ''
+      type: 'landing_pages'
+    values:
+      layout: 'post'
+  - scope:
+      path: ''
+      type: 'playlists'
+    values:
+      layout: 'post'
+  - scope:
+      path: ''
+      type: 'reports'
+    values:
+      layout: 'post'
+  - scope:
+      path: ''
+      type: 'staff'
+    values:
+      layout: 'post'
+  - scope:
+      path: ''
+      type: 'topics'
+    values:
+      layout: 'post'
+  - scope:
+      path: ''
+      type: 'transcripts'
+    values:
+      layout: 'post'
+  - scope:
+      path: ''
+      type: 'video'
+    values:
+      layout: 'post'
+  - scope:
+      path: ''
+      type: 'voices'
+    values:
+      layout: 'page'

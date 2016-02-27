@@ -1,0 +1,96 @@
+body {
+  -webkit-font-smoothing: antialiased;
+  color: $base-font-color;
+  font-family: $base-font-family;
+  font-feature-settings: "kern", "liga", "pnum";
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+}
+
+
+@for $i from 1 through 6 {
+  h#{$i} {
+    font-size: modular-scale(6 - $i);
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $heading-font-family;
+  //font-size: $base-font-size;
+  line-height: $heading-line-height;
+  margin: $base-spacing 0 ($small-spacing * .5) 0;  
+  color: $base-font-color-headings;
+  a {
+    color: $base-font-color-headings;
+    &:active,
+    &:focus,
+    &:hover {
+      color: shade($action-color, 25%);
+    }
+  }
+}
+
+.entry-title, .brand-style, .atftbx p {
+  font-family: $brand-font-family;  
+  letter-spacing: 1px;
+}
+
+.entry-title {
+  text-transform: uppercase;
+}
+
+h2, h3, h4, h5, h6 {
+  font-weight: 900;
+}
+
+p {
+  margin: 0 0 $small-spacing;
+}
+
+.lede {
+  font-size: 1.5em;
+}
+
+
+article.hentry p, article.layout-copy p {
+  font-size: 1.125em;
+  font-weight: 400;
+}
+
+a {
+  color: $action-color;
+  text-decoration: none;
+  transition: color $base-duration $base-timing;
+
+  &:active,
+  &:focus,
+  &:hover {
+    color: shade($action-color, 25%);
+  }
+}
+
+hr {
+  border-bottom: $base-border;
+  border-left: 0;
+  border-right: 0;
+  border-top: 0;
+  margin: $base-spacing 0;
+}
+
+img,
+picture {
+  margin: 0;
+  max-width: 100%;
+}
+.light {
+  color: $gray;
+}
+
+.sidebar-heading {
+  padding-right: 1em;
+}

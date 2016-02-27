@@ -1,0 +1,161 @@
+///////////////////////// BLUR EFFECT /////////////////////////
+
+.hero__background {
+  //display: none;
+  position: absolute;
+  top:-90px;
+  left: 0;
+  //right:0;
+  width: 200%;
+  //margin: auto;
+  -webkit-filter: blur(100px);
+  -moz-filter: blur(100px);
+  -ms-filter: blur(100px);
+  -o-filter: blur(100px);
+  filter: blur(100px);
+  -webkit-transform: translate3d(0, 0, 0);
+  //max-height: 100vh;
+  //z-index: -1;
+  }
+
+
+  .hero-video {
+    overflow: hidden;
+    background-color:$light-gray;
+    .hero-inner-video {
+      @include clearfix;
+    }
+    .embed-container {
+      box-shadow: 0 13px 50px rgba(0,0,0,0.3);
+    }
+  }
+
+
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+/* IE10+ CSS styles go here */
+  .hero__background {
+    display: none;
+  }
+
+  .hero-video {
+    background: url('http://www.icj-consortium.org.s3-website-us-east-1.amazonaws.com/85.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+
+///////////////////////// HERO VIDEO STYLING /////////////////////////
+
+.hero__vid, .hero__info {
+  //padding: 1em;
+  position: relative;
+  @include span-columns(12);
+}
+
+
+
+.hero__vid {
+  background-color: transparent;
+  padding: 0;
+  @include media($large-screen-up) {
+    @include span-columns(8 of 12);
+    //@include shift(.5);
+  }
+}
+
+.hero__info {
+  @include media($large-screen-up) {
+    display: block;
+    //margin-top: 4em;
+    padding: 0;
+    @include span-columns(4 of 12);
+    @include omega();
+  }
+}
+
+.hero-home {
+  .hero__info{
+    padding: 1em 1em 0 0
+  }
+
+}
+
+
+.hero-inner-video {
+//// LEFT SITE
+.hero__vid {
+  background-color: transparent;
+  @include span-columns(12);
+  padding: 0;
+  @include media($large-screen-up) {
+    padding: 3em 0 4em 0;
+    @include span-columns(8 of 12);
+    @include shift(.5);
+  }
+}
+
+
+////RIGHT SIDE
+
+.hero__info {
+
+  display: none;
+  padding: 1em;
+  color: $light-gray;
+  @include media($large-screen-up) {
+    display: block;
+    //margin-top: 4em;
+    padding: 0;
+    @include span-columns(3 of 12);
+  }
+
+  h1 {
+    line-height: 1.1;
+    margin-bottom: 1rem;
+    font-size: 3em;
+    margin-top:1em;
+    color: $lightest-gray;//$yellow2;
+    text-shadow: 0 1px 0 #000;
+  }
+  button {
+    font-size: .75rem;
+    background-color:$black;
+     &:hover, a:hover {
+
+      background-color: $yellow;
+      color: $black;
+    }
+  }
+  //text-shadow: 1px 1px 0 #111;
+
+  //background-color:$black;
+  //background-color: rgba(0,0,0,0.7);
+
+  color: $light-gray;
+
+  p, li{
+    //text-shadow: 1px 1px 0 #444;
+    line-height: 1.4;
+    font-size: 1em;
+    font-weight: 400;
+    color: $black;
+    font-size: 1em;
+    @include media($xl-up) {
+      font-size: 1.25em;
+    }
+  }
+  p.appearance__light {
+    color: $light-gray;
+  }
+
+  a {
+    color: $yellow;
+    &:hover {
+      color: $light-gray;
+    }
+  }
+  h4, h5 {
+    color: white;
+  }
+}
+}

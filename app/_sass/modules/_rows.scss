@@ -1,0 +1,82 @@
+.row-copy {
+  height: auto;
+  min-height: 140px;
+  text-align: center;
+  padding: 3em;
+  blockquote {
+    max-width: 70%;
+    margin: auto;
+  }
+
+}
+
+.row-alt {
+  @include media($medium-screen-up) {
+    background-attachment: fixed;
+  }
+  display: block;
+  height: 340px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  padding-top:7%;
+  text-align: center;
+  color: $light-gray;
+  display: none;
+  @include media($medium-screen-up) {
+    display: block;
+  }
+}
+
+
+.trailer {
+  text-align: center;
+  margin: 7em auto 5em auto;
+  @include media($medium-screen-up) {
+    max-width: 75%;
+  }
+}
+
+.row-image-background {
+  
+  display: block;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 135% auto;
+  text-align: center;
+  color: $light-gray;
+  height: 380px;
+  @include media($medium-screen-up) {
+    height: 640px;
+  }
+  @include media($xl-up) {
+   background-attachment: fixed;
+   background-size: cover;
+  }
+
+
+}
+
+
+.copy {
+  text-align: center;
+  margin: auto;//.5em auto .5em auto;
+  width: 80%;
+  min-height: 80px;
+  blockquote.pull_quote p {
+    font-size: 1.2rem;
+    .small {
+      font-size: .9375rem;
+    }
+  }
+  @include media($medium-screen-up) {
+    margin: 3em auto 3em auto;
+    max-width: 75%;
+    blockquote.pull_quote p {
+      font-size: 1.5rem;
+  }
+  }
+}
+
+// body.report-gallery {
+//   background-color: rgba(255,255,255,.1);
+// }

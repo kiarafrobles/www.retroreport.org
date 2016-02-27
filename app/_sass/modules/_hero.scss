@@ -1,0 +1,75 @@
+.hero {  
+  background-color: $hero-background;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  //padding-bottom: 3em;
+  overflow: hidden;
+  position: relative;
+
+  .hero-logo img {
+    height: 4em;
+    margin-bottom: 1em;
+  }   
+
+  .hero-inner {
+    @include outer-container;
+    @include clearfix;
+    margin: 0 auto;
+    padding: 1em 3.5em 1em 3.5em;
+    text-align: center;
+
+    .hero-copy {
+      text-align: center;
+      ul.hero-menu {
+        margin: auto;
+        li { 
+          display: inline-block;
+          //font-size: $h4-font-size;
+          margin: 1em 2em;
+          a {
+            color: $light-gray;
+            border: 1px solid rgba(255,255,255,0.3);
+            padding: .125em .625em .185em .475em;
+            &:hover {
+              background-color: rgba(255,255,255,0.1);
+              color: darken($light-gray, 15%);
+            }
+          }
+        }
+        @include media($large-screen) {
+          max-width: 60%;
+          background-color:none;
+        }        
+      }
+      
+      h1 {
+        color: $hero-color;
+        font-size: 2em;
+        margin-bottom: 0.5em;
+        font-family: $brand-font-family;
+
+        @include media($large-screen) {
+          font-size: 3em;
+        }
+      }
+
+      p {
+        color: $hero-color;
+        line-height: 1.4em;
+        margin: 0 auto 2em auto; 
+        font-weight: 300;
+
+        @include media($large-screen) {
+          font-size: 1.375em;
+          max-width: 40%;
+        }
+      }
+    }
+  }
+}
+body.video .hero {
+  @include media($large-screen) {
+   min-height: 80vh;
+  }
+}

@@ -1,0 +1,9 @@
+img, aside img, iframe {
+  max-width: 100%;
+}
+
+@include media($large-screen-up) {
+  .mobile-only {
+    display: none;
+  }
+}

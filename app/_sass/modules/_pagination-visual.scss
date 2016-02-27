@@ -1,0 +1,40 @@
+//refills
+.pagination-visual {
+  @include fill-parent();
+  @include row(table);
+  
+  
+  a.pagination-next, a.pagination-previous {
+    height: 18em;
+    position: relative;
+
+    background-color: #f9f9f9;
+    opacity: 1;
+    &:hover {
+      @include transition (all 1s ease-in-out);
+      background-color: #ddd;
+      opacity: 0.8;
+    }
+    @include span-columns(12 of 12);    
+    @include media($medium-screen-up) { 
+      @include span-columns(6 of 12);
+    }
+    .copy {
+      color: white;
+      //font-family: $brand-font;
+      // position: absolute;
+      // top: 5%;
+      // left: 25%;
+      display: block;
+      padding:15% 0 0 25%;
+      font-size: 1.375em;
+
+
+    }
+  }
+
+  a.pagination-next {
+@include reset-display;
+  }
+
+}

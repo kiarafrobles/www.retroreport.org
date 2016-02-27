@@ -1,0 +1,10 @@
+.layout-grid input {
+  width: 100%;
+  padding: .5em;  
+  border: none;
+  border-bottom: 1px solid #ddd;
+  border-radius: 0px;
+  @include media($medium-screen-up) {
+    font-size: 2em;  
+  }
+}

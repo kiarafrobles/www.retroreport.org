@@ -1,0 +1,95 @@
+.wy-figure-left {
+  float: left;
+  margin: .25em 1em .125em 0
+}
+
+
+.gallery-linear {
+  //for a list of images displayed full width, but in a linear fashion.
+  margin:0;
+  padding:0;
+  text-align: center;
+  img {
+    margin: 4em auto .125em auto;
+    max-width: 100%;
+
+    @include media($large-screen-up) {
+      //width: 1600px;
+      max-height: 95vh;
+      box-shadow: 4px 4px 8px 0 rgba(0,0,0,0.4);
+    }
+  }
+  .caption {
+    margin-bottom: 1em;
+  }
+}
+
+.gallery {
+  background-color: $black;
+  .caption {
+    position: absolute;
+    bottom:2%;
+    left:2%;
+    padding:.375em;
+    background-color:rgba(0,0,0,0.7);
+  }
+  img {
+    max-height: 600px;
+    max-height: 80vh;
+    opacity: 0.125;
+
+  }
+  img.is-selected {
+      opacity: 1;
+    }
+}
+
+.gallery-caption {
+  margin:40px auto;
+  max-width:989px;
+  //font-size:.875em;
+  font-weight: bold;
+}
+
+
+
+.image-box {
+  line-height:.75; //to keep the background inside the image
+  background-color: $black;
+  position: relative;
+  padding:0;
+  .tagline {
+      color:white;
+    position:absolute;
+    bottom:6%;
+    left:2%;
+  }
+  .title {
+    color:white;
+    position:absolute;
+    top:6%;
+    left:2%;
+    font-weight:900;
+    line-height:1.4;
+  }
+  img {
+    width: 100%;
+    height: 100%;
+    &:hover {
+      opacity: .5 !important;
+      @include transition (all .25s ease-out);
+    }
+  }
+}
+
+.cover-image {
+  max-width:100%;
+  border:1px solid #ddd;
+}
+
+
+img.transition {
+  opacity: 0;
+  @include transition(opacity .2s ease-in);
+}
+
