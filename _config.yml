@@ -15,10 +15,10 @@ appearances:
   - light-text
   - dark-text
 ## DO NOT EDIT BELOW THIS LINE
-destination:  ./.build
-plugins_dir:  ./app/_plugins
-layouts_dir:  ./app/_layouts
-includes_dir: ./app/_includes
+# destination:  ./.build
+# plugins_dir:  ./app/_plugins
+# layouts_dir:  ./app/_layouts
+# includes_dir: ./app/_includes
 
 production: false
 # PLUGINS
