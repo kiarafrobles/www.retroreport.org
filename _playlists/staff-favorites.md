@@ -2,7 +2,7 @@
 title: "Staff Favorites"
 published: true
 date: 2015-12-04T21:22:00.000Z
-video:
+videos:
   - where-is-my-grandchild
   - swat-mission-creep
   - a-search-for-justice
