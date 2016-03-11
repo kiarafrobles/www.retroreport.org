@@ -10,8 +10,8 @@ tweet: "Wondering what the Hillary Clinton/superpredator brouhaha is all about? 
 featured_image_path: /uploads/1457628883687_HILLARY%20SHORT%20THUMB.jpg
 appearance: light-text
 video:
-  video_id: mZ4Z-803JZE
-  video_provider: youtube
+  video_id: mZ4Z-803JZE
+  video_provider: youtube
 # type: voices
 slug: hillary-clinton-and-the-superpredator
 ---

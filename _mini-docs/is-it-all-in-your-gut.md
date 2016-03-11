@@ -11,8 +11,8 @@ tweet: "Is there a hidden cause of obesity? A professor at Stanford thinks the a
 featured_image_path: /uploads/1451847265759_37459_1_retro-short-microbes.jpg
 appearance: light-text
 video:
-  video_id: 1XJtNYxMF9U
-  video_provider: youtube
+  video_id: 1XJtNYxMF9U
+  video_provider: youtube
 # type: voices
 slug: is-it-all-in-your-gut
 ---

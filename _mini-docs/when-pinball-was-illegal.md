@@ -9,8 +9,8 @@ description: "A panic over Pinball? Really? A new series of original Retro Repor
 tweet: "A panic over Pinball? Really? A new series of original Retro Report short docs produced for Facebook."
 featured_image_path: /uploads/1445742029313_36240_1_retro-voice-pinball.jpg
 video:
-  video_id: KeFjYDRMggc
-  video_provider: youtube
+  video_id: KeFjYDRMggc
+  video_provider: youtube
 # type: voices
 slug: when-pinball-was-illegal
 ---

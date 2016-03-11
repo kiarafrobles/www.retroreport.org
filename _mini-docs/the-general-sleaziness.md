@@ -9,8 +9,8 @@ description: "WARNING: The following content may contain elements that are not s
 tweet: "WARNING: The following content may contain elements that are not suitable for some politicians. But you might like it. A new series of original short docs produced for Facebook."
 featured_image_path: /uploads/1445741629767_36239_1_retro-voice-violence.jpg
 video:
-  video_id: VjOK1L-MQRI
-  video_provider: youtube
+  video_id: VjOK1L-MQRI
+  video_provider: youtube
 # type: voices
 slug: the-general-sleaziness
 ---
