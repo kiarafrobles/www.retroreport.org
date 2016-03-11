@@ -2,14 +2,14 @@
 title: "McMartin Preschool: Anatomy of a Panic"
 published: true
 date: 2014-03-10T23:00:00.000Z
-producer:
+staff_members:
   - barbara-dury
 topic: crime
 description: "The nightmare began in 1983 when a 39-year-old mother called the police department in Manhattan Beach, California and accused a teacher at the McMartin Preschool, Raymond Buckey, of molesting her two and a half-year old son. "
 tweet: "The McMartin Preschool sex abuse case fed a panic that enmeshed many day care centers across the US "
 featured_image_path: /uploads/1422556466030_466954616_1280.jpg
 appearance: light-text
-video:
+source_video:
   video_id:
   video_provider: vimeo
   video_show_in_history: true

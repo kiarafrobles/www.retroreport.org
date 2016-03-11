@@ -2,7 +2,7 @@
 title: "Exxon Valdez: In the Wake of Disaster "
 published: true
 date: 2013-12-10T00:00:00.000Z
-producer:
+staff_members:
   - scott-michels
   - aaron-ernst
 topic: science-technology
@@ -10,7 +10,7 @@ description: "On a cold March night in 1989, the tanker Exxon Valdez ran aground
 tweet: "Decades after the Exxon Valdez ran aground, the jury is still out on just what we have learned: "
 featured_image_path: /uploads/1422556638081_457364992_1280.jpg
 appearance: light-text
-video:
+source_video:
   video_id:
   video_provider: vimeo
   video_show_in_history: true

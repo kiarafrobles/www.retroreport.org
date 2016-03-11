@@ -2,17 +2,17 @@
 title: "Voyage of the Mobro 4000"
 published: true
 date: 2013-05-06T23:00:00.000Z
-producer:
+staff_members:
   - harry-hanbury
 topic: law-society
 description: "The 1987 voyage of a barge loaded with New York garbage became a sensational fiasco, but it ended up fueling the modern recycling movement."
 tweet: "The '87 voyage of a barge of NY trash was a fiasco, but it helped fuel today's recycling movement:"
 featured_image_path: /uploads/1422558533381_436536066_1280.jpg
 appearance: dark-text
-video:
+source_video:
   video_id: _kKpInODaL4?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
   video_provider: youtube
-video_2:
+source_video_2:
   video_id: 62560526
   video_provider: vimeo
   video_show_in_history: true
@@ -29,10 +29,10 @@ The pundits of the day portrayed the Mobro as a symbol of our nation’s growing
 
 It’s a classic tale with a twist: a get-rich-quick scheme that changed the way Americans take out the trash.
 
-video:
+source_video:
   video_id: _kKpInODaL4?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
   video_provider: youtube
-video_2:
+source_video_2:
   video_id: 62560526
   video_provider: vimeo
   video_show_in_history: true

@@ -2,13 +2,13 @@
 title: "The Terminator and the Washing Machine"
 published: true
 date: 2016-03-07T00:00:00.000Z
-producer:
+staff_members:
   - erik-german
 description: "What the legendary match between a supercomputer and chess grandmaster Garry Kasparov reveals about today's artificial intelligence panic."
 tweet: "What the iconic match between a supercomputer & a chess grandmaster reveals about today's AI panic."
 featured_image_path: /uploads/1457269939676_38637_1_retro-ai.jpg
 appearance: light-text
-video:
+source_video:
   video_id: npo0_uaSBSM
   video_provider: youtube
   video_released_at: "2016-03-07T00:00:00.000Z"

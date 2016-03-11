@@ -2,7 +2,7 @@
 title: "The Population Bomb?"
 published: true
 date: 2015-06-01T12:00:00.000Z
-producer:
+staff_members:
   - kit-roane
   - sarah-weiser
 topic: law-society
@@ -10,12 +10,12 @@ description: "In the 1960s, fears of overpopulation sparked campaigns for popula
 tweet: "In the 1960s America was worried the planet was doomed due to overpopulation. So what happened? "
 featured_image_path: /uploads/1433121424331_33722_1_retro-population-1600x900.jpg
 appearance: light-text
-video:
+source_video:
   video_id: HuxSi2JkL3I
   video_provider: youtube
   video_released_at: "2015-06-01T12:00:00.000Z"
   video_show_in_history: true
-video_2:
+source_video_2:
   video_id: 129366007
   video_provider: vimeo
   video_released_at: "2015-06-01T12:00:00.000Z"
@@ -32,12 +32,12 @@ _This video was supported in part by the Pulitzer Center on Crisis Reporting_
 
 <figure data-type="image" class="wy-figure-large">![](http://lh3.googleusercontent.com/aeNuBQ_e_b0pknRgUWAP6iQcy2ksR7mRhiLYrkgWtG2r-uozh2UEOl9zXU13jtAiIlHkHtdQTZEgbWjpMZSHWKcYeAvlsJf4wQ=s1200)</figure>
 
-video:
+source_video:
   video_id: HuxSi2JkL3I
   video_provider: youtube
   video_released_at: "2015-06-01T12:00:00.000Z"
   video_show_in_history: true
-video_2:
+source_video_2:
   video_id: 129366007
   video_provider: vimeo
   video_released_at: "2015-06-01T12:00:00.000Z"

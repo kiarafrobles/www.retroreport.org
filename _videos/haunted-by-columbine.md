@@ -2,7 +2,7 @@
 title: "Haunted by Columbine"
 published: true
 date: 2015-09-28T00:00:00.000Z
-producer:
+staff_members:
   - erik-german
   - olivia-katrandjian
 topic: crime
@@ -10,7 +10,7 @@ description: "The killing of twelve students and a teacher at Columbine High Sch
 tweet: "Images from Columbine are part of our collective memory, but is school violence really worse?"
 featured_image_path: /uploads/1443378019781_35716_1_retro-columbine.jpg
 appearance: light-text
-video:
+source_video:
   video_id: npE9FKcG5hs
   video_released_at: "2015-09-28T00:00:00.000Z"
   video_running_time: 12

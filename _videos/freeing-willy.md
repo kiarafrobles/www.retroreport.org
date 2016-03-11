@@ -2,14 +2,14 @@
 title: "Freeing Willy"
 published: true
 date: 2013-09-16T23:00:00.000Z
-producer:
+staff_members:
   - joshua-fisher
 topic: entertainment
 description: "In the wake of the 1993 hit movie Free Willy, activists and fans campaigned to release the movie’s star – a captive killer whale named Keiko -- and launched a story Hollywood couldn’t invent."
 tweet: "The release of Keiko, the killer whale from Free Willy, was more dramatic than any Hollywood film:"
 featured_image_path: /uploads/1422558121174_448904658_1280.jpg
 appearance: light-text
-video:
+source_video:
   video_id:
   video_provider: vimeo
   video_show_in_history: true

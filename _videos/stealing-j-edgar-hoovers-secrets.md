@@ -2,7 +2,7 @@
 title: "Stealing J. Edgar Hoover's Secrets"
 published: true
 date: 2014-01-08T00:00:00.000Z
-producer:
+staff_members:
   - bonnie-bertram
   - drew-magratten
   - peter-klein
@@ -11,7 +11,7 @@ description: "On March 8, 1971, a group of eight Vietnam War protestors broke in
 tweet: "The most important heist you've never heard of: "
 featured_image_path: /uploads/1422556567980_460034724_1280.jpg
 appearance: light-text
-video:
+source_video:
   video_id:
   video_provider: vimeo
   video_show_in_history: true

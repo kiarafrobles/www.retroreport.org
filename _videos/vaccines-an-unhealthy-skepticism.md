@@ -2,7 +2,7 @@
 title: "Vaccines: An Unhealthy Skepticism"
 published: true
 date: 2015-02-01T16:00:00.000Z
-producer:
+staff_members:
   - bonnie-bertram
   - erik-german
 topic: health
@@ -10,13 +10,13 @@ description: "An outbreak of measles that started at Disneyland turned a spotlig
 tweet: "The backstory on how childhood vaccinations became one of our nation's most contentious topics: "
 featured_image_path: /uploads/1422898464866_vaccines-featured_image-1600x900.jpg
 appearance: light-text
-video:
+source_video:
   video_id: LJ-mIFzqpk8
   video_provider: youtube
   video_released_at: "2015-02-01T16:00:00.000Z"
   video_running_time: 12
   video_show_in_history: true
-video_2:
+source_video_2:
   video_id: 118404967
   video_provider: vimeo
   video_released_at: "2015-02-01T16:00:00.000Z"
@@ -30,13 +30,13 @@ As the nation deals with a resurgence of measles, Retro Report examines how the 
 
 Why is a disease thought to be wiped out in 2000 back with a vengeance in 2015? And what role has the media played in perpetuating unfounded fears?
 
-video:
+source_video:
   video_id: LJ-mIFzqpk8
   video_provider: youtube
   video_released_at: "2015-02-01T16:00:00.000Z"
   video_running_time: 12
   video_show_in_history: true
-video_2:
+source_video_2:
   video_id: 118404967
   video_provider: vimeo
   video_released_at: "2015-02-01T16:00:00.000Z"

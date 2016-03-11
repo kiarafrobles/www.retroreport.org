@@ -2,14 +2,14 @@
 title: "Three Mile Island: Lessons from the Nuclear Dream"
 published: true
 date: 2014-04-29T23:00:00.000Z
-producer:
+staff_members:
   - kit-roane
 topic: science-technology
 description: "More than three decades after the accident at Three Mile Island cast a shadow on the atomic dream, is America again ready to give nuclear energy a chance?"
 tweet: "More than three decades after Three Mile Island, is America ready to try nuclear energy again?"
 featured_image_path: /uploads/1422559129804_473047149_1280.jpg
 appearance: light-text
-video:
+source_video:
   video_id:
   video_provider: vimeo
   video_show_in_history: true

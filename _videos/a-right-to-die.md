@@ -2,18 +2,18 @@
 title: "A Right to Die?"
 published: true
 date: 2015-03-22T22:00:00.000Z
-producer:
+staff_members:
   - jill-rosenbaum
 topic: health
 description: "Should doctors be allowed to help suffering patients die? Twenty-five years ago, with his homemade suicide machine, Dr. Jack Kevorkian raised that question. It's an issue Americans still struggle with today."
 tweet: "The legacy of Dr. Jack Kevorkian and his home-made suicide machine on today's Right to Die movement "
 featured_image_path: /uploads/1427071690752_32844_1_retro-kevorkian_1600.jpg
 appearance: dark-text
-video:
+source_video:
   video_id: MPXCpJHyHZQ?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
   video_provider: youtube
   video_released_at: "2015-03-22T22:00:00.000Z"
-video_2:
+source_video_2:
   video_id: 122873849
   video_provider: vimeo
   video_released_at: "0023-03-22T22:00:00.000Z"
@@ -30,11 +30,11 @@ Twenty-five years ago, Dr. Jack Kevorkian used a homemade suicide machine to hel
 
 <span class="s1">But for doctors and patients in the rest of the nation, it's a wrenching issue. The recent case of 29-year-old Brittany Maynard, who suffered from brain cancer, has once again brought the subject to the fore, and more than a dozen state legislatures are considering the issue.</span>
 
-video:
+source_video:
   video_id: MPXCpJHyHZQ?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
   video_provider: youtube
   video_released_at: "2015-03-22T22:00:00.000Z"
-video_2:
+source_video_2:
   video_id: 122873849
   video_provider: vimeo
   video_released_at: "0023-03-22T22:00:00.000Z"

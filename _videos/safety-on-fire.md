@@ -2,18 +2,18 @@
 title: "Safety on Fire"
 published: true
 date: 2015-05-04T00:00:00.000Z
-producer:
+staff_members:
   - jill-rosenbaum
 topic: health
 description: "There are over 80,000 chemicals in use today. The story of TRIS, removed from children's pajamas in the 1970s, illustrates just how hard it is to regulate chemicals, or to even know if they're safe. "
 tweet: "What do we know about the flame retardants in our everyday products? Not as much as you'd hope."
 featured_image_path: /uploads/1430682359156_33386_1_retro-fire-retardant.jpg
 appearance: light-text
-video:
+source_video:
   video_id: Mdll91HR7_U?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
   video_provider: youtube
   video_released_at: "2015-05-04T00:00:00.000Z"
-video_2:
+source_video_2:
   video_id: 126727173
   video_provider: vimeo
   video_released_at: "2015-05-04T00:00:00.000Z"
@@ -33,11 +33,11 @@ But no flame retardant has been banned by the federal government, and there are 
 For more information, watch the feature length documentary **Toxic Hot Seat**
 [www.toxichotseatmovie.com](http://www.toxichotseatmovie.com/)
 
-video:
+source_video:
   video_id: Mdll91HR7_U?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
   video_provider: youtube
   video_released_at: "2015-05-04T00:00:00.000Z"
-video_2:
+source_video_2:
   video_id: 126727173
   video_provider: vimeo
   video_released_at: "2015-05-04T00:00:00.000Z"

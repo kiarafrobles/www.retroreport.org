@@ -2,14 +2,14 @@
 title: "The Boy in the Bubble"
 published: true
 date: 2015-12-07T01:00:00.000Z
-producer:
+staff_members:
   - kit-roane
 topic: health
 description: "In the early 1970s, an unusual boy captivated the nation. Now, decades later, his story continues to unfold in remarkable ways."
 tweet: "In the 1970s, the *Boy in the Bubble* captivated the nation. Decades later his story continues."
 featured_image_path: /uploads/1449598983652_37077_1_retro-boyinthebubble.jpg
 appearance: dark-text
-video:
+source_video:
   video_id: rSGt_duNjGg
   video_provider: youtube
   video_released_at: "2015-12-07T01:00:00.000Z"

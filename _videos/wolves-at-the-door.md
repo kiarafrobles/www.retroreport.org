@@ -2,14 +2,14 @@
 title: "Wolves at the Door"
 published: true
 date: 2014-11-03T00:00:00.000Z
-producer:
+staff_members:
   - erik-german
 topic: nature
 description: "In the 1990s, the federal government reintroduced the gray wolf to Yellowstone National Park. It was considered a big success. And that’s when the real fight began."
 tweet: "The reintroduction of the gray wolf to Yellowstone was a success. And that’s when the trouble began"
 featured_image_path: /uploads/1422558810445_495059159_1280.jpg
 appearance: dark-text
-video:
+source_video:
   video_id: dGHSXTsf8yQ
   video_provider: youtube
   video_released_at: "2014-11-03T00:00:00.000Z"

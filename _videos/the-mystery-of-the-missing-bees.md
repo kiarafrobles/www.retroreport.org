@@ -2,14 +2,14 @@
 title: "The Mystery of the Missing Bees"
 published: true
 date: 2014-09-28T23:00:00.000Z
-producer:
+staff_members:
   - joshua-fisher
 topic: nature
 description: "The mystery of Colony Collapse Disorder has pushed honeybees into the public eye. But the story of their plight -- and its impact -- is much more complicated."
 tweet: "The mystery of Colony Collapse Disorder and the plight of the honeybee is not cut and dried."
 featured_image_path: /uploads/1422558944669_490714644_1280.jpg
 appearance: light-text
-video:
+source_video:
   video_id: 107334165
   video_provider: vimeo
   video_released_at: "2014-09-28T23:00:00.000Z"

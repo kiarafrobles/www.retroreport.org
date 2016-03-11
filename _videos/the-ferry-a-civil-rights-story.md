@@ -2,18 +2,18 @@
 title: "The Ferry: A Civil Rights Story"
 published: true
 date: 2015-03-08T01:00:00.000Z
-producer:
+staff_members:
   - joel-bernstein
 topic: law-society
 description: "Weeks before Selma's Bloody Sunday in 1965, the Rev. Dr. Martin Luther King Jr. urged residents of Gee's Bend, Ala., to vote, and fed a continuing fight over a small ferry that would last for decades."
 tweet: "The story behind a little known tale from the Civil Rights Era in Gee's Bend, Alabama."
 featured_image_path: /uploads/1425845382640_32681_1_retro-gees-bend-1600x900.jpg
 appearance: dark-text
-video:
+source_video:
   video_id: AIup5K3J5vc?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
   video_provider: youtube
   video_released_at: "2015-03-08T01:00:00.000Z"
-video_2:
+source_video_2:
   video_id: 121596874
   video_provider: vimeo
   video_released_at: "2015-03-08T01:00:00.000Z"
@@ -26,11 +26,11 @@ slug: the-ferry-a-civil-rights-story
 
 <span class="s1">Retro Report examines the story behind this little known tale from the Civil Rights Era, illuminating the forces that took the ferry off the river in 1962 and the decades of hardships that followed for African Americans living on Gee's Bend. An unexpected alliance finally brought the ferry back in 2006. But what's happened since?</span>
 
-video:
+source_video:
   video_id: AIup5K3J5vc?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
   video_provider: youtube
   video_released_at: "2015-03-08T01:00:00.000Z"
-video_2:
+source_video_2:
   video_id: 121596874
   video_provider: vimeo
   video_released_at: "2015-03-08T01:00:00.000Z"

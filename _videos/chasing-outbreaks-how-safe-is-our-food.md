@@ -2,7 +2,7 @@
 title: "Chasing Outbreaks: How Safe Is Our Food?"
 published: true
 date: 2015-05-11T01:00:00.000Z
-producer:
+staff_members:
   - scott-michels
   - drew-magratten
 topic: health
@@ -10,7 +10,7 @@ description: "A 1993 E. coli outbreak linked Jack in the Box hamburgers sickened
 tweet: "More than 20 yrs after the Jack in the Box #Ecoli outbreak, millions still get food poisoning. Why?"
 featured_image_path: /uploads/1431306982326_retro-taintedmeat.jpg
 appearance: light-text
-video:
+source_video:
   video_id: 127329063
   video_provider: vimeo
   video_released_at: "2015-05-11T01:00:00.000Z"

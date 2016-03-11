@@ -2,14 +2,14 @@
 title: "Revolution in a Capsule"
 published: true
 date: 2014-09-21T23:00:00.000Z
-producer:
+staff_members:
   - sarah-gross
 topic: health
 description: "When Prozac was introduced in 1988, the green-and-cream pill to treat depression launched a cultural revolution that continues to echo."
 tweet: "In 1988 the introduction of Prozac launched a cultural revolution that still echoes today. "
 featured_image_path: /uploads/1422558965975_489812484_1280.jpg
 appearance: dark-text
-video:
+source_video:
   video_id: frUHDyPJ6Kk
   video_provider: youtube
   video_released_at: "2014-09-21T23:00:00.000Z"

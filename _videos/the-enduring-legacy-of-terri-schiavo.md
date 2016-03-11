@@ -2,17 +2,17 @@
 title: "The Enduring Legacy of Terri Schiavo"
 published: true
 date: 2014-04-21T23:00:00.000Z
-producer:
+staff_members:
   - miriam-weintraub
 topic: law-society
 description: "The controversy over Terri Schiavo’s case elevated a family matter into a political battle that continues to frame end-of-life issues today."
 tweet: "The fight over Terri Schiavo grew into a political battle that still frames end-of-life issues."
 featured_image_path: /uploads/1422559155302_472109651_1280.jpg
 appearance: dark-text
-video:
+source_video:
   video_id: w0EDoTJ5tmw?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
   video_provider: youtube
-video_2:
+source_video_2:
   video_id: 92376726
   video_provider: vimeo
   video_running_time: 13
@@ -30,10 +30,10 @@ As the legal struggle played out, the case divided the country. Before the 15-ye
 
 Terri Schiavo’s case also raised an issue that has long plagued the medical community: how to determine the degree of brain function in a nonresponsive patient.  Today, nine years after Schiavo’s death, new scientific research is underway to try to answer that question.
 
-video:
+source_video:
   video_id: w0EDoTJ5tmw?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
   video_provider: youtube
-video_2:
+source_video_2:
   video_id: 92376726
   video_provider: vimeo
   video_running_time: 13

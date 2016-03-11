@@ -2,14 +2,14 @@
 title: "The Legacy of Tailhook"
 published: true
 date: 2013-05-13T23:00:00.000Z
-producer:
+staff_members:
   - karen-sughrue
 topic: crime
 description: "Military sexual assault is not a new phenomenon. A second look at the Tailhook scandal in 1991 reveals what happened then. And what it all means now."
 tweet: "A second look at the 1991 Tailhook scandal and what it means to military sexual assaults today:"
 featured_image_path: /uploads/1422558498310_437106448_1280.jpg
 appearance: light-text
-video:
+source_video:
   video_id:
   video_provider: vimeo
   video_show_in_history: true

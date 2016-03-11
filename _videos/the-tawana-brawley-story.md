@@ -2,14 +2,14 @@
 title: "The Tawana Brawley Story"
 published: true
 date: 2013-06-03T23:00:00.000Z
-producer:
+staff_members:
   - kit-roane
 topic: crime
 description: "In 1988, the nation learned the truth about the alleged crimes against Tawana Brawley, but the shocking story was far from over."
 tweet: "In '88 we learned the truth about alleged Tawana Brawley attack. But the story didn't end there: "
 featured_image_path: /uploads/1422558380720_439375323_1280.jpg
 appearance: light-text
-video:
+source_video:
   video_id:
   video_provider: vimeo
   video_show_in_history: true

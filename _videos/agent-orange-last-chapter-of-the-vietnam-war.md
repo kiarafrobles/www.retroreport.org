@@ -2,14 +2,14 @@
 title: "Agent Orange: Last Chapter of the Vietnam War"
 published: true
 date: 2014-05-12T23:00:00.000Z
-producer:
+staff_members:
   - sandy-northrop
 topic: health
 description: "The use of the defoliant Agent Orange during the Vietnam War continues to cast a dark shadow over both American veterans and Vietnamese citizens. "
 tweet: "The use of the defoliant Agent Orange during the Vietnam War continues to cast a dark shadow."
 featured_image_path: /uploads/1422559082424_474740190_1280.jpg
 appearance: light-text
-video:
+source_video:
   video_id:
   video_provider: vimeo
   video_show_in_history: true

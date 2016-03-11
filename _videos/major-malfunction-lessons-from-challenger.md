@@ -2,17 +2,17 @@
 title: "Go or no Go: The Challenger Legacy"
 published: true
 date: 2014-06-02T23:00:00.000Z
-producer:
+staff_members:
   - bret-sigler
 topic: science-technology
 description: "On January 28, 1986, seven astronauts *slipped the surly bonds of earth to touch the face of God.* America’s space program was never the same."
 tweet: "Jan 28, 1986 the Challenger astronauts “slipped the surly bonds of earth to touch the face of God.”"
 featured_image_path: /uploads/1422559036729_477272946_1280.jpg
 appearance: dark-text
-video:
+source_video:
   video_id: 4nzhYCYH50Q?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
   video_provider: youtube
-video_2:
+source_video_2:
   video_id: 97008693
   video_provider: vimeo
   video_show_in_history: true
@@ -25,10 +25,10 @@ Those who saw it never forgot: the Space Shuttle Challenger launched on Janua
 
 Retro Report revisits the tragic event  -- and the 2003 Columbia disaster -- through interviews with key participants, and explores the forces that lead groups within large organizations to make dreadfully wrong decisions.
 
-video:
+source_video:
   video_id: 4nzhYCYH50Q?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
   video_provider: youtube
-video_2:
+source_video_2:
   video_id: 97008693
   video_provider: vimeo
   video_show_in_history: true

@@ -2,7 +2,7 @@
 title: "The Superpredator Scare"
 published: true
 date: 2014-04-07T23:00:00.000Z
-producer:
+staff_members:
   - bonnie-bertram
   - scott-michels
 topic: crime
@@ -10,10 +10,10 @@ description: "In the mid-1990s, after a decade of soaring juvenile crime, some s
 tweet: "We're still grappling with the destructive repercussions of the *superpredator* scare."
 featured_image_path: /uploads/1422556232865_470385170_1280.jpg
 appearance: dark-text
-video:
+source_video:
   video_id: lkDBS6a7lWQ?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
   video_provider: youtube
-video_2:
+source_video_2:
   video_id: 90974858
   video_provider: vimeo
   video_running_time: 11
@@ -29,10 +29,10 @@ The “superpredator” caught the attention of reporters and politicians, some 
 
 But what happened to the “superpredators” of the 1990s? And what’s changed since in how the nation deals with youth crime?
 
-video:
+source_video:
   video_id: lkDBS6a7lWQ?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
   video_provider: youtube
-video_2:
+source_video_2:
   video_id: 90974858
   video_provider: vimeo
   video_running_time: 11

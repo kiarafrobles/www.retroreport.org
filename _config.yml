@@ -81,7 +81,7 @@ collections:
     output: true
   playlists:
     output: true
-  producers:
+  staff_members:
     output: true
   reports:
     output: true

@@ -2,7 +2,7 @@
 title: "The Sleeper Cell That Wasn't"
 published: true
 date: 2013-11-19T00:00:00.000Z
-producer:
+staff_members:
   - peter-klein
   - kit-roane
 topic: crime
@@ -10,7 +10,7 @@ description: "Six days after 9/11, the FBI’s raid on a Detroit sleeper cell si
 tweet: "Despite a celebrated conviction of a Detroit sleeper cell, there was one major problem..."
 featured_image_path: /uploads/1422556751443_455248027_1280.jpg
 appearance: light-text
-video:
+source_video:
   video_id: z_xmYtqUPqE
   video_provider: youtube
   video_running_time: 12

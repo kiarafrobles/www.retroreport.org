@@ -2,7 +2,7 @@
 title: "SWAT: Mission Creep"
 published: true
 date: 2015-08-05T11:00:00.000Z
-producer:
+staff_members:
   - bonnie-bertram
   - olivia-katrandjian
 topic: crime
@@ -10,22 +10,22 @@ description: "SWAT teams were created in the 1960’s to combat violent events. 
 tweet: "SWAT teams were created in the 60s, but today many people wonder if they've gone too far."
 featured_image_path: /uploads/1422559014531_488332378_1280.jpg
 appearance: light-text
-video:
+source_video:
   video_id: VQnotkLJKG8
   video_provider: youtube
   video_running_time: 12
   video_show_in_history: true
-video_2:
+source_video_2:
   video_id: 135414456
   video_provider: vimeo
   video_running_time: 12
   video_source_file: "https://player.vimeo.com/external/135414456.source.mov?s=c3e6d5fca67aebf43d52f02f10c9503b&profile_id=0&download=1"
-video_3:
+source_video_3:
   video_id:
   video_provider: vimeo
   video_running_time: 12
   video_show_in_history: true
-video_4:
+source_video_4:
   video_id:
   video_provider: vimeo
 # type: video
@@ -46,22 +46,22 @@ The percentage of SWAT teams serving towns with populations between 25,000 and 5
 
 </figure>
 
-video:
+source_video:
   video_id: VQnotkLJKG8
   video_provider: youtube
   video_running_time: 12
   video_show_in_history: true
-video_2:
+source_video_2:
   video_id: 135414456
   video_provider: vimeo
   video_running_time: 12
   video_source_file: "https://player.vimeo.com/external/135414456.source.mov?s=c3e6d5fca67aebf43d52f02f10c9503b&profile_id=0&download=1"
-video_3:
+source_video_3:
   video_id:
   video_provider: vimeo
   video_running_time: 12
   video_show_in_history: true
-video_4:
+source_video_4:
   video_id:
   video_provider: vimeo
 # type: video
@@ -82,22 +82,22 @@ The percentage of SWAT teams serving towns with populations between 25,000 and 5
 
 </figure>
 
-video:
+source_video:
   video_id: VQnotkLJKG8
   video_provider: youtube
   video_running_time: 12
   video_show_in_history: true
-video_2:
+source_video_2:
   video_id: 135414456
   video_provider: vimeo
   video_running_time: 12
   video_source_file: "https://player.vimeo.com/external/135414456.source.mov?s=c3e6d5fca67aebf43d52f02f10c9503b&profile_id=0&download=1"
-video_3:
+source_video_3:
   video_id:
   video_provider: vimeo
   video_running_time: 12
   video_show_in_history: true
-video_4:
+source_video_4:
   video_id:
   video_provider: vimeo
 # type: video
@@ -118,22 +118,22 @@ The percentage of SWAT teams serving towns with populations between 25,000 and 5
 
 </figure>
 
-video:
+source_video:
   video_id: VQnotkLJKG8
   video_provider: youtube
   video_running_time: 12
   video_show_in_history: true
-video_2:
+source_video_2:
   video_id: 135414456
   video_provider: vimeo
   video_running_time: 12
   video_source_file: "https://player.vimeo.com/external/135414456.source.mov?s=c3e6d5fca67aebf43d52f02f10c9503b&profile_id=0&download=1"
-video_3:
+source_video_3:
   video_id:
   video_provider: vimeo
   video_running_time: 12
   video_show_in_history: true
-video_4:
+source_video_4:
   video_id:
   video_provider: vimeo
 # type: video

@@ -2,20 +2,20 @@
 title: "Pets Gone Wild"
 published: true
 date: 2015-04-05T21:00:00.000Z
-producer:
+staff_members:
   - karen-sughrue
 topic: nature
 description: "Burmese pythons, often released into the wild by well-meaning pet owners, have infested the Florida Everglades and created a reptilian nightmare in the ecosystem."
 tweet: "Burmese pythons, often released into the wild by pet owners, have infested the FL Everglades."
 featured_image_path: /uploads/1428271588033_33029_1_retro-python-wildpets-1600x900.jpg
 appearance: dark-text
-video:
+source_video:
   video_id: uPHb97nvO4k
   video_provider: youtube
   video_released_at: "2015-04-05T21:00:00.000Z"
   video_running_time: 12
   video_show_in_history: true
-video_2:
+source_video_2:
   video_id: 136535934
   video_provider: vimeo
   video_released_at: "2015-08-19T21:19:00.000Z"
@@ -33,13 +33,13 @@ slug: pets-gone-wild
 
 Pythons are not the only invasive species on scientists' radar. Non-native lizards, fish, frogs, hogs and zebra mussels - to name just a few - are threatening U.S. lands and waterways.
 
-video:
+source_video:
   video_id: uPHb97nvO4k
   video_provider: youtube
   video_released_at: "2015-04-05T21:00:00.000Z"
   video_running_time: 12
   video_show_in_history: true
-video_2:
+source_video_2:
   video_id: 136535934
   video_provider: vimeo
   video_released_at: "2015-08-19T21:19:00.000Z"

@@ -2,22 +2,22 @@
 title: "From Crack Babies to Oxytots: Lessons Not Learned"
 published: true
 date: 2015-07-22T04:00:00.000Z
-producer:
+staff_members:
   - kit-roane
 topic: crime
 description: "In the 1980s, many government officials, scientists, and journalists warned that the country would be plagued by a generation of “crack babies.” They were wrong. More than 25 years later, the media is sounding a similar alarm. "
 tweet: "Recent new stories have focused on *oxytots* as a scary new trend. But is it *crack babies* redux?"
 featured_image_path: /uploads/1422558459238_437817467_1280.jpg
 appearance: light-text
-video:
+source_video:
   video_id: XJ3-6qDTR-M
   video_provider: youtube
   video_show_in_history: true
-video_2:
+source_video_2:
   video_id:
   video_provider: vimeo
   video_show_in_history: true
-video_3:
+source_video_3:
   video_id: 134152076
   video_provider: vimeo
   video_running_time: 11
@@ -36,15 +36,15 @@ But the story did not end there, as Retro Report reveals in its new updated vide
 
 _This documentary originally aired MAY 20, 2013. It was updated on July 21, 2015._
 
-video:
+source_video:
   video_id: XJ3-6qDTR-M
   video_provider: youtube
   video_show_in_history: true
-video_2:
+source_video_2:
   video_id:
   video_provider: vimeo
   video_show_in_history: true
-video_3:
+source_video_3:
   video_id: 134152076
   video_provider: vimeo
   video_running_time: 11
@@ -63,15 +63,15 @@ But the story did not end there, as Retro Report reveals in its new updated vide
 
 _This documentary originally aired MAY 20, 2013. It was updated on July 21, 2015._
 
-video:
+source_video:
   video_id: XJ3-6qDTR-M
   video_provider: youtube
   video_show_in_history: true
-video_2:
+source_video_2:
   video_id:
   video_provider: vimeo
   video_show_in_history: true
-video_3:
+source_video_3:
   video_id: 134152076
   video_provider: vimeo
   video_running_time: 11

@@ -2,17 +2,17 @@
 title: "The Shadow of Thalidomide"
 published: true
 date: 2013-09-23T23:00:00.000Z
-producer:
+staff_members:
   - kit-roane
 topic: health
 description: "In the 1950s, thalidomide cut a wide swath of destruction across the world, leaving behind thousands of deformed infants, but that was only the beginning of the story."
 tweet: "In the 1950s, thalidomide caused tons of deformities, but that was only the beginning of the story:"
 featured_image_path: /uploads/1422558080091_449539503_1280.jpg
 appearance: dark-text
-video:
+source_video:
   video_id: 6JzNnU2Hy0Q?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
   video_provider: youtube
-video_2:
+source_video_2:
   video_id: 75056098
   video_provider: vimeo
   video_show_in_history: true
@@ -37,10 +37,10 @@ But, as Retro Report found, this dark chapter was not the end for thalidomide. D
 
 [United States Food and Drug Administration](http://www.fda.gov/drugs/newsevents/ucm320924.htm)
 
-video:
+source_video:
   video_id: 6JzNnU2Hy0Q?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
   video_provider: youtube
-video_2:
+source_video_2:
   video_id: 75056098
   video_provider: vimeo
   video_show_in_history: true

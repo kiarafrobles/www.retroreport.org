@@ -2,7 +2,7 @@
 title: "The Cost of Campaigns"
 published: true
 date: 2014-10-19T23:00:00.000Z
-producer:
+staff_members:
   - drew-magratten
   - scott-michels
 topic: law-society
@@ -10,7 +10,7 @@ description: "The Watergate campaign finance scandals led to a landmark law desi
 tweet: "40 yrs after the Watergate campaign scandal, is the problem not what's illegal, but what's legal?"
 featured_image_path: /uploads/1422558858193_493314836_1280.jpg
 appearance: dark-text
-video:
+source_video:
   video_id: 109350541
   video_provider: vimeo
   video_released_at: "2014-10-19T23:00:00.000Z"
