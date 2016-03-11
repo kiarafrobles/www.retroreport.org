@@ -36,8 +36,11 @@
   img {
     max-height: 600px;
     max-height: 80vh;
-    opacity: 0.125;
 
+
+  }
+  img.flickity-lazyloaded {
+    opacity: 0.125;
   }
   img.is-selected {
       opacity: 1;

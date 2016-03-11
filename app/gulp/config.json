@@ -1,10 +1,24 @@
 {
    "scssSrcPath":"./_sass",
-   "jsSrcPath":"./dev/js",
-   "imgSrcPath":"./src/img",
    "cssDistPath":"./../static/css",
-   "jsDistPath":"./static/js",
+
+   "jsSrcPath":"./js",
+   "jsFilesPath": "./node_modules/jquery/dist/jquery.js",
+   "jsDistPath":"./../static/js",
+   "jsDistConcatPath":"./../static/js/dist",
+
+
+   "imgSrcPath":"./src/img",
    "imgDistPath":"./static/images",
+
+   "filesSrcPath":"./node_modules/spf/dist/spf.js",
+
+   "filesSrcDest":"./../static/js/dist",
+
+   "jekyllPath":"['./index.html', './_posts/*', './_layouts/*', './_includes/*' , './assets/*', './assets/**/*']",
+
    "browserList":"> 1%', 'last 2 versions', 'Firefox ESR', 'Opera 12.1",
+
    "tasksPath":"./gulp/tasks"
+
 }

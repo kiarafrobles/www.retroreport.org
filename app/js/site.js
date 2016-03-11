@@ -16,7 +16,7 @@ $("img").unveil(600);
 //LISTJS
  var options = {
     valueNames: [ 'name', 'slug' , 'description', 'date', 'category', 'type', 'related'],
-    listClass: 'filter-list'    
+    listClass: 'filter-list'
 };
 
 var optionsInternal = {
@@ -43,7 +43,7 @@ if (document.getElementById("filter-yahoo")) {
           });
         };
       }
- 
+
 $('#tipue_search_input').tipuesearch({
   highlightEveryTerm: true,
   descriptiveWords: 100

@@ -1,0 +1,1 @@
+var $gallery=$(".gallery").flickity({cellSelector:"img",imagesLoaded:!0,percentPosition:!1,autoPlay:!0,lazyLoad:!0,lazyLoad:3,autoPlay:4500}),$caption=$(".caption"),flkty=$gallery.data("flickity");$gallery.on("cellSelect",function(){$caption.text(flkty.selectedElement.alt)});

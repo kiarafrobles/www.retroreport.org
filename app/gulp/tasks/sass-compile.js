@@ -1,11 +1,13 @@
 module.exports = function(gulp, plugins, config) {
 gulp.task('sass-compile', function() {
    gulp.src(config.scssSrcPath + '/main.scss')
+
      .pipe(plugins.plumber({
          errorHandler: plugins.notify.onError("ERROR: CSS Compilation Failed - <%= error.message %>")
        }))
+
     .pipe(plugins.sass({
-        includePaths: require('node-neat').includePaths
+        includePaths: require('bourbon-neat').includePaths
     }))
     //.pipe(plugins.autoprefixer(config.browserList))
     // minify
