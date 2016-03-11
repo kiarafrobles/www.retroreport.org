@@ -1,7 +1,6 @@
 ---
 title:
 published: false
-date:
 role:
 first_name:
 last_name:

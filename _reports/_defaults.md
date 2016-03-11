@@ -1,8 +1,8 @@
 ---
 title:
+date: 2016-01-01T00:00:00.000Z
 published: false
-date:
-report_type: 
+report_type:
 description:
 featured_image_path:
 video: the-population-bomb
