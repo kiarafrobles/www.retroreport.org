@@ -51,7 +51,7 @@ OSCAR ROBERTSON: Curt Flood’s legacy is he gave his life for a lot of baseball
 
 **__ACT I:__**
 
-BRAD SNYDER: It’s October 8, 1969\. Curt gets a call in the morning from not the general manager, not the owner, Gussie Busch, but some middle manager in the front office calls him and in sort of a monotone voice says, “Curt, you and Tim McCarver have been traded to the Philadelphia Phillies.
+BRAD SNYDER: It’s October 8, 1969. Curt gets a call in the morning from not the general manager, not the owner, Gussie Busch, but some middle manager in the front office calls him and in sort of a monotone voice says, “Curt, you and Tim McCarver have been traded to the Philadelphia Phillies.
 
 **NARRATION: It was no small trade. Few ballplayers ever become as successful and popular as Curt Flood, who was known to fans as a prolific hitter and defensive wizard, streaking across the outfield to snare fly ball after fly ball.By 1969, he had helped lead the St. Louis Cardinals to three World Series in the previous six years.**
 

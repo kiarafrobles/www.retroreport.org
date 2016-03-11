@@ -1,5 +1,5 @@
 ---
-title: "Retro Report\'s \"slow journalism\" is a counterweight to 24/7 news"
+title: "Retro Report's *slow journalism* is a counterweight to 24/7 news"
 published: true
 date: 2015-03-26T17:26:00.000Z
 featured_image_path: /uploads/1427396914832_Screen%20Shot%202015-03-26%20at%201.25.38%20PM.png

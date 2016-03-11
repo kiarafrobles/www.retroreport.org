@@ -2,7 +2,7 @@
 title: "FBI admits examiners gave flawed testimony for decades"
 published: true
 date: 2015-04-21T15:50:00.000Z
-lead_copy: "The FBI admits that for decades, almost every FBI examiner gave flawed hair analysis testimony. Here\'s how the technique helped convict so many. "
+lead_copy: "The FBI admits that for decades, almost every FBI examiner gave flawed hair analysis testimony. Here's how the technique helped convict so many."
 backstory_type: backstory
 video: how-dna-changed-the-world-of-forensics
 type: backstories

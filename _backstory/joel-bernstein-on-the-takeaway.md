@@ -2,7 +2,7 @@
 title: "Joel Bernstein on The Takeaway"
 published: true
 date: 2015-03-12T19:02:00.000Z
-lead_copy: "The 50th anniversary of Bloody Sunday brings to light another story from the civil rights movement. "
+lead_copy: "The 50th anniversary of Bloody Sunday brings to light another story from the civil rights movement."
 backstory_type: backstory
 video: the-ferry-a-civil-rights-story
 type: backstories

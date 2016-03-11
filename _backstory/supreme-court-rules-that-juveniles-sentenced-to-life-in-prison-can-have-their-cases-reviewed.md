@@ -2,7 +2,7 @@
 title: "Supreme Court rules that juveniles sentenced to life in prison can have their cases reviewed"
 published: true
 date: 2016-01-26T19:47:00.000Z
-lead_copy: "Remember the \"Superpredator\" scare? Turns out it was one big myth -- and now the Supreme Court has ruled that juveniles sentenced to life in prison can have their cases reviewed. "
+lead_copy: "Remember the *Superpredator* scare? Turns out it was one big myth -- and now the Supreme Court has ruled that juveniles sentenced to life in prison can have their cases reviewed. "
 backstory_type: backstory
 video: the-superpredator-scare
 type: backstories

@@ -34,7 +34,7 @@ type: reports
 
 The worst-case scenario was already familiar to Americans, thanks to Hollywood. It had recently released "The China Syndrome," a thriller about an accident at a nuclear plant, and the film was playing in theaters across the country. Many viewers found it easy to conflate the disaster unfolding on the big screen with the real one taking place in Pennsylvania Dutch country.
 
-Fortunately, the thing most feared -  - a complete meltdown of the reactor core and a massive release of radiation -  - never happened in the movie or at Three Mile Island.
+Fortunately, the thing most feared -- a complete meltdown of the reactor core and a massive release of radiation -- never happened in the movie or at Three Mile Island.
 
 But there were consequences. The accident was the worst at a commercial nuclear plant in U.S. history. It showed how quickly America's nuclear dream could turn into nightmare. That lesson stuck. Scores of reactors were cancelled, and the nuclear industry in America fell into something like cold storage.
 

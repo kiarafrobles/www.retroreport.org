@@ -16,7 +16,7 @@ A photo essay by Sarah Weiser detailing the difficult path to recovery faced by 
 ![](/webhook-uploads/1437492489603_SW_Retro_Addiction_001-1600px.jpg)
 copy:
 
-Angela Holmes, 37, with her fifth child, Jaheem Davis, 17 months old. Holmes first came to the Center for Comprehensive Health Practice (CCHP) in East Harlem in 2003, eight months pregnant and in desperate need of treatment for her heroin addiction. “I knew time was running out,” Holmes said. “Honestly this was the only program in New York that would take me pregnant.” Pregnant women addicted to opioids   - whether illicit drugs like heroin or prescribed painkillers like OxyContin   - face a dearth of treatment options, say doctors and patients alike.
+Angela Holmes, 37, with her fifth child, Jaheem Davis, 17 months old. Holmes first came to the Center for Comprehensive Health Practice (CCHP) in East Harlem in 2003, eight months pregnant and in desperate need of treatment for her heroin addiction. “I knew time was running out,” Holmes said. “Honestly this was the only program in New York that would take me pregnant.” Pregnant women addicted to opioids - whether illicit drugs like heroin or prescribed painkillers like OxyContin - face a dearth of treatment options, say doctors and patients alike.
 
 ![](/webhook-uploads/1437492524276_SW_Retro_Addiction_002-1600px.jpg)
 copy:
@@ -36,7 +36,7 @@ Zasha Lugo, 25, listens during the Young Mothers group. Babies born to mothers o
 ![](/webhook-uploads/1437492591958_SW_Retro_Addiction_005-1600px.jpg)
 copy:
 
-Angela Holmes, 37, center, a recovering heroin addict who has been clean since 2007, with her daughter, Armani Davis, 6, left, and son Jermaine Davis, 12, at the Early Childhood Development Center at CCHP. Both children were born when Holmes was in methadone treatment. “I’m really trying to fix my life,” says Holmes, who adds that her drug use started at age 14 when she was given PCP by her stepfather. Holmes, who plans on returning to school, says she wants to lead her children by example. “My life story   - which is negative to them   - I don’t want to keep using that. I want to show them more than I can tell them.”
+Angela Holmes, 37, center, a recovering heroin addict who has been clean since 2007, with her daughter, Armani Davis, 6, left, and son Jermaine Davis, 12, at the Early Childhood Development Center at CCHP. Both children were born when Holmes was in methadone treatment. “I’m really trying to fix my life,” says Holmes, who adds that her drug use started at age 14 when she was given PCP by her stepfather. Holmes, who plans on returning to school, says she wants to lead her children by example. “My life story - which is negative to them - I don’t want to keep using that. I want to show them more than I can tell them.”
 
 ![](/webhook-uploads/1437492605929_SW_Retro_Addiction_006-1600px.jpg)
 copy:

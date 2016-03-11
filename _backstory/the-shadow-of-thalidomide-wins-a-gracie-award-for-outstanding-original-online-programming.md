@@ -1,8 +1,8 @@
 ---
-title: "“The Shadow of Thalidomide\" wins a Gracie Award for Outstanding Original Online Programming"
+title: "“The Shadow of Thalidomide* wins a Gracie Award for Outstanding Original Online Programming"
 published: true
 date: 2015-07-23T21:40:00.000Z
-lead_copy: "“The Shadow of Thalidomide\" wins a Gracie Award for Outstanding Original Online Programming "
+lead_copy: "“The Shadow of Thalidomide* wins a Gracie Award for Outstanding Original Online Programming"
 backstory_type: backstory
 video: the-shadow-of-thalidomide
 type: backstories

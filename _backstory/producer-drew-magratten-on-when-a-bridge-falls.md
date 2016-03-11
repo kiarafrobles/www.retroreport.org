@@ -2,7 +2,7 @@
 title: "Producer Drew Magratten on “When a Bridge Falls”"
 published: true
 date: 2014-03-03T18:40:00.000Z
-lead_copy: "Producer Drew Magratten on “When a Bridge Falls” "
+lead_copy: "Producer Drew Magratten on “When a Bridge Falls”"
 backstory_type: backstory
 video: when-a-bridge-falls
 type: backstories

@@ -4,8 +4,8 @@ published: true
 date: 2015-10-12T00:00:00.000Z
 video: where-is-my-grandchild
 producer:
-  - barbara-dury
-description: "The story of one man\'s search for his identity after his parents disappeared during Argentina\'s military dictatorship. "
+  - barbara-dury
+description: "The story of one man's search for his identity after his parents disappeared during Argentina's military dictatorship."
 tweet: "The story of one man's search for his identity after his parents disappeared during Argentina's military dictatorship."
 featured_image_path: /uploads/1444537751400_RR262.04_PLAZA_VOICES_MANUEL_10_10_2015.jpg
 video:

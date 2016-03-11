@@ -2,7 +2,7 @@
 title: "The sixth anniversary of Citizens United"
 published: true
 date: 2016-01-21T16:26:00.000Z
-lead_copy: "The Watergate scandals led to a landmark law that limited the influence of money in politics. Now, 6 years after the Citizens United decision, some say the scandal isn’t what’s illegal, it’s what’s legal. Watch \"The Cost of Campaigns.\" "
+lead_copy: "The Watergate scandals led to a landmark law that limited the influence of money in politics. Now, 6 years after the Citizens United decision, some say the scandal isn’t what’s illegal, it’s what’s legal. Watch *The Cost of Campaigns.*"
 backstory_type: backstory
 video: the-cost-of-campaigns
 type: backstories

@@ -1,5 +1,5 @@
 ---
-title: "Machine trains self to beat humans at world\'s hardest game"
+title: "Machine trains self to beat humans at world's hardest game"
 published: true
 date: 2016-03-10T17:00:00.000Z
 video: the-terminator-and-the-washing-machine

@@ -4,9 +4,9 @@ published: true
 date: 2015-12-10T12:00:00.000Z
 video: the-boy-in-the-bubble
 producer:
-  - jeff-bernier
-  - kit-roane
-description: "The curious origin of a political metaphor. "
+  - jeff-bernier
+  - kit-roane
+description: "The curious origin of a political metaphor."
 tweet: "The curious origin of a political metaphor."
 featured_image_path: /uploads/1449787096592_lI8JEdGuI80CVnlr7fvAGC5OTUVV0nRNdM9OXKPY33tbgYQ1trIE6j2fxe4Me8rmRWQGt7oYTh07AMdcEPGGjuM3XThv-9A%3Ds1440
 appearance: dark-text

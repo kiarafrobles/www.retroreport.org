@@ -2,7 +2,7 @@
 title: "Is the future of Artificial Intelligence YAY or NAY? Time to debate!"
 published: true
 date: 2016-03-09T16:04:00.000Z
-lead_copy: "Is the future of Artificial Intelligence YAY or NAY? Time to debate! Watch the Intelligence Squared debate. "
+lead_copy: "Is the future of Artificial Intelligence YAY or NAY? Time to debate! Watch the Intelligence Squared debate."
 backstory_type: backstory
 video: the-terminator-and-the-washing-machine
 type: backstories

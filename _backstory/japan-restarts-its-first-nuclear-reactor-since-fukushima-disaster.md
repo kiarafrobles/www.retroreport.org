@@ -2,7 +2,7 @@
 title: "Japan restarts its first nuclear reactor since Fukushima disaster"
 published: true
 date: 2015-08-11T16:17:00.000Z
-lead_copy: "Japan has restarted its first nuclear reactor since the 2011 Fukushima disaster. But are Americans willing to give nuclear power another try? "
+lead_copy: "Japan has restarted its first nuclear reactor since the 2011 Fukushima disaster. But are Americans willing to give nuclear power another try?"
 backstory_type: backstory
 video: three-mile-island-lessons-from-the-nuclear-dream
 type: backstories

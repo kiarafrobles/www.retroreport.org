@@ -2,7 +2,7 @@
 title: "Conversations with Thinkers: Producers JP Olsen and Scott Michels weigh in on the Richard Jewell case"
 published: true
 date: 2013-10-05T15:36:00.000Z
-lead_copy: "Conversations with Thinkers: JP Olsen/Scott Michels on Richard Jewell "
+lead_copy: "Conversations with Thinkers: JP Olsen/Scott Michels on Richard Jewell"
 backstory_type: backstory
 video: richard-jewell-the-wrong-man
 type: backstories

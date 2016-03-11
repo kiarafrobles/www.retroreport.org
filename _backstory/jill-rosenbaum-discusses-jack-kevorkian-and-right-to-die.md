@@ -1,8 +1,8 @@
 ---
-title: "Jill Rosenbaum discusses Jack Kevorkian and \"Right to Die\""
+title: "Jill Rosenbaum discusses Jack Kevorkian and *Right to Die*"
 published: true
 date: 2015-03-23T16:54:00.000Z
-lead_copy: "As California weighs an \"Assisted Dying\" bill, an issue that began 25 years ago with Dr. Jack Kevorkian, is still as polarizing as ever. "
+lead_copy: "As California weighs an *Assisted Dying* bill, an issue that began 25 years ago with Dr. Jack Kevorkian, is still as polarizing as ever."
 backstory_type: backstory
 video: a-right-to-die
 type: backstories

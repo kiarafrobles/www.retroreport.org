@@ -2,7 +2,7 @@
 title: "SeaWorld plans to end killer-whale shows in San Diego"
 published: true
 date: 2015-11-10T15:57:00.000Z
-lead_copy: "After years of controversy surrounding its killer whale shows, SeaWorld plans to end them at their San Diego location. Will the whales meet the fate of Keiko, from the movie Free Willy? "
+lead_copy: "After years of controversy surrounding its killer whale shows, SeaWorld plans to end them at their San Diego location. Will the whales meet the fate of Keiko, from the movie Free Willy?"
 backstory_type: backstory
 video: freeing-willy
 type: backstories

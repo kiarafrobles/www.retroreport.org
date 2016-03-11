@@ -1,8 +1,8 @@
 ---
-title: "New book details the 1980\'s child abuse hysteria"
+title: "New book details the 1980's child abuse hysteria"
 published: true
 date: 2015-08-13T14:34:00.000Z
-lead_copy: "Richard Beck, whom we spoke to for this story on the McMartin scandal, has a fascinating new book detailing the 1980\'s child abuse hysteria. "
+lead_copy: "Richard Beck, whom we spoke to for this story on the McMartin scandal, has a fascinating new book detailing the 1980's child abuse hysteria."
 backstory_type: backstory
 video: mcmartin-preschool-anatomy-of-a-panic
 type: backstories

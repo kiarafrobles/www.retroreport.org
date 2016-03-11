@@ -2,7 +2,7 @@
 title: "Some want former Salvadoran ally to face justice"
 published: true
 date: 2015-09-15T16:05:00.000Z
-lead_copy: "The government has gone from resettling former Salvadoran military allies in the US, to prosecuting them. The most famous case involves the murder of 4 American nuns. "
+lead_copy: "The government has gone from resettling former Salvadoran military allies in the US, to prosecuting them. The most famous case involves the murder of 4 American nuns."
 backstory_type: backstory
 video: a-search-for-justice
 type: backstories

@@ -2,7 +2,7 @@
 title: "Barbara Dury discusses McMartin Preschool: Anatomy of a Panic"
 published: true
 date: 2014-03-10T17:45:00.000Z
-lead_copy: "Barbara Dury on “McMartin Preschool: Anatomy of a Panic” "
+lead_copy: "Barbara Dury on “McMartin Preschool: Anatomy of a Panic”"
 backstory_type: backstory
 video: mcmartin-preschool-anatomy-of-a-panic
 type: backstories

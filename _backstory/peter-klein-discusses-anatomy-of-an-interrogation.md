@@ -1,5 +1,5 @@
 ---
-title: "Peter Klein discusses \"Anatomy of an Interrogation\""
+title: "Peter Klein discusses *Anatomy of an Interrogation*"
 published: true
 date: 2015-04-21T17:30:00.000Z
 backstory_type: backstory

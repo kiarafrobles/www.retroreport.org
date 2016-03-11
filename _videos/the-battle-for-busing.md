@@ -3,17 +3,17 @@ title: "The Battle For Busing"
 published: true
 date: 2013-09-09T23:00:00.000Z
 producer:
-  - kit-roane
-  - b-drummond-ayres-jr
+  - kit-roane
+  - b-drummond-ayres-jr
 topic: law-society
 description: "A story of America's school integration and what happened when the buses stopped rolling."
 tweet: "What happened to Charlotte’s forced school integration after the buses stopped rolling:"
 featured_image_path: /uploads/1422558163905_448249655_1280.jpg
 appearance: dark-text
 video:
-  video_id: K-rlZP0EXdY
-  video_provider: youtube
-  video_show_in_history: true
+  video_id: K-rlZP0EXdY
+  video_provider: youtube
+  video_show_in_history: true
 # type: video
 slug: the-battle-for-busing
 ---

@@ -3,18 +3,18 @@ title: "Runaway Plane"
 published: true
 date: 2016-01-25T14:00:00.000Z
 producer:
-  - stephen-ives
-  - amanda-pollak
-  - kit-roane
+  - stephen-ives
+  - amanda-pollak
+  - kit-roane
 topic: science-technology
 description: "For decades the United States has been on a quest to perfect stealth technology, but development of the F-35 fighter jet shows just how complicated dreams can become."
 tweet: "For years the US has been on a quest for stealth technology, but the F35 shows how hard it can be:"
 featured_image_path: /uploads/1453665204948_37843_1_retro-f-35.jpg
 appearance: light-text
 video:
-  video_id: uww-VPOnd0o
-  video_provider: youtube
-  video_running_time: 8
+  video_id: uww-VPOnd0o
+  video_provider: youtube
+  video_running_time: 8
 # type: video
 slug: runaway-plane
 ---

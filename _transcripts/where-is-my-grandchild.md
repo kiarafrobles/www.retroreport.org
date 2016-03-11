@@ -39,7 +39,7 @@ ___ARCHIVAL (CBS, 3-24-76):___
 
 _WALTER CRONKITE: A three-man military junta has taken over the government of Argentina_
 
-**NARRATION: The coup began in the early morning hours of March 24, 1976\.**
+**NARRATION: The coup began in the early morning hours of March 24, 1976.**
 
 ___ARCHIVAL (CBS, 3-24-76)___
 
@@ -53,7 +53,7 @@ ISABEL MIGNONE-DEL CARRIL: The military went to the house, or they went to where
 
 ___ARCHIVAL (NBC, 6-18-82):___
 
-_JIM CUMMINS: Social worker Monica Mignone disappeared in 1976\. She was organizing resistance to a government slum demolition project; Miss Mignone was 24._
+_JIM CUMMINS: Social worker Monica Mignone disappeared in 1976. She was organizing resistance to a government slum demolition project; Miss Mignone was 24._
 
 ___ARCHIVAL (NBC, 6-18-82):___
 
@@ -121,7 +121,7 @@ ESTELA DE CARLOTTO: I will never stop doing what I do, because, there is inside 
 
 IGNACIO HURBAN: I first heard of Abuelas and of Estela de Carlotto when I graduated from secondary school and went to study music at the Conservatory
 
-**NARRATION: Ignacio Hurban was born in June of 1978\. His parents were farmers near the city Olavarria – some 220 miles from Buenos Aires. A few years ago Ignacio says he was at home watching television.**
+**NARRATION: Ignacio Hurban was born in June of 1978. His parents were farmers near the city Olavarria – some 220 miles from Buenos Aires. A few years ago Ignacio says he was at home watching television.**
 
 IGNACIO HURBAN: And there was an image of Estela and I said: “What a shame, this woman, a whole life searching and she may never find her grandchild.”
 
@@ -147,7 +147,7 @@ UKI GOÑI: The country came together I think in this huge cry of joy. I went to 
 
 **NARRATION: …And for her grandson, the reward would be two fold.**
 
-The genetic bank didn’t just reveal the identity of his mother, it would make known, for the first time, the name of his father – Walmir Montoya. Montoya’s remains were identified in 2009\. And his profile was then stored in the genetic bank where it quietly remained until Ignacio’s DNA was entered. The result was immediate and indisputable.
+The genetic bank didn’t just reveal the identity of his mother, it would make known, for the first time, the name of his father – Walmir Montoya. Montoya’s remains were identified in 2009. And his profile was then stored in the genetic bank where it quietly remained until Ignacio’s DNA was entered. The result was immediate and indisputable.
 
 IGNACIO HURBAN: So the news was double. Not only did it become clear who the grandchild was, but also who the father of that grandchild was.
 

@@ -2,7 +2,7 @@
 title: "Producer Erik German discusses whether we should fear the robot apocalypse"
 published: true
 date: 2016-03-08T19:16:00.000Z
-lead_copy: "Producer Erik German discusses whether we should fear the robot apocalypse. "
+lead_copy: "Producer Erik German discusses whether we should fear the robot apocalypse."
 backstory_type: backstory
 video: the-terminator-and-the-washing-machine
 type: backstories

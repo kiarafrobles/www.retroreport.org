@@ -1,5 +1,5 @@
 ---
-title: "Related Coverage for The Sleeper Cell That Wasn\'t"
+title: "Related Coverage for The Sleeper Cell That Wasn't"
 published: true
 date: 2015-07-29T18:17:00.000Z
 backstory_type: related coverage

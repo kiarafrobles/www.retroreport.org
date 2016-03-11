@@ -2,7 +2,7 @@
 title: "Matthew Spolar weighs in on cloning and the panic surrounding Dolly the Sheep "
 published: true
 date: 2014-10-15T15:47:00.000Z
-lead_copy: "Retro Report’s Matthew Spolar: “Dolly the Sheep” "
+lead_copy: "Retro Report’s Matthew Spolar: “Dolly the Sheep”"
 backstory_type: backstory
 video: dolly-the-sheep
 type: backstories

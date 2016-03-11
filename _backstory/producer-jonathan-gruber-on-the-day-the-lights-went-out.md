@@ -2,7 +2,7 @@
 title: "Producer Jonathan Gruber on “The Day the Lights Went Out”"
 published: true
 date: 2013-11-12T17:47:00.000Z
-lead_copy: "Producer Jonathan Gruber on “The Day the Lights Went Out” "
+lead_copy: "Producer Jonathan Gruber on “The Day the Lights Went Out”"
 backstory_type: backstory
 video: the-day-the-lights-went-out
 type: backstories

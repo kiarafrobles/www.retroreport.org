@@ -3,16 +3,16 @@ title: "In the Shadow of Katrina"
 published: true
 date: 2013-10-28T23:00:00.000Z
 producer:
-  - drew-magratten
+  - drew-magratten
 topic: law-society
 description: "Hurricane Katrina devastated the Gulf Coast in 2005, and Louisiana’s troubled housing recovery has shaped the response to every major disaster since, including Hurricane Sandy."
 tweet: "Katrina’s troubled housing recovery has unfortunately shaped the response to major disasters since:"
 featured_image_path: /uploads/1422556894956_453106669_1280.jpg
 appearance: light-text
 video:
-  video_id:
-  video_provider: vimeo
-  video_show_in_history: true
+  video_id:
+  video_provider: vimeo
+  video_show_in_history: true
 # type: video
 slug: in-the-shadow-of-katrina
 ---

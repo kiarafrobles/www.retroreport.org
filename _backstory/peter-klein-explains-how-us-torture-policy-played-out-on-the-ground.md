@@ -2,7 +2,7 @@
 title: "Peter Klein explains how US torture policy played out on the ground"
 published: true
 date: 2015-04-20T15:12:00.000Z
-lead_copy: "Peter Klein discusses how U.S. torture policy played out on the ground, as we hear from the only CIA-tied person prosecuted in a torture-related case. "
+lead_copy: "Peter Klein discusses how U.S. torture policy played out on the ground, as we hear from the only CIA-tied person prosecuted in a torture-related case."
 backstory_type: backstory
 video: anatomy-of-an-interrogation
 type: backstories

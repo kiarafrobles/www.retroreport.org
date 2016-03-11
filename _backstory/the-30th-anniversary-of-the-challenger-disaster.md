@@ -2,7 +2,7 @@
 title: "The 30th anniversary of the Challenger disaster"
 published: true
 date: 2016-01-28T15:59:00.000Z
-lead_copy: "Thirty years, 7 astronauts \"slipped the surly bonds of earth to touch the face of God.\" Our Emmy-winning story looks at how a terribly wrong decision was made. Watch: "
+lead_copy: "Thirty years, 7 astronauts *slipped the surly bonds of earth to touch the face of God.* Our Emmy-winning story looks at how a terribly wrong decision was made. Watch:"
 backstory_type: backstory
 video: major-malfunction-lessons-from-challenger
 type: backstories

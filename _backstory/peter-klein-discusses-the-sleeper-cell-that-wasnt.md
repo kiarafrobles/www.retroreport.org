@@ -1,5 +1,5 @@
 ---
-title: "Peter Klein discusses the Sleeper Cell That Wasn\'t"
+title: "Peter Klein discusses the Sleeper Cell That Wasn't"
 published: true
 date: 2013-11-18T18:15:00.000Z
 backstory_type: backstory

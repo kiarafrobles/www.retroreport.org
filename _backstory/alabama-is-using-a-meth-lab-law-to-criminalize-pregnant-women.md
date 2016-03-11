@@ -2,7 +2,7 @@
 title: "Alabama is using a meth-lab law to criminalize pregnant women"
 published: true
 date: 2015-10-07T16:49:00.000Z
-lead_copy: "Alabama is using a meth-lab law to criminalize pregnant women, some who have taken as little as one valium pill while pregnant. Click below to see how history is repeating itself. "
+lead_copy: "Alabama is using a meth-lab law to criminalize pregnant women, some who have taken as little as one valium pill while pregnant. Click below to see how history is repeating itself."
 backstory_type: backstory
 video: from-crack-babies-to-oxytots-lessons-not-learned
 type: backstories

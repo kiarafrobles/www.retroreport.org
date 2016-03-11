@@ -2,7 +2,7 @@
 title: "Will Chipotle become the new Jack in the Box?"
 published: true
 date: 2015-12-14T21:04:00.000Z
-lead_copy: "After a string of food poisoning incidents, Chipotle vows to become a food safety industry leader -- exactly what Jack in the Box did after its 1993 E. coli outbreak sickened more than 700 people. "
+lead_copy: "After a string of food poisoning incidents, Chipotle vows to become a food safety industry leader -- exactly what Jack in the Box did after its 1993 E. coli outbreak sickened more than 700 people."
 backstory_type: backstory
 video: chasing-outbreaks-how-safe-is-our-food
 type: backstories

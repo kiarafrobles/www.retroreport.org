@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for A Dingo\'s Got My Baby: Trial by Media"
+title: "Related coverage for A Dingo's Got My Baby: Trial by Media"
 published: true
 date: 2015-07-28T16:31:00.000Z
 backstory_type: related coverage

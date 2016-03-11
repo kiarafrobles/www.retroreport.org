@@ -1,8 +1,8 @@
 ---
-title: "Producer Josh Fisher on “Fly Wars: Battling the Medfly\""
+title: "Producer Josh Fisher on “Fly Wars: Battling the Medfly*"
 published: true
 date: 2014-03-17T17:47:00.000Z
-lead_copy: "Producer Josh Fisher on “Fly Wars: Battling the Medfly\" "
+lead_copy: "Producer Josh Fisher on “Fly Wars: Battling the Medfly*"
 backstory_type: backstory
 video: fly-wars-battling-the-medfly
 type: backstories

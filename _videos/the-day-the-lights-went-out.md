@@ -3,17 +3,17 @@ title: "The Day the Lights Went Out"
 published: true
 date: 2013-11-12T00:00:00.000Z
 producer:
-  - jonathan-gruber
-  - matt-spolar
+  - jonathan-gruber
+  - matt-spolar
 topic: science-technology
 description: "In 2003, a blackout crippled areas of the U.S. and Canada, leaving some 50 million people in the dark. Ten years later, we are still grappling with concerns over the vulnerability of our power grid."
 tweet: "Years after a blackout crippled the US, we're still grappling with the vulnerability of our grid:"
 featured_image_path: /uploads/1422556806404_454538970_1280.jpg
 appearance: light-text
 video:
-  video_id:
-  video_provider: vimeo
-  video_show_in_history: true
+  video_id:
+  video_provider: vimeo
+  video_show_in_history: true
 # type: video
 slug: the-day-the-lights-went-out
 ---

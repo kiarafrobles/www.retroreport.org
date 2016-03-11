@@ -2,7 +2,7 @@
 title: "What everyone got wrong about Columbine"
 published: true
 date: 2015-09-28T14:21:00.000Z
-lead_copy: "Producer Erik German discusses the Columbine myths that began spreading during the attack and were never truly dispelled. "
+lead_copy: "Producer Erik German discusses the Columbine myths that began spreading during the attack and were never truly dispelled."
 backstory_type: backstory
 video: haunted-by-columbine
 type: backstories

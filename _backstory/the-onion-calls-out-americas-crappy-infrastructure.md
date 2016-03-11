@@ -1,8 +1,8 @@
 ---
-title: "The Onion calls out America\'s crappy infrastructure"
+title: "The Onion calls out America's crappy infrastructure"
 published: true
 date: 2015-09-25T21:04:00.000Z
-lead_copy: "The Onion has joked about the Pope blessing America\'s infrastructure. But in reality, our roads, bridges and tunnels need a miracle. To see why, watch When a Bridge Falls. "
+lead_copy: "The Onion has joked about the Pope blessing America's infrastructure. But in reality, our roads, bridges and tunnels need a miracle. To see why, watch When a Bridge Falls."
 backstory_type: backstory
 video: when-a-bridge-falls
 type: backstories

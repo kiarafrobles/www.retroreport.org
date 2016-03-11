@@ -1,8 +1,8 @@
 ---
-title: "Bishops singled out for shielding priests from \"staggering abuse\""
+title: "Bishops singled out for shielding priests from *staggering abuse*"
 published: true
 date: 2016-03-01T23:23:00.000Z
-lead_copy: "Bishops in Pennsylvania have been singled out by a grand jury for shielding priests from being held accountable for raping and molesting hundreds of children. But this is by no means the first time -- and bishops are rarely, if ever, prosecuted. Watch \"The Shame of the Church.\" "
+lead_copy: "Bishops in Pennsylvania have been singled out by a grand jury for shielding priests from being held accountable for raping and molesting hundreds of children. But this is by no means the first time -- and bishops are rarely, if ever, prosecuted. Watch *The Shame of the Church.*"
 backstory_type: backstory
 video: the-shame-of-the-church
 type: backstories

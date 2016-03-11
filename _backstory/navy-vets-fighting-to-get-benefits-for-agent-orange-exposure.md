@@ -2,7 +2,7 @@
 title: "Navy vets fighting to get benefits for Agent Orange exposure"
 published: true
 date: 2015-09-14T15:54:00.000Z
-lead_copy: "90,000 Navy vets who may have been exposed to Agent Orange are fighting to get benefits. Here\'s the backstory. Watch for some background. "
+lead_copy: "90,000 Navy vets who may have been exposed to Agent Orange are fighting to get benefits. Here's the backstory. Watch for some background."
 backstory_type: backstory
 video: agent-orange-last-chapter-of-the-vietnam-war
 type: backstories

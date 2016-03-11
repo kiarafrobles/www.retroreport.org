@@ -2,7 +2,7 @@
 title: "Archbishop Oscar Romero is beatified"
 published: true
 date: 2015-05-26T16:17:00.000Z
-lead_copy: "The murder of recently beatified Archbishop Oscar Romero and 4 American nuns in 1980 focused attention on their US-backed military. "
+lead_copy: "The murder of recently beatified Archbishop Oscar Romero and 4 American nuns in 1980 focused attention on their US-backed military."
 backstory_type: backstory
 video: a-search-for-justice
 type: backstories

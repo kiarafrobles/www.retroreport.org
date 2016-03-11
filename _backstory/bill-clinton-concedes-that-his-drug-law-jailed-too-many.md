@@ -2,7 +2,7 @@
 title: "Bill Clinton concedes that his drug law jailed too many"
 published: true
 date: 2015-07-17T17:06:00.000Z
-lead_copy: "Bill Clinton admits that his drug law jailed too many. Watch the backstory on the \"Three Strikes\" laws that put thousands behind bars. "
+lead_copy: "Bill Clinton admits that his drug law jailed too many. Watch the backstory on the *Three Strikes* laws that put thousands behind bars."
 backstory_type: backstory
 video: crime-and-punishment-three-strikes-and-youre-out
 type: backstories

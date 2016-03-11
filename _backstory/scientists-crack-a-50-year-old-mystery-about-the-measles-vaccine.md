@@ -2,7 +2,7 @@
 title: "Scientists Crack A 50-Year-Old Mystery About The Measles Vaccine"
 published: true
 date: 2015-05-08T17:54:00.000Z
-lead_copy: "Scientists have figured out why the measles vaccine reduces deaths from all infectious diseases. How will this affect the vaccine controversy? "
+lead_copy: "Scientists have figured out why the measles vaccine reduces deaths from all infectious diseases. How will this affect the vaccine controversy?"
 backstory_type: backstory
 video: vaccines-an-unhealthy-skepticism
 type: backstories

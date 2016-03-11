@@ -2,7 +2,7 @@
 title: "Caitlyn Jenner receives the Arthur Ashe Courage Award"
 published: true
 date: 2015-07-16T16:05:00.000Z
-lead_copy: "Caitlyn Jenner receives the Arthur Ashe Courage Award, pushes for acceptance. Here\'s how transgender people have been historically overlooked. "
+lead_copy: "Caitlyn Jenner receives the Arthur Ashe Courage Award, pushes for acceptance. Here's how transgender people have been historically overlooked."
 backstory_type: backstory
 video: transforming-history
 type: backstories

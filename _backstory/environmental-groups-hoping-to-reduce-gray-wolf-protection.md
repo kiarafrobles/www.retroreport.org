@@ -2,7 +2,7 @@
 title: "Environmental groups hoping to reduce Gray Wolf protection"
 published: true
 date: 2015-07-03T20:46:00.000Z
-lead_copy: "Environmental groups are asking to reduce federal protection for the Gray Wolf. Confused as to why they\'d try to reduce protection? Watch this... "
+lead_copy: "Environmental groups are asking to reduce federal protection for the Gray Wolf. Confused as to why they'd try to reduce protection? Watch this... "
 backstory_type: backstory
 video: wolves-at-the-door
 type: backstories

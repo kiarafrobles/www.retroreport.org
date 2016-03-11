@@ -201,7 +201,7 @@ TEXT: 44 YEARS LATER
 
 PAUL EHRLICH: Predictions do not necessarily come true. The critics go in and look at these little stories that won't come true, and when they didn't come true say, "Ehrlich was wrong."
 
-I was recently criticized because I had said many years ago that I would bet that England wouldn't exist in the year 2000\. Well, England did exist in the year 2000, but that was only 14 years ago.
+I was recently criticized because I had said many years ago that I would bet that England wouldn't exist in the year 2000. Well, England did exist in the year 2000, but that was only 14 years ago.
 
 **NARRATION: But Ehrlich says it could still be just a matter of time.**
 

@@ -2,7 +2,7 @@
 title: "Producer Jill Rosenbaum on “The Long War on Cancer”"
 published: true
 date: 2013-11-04T17:26:00.000Z
-lead_copy: "Producer Jill Rosenbaum on “The Long War on Cancer” "
+lead_copy: "Producer Jill Rosenbaum on “The Long War on Cancer”"
 backstory_type: backstory
 video: the-long-war-on-cancer
 type: backstories

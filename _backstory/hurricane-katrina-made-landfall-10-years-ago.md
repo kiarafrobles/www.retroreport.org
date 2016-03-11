@@ -2,7 +2,7 @@
 title: "Hurricane Katrina made landfall 10 years ago"
 published: true
 date: 2015-07-29T02:01:00.000Z
-lead_copy: "This week is the 10th anniversary of Hurricane Katrina. Mistakes were made in the recovery that still haunt us today. "
+lead_copy: "This week is the 10th anniversary of Hurricane Katrina. Mistakes were made in the recovery that still haunt us today."
 backstory_type: backstory
 video: in-the-shadow-of-katrina
 type: backstories

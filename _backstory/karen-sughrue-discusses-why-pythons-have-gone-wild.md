@@ -1,8 +1,8 @@
 ---
-title: "Karen Sughrue discusses why pythons have \"gone wild\""
+title: "Karen Sughrue discusses why pythons have *gone wild*"
 published: true
 date: 2015-04-07T18:53:00.000Z
-lead_copy: "Pet owners have created an environmental disaster by releasing Burmese pythons into the Everglades. And pythons are just the beginning. "
+lead_copy: "Pet owners have created an environmental disaster by releasing Burmese pythons into the Everglades. And pythons are just the beginning."
 backstory_type: backstory
 video: pets-gone-wild
 type: backstories

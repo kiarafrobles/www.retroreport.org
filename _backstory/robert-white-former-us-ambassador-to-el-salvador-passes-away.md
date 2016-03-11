@@ -2,7 +2,7 @@
 title: "Robert White, former US ambassador to El Salvador, passes away."
 published: true
 date: 2015-02-26T17:28:00.000Z
-lead_copy: "Robert White, former US ambassador to El Salvador, passes away. "
+lead_copy: "Robert White, former US ambassador to El Salvador, passes away."
 backstory_type: backstory
 video: a-search-for-justice
 type: backstories

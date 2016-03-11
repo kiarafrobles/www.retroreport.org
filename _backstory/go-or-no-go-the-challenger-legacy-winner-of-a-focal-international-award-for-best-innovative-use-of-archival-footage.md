@@ -1,8 +1,8 @@
 ---
-title: "“Go or No Go: The Challenger Legacy\" winner of a FOCAL International Award for best innovative use of archival footage"
+title: "“Go or No Go: The Challenger Legacy* winner of a FOCAL International Award for best innovative use of archival footage"
 published: true
 date: 2015-07-23T21:47:00.000Z
-lead_copy: "“Go or No Go: The Challenger Legacy\" winner of a FOCAL International Award for best innovative use of archival footage "
+lead_copy: "“Go or No Go: The Challenger Legacy* winner of a FOCAL International Award for best innovative use of archival footage"
 backstory_type: backstory
 video: major-malfunction-lessons-from-challenger
 type: backstories

@@ -1,5 +1,5 @@
 ---
-title: "Movin\' on up!"
+title: "Movin' on up!"
 published: true
 date: 2015-12-04T16:15:00.000Z
 description: "Settling in to our new office!!! It's quite a change from our little basement office."

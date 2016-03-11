@@ -99,7 +99,7 @@ ___ARCHIVAL (ABC, 6-3-71):___
 
 _BILL GILL: Methadone, a bitter, inexpensive, synthetic drug that the city hopes most addicts will chose over a $50 a day heroin habit and all of the crime that goes with that._
 
-ROBERT DUPONT: Most of our patients were people from the criminal justice system. We ended up treating 15,000 heroin addicts. Overdose deaths went from 70 a year to 4\. The crime rate on a monthly basis was cut in half over that period of time.
+ROBERT DUPONT: Most of our patients were people from the criminal justice system. We ended up treating 15,000 heroin addicts. Overdose deaths went from 70 a year to 4. The crime rate on a monthly basis was cut in half over that period of time.
 
 **NARRATION: The city’s experience caught the attention of President Richard Nixon…**
 
@@ -239,7 +239,7 @@ JOE FARMER: When I was around 14 years old my mom was actually on pain medicine.
 
 **NARRATION: Joe Farmer is typical of what the media calls “the new face of heroin.” He’s young, white, middle class and lives in rural Hagerstown, Maryland.**
 
-JOE FARMER: I started using heroin when I was 17\. Someone told me, you know, “I can’t get pills but, you know, I can get raw, or heroin.”
+JOE FARMER: I started using heroin when I was 17. Someone told me, you know, “I can’t get pills but, you know, I can get raw, or heroin.”
 
 **NARRATION: He was sent to Maryland’s Washington County Detention Center on heroin related theft charges.**
 
@@ -253,7 +253,7 @@ DRUG COUNSELOR (SPEAKING TO JOE FARMER): We will get your Vivitrol shots here ev
 
 JOE FARMER: Vivitrol works on your opiate receptors and it blocks them. It’s just a shot you get every month and it just keeps you from getting high.
 
-**NARRATION: Rebecca Hogamier started the program in 2011\. She believes Vivitrol will help newly detoxed addicts stay clean after they leave jail.**
+**NARRATION: Rebecca Hogamier started the program in 2011. She believes Vivitrol will help newly detoxed addicts stay clean after they leave jail.**
 
 REBECCA HOGAMIER: I was thinking you could offer this medication and you could reduce recidivism at the same time. We’ve been arresting them for how long and it hasn’t helped. Has it made heroin addiction go away? Has it decreased the demand for heroin? No, it hasn’t.
 

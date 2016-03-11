@@ -1,5 +1,5 @@
 ---
-title: "Scott Michels and Frontline\'s David E. Hoffman discuss food safety with HuffPost Live"
+title: "Scott Michels and Frontline's David E. Hoffman discuss food safety with HuffPost Live"
 published: true
 date: 2015-05-12T16:53:00.000Z
 backstory_type: backstory

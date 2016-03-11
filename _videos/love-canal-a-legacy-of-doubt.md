@@ -3,16 +3,16 @@ title: "Love Canal: A Legacy of Doubt"
 published: true
 date: 2013-11-26T00:00:00.000Z
 producer:
-  - jp-olsen
+  - jp-olsen
 topic: law-society
 description: "In 1978, toxic chemicals leaking from an old landfill thrust an upstate New York community called “Love Canal” into the national headlines, and made it synonymous with “environmental disaster.”"
 tweet: "Decades after the environmental disaster Love Canal hit the headlines, questions still linger: "
 featured_image_path: /uploads/1422556714791_455908243_1280.jpg
 appearance: light-text
 video:
-  video_id:
-  video_provider: vimeo
-  video_show_in_history: true
+  video_id:
+  video_provider: vimeo
+  video_show_in_history: true
 # type: video
 slug: love-canal-a-legacy-of-doubt
 ---

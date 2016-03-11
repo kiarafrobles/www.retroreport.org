@@ -1,8 +1,8 @@
 ---
-title: "Jill Rosenbaum discusses today\'s new heroin epidemic"
+title: "Jill Rosenbaum discusses today's new heroin epidemic"
 published: true
 date: 2015-11-24T15:49:00.000Z
-lead_copy: "Producer Jill Rosenbaum delves into the how and why of today\'s new heroin epidemic with NPR\'s The Takeaway. "
+lead_copy: "Producer Jill Rosenbaum delves into the how and why of today's new heroin epidemic with NPR's The Takeaway."
 backstory_type: backstory
 video: heroin-and-the-war-on-drugs
 type: backstories

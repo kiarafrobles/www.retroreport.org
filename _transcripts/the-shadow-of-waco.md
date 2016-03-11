@@ -261,7 +261,7 @@ MIKE VANDERBOEGH (In a speech): This is dangerous ground — truly dangerous gro
 
 MIKE VANDERBOEGH: There will be no more free Wacos. Whoever starts down this road should understand that if they understand nothing else.
 
-**NARRATION: In the remains of Mount Carmel, there’s not much evidence of the suffering that took place here in 1993\.**
+**NARRATION: In the remains of Mount Carmel, there’s not much evidence of the suffering that took place here in 1993.**
 
 CLIVE DOYLE: People verbalize their anger at the government or at law enforcement or at the system, or whatever they want to call it. Now, everything is likened to us --“Is this going to be another Waco?” I appreciate their support and their sympathy, but you listen to what they’re saying, and some of them scare me.
 

@@ -3,22 +3,22 @@ title: "Picking a Winner: The 1998 NFL Draft"
 published: true
 date: 2014-05-05T23:00:00.000Z
 producer:
-  - jonathan-gruber
-  - matt-spolar
+  - jonathan-gruber
+  - matt-spolar
 topic: sports
 description: "After the 1998 NFL draft produced one of the greatest busts in history, what have we learned about the science of evaluating human talent – on and off the field?"
 tweet: "After the 1998 NFL draft produced one of the greatest busts in history, what have we learned about the science of evaluating human talent – on and off the field?"
 featured_image_path: /uploads/1422559107113_473791450_1280.jpg
 appearance: dark-text
 video:
-  video_id: nsmyMUx7NH0?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
-  video_provider: youtube
+  video_id: nsmyMUx7NH0?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
+  video_provider: youtube
 video_2:
-  video_id: 93660329
-  video_provider: vimeo
-  video_running_time: 13
-  video_show_in_history: true
-  video_source_file: "https://player.vimeo.com/external/93660329.source.mov?s=153158b48153b371ad411cbe93286300&profile_id=0&download=1"
+  video_id: 93660329
+  video_provider: vimeo
+  video_running_time: 13
+  video_show_in_history: true
+  video_source_file: "https://player.vimeo.com/external/93660329.source.mov?s=153158b48153b371ad411cbe93286300&profile_id=0&download=1"
 # type: video
 slug: picking-a-winner-the-1998-nfl-draft
 ---
@@ -30,14 +30,14 @@ History showed otherwise. The Colts picked first and selected Peyton Manning. He
 [](http://www.nytimes.com/2014/04/07/us/politics/killing-on-bus-recalls-superpredator-threat-of-90s.html?ref=us)
 
 video:
-  video_id: nsmyMUx7NH0?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
-  video_provider: youtube
+  video_id: nsmyMUx7NH0?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
+  video_provider: youtube
 video_2:
-  video_id: 93660329
-  video_provider: vimeo
-  video_running_time: 13
-  video_show_in_history: true
-  video_source_file: "https://player.vimeo.com/external/93660329.source.mov?s=153158b48153b371ad411cbe93286300&profile_id=0&download=1"
+  video_id: 93660329
+  video_provider: vimeo
+  video_running_time: 13
+  video_show_in_history: true
+  video_source_file: "https://player.vimeo.com/external/93660329.source.mov?s=153158b48153b371ad411cbe93286300&profile_id=0&download=1"
 # type: video
 slug: picking-a-winner-the-1998-nfl-draft
 ---

@@ -1,20 +1,20 @@
 ---
-title: "Stealing J. Edgar Hoover\'s Secrets"
+title: "Stealing J. Edgar Hoover's Secrets"
 published: true
 date: 2014-01-08T00:00:00.000Z
 producer:
-  - bonnie-bertram
-  - drew-magratten
-  - peter-klein
+  - bonnie-bertram
+  - drew-magratten
+  - peter-klein
 topic: law-society
 description: "On March 8, 1971, a group of eight Vietnam War protestors broke into a Federal Bureau of Investigation field office in Media, Pennsylvania and stole hundreds of government documents that shocked a nation."
 tweet: "The most important heist you've never heard of: "
 featured_image_path: /uploads/1422556567980_460034724_1280.jpg
 appearance: light-text
 video:
-  video_id:
-  video_provider: vimeo
-  video_show_in_history: true
+  video_id:
+  video_provider: vimeo
+  video_show_in_history: true
 # type: video
 slug: stealing-j-edgar-hoovers-secrets
 ---

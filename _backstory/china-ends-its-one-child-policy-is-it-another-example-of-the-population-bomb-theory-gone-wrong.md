@@ -1,8 +1,8 @@
 ---
-title: "China ends its one-child policy. Is it another example of the \"Population Bomb\" theory gone wrong?"
+title: "China ends its one-child policy. Is it another example of the *Population Bomb* theory gone wrong?"
 published: true
 date: 2015-10-30T13:56:00.000Z
-lead_copy: "China plans to end its one-child policy, which was implemented to control population growth -- is this another example of the \"Population Bomb\" theory gone wrong? "
+lead_copy: "China plans to end its one-child policy, which was implemented to control population growth -- is this another example of the *Population Bomb* theory gone wrong?"
 backstory_type: backstory
 video: the-population-bomb
 type: backstories

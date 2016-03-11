@@ -45,11 +45,11 @@ permalink: pretty
 future: false
 
 # PLUGINS
-gems:
- - jekyll-seo
- - html-proofer
- - jekyll-lunr-js-search
- - jekyll-sitemap
+#gems:
+# - jekyll-seo-tag
+# - html-proofer
+ #- jekyll-lunr-js-search
+ #- jekyll-sitemap
 
 # FILES
 exclude:

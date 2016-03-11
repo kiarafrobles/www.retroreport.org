@@ -1,8 +1,8 @@
 ---
-title: "Australia\'s \"no jab, no pay\" policy cuts benefits for anti-vaxxers"
+title: "Australia's *no jab, no pay* policy cuts benefits for anti-vaxxers"
 published: true
 date: 2015-04-13T14:24:00.000Z
-lead_copy: "Australia\'s \"no jab, no pay\" policy cuts benefits for parents who won\'t vaccinate. Watch for some context on the antivaxxer controversy. "
+lead_copy: "Australia's *no jab, no pay* policy cuts benefits for parents who won't vaccinate. Watch for some context on the antivaxxer controversy."
 backstory_type: backstory
 video: vaccines-an-unhealthy-skepticism
 type: backstories

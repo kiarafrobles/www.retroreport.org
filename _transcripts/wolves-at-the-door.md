@@ -79,13 +79,13 @@ ___ARCHIVAL (POOL INTERVIEW, 1995):___
 
 _BRUCE BABBIT: You can see her inside, she's a big gray female, just gorgeous. It's an unbelievable sight._
 
-**NARRATION: Biologists reintroduced 66 wolves altogether in 1995 and 1996\. But as the packs spread out and multiplied, some ranchers outside Yellowstone say it wasn’t long before the wolves exacted a price from their livestock.**
+**NARRATION: Biologists reintroduced 66 wolves altogether in 1995 and 1996. But as the packs spread out and multiplied, some ranchers outside Yellowstone say it wasn’t long before the wolves exacted a price from their livestock.**
 
 JIM MELIN (RANCHER): $60,000 the first couple years, between the sheep we lost, the calves we lost. Every time that those wolves come in here and take a part of my living away, that means I have to make it up somewhere else.
 
 **NARRATION: By 2002, more than 600 gray wolves were roaming the mountains of Idaho, Montana and Wyoming – double the minimum number set in the recovery plan.**
 
-ED BANGS_:_ We knew, from wolf population growth and that kind of stuff, that we would hit our recovery goal most likely at the end of 2002\. And we were exactly right, we did.
+ED BANGS_:_ We knew, from wolf population growth and that kind of stuff, that we would hit our recovery goal most likely at the end of 2002. And we were exactly right, we did.
 
 DOUGS SMITH: Within about 10 years, which is actually pretty fast, wolves hit a level where we thought their population was secure.
 

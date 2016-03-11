@@ -2,7 +2,7 @@
 title: "The VA denies Agent Orange benefits to Navy sailors "
 published: true
 date: 2016-02-10T16:50:00.000Z
-lead_copy: "The VA is denying Agent Orange benefits to Navy sailors who served in the Vietnam War, despite a federal court ordering the VA to reassess its policy. For the backstory, watch \"Agent Orange: the Last Chapter of the Vietnam War.\" "
+lead_copy: "The VA is denying Agent Orange benefits to Navy sailors who served in the Vietnam War, despite a federal court ordering the VA to reassess its policy. For the backstory, watch *Agent Orange: the Last Chapter of the Vietnam War.*"
 backstory_type: backstory
 video: agent-orange-last-chapter-of-the-vietnam-war
 type: backstories

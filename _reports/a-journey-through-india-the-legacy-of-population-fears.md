@@ -32,7 +32,7 @@ copy:
 image_position: center bottom
 copy:
 
-<span class="s1">India has the world's largest youth population   - measured as those between ages 10 and 24\. Health advocates say that in order to better address the needs of such a large young population, there needs to be greater investment in a wide range of birth control options.</span>
+<span class="s1">India has the world's largest youth population - measured as those between ages 10 and 24\. Health advocates say that in order to better address the needs of such a large young population, there needs to be greater investment in a wide range of birth control options.</span>
 
 **Phul Kumari Devi, center, cuts sugar cane with other women from Pahsara Village, Bihar.**
 

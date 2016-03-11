@@ -2,7 +2,7 @@
 title: "India switches method of birth control in response to overpopulation fears"
 published: true
 date: 2016-02-21T18:55:00.000Z
-lead_copy: "India will switch from sterilization to injectable birth control in response to fears of overpopulation. But are we overpopulated -- and were we ever? Watch \"The Population Bomb?\" "
+lead_copy: "India will switch from sterilization to injectable birth control in response to fears of overpopulation. But are we overpopulated -- and were we ever? Watch *The Population Bomb?*"
 backstory_type: backstory
 video: the-population-bomb
 type: backstories

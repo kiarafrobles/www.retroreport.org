@@ -2,7 +2,7 @@
 title: "Family of quarterback great Ken Stabler say he had CTE"
 published: true
 date: 2016-02-03T15:51:00.000Z
-lead_copy: "Quarterback Ken Stabler had CTE, a disease thought to be caused by blows to the head. This kind of news makes us wonder, will football become more of a fringe sport like boxing? Watch \"Blood and Sport.\" "
+lead_copy: "Quarterback Ken Stabler had CTE, a disease thought to be caused by blows to the head. This kind of news makes us wonder, will football become more of a fringe sport like boxing? Watch *Blood and Sport.*"
 backstory_type: backstory
 video: blood-and-sport
 type: backstories

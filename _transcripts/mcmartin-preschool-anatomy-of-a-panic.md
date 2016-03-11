@@ -145,7 +145,7 @@ DANNY DAVIS (DEFENSE ATTORNEY): I can’t say that I ever saw a video tape where
 
 RICHARD BECK (WRITER): The interviews are upsetting to read because essentially what happened is the therapist unintentionally coerced the children into fabricating stories of abuse.
 
-**NARRATION: Richard Beck wasn’t even born when the McMartin story first broke in 1984\. Fascinated by the panic that spread across the country, he has been researching and writing a book on the case for the last two years.**
+**NARRATION: Richard Beck wasn’t even born when the McMartin story first broke in 1984. Fascinated by the panic that spread across the country, he has been researching and writing a book on the case for the last two years.**
 
 RICHARD BECK: You have interviews that will start off with a therapist asking a child whether they had ever played any naked games at McMartin. This was a huge topic, was naked games. And the children initially say, “No. The therapist though didn’t accept those answers. Then they repeat the question and then they repeat it again. Eventually, the children realize that their interview was never going to be allowed to end until they start giving the interviewer the kind of answer that she wants to hear.
 

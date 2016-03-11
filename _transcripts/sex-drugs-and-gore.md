@@ -93,7 +93,7 @@ ____
 
 _FRANK ZAPPA: If it looks like censorship and it smells like censorship, it is censorship, no matter who’s wife is talking about it. It’s censorship._
 
-**NARRATION: As the PMRC grew to include the wives of 10 Senators and 6 House Representatives, the Senate held a hearing on rock lyrics in September of 1985\.**
+**NARRATION: As the PMRC grew to include the wives of 10 Senators and 6 House Representatives, the Senate held a hearing on rock lyrics in September of 1985.**
 
 ___ARCHIVAL (CSPAN HEARINGS):_______
 

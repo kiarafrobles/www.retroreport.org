@@ -2,7 +2,7 @@
 title: "Stephen Hawking thinks humans will colonize space"
 published: true
 date: 2016-01-22T15:56:00.000Z
-lead_copy: "Stephen Hawking thinks humans will one day be forced to colonize space to survive. Were the “Biospherians” right after all? Check out \"Biosphere 2: An American Space Odyssey.\" "
+lead_copy: "Stephen Hawking thinks humans will one day be forced to colonize space to survive. Were the “Biospherians” right after all? Check out *Biosphere 2: An American Space Odyssey.*"
 backstory_type: backstory
 video: biosphere-2-an-american-space-odyssey
 type: backstories

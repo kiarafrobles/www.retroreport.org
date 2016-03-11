@@ -2,7 +2,7 @@
 title: "Another shaken baby ruling revised"
 published: true
 date: 2015-12-22T16:58:00.000Z
-lead_copy: "Another shaken baby ruling has been revised in Middlesex County, MA -- the third case since only last year. Watch \"A Syndrome on Trial\" to see why so many shaken baby cases are being re-examined. "
+lead_copy: "Another shaken baby ruling has been revised in Middlesex County, MA -- the third case since only last year. Watch *A Syndrome on Trial* to see why so many shaken baby cases are being re-examined. "
 backstory_type: backstory
 video: a-syndrome-on-trial
 type: backstories

@@ -2,7 +2,7 @@
 title: "CA governor signs tough new vaccination law"
 published: true
 date: 2015-06-29T21:00:00.000Z
-lead_copy: "Authorities announce the 1st death from measles since 2003--and Governor Jerry Brown signs a tough vaccination bill. Here\'s the backstory. "
+lead_copy: "Authorities announce the 1st death from measles since 2003--and Governor Jerry Brown signs a tough vaccination bill. Here's the backstory."
 backstory_type: backstory
 video: vaccines-an-unhealthy-skepticism
 type: backstories

@@ -51,7 +51,7 @@ CAROL ANN DEMARET (DAVID VITTER’S MOTHER): The story of David had a beginning,
 
 __**ACT I:**__
 
-CAROL ANN DEMARET: David was born September 21<sup>st</sup>, 1971\. I heard the first sounds of life, and he was placed in an isolator, in a bubble that was a few feet from me. We thought that the immune system was just slow to develop. There was never any plan to keep David in there – in the bubble – indefinitely.
+CAROL ANN DEMARET: David was born September 21<sup>st</sup>, 1971. I heard the first sounds of life, and he was placed in an isolator, in a bubble that was a few feet from me. We thought that the immune system was just slow to develop. There was never any plan to keep David in there – in the bubble – indefinitely.
 
 **NARRATION: The sterile bubble was the brainchild of doctors who feared the worst — Severe Combined Immuneodeficiency — a rare genetic defect that had taken the life of David’s brother the year before. But it fell short of a cure.**
 

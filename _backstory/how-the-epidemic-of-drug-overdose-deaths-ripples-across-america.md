@@ -2,7 +2,7 @@
 title: "How the epidemic of drug overdose deaths ripples across America"
 published: true
 date: 2016-01-20T16:32:00.000Z
-lead_copy: "The epidemic of drug overdose deaths is rippling across the country. After years of harsh treatment for addicts, many states are now taking a more compassionate approach. Watch this: "
+lead_copy: "The epidemic of drug overdose deaths is rippling across the country. After years of harsh treatment for addicts, many states are now taking a more compassionate approach. Watch this:"
 backstory_type: backstory
 video: heroin-and-the-war-on-drugs
 type: backstories

@@ -2,7 +2,7 @@
 title: "Producer Scott Michels explains the impact of Bush v. Gore on the 2016 election"
 published: true
 date: 2016-02-22T16:57:00.000Z
-lead_copy: "It may seem like Bush v. Gore is ancient history, but as producer Scott Michels explains, its legacy will weigh heavily on the 2016 election. "
+lead_copy: "It may seem like Bush v. Gore is ancient history, but as producer Scott Michels explains, its legacy will weigh heavily on the 2016 election."
 backstory_type: backstory
 video: after-bush-v-gore
 type: backstories

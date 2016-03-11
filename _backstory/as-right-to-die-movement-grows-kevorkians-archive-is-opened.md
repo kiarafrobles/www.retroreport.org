@@ -1,8 +1,8 @@
 ---
-title: "As right to die movement grows, Kevorkian\'s archive is opened"
+title: "As right to die movement grows, Kevorkian's archive is opened"
 published: true
 date: 2015-11-30T17:11:00.000Z
-lead_copy: "As the right to die movement grows, Jack Kevorkian\'s archive is opened. Watch the backstory on how he influenced today\'s Death with Dignity campaign. "
+lead_copy: "As the right to die movement grows, Jack Kevorkian's archive is opened. Watch the backstory on how he influenced today's Death with Dignity campaign."
 backstory_type: backstory
 video: a-right-to-die
 type: backstories

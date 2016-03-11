@@ -3,21 +3,21 @@ title: "When a Bridge Falls"
 published: true
 date: 2014-03-04T00:00:00.000Z
 producer:
-  - drew-magratten
+  - drew-magratten
 topic: science-technology
 description: "At the height of rush hour on August 1, 2007 in Minneapolis, Minnesota, a bridge carrying eight lanes of I-35W over the Mississippi River suddenly collapsed, sending cars trucks plunging into the water below. "
 tweet: "States are spending more money than ever to repair bridges, but engineers say it’s not enough:"
 featured_image_path: /uploads/1422556520048_466116212_1280.jpg
 appearance: dark-text
 video:
-  video_id: 9G2T1i9BLQY?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
-  video_provider: youtube
+  video_id: 9G2T1i9BLQY?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
+  video_provider: youtube
 video_2:
-  video_id: 87876277
-  video_provider: vimeo
-  video_running_time: 10
-  video_show_in_history: true
-  video_source_file: "https://player.vimeo.com/external/87876277.source.mov?s=a570c0f4d2fcb4a8f482dcbd3e5befe9&profile_id=0&download=1"
+  video_id: 87876277
+  video_provider: vimeo
+  video_running_time: 10
+  video_show_in_history: true
+  video_source_file: "https://player.vimeo.com/external/87876277.source.mov?s=a570c0f4d2fcb4a8f482dcbd3e5befe9&profile_id=0&download=1"
 # type: video
 slug: when-a-bridge-falls
 ---
@@ -31,14 +31,14 @@ Since the accident, states around the country are spending more money than ever 
 The [Retro Report blog](http://blog.retroreport.org/post/78438840642/companion-links-for-when-a-bridge-falls) has some companion links to this story.
 
 video:
-  video_id: 9G2T1i9BLQY?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
-  video_provider: youtube
+  video_id: 9G2T1i9BLQY?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
+  video_provider: youtube
 video_2:
-  video_id: 87876277
-  video_provider: vimeo
-  video_running_time: 10
-  video_show_in_history: true
-  video_source_file: "https://player.vimeo.com/external/87876277.source.mov?s=a570c0f4d2fcb4a8f482dcbd3e5befe9&profile_id=0&download=1"
+  video_id: 87876277
+  video_provider: vimeo
+  video_running_time: 10
+  video_show_in_history: true
+  video_source_file: "https://player.vimeo.com/external/87876277.source.mov?s=a570c0f4d2fcb4a8f482dcbd3e5befe9&profile_id=0&download=1"
 # type: video
 slug: when-a-bridge-falls
 ---

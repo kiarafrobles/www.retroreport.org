@@ -1,8 +1,8 @@
 ---
-title: "Scientists emerge from 8 months of simulated \"Mars\" living"
+title: "Scientists emerge from 8 months of simulated *Mars* living"
 published: true
 date: 2015-06-14T17:57:00.000Z
-lead_copy: "Scientists emerge from an isolated dome after 8 months of simulated \"Mars\" living. Sounds like it was more successful than wacky Biosphere 2. "
+lead_copy: "Scientists emerge from an isolated dome after 8 months of simulated *Mars* living. Sounds like it was more successful than wacky Biosphere 2."
 backstory_type: backstory
 video: biosphere-2-an-american-space-odyssey
 type: backstories

@@ -3,18 +3,18 @@ title: "Sybil: A Brilliant Hysteric?"
 published: true
 date: 2014-11-24T00:00:00.000Z
 producer:
-  - barbara-dury
+  - barbara-dury
 topic: health
 description: "In the 1970s, the T.V. movie “Sybil” introduced much of the nation to multiple personality disorder and launched a controversy that continues to resonate."
 tweet: "After the movie “Sybil” many were diagnosed w/multiple personality disorder, but was it just a fad?"
 featured_image_path: /uploads/1422558749714_497704566_1280.jpg
 appearance: dark-text
 video:
-  video_id: 112573275
-  video_provider: vimeo
-  video_released_at: "2014-11-24T00:00:00.000Z"
-  video_running_time: 13
-  video_show_in_history: true
+  video_id: 112573275
+  video_provider: vimeo
+  video_released_at: "2014-11-24T00:00:00.000Z"
+  video_running_time: 13
+  video_show_in_history: true
 # type: video
 slug: sybil-a-brilliant-hysteric
 ---

@@ -4,8 +4,8 @@ published: true
 date: 2015-09-14T00:00:00.000Z
 video: a-syndrome-on-trial
 producer:
-  - miriam-weintraub
-description: "The pediatric neurosurgeon who first identified shaken baby syndrome has a surprising take on the very syndrome he\'s credited with discovering. "
+  - miriam-weintraub
+description: "The pediatric neurosurgeon who first identified shaken baby syndrome has a surprising take on the very syndrome he's credited with discovering."
 tweet: "The pediatric neurosurgeon who first identified shaken baby syndrome has a surprising take on the very syndrome he's credited with discovering."
 featured_image_path: /uploads/1442157451497_35468_1_retrovoices-baby-doctor.jpg
 video:

@@ -3,23 +3,23 @@ title: "Taking the Lid Off the McDonald’s Coffee Case"
 published: true
 date: 2013-10-21T23:00:00.000Z
 producer:
-  - bonnie-bertram
+  - bonnie-bertram
 topic: law-society
 description: "In 1992, Stella Liebeck spilled scalding McDonald's coffee in her lap and later sued the company, attracting a flood of negative attention. It turns out, there’s more to the story."
 tweet: "First Stella Liebeck got burned by hot McDonald’s coffee, then she got burned by the media: "
 featured_image_path: /uploads/1422556984277_452387407_1280.jpg
 appearance: light-text
 video:
-  video_id: TE8pJe8OJq4
-  video_provider: youtube
-  video_running_time: 12
-  video_show_in_history: true
+  video_id: TE8pJe8OJq4
+  video_provider: youtube
+  video_running_time: 12
+  video_show_in_history: true
 video_2:
-  video_id: 77249334
-  video_provider: vimeo
-  video_running_time: 12
-  video_show_in_history: true
-  video_source_file: "https://player.vimeo.com/external/77249334.source.mov?s=88da1cd16f7c63a566d5a66a2f1cd4df&profile_id=0&download=1"
+  video_id: 77249334
+  video_provider: vimeo
+  video_running_time: 12
+  video_show_in_history: true
+  video_source_file: "https://player.vimeo.com/external/77249334.source.mov?s=88da1cd16f7c63a566d5a66a2f1cd4df&profile_id=0&download=1"
 # type: video
 slug: taking-the-lid-off-the-mcdonalds-coffee-case
 ---
@@ -33,16 +33,16 @@ But those details went mostly unreported, and the public made a quicker judgment
 Wake Forest University Professor John Llewellyn calls Liebeck's lawsuit the most misunderstood story in America.
 
 video:
-  video_id: TE8pJe8OJq4
-  video_provider: youtube
-  video_running_time: 12
-  video_show_in_history: true
+  video_id: TE8pJe8OJq4
+  video_provider: youtube
+  video_running_time: 12
+  video_show_in_history: true
 video_2:
-  video_id: 77249334
-  video_provider: vimeo
-  video_running_time: 12
-  video_show_in_history: true
-  video_source_file: "https://player.vimeo.com/external/77249334.source.mov?s=88da1cd16f7c63a566d5a66a2f1cd4df&profile_id=0&download=1"
+  video_id: 77249334
+  video_provider: vimeo
+  video_running_time: 12
+  video_show_in_history: true
+  video_source_file: "https://player.vimeo.com/external/77249334.source.mov?s=88da1cd16f7c63a566d5a66a2f1cd4df&profile_id=0&download=1"
 # type: video
 slug: taking-the-lid-off-the-mcdonalds-coffee-case
 ---

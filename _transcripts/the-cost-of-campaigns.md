@@ -63,7 +63,7 @@ ___ARCHIVAL (NBC, 8-11-72):_______
 
 _LIONEL HAMPTON (SINGING): Oh, President Nixon, comes marching in..._
 
-**NARRATION: It was 1972\. And President Richard Nixon was on his way to a landslide reelection, backed by one of the most successful fundraising efforts in history.**
+**NARRATION: It was 1972. And President Richard Nixon was on his way to a landslide reelection, backed by one of the most successful fundraising efforts in history.**
 
 ___ARCHIVAL (NBC, 8-11-72):_______
 

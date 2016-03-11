@@ -85,7 +85,7 @@ ___ARCHIVAL (ABC, 11-28-77):___
 
 _Nearly a million of us will die this year. Heart disease is an epidemic._
 
-DR. JEREMIAH STAMLER: The average American male reaching adulthood had one chance in five of having a heart disease before age 60\. That’s a very high risk.
+DR. JEREMIAH STAMLER: The average American male reaching adulthood had one chance in five of having a heart disease before age 60. That’s a very high risk.
 
 **NARRATION: And top researchers like Dr. Jeremiah Stamler thought they knew a big reason why.....a diet high in saturated fat and cholesterol.**
 
@@ -193,7 +193,7 @@ ___ARCHIVAL (ABC, 8-23-00):___
 
 _CHARLES GIBSON: There is an alarming report today about an increase in diabetes._
 
-DR. DARIUSH MOZAFFARIAN (FRIEDMAN SCHOOL OF NUTRITION SCIENCE & POLICY, TUFTS UNIVERSITY): It really turned on almost like a switch in 1980\. Obesity was stable for many decades. So, what, what changed in 1980?
+DR. DARIUSH MOZAFFARIAN (FRIEDMAN SCHOOL OF NUTRITION SCIENCE & POLICY, TUFTS UNIVERSITY): It really turned on almost like a switch in 1980. Obesity was stable for many decades. So, what, what changed in 1980?
 
 GARY TAUBES: We put the whole country on a low-fat diet -- and lo and behold we have an obesity epidemic -- and that’s what started my research.
 

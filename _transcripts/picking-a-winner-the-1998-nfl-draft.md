@@ -61,7 +61,7 @@ ___ARCHIVAL (ESPN, 4-18-98):___
 
 _JOE THEISMANN: These are both very good athletes. They’re both very big, young football players._
 
-BILL POLIAN (PRESIDENT, INDIANAPOLIS COLTS, 1997-2012): The scouts were split 50/50\. Those that supported Manning were intellectually convinced. Those that supported Leaf were emotionally convinced. Their argument was great athlete, much better athlete than Peyton Manning.
+BILL POLIAN (PRESIDENT, INDIANAPOLIS COLTS, 1997-2012): The scouts were split 50/50. Those that supported Manning were intellectually convinced. Those that supported Leaf were emotionally convinced. Their argument was great athlete, much better athlete than Peyton Manning.
 
 **NARRATION: By 1998, picking NFL prospects had evolved from old-time scouting to more hands-on evaluations.**
 

@@ -1,5 +1,5 @@
 ---
-title: "Related Coverage for Stealing J. Edgar Hoover\'s Secrets "
+title: "Related Coverage for Stealing J. Edgar Hoover's Secrets "
 published: true
 date: 2015-07-29T16:35:00.000Z
 backstory_type: related coverage

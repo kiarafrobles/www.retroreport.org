@@ -1,25 +1,25 @@
 ---
-title: "\"A Dingo\'s Got My Baby:\" Trial by Media"
+title: "*A Dingo's Got My Baby:* Trial by Media"
 published: true
 date: 2014-11-17T00:00:00.000Z
 producer:
-  - jennifer-forde
+  - jennifer-forde
 topic: entertainment
 description: "In 1982, an Australian mother was convicted of murdering her baby daughter. She was later exonerated, but soon fell victim to a joke that distracted the world from the real story."
 tweet: "Turns out the dingo really did eat the baby. And the true story behind the joke is a tragic one."
 featured_image_path: /uploads/1422558771169_496836121_1280.jpg
 appearance: dark-text
 video:
-  video_id: w73JwIy2Nl4?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
-  video_provider: youtube
-  video_released_at: "2014-11-17T00:00:00.000Z"
+  video_id: w73JwIy2Nl4?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
+  video_provider: youtube
+  video_released_at: "2014-11-17T00:00:00.000Z"
 video_2:
-  video_id: 111946283
-  video_provider: vimeo
-  video_released_at: "2014-11-17T00:00:00.000Z"
-  video_running_time: 14
-  video_show_in_history: true
-  video_source_file: "https://player.vimeo.com/external/111946283.source.mov?s=ece09d8f79ef172b0b79f59a7aafe58f&profile_id=0&download=1"
+  video_id: 111946283
+  video_provider: vimeo
+  video_released_at: "2014-11-17T00:00:00.000Z"
+  video_running_time: 14
+  video_show_in_history: true
+  video_source_file: "https://player.vimeo.com/external/111946283.source.mov?s=ece09d8f79ef172b0b79f59a7aafe58f&profile_id=0&download=1"
 # type: video
 slug: a-dingos-got-my-baby-trial-by-media
 ---
@@ -39,16 +39,16 @@ While in Australia Lindy battled with public opinion, in the United States a Hol
 [The media and Lindy Chamberlain, and reporting criminal matters in the Northern Territory today](http://www.abc.net.au/radionational/programs/mediareport/the-media-and-lindy-chamberlain2c-and-reporting-criminal-matte/4064942) by Dr. Belinda Middleweek, University of Technology Sydney and Barry McKay, radio producer
 
 video:
-  video_id: w73JwIy2Nl4?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
-  video_provider: youtube
-  video_released_at: "2014-11-17T00:00:00.000Z"
+  video_id: w73JwIy2Nl4?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
+  video_provider: youtube
+  video_released_at: "2014-11-17T00:00:00.000Z"
 video_2:
-  video_id: 111946283
-  video_provider: vimeo
-  video_released_at: "2014-11-17T00:00:00.000Z"
-  video_running_time: 14
-  video_show_in_history: true
-  video_source_file: "https://player.vimeo.com/external/111946283.source.mov?s=ece09d8f79ef172b0b79f59a7aafe58f&profile_id=0&download=1"
+  video_id: 111946283
+  video_provider: vimeo
+  video_released_at: "2014-11-17T00:00:00.000Z"
+  video_running_time: 14
+  video_show_in_history: true
+  video_source_file: "https://player.vimeo.com/external/111946283.source.mov?s=ece09d8f79ef172b0b79f59a7aafe58f&profile_id=0&download=1"
 # type: video
 slug: a-dingos-got-my-baby-trial-by-media
 ---

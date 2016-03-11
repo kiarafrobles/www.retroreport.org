@@ -3,24 +3,24 @@ title: "From Crack Babies to Oxytots: Lessons Not Learned"
 published: true
 date: 2015-07-22T04:00:00.000Z
 producer:
-  - kit-roane
+  - kit-roane
 topic: crime
 description: "In the 1980s, many government officials, scientists, and journalists warned that the country would be plagued by a generation of “crack babies.” They were wrong. More than 25 years later, the media is sounding a similar alarm. "
-tweet: "Recent new stories have focused on "oxytots" as a scary new trend. But is it "crack babies" redux?"
+tweet: "Recent new stories have focused on *oxytots* as a scary new trend. But is it *crack babies* redux?"
 featured_image_path: /uploads/1422558459238_437817467_1280.jpg
 appearance: light-text
 video:
-  video_id: XJ3-6qDTR-M
-  video_provider: youtube
-  video_show_in_history: true
+  video_id: XJ3-6qDTR-M
+  video_provider: youtube
+  video_show_in_history: true
 video_2:
-  video_id:
-  video_provider: vimeo
-  video_show_in_history: true
+  video_id:
+  video_provider: vimeo
+  video_show_in_history: true
 video_3:
-  video_id: 134152076
-  video_provider: vimeo
-  video_running_time: 11
+  video_id: 134152076
+  video_provider: vimeo
+  video_running_time: 11
 show_related_report_on_video_page: true
 # type: video
 slug: from-crack-babies-to-oxytots-lessons-not-learned
@@ -34,20 +34,20 @@ In 2013, Retro Report went back to look at the story of these children from the 
 
 But the story did not end there, as Retro Report reveals in its new updated video, _From Crack Babies to Oxytots_. Again, the media is raising the alarm, this time over Oxytots, newborns exposed to painkillers while still in the womb. As in the 1980s, the public fear over a new generation of drug-addicted babies may be leading to policies that do more harm than good_._
 
-_This documentary originally aired MAY 20, 2013\. It was updated on July 21, 2015._
+_This documentary originally aired MAY 20, 2013. It was updated on July 21, 2015._
 
 video:
-  video_id: XJ3-6qDTR-M
-  video_provider: youtube
-  video_show_in_history: true
+  video_id: XJ3-6qDTR-M
+  video_provider: youtube
+  video_show_in_history: true
 video_2:
-  video_id:
-  video_provider: vimeo
-  video_show_in_history: true
+  video_id:
+  video_provider: vimeo
+  video_show_in_history: true
 video_3:
-  video_id: 134152076
-  video_provider: vimeo
-  video_running_time: 11
+  video_id: 134152076
+  video_provider: vimeo
+  video_running_time: 11
 show_related_report_on_video_page: true
 # type: video
 slug: from-crack-babies-to-oxytots-lessons-not-learned
@@ -61,20 +61,20 @@ In 2013, Retro Report went back to look at the story of these children from the 
 
 But the story did not end there, as Retro Report reveals in its new updated video, _From Crack Babies to Oxytots_. Again, the media is raising the alarm, this time over Oxytots, newborns exposed to painkillers while still in the womb. As in the 1980s, the public fear over a new generation of drug-addicted babies may be leading to policies that do more harm than good_._
 
-_This documentary originally aired MAY 20, 2013\. It was updated on July 21, 2015._
+_This documentary originally aired MAY 20, 2013. It was updated on July 21, 2015._
 
 video:
-  video_id: XJ3-6qDTR-M
-  video_provider: youtube
-  video_show_in_history: true
+  video_id: XJ3-6qDTR-M
+  video_provider: youtube
+  video_show_in_history: true
 video_2:
-  video_id:
-  video_provider: vimeo
-  video_show_in_history: true
+  video_id:
+  video_provider: vimeo
+  video_show_in_history: true
 video_3:
-  video_id: 134152076
-  video_provider: vimeo
-  video_running_time: 11
+  video_id: 134152076
+  video_provider: vimeo
+  video_running_time: 11
 show_related_report_on_video_page: true
 # type: video
 slug: from-crack-babies-to-oxytots-lessons-not-learned
@@ -88,5 +88,5 @@ In 2013, Retro Report went back to look at the story of these children from the 
 
 But the story did not end there, as Retro Report reveals in its new updated video, _From Crack Babies to Oxytots_. Again, the media is raising the alarm, this time over Oxytots, newborns exposed to painkillers while still in the womb. As in the 1980s, the public fear over a new generation of drug-addicted babies may be leading to policies that do more harm than good_._
 
-_This documentary originally aired MAY 20, 2013\. It was updated on July 21, 2015._
+_This documentary originally aired MAY 20, 2013. It was updated on July 21, 2015._
 

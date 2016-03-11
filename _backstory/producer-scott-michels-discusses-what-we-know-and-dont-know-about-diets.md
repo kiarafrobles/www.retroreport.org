@@ -1,8 +1,8 @@
 ---
-title: "Producer Scott Michels discusses what we know, and don\'t know, about diets"
+title: "Producer Scott Michels discusses what we know, and don't know, about diets"
 published: true
 date: 2016-01-04T18:35:00.000Z
-lead_copy: "Producer Scott Michels discusses what we know, and don\'t know, about eating healthy. It involves more guesswork than you\'d think "
+lead_copy: "Producer Scott Michels discusses what we know, and don't know, about eating healthy. It involves more guesswork than you'd think"
 backstory_type: backstory
 video: fighting-fat
 type: backstories

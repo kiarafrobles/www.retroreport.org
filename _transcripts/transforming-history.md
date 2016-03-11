@@ -129,7 +129,7 @@ ___ARCHIVAL (RALLY IN WASHINGTON SQUARE PARK):___
 
 _SYLVIA RIVERA: I believe in us getting our rights or else I would not be out there fighting for our rights._
 
-**NARRATION: Sylvia Rivera died in 2002\. That same year, New York State passed a gay rights bill that despite Sylvia’s dying wishes did not include protections for trans people.**
+**NARRATION: Sylvia Rivera died in 2002. That same year, New York State passed a gay rights bill that despite Sylvia’s dying wishes did not include protections for trans people.**
 
 RANDY WICKER: Even on her deathbed, she fought for the rights of her people.
 

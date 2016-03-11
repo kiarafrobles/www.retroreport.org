@@ -1,5 +1,5 @@
 ---
-title: "Josh Fisher weighs in on Obama\'s new bee plan with Brian Lehrer"
+title: "Josh Fisher weighs in on Obama's new bee plan with Brian Lehrer"
 published: true
 date: 2014-09-29T16:10:00.000Z
 backstory_type: backstory

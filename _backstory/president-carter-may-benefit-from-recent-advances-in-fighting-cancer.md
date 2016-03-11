@@ -2,7 +2,7 @@
 title: "President Carter may benefit from recent advances in fighting cancer"
 published: true
 date: 2015-08-21T14:16:00.000Z
-lead_copy: "President Carter may benefit from recent advances in fighting cancer. The War on Cancer is one we thought we\'d win long ago thanks to Nixon. "
+lead_copy: "President Carter may benefit from recent advances in fighting cancer. The War on Cancer is one we thought we'd win long ago thanks to Nixon."
 backstory_type: backstory
 video: the-long-war-on-cancer
 type: backstories

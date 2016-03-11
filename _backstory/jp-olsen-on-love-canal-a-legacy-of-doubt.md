@@ -2,7 +2,7 @@
 title: "JP Olsen on Love Canal: A Legacy of Doubt"
 published: true
 date: 2013-11-25T18:24:00.000Z
-lead_copy: "JP Olsen and Chris Riback on “Love Canal: A Legacy of Doubt” "
+lead_copy: "JP Olsen and Chris Riback on “Love Canal: A Legacy of Doubt”"
 backstory_type: backstory
 video: love-canal-a-legacy-of-doubt
 type: backstories

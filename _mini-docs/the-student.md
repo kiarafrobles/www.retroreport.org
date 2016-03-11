@@ -4,10 +4,10 @@ published: true
 date: 2015-09-27T12:00:00.000Z
 video: haunted-by-columbine
 producer:
-  - erik-german
-  - olivia-katrandjian
+  - erik-german
+  - olivia-katrandjian
 topic: crime
-description: "Sean Graves was told he would never walk again after being shot during the attack at Columbine High School. This is the story of what happened next. "
+description: "Sean Graves was told he would never walk again after being shot during the attack at Columbine High School. This is the story of what happened next."
 tweet: "Sean Graves was told he would never walk again after being shot during the attack at Columbine High School. This is the story of what happened next."
 featured_image_path: /uploads/1443378348841_35717_1_retrovoices-student.jpg
 video:

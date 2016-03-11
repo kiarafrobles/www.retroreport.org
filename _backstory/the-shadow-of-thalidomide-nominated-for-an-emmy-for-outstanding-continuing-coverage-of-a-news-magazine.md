@@ -1,8 +1,8 @@
 ---
-title: "“The Shadow of Thalidomide\" nominated for an Emmy for Outstanding Continuing Coverage of a News Magazine"
+title: "“The Shadow of Thalidomide* nominated for an Emmy for Outstanding Continuing Coverage of a News Magazine"
 published: true
 date: 2015-07-23T21:45:00.000Z
-lead_copy: "“The Shadow of Thalidomide\" nominated for an Emmy for Outstanding Continuing Coverage of a News Magazine "
+lead_copy: "“The Shadow of Thalidomide* nominated for an Emmy for Outstanding Continuing Coverage of a News Magazine"
 backstory_type: backstory
 video: the-shadow-of-thalidomide
 type: backstories
