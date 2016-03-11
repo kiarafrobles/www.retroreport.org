@@ -3,7 +3,7 @@ title: "Being in the Bubble"
 published: true
 date: 2015-12-10T12:00:00.000Z
 video: the-boy-in-the-bubble
-producers:
+staff_members:
   - jeff-bernier
   - kit-roane
 description: "The curious origin of a political metaphor."
