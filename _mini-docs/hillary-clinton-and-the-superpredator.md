@@ -12,6 +12,5 @@ appearance: light-text
 video:
   video_id: mZ4Z-803JZE
   video_provider: youtube
-# type: voices
 slug: hillary-clinton-and-the-superpredator
 ---
