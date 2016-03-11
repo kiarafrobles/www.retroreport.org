@@ -2,6 +2,7 @@
 title: "Pets Gone Wild"
 published: true
 date: 2015-08-20T00:19:00.000Z
+video: pets-gone-wild
 type: video
 slug: pets-gone-wild
 ---
@@ -101,7 +102,7 @@ _<u data-redactor-tag="u">ARCHIVAL (ABC, 7-19-09):__</u>_<u data-redactor-tag="u
 
 WALTER MESHAKA: At the park it was not met with a sense of urgency that I felt it warranted. It is, in a way, a ticking time bomb. Will it be relatively localized? Will it explode, which, lo and behold, it did.
 
-**NARRATION: In the four years after Meshaka's warning, python captures around the park went from 2 a year to 70. Park officials were caught behind the curve.**
+**NARRATION: In the four years after Meshaka's warning, python captures around the park went from 2 a year to 70\. Park officials were caught behind the curve.**
 
 SKIP SNOW (WILDLIFE BIOLOGIST, EVERGLADES NATIONAL PARK, 1988-2013): We couldn't go to the Home Depot and buy a can of Snake-Be-Gone and just figure out what the-what the right dosage was to kill it. We didn't have those tools. Those tools weren't there.
 

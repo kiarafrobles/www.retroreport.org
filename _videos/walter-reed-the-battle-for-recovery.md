@@ -1,25 +1,19 @@
 ---
 title: "Walter Reed: The Battle for Recovery"
 published: true
-date: 2013-09-30T09:00:00.000Z
-release_datetime: 2013-09-30T23:00:00.000Z
-video_id:
-video_provider: vimeo
-video_show_in_history: true
+date: 2013-09-30T23:00:00.000Z
+producer:
+  - harry-hanbury
+topic: health
+description: "In 2007, the scandalous treatment of wounded soldiers at Walter Reed Army Medical Center shocked the nation. Today, after major reforms, what’s changed for America’s injured soldiers? "
+tweet: "In 2007, the treatment of soldiers at Walter Reed shocked the nation. But how much has changed?"
+featured_image_path: /uploads/1422558014499_450232088_1280.jpg
+appearance: light-text
 video:
   video_id:
   video_provider: vimeo
   video_show_in_history: true
-meta_description: "In 2007, the scandalous treatment of wounded soldiers at Walter Reed Army Medical Center shocked the nation. Today, after major reforms, what’s changed for America’s injured soldiers? "
-twitter_description: "In 2007, the scandalous treatment of wounded soldiers at Walter Reed Army Medical Center shocked the nation. Today, after major reforms, what’s changed for America’s injured soldiers? "
-topic: health
-featured_image_path: /uploads/1422558014499_450232088_1280.jpg
-producer:
-- harry-hanbury
-backstory:
-- related-coverage-for-walter-reed-the-battle-for-recovery
-- harry-hanbury-looks-back-at-the-walter-reed-scandal
-type: video
+# type: video
 slug: walter-reed-the-battle-for-recovery
 ---
 

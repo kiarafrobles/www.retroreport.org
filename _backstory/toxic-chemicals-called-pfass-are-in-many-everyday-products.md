@@ -2,7 +2,7 @@
 title: "Toxic chemicals called PFASs are in many everyday products "
 published: true
 date: 2015-06-04T21:55:00.000Z
-lead_copy: "Toxic chemicals called PFASs are in tons of everyday products -- even microwave popcorn bags. Here's some context on why regulating chemicals is so hard. "
+lead_copy: "Toxic chemicals called PFASs are in tons of everyday products -- even microwave popcorn bags. Here\'s some context on why regulating chemicals is so hard. "
 backstory_type: backstory
 video: safety-on-fire
 type: backstories

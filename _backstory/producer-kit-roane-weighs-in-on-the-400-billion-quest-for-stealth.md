@@ -2,7 +2,7 @@
 title: "Producer Kit Roane weighs in on the $400 billion quest for stealth"
 published: true
 date: 2016-01-25T16:06:00.000Z
-lead_copy: "Producer Kit Roane weighs in on the Pentagon's $400 billion quest for stealth. "
+lead_copy: "Producer Kit Roane weighs in on the Pentagon\'s $400 billion quest for stealth. "
 backstory_type: backstory
 video: runaway-plane
 type: backstories

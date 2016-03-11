@@ -1,26 +1,19 @@
 ---
 title: "On Shaky Ground"
 published: true
-date: 2014-04-14T10:00:00.000Z
-release_datetime: 2014-04-14T23:00:00.000Z
-video_id:
-video_provider: vimeo
-video_show_in_history: true
+date: 2014-04-14T23:00:00.000Z
+producer:
+  - erik-german
+topic: nature
+description: "The 1989 earthquake that shook San Francisco sent out a wake up call that continues to echo across the country. "
+tweet: "The 1989 earthquake that shook San Francisco sent out a wake up call. But how prepared is the U.S.?"
+featured_image_path: /uploads/1422558687430_471265968_1280.jpg
+appearance: light-text
 video:
   video_id:
   video_provider: vimeo
   video_show_in_history: true
-meta_description: "The 1989 earthquake that shook San Francisco sent out a wake up call that continues to echo across the country. "
-twitter_description: "The 1989 earthquake that shook San Francisco sent out a wake up call. But how prepared is the U.S.? "
-topic: nature
-featured_image_path: /uploads/1422558687430_471265968_1280.jpg
-appearance: light-text
-producer:
-- erik-german
-backstory:
-- related-coverage-for-on-shaky-ground
-- the-san-francisco-bay-area-hit-by-a-40-earthquake
-type: video
+# type: video
 slug: on-shaky-ground
 ---
 

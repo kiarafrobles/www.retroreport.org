@@ -13,3 +13,4 @@ slug: conversations-with-thinkers-producers-jp-olsen-and-scott-michels-weigh-in-
 **JP Olsen/Scott Michels on Richard Jewell**
 [Chris Riback's Conversations with Thinkers](http://chrisriback.com/2013/10/08/retro-reports-olsen-michels-richard-jewell-the-wrong-man/)
 
+---

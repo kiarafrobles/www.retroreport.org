@@ -2,7 +2,7 @@
 title: "Woman sues Starbucks for \"too hot\" coffee"
 published: true
 date: 2015-11-18T16:59:00.000Z
-lead_copy: "A woman is suing Starbucks for \"far too hot\" coffee in a $132k lawsuit. Sounds ridiculous, but don't forget the backstory on the McDonald's coffee lawsuit: "
+lead_copy: "A woman is suing Starbucks for \"far too hot\" coffee in a $132k lawsuit. Sounds ridiculous, but don\'t forget the backstory on the McDonald\'s coffee lawsuit: "
 backstory_type: backstory
 video: taking-the-lid-off-the-mcdonalds-coffee-case
 type: backstories

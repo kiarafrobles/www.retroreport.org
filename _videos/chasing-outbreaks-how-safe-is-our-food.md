@@ -1,14 +1,15 @@
 ---
 title: "Chasing Outbreaks: How Safe Is Our Food?"
 published: true
-date: 2015-05-11T11:37:00.000Z
-release_datetime: 2015-05-11T01:00:00.000Z
-video_id: 127329063
-video_provider: vimeo
-video_released_at: "2015-05-11T01:00:00.000Z"
-video_running_time: 11
-video_show_in_history: true
-video_source_file: "https://player.vimeo.com/external/127329063.source.mov?s=b5d976f6405f7f9ee972f77617cbd3c8&profile_id=0&download=1"
+date: 2015-05-11T01:00:00.000Z
+producer:
+  - scott-michels
+  - drew-magratten
+topic: health
+description: "A 1993 E. coli outbreak linked Jack in the Box hamburgers sickened 700 people and acted as a wake up call about the dangers of food-borne illness. More than 20 years later, how far have we come?"
+tweet: "More than 20 yrs after the Jack in the Box #Ecoli outbreak, millions still get food poisoning. Why?"
+featured_image_path: /uploads/1431306982326_retro-taintedmeat.jpg
+appearance: light-text
 video:
   video_id: 127329063
   video_provider: vimeo
@@ -16,25 +17,8 @@ video:
   video_running_time: 11
   video_show_in_history: true
   video_source_file: "https://player.vimeo.com/external/127329063.source.mov?s=b5d976f6405f7f9ee972f77617cbd3c8&profile_id=0&download=1"
-meta_description: "A 1993 E. coli outbreak linked Jack in the Box hamburgers sickened 700 people and acted as a wake up call about the dangers of food-borne illness. More than 20 years later, how far have we come? "
-twitter_description: "More than 20 yrs after the Jack in the Box #Ecoli outbreak, millions still get food poisoning. Why? "
-topic: health
-featured_image_path: /uploads/1431306982326_retro-taintedmeat.jpg
-appearance: light-text
 show_related_report_on_video_page: true
-producer:
-- scott-michels
-- drew-magratten
-backstory:
-- scott-michels-and-frontlines-david-e-hoffman-discuss-food-safety-with-huffpost-live
-- scott-michels-on-americas-food-safety-problem
-- related-coverage-for-chasing-outbreaks
-- ny-senator-kirsten-gillibrand-introduces-new-food-safety-bill
-- producer-scott-michels-goes-deep-with-vices-munchies
-- former-ceo-sentenced-to-28-years-for-salmonella-outbreak
-- will-chipotle-become-the-new-jack-in-the-box
-- chipotle-closes-its-doors-to-train-workers-how-to-handle-food
-type: video
+# type: video
 slug: chasing-outbreaks-how-safe-is-our-food
 ---
 

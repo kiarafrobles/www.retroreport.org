@@ -2,7 +2,7 @@
 title: "Miriam Weintraub discusses the Shaken Baby Syndrome debate"
 published: true
 date: 2015-09-14T17:27:00.000Z
-lead_copy: "As Retro Report producer Miriam Weintraub tells The Takeaway, shaken baby syndrome had rarely been questioned publicly before Woodward's case. "
+lead_copy: "As Retro Report producer Miriam Weintraub tells The Takeaway, shaken baby syndrome had rarely been questioned publicly before Woodward\'s case. "
 backstory_type: backstory
 video: a-syndrome-on-trial
 type: backstories

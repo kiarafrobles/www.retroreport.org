@@ -1,27 +1,20 @@
 ---
 title: "How DNA Changed the World of Forensics"
 published: true
-date: 2014-05-19T09:00:00.000Z
-release_datetime: 2014-05-19T23:00:00.000Z
-video_id:
-video_provider: vimeo
-video_show_in_history: true
+date: 2014-05-19T23:00:00.000Z
+producer:
+  - scott-michels
+  - kit-roane
+topic: science-technology
+description: "Before DNA testing, prosecutors relied on less sophisticated forensic techniques, including microscopic hair analysis, to put criminals behind bars. But how reliable was hair analysis?"
+tweet: "Before DNA testing the method most often used was microscopic hair analysis. But was it reliable?"
+featured_image_path: /uploads/1422559056828_475634179_1280.jpg
+appearance: light-text
 video:
   video_id:
   video_provider: vimeo
   video_show_in_history: true
-meta_description: "Before DNA testing, prosecutors relied on less sophisticated forensic techniques, including microscopic hair analysis, to put criminals behind bars. But how reliable was hair analysis? "
-twitter_description: "Before DNA testing the method most often used was microscopic hair analysis. But was it reliable? "
-topic: science-technology
-featured_image_path: /uploads/1422559056828_475634179_1280.jpg
-appearance: light-text
-producer:
-- scott-michels
-backstory:
-- fbi-admits-examiners-gave-flawed-testimony-for-decades
-- related-coverage-for-the-dna-revolution
-- scott-michels-discusses-the-fallibility-of-hair-analysis
-type: video
+# type: video
 slug: how-dna-changed-the-world-of-forensics
 ---
 

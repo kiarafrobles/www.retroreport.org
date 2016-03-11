@@ -2,7 +2,7 @@
 title: "The Pentagon to allow women in all combat units"
 published: true
 date: 2015-12-04T15:45:00.000Z
-lead_copy: "The Pentagon has announced that it will allow women to serve in all combat units. We've come a long way from the days of Tailhook. Or have we? "
+lead_copy: "The Pentagon has announced that it will allow women to serve in all combat units. We\'ve come a long way from the days of Tailhook. Or have we? "
 backstory_type: backstory
 video: the-legacy-of-tailhook
 type: backstories

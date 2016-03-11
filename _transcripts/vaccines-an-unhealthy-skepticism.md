@@ -2,6 +2,7 @@
 title: "Vaccines: An Unhealthy Skepticism"
 published: true
 date: 2015-02-01T21:00:00.000Z
+video: vaccines-an-unhealthy-skepticism
 type: video
 slug: vaccines-an-unhealthy-skepticism
 ---

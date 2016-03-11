@@ -1,26 +1,19 @@
 ---
 title: "Baby M and the Question of Surrogacy"
 published: true
-date: 2014-03-24T09:00:00.000Z
-release_datetime: 2014-03-24T23:00:00.000Z
-video_id: 89720820
-video_provider: vimeo
-video_show_in_history: true
+date: 2014-03-24T23:00:00.000Z
+producer:
+  - jill-rosenbaum
+topic: law-society
+description: "The custody battle over Baby M was the first time a court considered surrogacy. Today's families are created in many different ways. But have we resolved the question of surrogacy?"
+tweet: "The Baby M custody battle happened 30 years ago, but where do we stand with surrogacy today?"
+featured_image_path: /uploads/1422556320476_468613234_1280.jpg
+appearance: light-text
 video:
   video_id: 89720820
   video_provider: vimeo
   video_show_in_history: true
-meta_description: "The custody battle over Baby M was the first time a court considered surrogacy. Today's families are created in many different ways. But have we resolved the question of surrogacy? "
-twitter_description: "The Baby M custody battle happened 30 years ago, but where do we stand with surrogacy today? "
-topic: law-society
-featured_image_path: /uploads/1422556320476_468613234_1280.jpg
-appearance: light-text
-producer:
-- jill-rosenbaum
-backstory:
-- related-coverage-for-baby-m-and-the-question-of-surrogacy
-- jill-rosenbaum-explains-how-baby-m-impacted-surrogacy
-type: video
+# type: video
 slug: baby-m-and-the-question-of-surrogacy
 ---
 

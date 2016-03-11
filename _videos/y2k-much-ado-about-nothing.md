@@ -1,27 +1,19 @@
 ---
 title: "Y2K: Much Ado About Nothing?"
 published: true
-date: 2013-05-27T09:00:00.000Z
-release_datetime: 2013-05-27T23:00:00.000Z
-video_id:
-video_provider: vimeo
-video_show_in_history: true
+date: 2013-05-27T23:00:00.000Z
+producer:
+  - joshua-fisher
+topic: science-technology
+description: "The Y2K bug threatened to wipe out computers and disrupt modern society at the end of the 20th century. We all remember the doomsday hype, but what really happened? "
+tweet: "We all remember the Y2K doomsday hype, but what really happened? And was it all just hype?"
+featured_image_path: /uploads/1422558419190_438453574_1280.jpg
+appearance: light-text
 video:
   video_id:
   video_provider: vimeo
   video_show_in_history: true
-meta_description: "The Y2K bug threatened to wipe out computers and disrupt modern society at the end of the 20th century. We all remember the doomsday hype, but what really happened? "
-twitter_description: "The Y2K bug threatened to wipe out computers and disrupt modern society at the end of the 20th century. We all remember the doomsday hype, but what really happened? "
-topic: science-technology
-playlist:
-- panics
-featured_image_path: /uploads/1422558419190_438453574_1280.jpg
-appearance: light-text
-producer:
-- joshua-fisher
-backstory:
-- related-coverage-for-y2k-much-ado-about-nothing
-type: video
+# type: video
 slug: y2k-much-ado-about-nothing
 ---
 

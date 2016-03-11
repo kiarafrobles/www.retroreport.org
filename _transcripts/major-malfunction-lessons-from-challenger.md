@@ -2,6 +2,7 @@
 title: "Go or no Go: The Challenger Legacy"
 published: true
 date: 2014-06-02T09:00:00.000Z
+video: major-malfunction-lessons-from-challenger
 type: video
 slug: major-malfunction-lessons-from-challenger
 ---

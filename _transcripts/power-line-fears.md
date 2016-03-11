@@ -2,6 +2,7 @@
 title: "Power Line Fears"
 published: true
 date: 2014-12-01T02:00:00.000Z
+video: power-line-fears
 type: video
 slug: power-line-fears
 ---
@@ -112,7 +113,7 @@ ANCHOR: _Would you want power lines running though your neighborhood or hanging 
 
 DAVID CARPENTER (DIRECTOR, INSTITUTE FOR HEALTH AND THE ENVIRONMENT, UNIVERSITY AT ALBANY-SUNY): It doesn’t mean that every child in high magnetic field exposure is going to get leukemia. But it means twice as many as the background rate.
 
-**NARRATION: Childhood leukemia may be a dread disease, but it remains extremely rare -- normally affecting about 1 in 20,000 children a year. Even if EMFs doubled the risk for highly-exposed children, that number would be no more than 2 in 20,000. And with numbers that small, it's hard to know for sure if the studies are measuring any effect at all.**
+**NARRATION: Childhood leukemia may be a dread disease, but it remains extremely rare -- normally affecting about 1 in 20,000 children a year. Even if EMFs doubled the risk for highly-exposed children, that number would be no more than 2 in 20,000\. And with numbers that small, it's hard to know for sure if the studies are measuring any effect at all.**
 
 DAVID SAVITZ: The likely impact of electromagnetic fields, if I had to pick a single number that is the most likely, it would be zero. That is, it’s quite questionable whether these fields cause leukemia at all.
 

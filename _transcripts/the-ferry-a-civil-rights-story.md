@@ -2,6 +2,7 @@
 title: "The Ferry: A Civil Rights Story"
 published: true
 date: 2015-03-08T22:02:00.000Z
+video: the-ferry-a-civil-rights-story
 type: video
 slug: the-ferry-a-civil-rights-story
 ---

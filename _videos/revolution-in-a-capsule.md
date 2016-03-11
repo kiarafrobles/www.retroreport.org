@@ -1,29 +1,20 @@
 ---
 title: "Revolution in a Capsule"
 published: true
-date: 2014-09-22T01:00:00.000Z
-release_datetime: 2014-09-21T23:00:00.000Z
-video_id: frUHDyPJ6Kk
-video_provider: youtube
-video_released_at: "2014-09-21T23:00:00.000Z"
-video_source_file: "https://www.dropbox.com/s/kup3ef2phqmr2d0/RR221_RR_MASTER_11_12_2015_PROZAC-Yahoo%20Master.mov?dl=0"
+date: 2014-09-21T23:00:00.000Z
+producer:
+  - sarah-gross
+topic: health
+description: "When Prozac was introduced in 1988, the green-and-cream pill to treat depression launched a cultural revolution that continues to echo."
+tweet: "In 1988 the introduction of Prozac launched a cultural revolution that still echoes today. "
+featured_image_path: /uploads/1422558965975_489812484_1280.jpg
+appearance: dark-text
 video:
   video_id: frUHDyPJ6Kk
   video_provider: youtube
   video_released_at: "2014-09-21T23:00:00.000Z"
   video_source_file: "https://www.dropbox.com/s/kup3ef2phqmr2d0/RR221_RR_MASTER_11_12_2015_PROZAC-Yahoo%20Master.mov?dl=0"
-meta_description: "When Prozac was introduced in 1988, the green-and-cream pill to treat depression launched a cultural revolution that continues to echo. "
-twitter_description: "In 1988 the introduction of Prozac launched a cultural revolution that still echoes today. "
-topic: health
-featured_image_path: /uploads/1422558965975_489812484_1280.jpg
-appearance: dark-text
-producer:
-- sarah-gross
-backstory:
-- related-coverage-for-revolution-in-a-capsule
-- sarah-gross-discusses-how-prozac-swept-the-nation
-- sarah-gross-on-prozac-and-the-making-of-an-icon
-type: video
+# type: video
 slug: revolution-in-a-capsule
 ---
 

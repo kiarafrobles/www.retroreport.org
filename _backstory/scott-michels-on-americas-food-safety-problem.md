@@ -1,5 +1,5 @@
 ---
-title: "Scott Michels on America's food safety problem"
+title: "Scott Michels on America\'s food safety problem"
 published: true
 date: 2015-05-11T15:40:00.000Z
 lead_copy: "Scott Michels on why the USDA is chasing after E. coli and salmonella outbreaks, rather than leading the way on food safety. "

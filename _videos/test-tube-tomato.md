@@ -1,27 +1,20 @@
 ---
 title: "Test Tube Tomato"
 published: true
-date: 2013-06-24T09:00:00.000Z
-release_datetime: 2013-06-24T23:00:00.000Z
-video_id:
-video_provider: vimeo
-video_show_in_history: true
+date: 2013-06-24T23:00:00.000Z
+producer:
+  - jonathan-gruber
+  - matt-spolar
+topic: science-technology
+description: "In the 1990s, a bunch of gene jockeys brought the first genetically engineered food to market. The business crashed but biotech science has flourished far beyond the produce aisle. "
+tweet: "The 1st genetically engineered food, the Flvr Savr Tomato, gave rise to a very different industry:"
+featured_image_path: /uploads/1422558255448_441465677_1280.jpg
+appearance: light-text
 video:
   video_id:
   video_provider: vimeo
   video_show_in_history: true
-meta_description: "In the 1990s, a bunch of gene jockeys brought the first genetically engineered food to market. The business crashed but biotech science has flourished far beyond the produce aisle. "
-twitter_description: "In the 1990s, a bunch of gene jockeys brought the first genetically engineered food to market. The business crashed but biotech science has flourished far beyond the produce aisle. "
-topic: science-technology
-featured_image_path: /uploads/1422558255448_441465677_1280.jpg
-producer:
-- jonathan-gruber
-- matt-spolar
-backstory:
-- the-first-gmo-food-was-created-by-soil-bacteria-8000-years-ago
-- related-coverage-for-test-tube-tomato
-- russia-is-banning-genetically-modified-food
-type: video
+# type: video
 slug: test-tube-tomato
 ---
 

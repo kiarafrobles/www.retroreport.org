@@ -2,6 +2,7 @@
 title: "Safety on Fire"
 published: true
 date: 2015-05-04T00:40:00.000Z
+video: safety-on-fire
 type: video
 slug: safety-on-fire
 ---

@@ -11,3 +11,5 @@ slug: producer-karen-sughrue-looks-back-at-the-tailhook-scandal
 
 **Revisiting the Tailhook Sexual Assault Scandal**
 [NPR's The Takeaway](http://www.thetakeaway.org/story/293511-what-tailhook-scandal/)
+
+// embed: backstory_type: video: related_articles: - article: headline: source: link: ---

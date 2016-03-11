@@ -2,6 +2,7 @@
 title: "How DNA Changed the World of Forensics"
 published: true
 date: 2014-05-19T09:00:00.000Z
+video: how-dna-changed-the-world-of-forensics
 type: video
 slug: how-dna-changed-the-world-of-forensics
 ---

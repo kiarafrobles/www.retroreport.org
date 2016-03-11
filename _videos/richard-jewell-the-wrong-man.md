@@ -1,28 +1,20 @@
 ---
 title: "Richard Jewell: The Wrong Man"
 published: true
-date: 2013-10-07T09:00:00.000Z
-release_datetime: 2013-10-07T23:00:00.000Z
-video_id:
-video_provider: vimeo
-video_show_in_history: true
+date: 2013-10-07T23:00:00.000Z
+producer:
+  - scott-michels
+  - jp-olsen
+topic: crime
+description: "The 1996 Olympics in Atlanta were rocked by a bomb that killed one and injured more than 100\. In the rush to find the perpetrator, one man became a target. There was only one problem. He was innocent."
+tweet: "In the rush to find who bombed the '96 Olympics, one man was targeted. The problem? He was innocent"
+featured_image_path: /uploads/1422557960524_450957251_1280.jpg
+appearance: light-text
 video:
   video_id:
   video_provider: vimeo
   video_show_in_history: true
-meta_description: "The 1996 Olympics in Atlanta were rocked by a bomb that killed one and injured more than 100. In the rush to find the perpetrator, one man became a target. There was only one problem. He was innocent. "
-twitter_description: "The 1996 Olympics in Atlanta were rocked by a bomb that killed one and injured more than 100. In the rush to find the perpetrator, one man became a target. There was only one problem. He was innocent. "
-topic: crime
-playlist:
-- media-mishaps
-featured_image_path: /uploads/1422557960524_450957251_1280.jpg
-producer:
-- scott-michels
-- jp-olsen
-backstory:
-- conversations-with-thinkers-producers-jp-olsen-and-scott-michels-weigh-in-on-the-richard-jewell-case
-- related-coverage-of-richard-jewell-the-wrong-man
-type: video
+# type: video
 slug: richard-jewell-the-wrong-man
 ---
 

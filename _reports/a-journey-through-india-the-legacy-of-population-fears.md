@@ -3,7 +3,7 @@ title: "A Journey through India: The Legacy of Population Fears"
 published: true
 date: 2015-06-01T10:44:00.000Z
 category: Photo Essay
-description: "By 2030, India is poised to become the most populous nation in the world. The country's fertility rate has declined from an estimated 5.9 children per woman in the 1950s to 2.5 today. But concern about population persists in this country of 1.2 billion people, particularly in northern India where women on average are still having more children. "
+description: "By 2030, India is poised to become the most populous nation in the world. The country\'s fertility rate has declined from an estimated 5.9 children per woman in the 1950s to 2.5 today. But concern about population persists in this country of 1.2 billion people, particularly in northern India where women on average are still having more children. "
 meta_copy_description: " Photographs by Sarah Weiser Photographs in Birth Control Today: Karla Torres / Human Rights Law Network This report was supported in part by the Pulitzer Center on Crisis Reporting "
 featured_image_path: /uploads/1432766247506_Weiser_India_001.jpg
 video: the-population-bomb
@@ -32,7 +32,7 @@ copy:
 image_position: center bottom
 copy:
 
-<span class="s1">India has the world's largest youth population - measured as those between ages 10 and 24\. Health advocates say that in order to better address the needs of such a large young population, there needs to be greater investment in a wide range of birth control options.</span>
+<span class="s1">India has the world's largest youth population   - measured as those between ages 10 and 24\. Health advocates say that in order to better address the needs of such a large young population, there needs to be greater investment in a wide range of birth control options.</span>
 
 **Phul Kumari Devi, center, cuts sugar cane with other women from Pahsara Village, Bihar.**
 

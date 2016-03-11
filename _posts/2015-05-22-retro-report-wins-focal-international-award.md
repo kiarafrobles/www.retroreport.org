@@ -7,3 +7,6 @@ featured_image_path: /uploads/1432310123764_NominatedLong-hires-large.jpg
 type: blog
 slug: 2015-05-22-retro-report-wins-focal-international-award
 ---
+
+Retro Report wins FOCAL International Award for Go or No Go: The Challenger Legacy
+

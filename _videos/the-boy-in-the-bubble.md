@@ -2,29 +2,20 @@
 title: "The Boy in the Bubble"
 published: true
 date: 2015-12-07T01:00:00.000Z
-release_datetime: 2015-12-07T01:00:00.000Z
-video_id: rSGt_duNjGg
-video_provider: youtube
-video_released_at: "2015-12-07T01:00:00.000Z"
-video_running_time: 12
-video_source_file: "https://www.dropbox.com/s/d0tj6p3yqx06jee/RR239_RR_MASTER_12_04_2015_BUBBLE-H264_1080p.mov?dl=0"
+producer:
+  - kit-roane
+topic: health
+description: "In the early 1970s, an unusual boy captivated the nation. Now, decades later, his story continues to unfold in remarkable ways."
+tweet: "In the 1970s, the "Boy in the Bubble" captivated the nation. Decades later his story continues."
+featured_image_path: /uploads/1449598983652_37077_1_retro-boyinthebubble.jpg
+appearance: dark-text
 video:
   video_id: rSGt_duNjGg
   video_provider: youtube
   video_released_at: "2015-12-07T01:00:00.000Z"
   video_running_time: 12
   video_source_file: "https://www.dropbox.com/s/d0tj6p3yqx06jee/RR239_RR_MASTER_12_04_2015_BUBBLE-H264_1080p.mov?dl=0"
-meta_description: "In the early 1970s, an unusual boy captivated the nation. Now, decades later, his story continues to unfold in remarkable ways. "
-twitter_description: "In the 1970s, the \"Boy in the Bubble\" captivated the nation. Decades later his story continues. "
-topic: health
-featured_image_path: /uploads/1449598983652_37077_1_retro-boyinthebubble.jpg
-appearance: dark-text
-producer:
-- kit-roane
-backstory:
-- related-coverage-for-the-boy-in-the-bubble
-- producer-kit-roane-discusses-david-vetter-the-boy-who-moved-a-world-he-couldnt-touch
-type: video
+# type: video
 slug: the-boy-in-the-bubble
 ---
 

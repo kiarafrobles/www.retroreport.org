@@ -2,6 +2,7 @@
 title: "A Search for Justice"
 published: true
 date: 2014-11-10T01:00:00.000Z
+video: a-search-for-justice
 type: video
 slug: a-search-for-justice
 ---

@@ -2,6 +2,7 @@
 title: "Haunted by Columbine"
 published: true
 date: 2015-09-28T00:00:00.000Z
+video: haunted-by-columbine
 type: video
 slug: haunted-by-columbine
 ---

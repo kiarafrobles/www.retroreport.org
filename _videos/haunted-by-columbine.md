@@ -2,33 +2,21 @@
 title: "Haunted by Columbine"
 published: true
 date: 2015-09-28T00:00:00.000Z
-release_datetime: 2015-09-28T00:00:00.000Z
-video_id: npE9FKcG5hs
-video_provider: youtube
-video_released_at: "2015-09-28T00:00:00.000Z"
-video_running_time: 12
-video_source_file: "https://www.dropbox.com/s/46yytr651d6fnxu/RR261_DOC_MASTER_09_25_2015_COLUMBINE-H264_1080p.mov?dl=0"
+producer:
+  - erik-german
+  - olivia-katrandjian
+topic: crime
+description: "The killing of twelve students and a teacher at Columbine High School in 1999 continues to shape how we view and understand school shootings today."
+tweet: "Images from Columbine are part of our collective memory, but is school violence really worse?"
+featured_image_path: /uploads/1443378019781_35716_1_retro-columbine.jpg
+appearance: light-text
 video:
   video_id: npE9FKcG5hs
-  video_provider: youtube
   video_released_at: "2015-09-28T00:00:00.000Z"
   video_running_time: 12
   video_source_file: "https://www.dropbox.com/s/46yytr651d6fnxu/RR261_DOC_MASTER_09_25_2015_COLUMBINE-H264_1080p.mov?dl=0"
-meta_description: "The killing of twelve students and a teacher at Columbine High School in 1999 continues to shape how we view and understand school shootings today. "
-twitter_description: "Images from Columbine are part of our collective memory, but is school violence really worse? "
-topic: crime
-playlist:
-- media-mishaps
-featured_image_path: /uploads/1443378019781_35716_1_retro-columbine.jpg
-appearance: light-text
 show_related_report_on_video_page: true
-producer:
-- erik-german
-- olivia-katrandjian
-backstory:
-- what-everyone-got-wrong-about-columbine
-- related-coverage-for-haunted-by-columbine
-type: video
+# type: video
 slug: haunted-by-columbine
 ---
 

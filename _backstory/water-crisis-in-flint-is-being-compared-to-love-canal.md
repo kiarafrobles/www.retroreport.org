@@ -2,7 +2,7 @@
 title: "Water crisis in Flint is being compared to Love Canal"
 published: true
 date: 2016-01-29T21:04:00.000Z
-lead_copy: "The water crisis in Flint is being compared to other infamous environmental disasters like the one at Love Canal. Here's the backstory: "
+lead_copy: "The water crisis in Flint is being compared to other infamous environmental disasters like the one at Love Canal. Here\'s the backstory: "
 backstory_type: backstory
 video: love-canal-a-legacy-of-doubt
 type: backstories

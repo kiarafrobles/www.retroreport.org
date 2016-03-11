@@ -2,6 +2,7 @@
 title: "Agent Orange: Last Chapter of the Vietnam War"
 published: true
 date: 2014-05-12T15:04:00.000Z
+video: agent-orange-last-chapter-of-the-vietnam-war
 type: video
 slug: agent-orange-last-chapter-of-the-vietnam-war
 ---
@@ -64,9 +65,9 @@ ___ARCHIVAL (ABC, 12-29-70)__:_
 
 _HARRY REASONER: North Vietnam charged today that defoliants have produced many incidences of miscarriages, congenital defects and monstrosities among children._
 
-**NARRATION: The US government initially dismissed these charges as communist propaganda. But following a study that linked dioxin, a contaminant in Agent Orange, to birth defects in laboratory animals, the spraying of this herbicide was discontinued in 1970. The herbicide was also eventually banned in the US.**
+**NARRATION: The US government initially dismissed these charges as communist propaganda. But following a study that linked dioxin, a contaminant in Agent Orange, to birth defects in laboratory animals, the spraying of this herbicide was discontinued in 1970\. The herbicide was also eventually banned in the US.**
 
-**That did not stop the growing concern about Agent Orange — which took a new turn a few years after the last American soldier had left Vietnam in 1975.**
+**That did not stop the growing concern about Agent Orange — which took a new turn a few years after the last American soldier had left Vietnam in 1975\.**
 
 ___ARCHIVAL (CBS, 3-23-78)__:_
 
@@ -116,7 +117,7 @@ ___ARCHIVAL (CBS, 2-24-84__:_
 
 _MAJ GEN. MURPHY CHESNEY: The Ranch handers are not dying off like flies._
 
-**NARRATION: But the veteran's notched a victory after it was revealed that some of the herbicides makers had struggled over evidence of its potential dangers as far back as 1965.**
+**NARRATION: But the veteran's notched a victory after it was revealed that some of the herbicides makers had struggled over evidence of its potential dangers as far back as 1965\.**
 
 ___ARCHIVAL (ABC, 5-7-84)__:_
 

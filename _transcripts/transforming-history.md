@@ -2,6 +2,7 @@
 title: "Transforming History"
 published: true
 date: 2015-06-15T02:24:00.000Z
+video: transforming-history
 type: video
 slug: transforming-history
 ---
@@ -128,11 +129,11 @@ ___ARCHIVAL (RALLY IN WASHINGTON SQUARE PARK):___
 
 _SYLVIA RIVERA: I believe in us getting our rights or else I would not be out there fighting for our rights._
 
-**NARRATION: Sylvia Rivera died in 2002. That same year, New York State passed a gay rights bill that despite Sylvia’s dying wishes did not include protections for trans people.**
+**NARRATION: Sylvia Rivera died in 2002\. That same year, New York State passed a gay rights bill that despite Sylvia’s dying wishes did not include protections for trans people.**
 
 RANDY WICKER: Even on her deathbed, she fought for the rights of her people.
 
-**NARRATION: Across the country, in California three years before Stonewall, a similar uprising had taken place. It had mostly been forgotten, until historian Susan Stryker stumbled on an obscure San Francisco gay magazine<del>.</del>**
+**NARRATION: Across the country, in California three years before Stonewall, a similar uprising had taken place. It had mostly been forgotten, until historian Susan Stryker stumbled on an obscure San Francisco gay magazine~~.~~**
 
 SUSAN STRYKER (DIRECTOR, THE INSTITUTE FOR LGBT STUDIES)_:_ I found this beautiful document and I open it up and in the centerfold is this thing that says "on a hot August night in 1966, Gays rose up.”
 

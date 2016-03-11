@@ -8,17 +8,17 @@ description: "Photographs by Susan Meiselas / Magnum Photos Introduction by Raym
 featured_image_path: /uploads/1433178458331_JDNO-n9rakgF4pL0TAu9vOLB5muo879kQ-xXRhEGZewERJyBrol_Okw0Ot7KWLkRL8WW74pCbAZ1i1FqehcWXNioAA0NNxg%3Ds1600
 video: a-search-for-justice
 gallery_image_path:
-- /uploads/1423581532629_el-mozote-intro-card.jpg
-- /uploads/1423581530906_NYC15634.jpg
-- /uploads/1423581533450_NYC15635.jpg
-- /uploads/1423581533202_PAR51818.jpg
-- /uploads/1423581531382_PAR167836.jpg
-- /uploads/1423581531207_NYC16420.jpg
-- /uploads/1423581531474_NYC16421.jpg
-- /uploads/1423581532219_NYC16416.jpg
-- /uploads/1423581533324_NYC16419.jpg
-- /uploads/1423581531374_NYC16422.jpg
-- /uploads/1423581533498_NYC16414.jpg
+  - /uploads/1423581532629_el-mozote-intro-card.jpg
+  - /uploads/1423581530906_NYC15634.jpg
+  - /uploads/1423581533450_NYC15635.jpg
+  - /uploads/1423581533202_PAR51818.jpg
+  - /uploads/1423581531382_PAR167836.jpg
+  - /uploads/1423581531207_NYC16420.jpg
+  - /uploads/1423581531474_NYC16421.jpg
+  - /uploads/1423581532219_NYC16416.jpg
+  - /uploads/1423581533324_NYC16419.jpg
+  - /uploads/1423581531374_NYC16422.jpg
+  - /uploads/1423581533498_NYC16414.jpg
 slug: remembrance-of-a-massacre-el-mozote
 type: reports
 ---

@@ -1,40 +1,26 @@
 ---
 title: "The Mystery of the Missing Bees"
 published: true
-date: 2014-09-29T01:00:00.000Z
-release_datetime: 2014-09-28T23:00:00.000Z
-video_id: 107334165
-video_provider: vimeo
-video_released_at: "2014-09-28T23:00:00.000Z"
-video_show_in_history: true
+date: 2014-09-28T23:00:00.000Z
+producer:
+  - joshua-fisher
+topic: nature
+description: "The mystery of Colony Collapse Disorder has pushed honeybees into the public eye. But the story of their plight -- and its impact -- is much more complicated."
+tweet: "The mystery of Colony Collapse Disorder and the plight of the honeybee is not cut and dried."
+featured_image_path: /uploads/1422558944669_490714644_1280.jpg
+appearance: light-text
 video:
   video_id: 107334165
   video_provider: vimeo
   video_released_at: "2014-09-28T23:00:00.000Z"
   video_show_in_history: true
-meta_description: "The mystery of Colony Collapse Disorder has pushed honeybees into the public eye. But the story of their plight -- and its impact -- is much more complicated. "
-twitter_description: "The mystery of Colony Collapse Disorder and the plight of the honeybee is not cut and dried. "
-topic: nature
-playlist:
-- animal-tales
-featured_image_path: /uploads/1422558944669_490714644_1280.jpg
-appearance: light-text
-producer:
-- joshua-fisher
-backstory:
-- epa-restricts-use-of-bee-killing-pesticides
-- a-new-study-shows-honeybees-prefer-nectar-laced-with-pesticide
-- white-house-announces-plan-to-help-dying-bees
-- josh-fisher-weighs-in-on-obamas-new-bee-plan-with-brian-lehrer
-- josh-fisher-discusses-the-mystery-of-colony-collapse-disorder
-- related-coverage-for-the-mystery-of-the-missing-bees
-type: video
+# type: video
 slug: the-mystery-of-the-missing-bees
 ---
 
 There was no question about it: some 400 beehives had been alive and thriving, now they were suddenly dead and empty. The bees had simply vanished.
 
-That was the mystery commercial beekeeper Dave Hackenberg discovered in his Florida bee yard in November, 2006. And it only deepened that winter as beekeepers across the country began to report the same scenario: dead hives and vanished bees.
+That was the mystery commercial beekeeper Dave Hackenberg discovered in his Florida bee yard in November, 2006\. And it only deepened that winter as beekeepers across the country began to report the same scenario: dead hives and vanished bees.
 
 Scientists soon named the phenomenon “Colony Collapse Disorder” or CCD, and it caught the public’s attention. So did a fact few realized: honeybees play an integral role in the national food supply.
 

@@ -2,6 +2,7 @@
 title: "Voyage of the Mobro 4000"
 published: true
 date: 2013-05-06T09:20:00.000Z
+video: voyage-of-the-mobro-4000
 type: video
 slug: voyage-of-the-mobro-4000
 ---

@@ -2,6 +2,7 @@
 title: "Chasing Outbreaks: How Safe Is Our Food?"
 published: true
 date: 2015-05-11T11:37:00.000Z
+video: chasing-outbreaks-how-safe-is-our-food
 type: video
 slug: chasing-outbreaks-how-safe-is-our-food
 ---
@@ -150,7 +151,7 @@ _The Agriculture Department relies mainly on the poking and sniffing by inspecto
 
 WILLIAM JAMES (USDA 1983-2011, FOOD SAFETY CONSULTANT): We were focused on what we could see, what we could feel, what we could smell. Unhappily, bacteria cannot be detected by any of those methods.
 
-BILL MARLER: Nobody was paying attention to E. coli O157. The beef industry thought of bacteria as just a normal part of meat and that it's the consumer's responsibility to cook it.
+BILL MARLER: Nobody was paying attention to E. coli O157\. The beef industry thought of bacteria as just a normal part of meat and that it's the consumer's responsibility to cook it.
 
 _ARCHIVAL (CSPAN, CONGRESSIONAL TESTIMONY, 2-5-93):_
 

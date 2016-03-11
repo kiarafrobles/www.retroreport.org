@@ -1,8 +1,8 @@
 ---
-title: "Producer Kit Roane discusses David Vetter, the boy who moved a world he couldn't touch"
+title: "Producer Kit Roane discusses David Vetter, the boy who moved a world he couldn\'t touch"
 published: true
 date: 2015-12-09T16:18:00.000Z
-lead_copy: "Producer Kit Roane discusses David Vetter, the \"boy in the bubble,\" who moved a world he couldn't touch "
+lead_copy: "Producer Kit Roane discusses David Vetter, the \"boy in the bubble,\" who moved a world he couldn\'t touch "
 backstory_type: backstory
 video: the-boy-in-the-bubble
 type: backstories

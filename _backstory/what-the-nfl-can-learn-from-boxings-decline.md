@@ -1,8 +1,8 @@
 ---
-title: "What the NFL Can Learn from Boxing's Decline"
+title: "What the NFL Can Learn from Boxing\'s Decline"
 published: true
 date: 2015-11-09T17:52:00.000Z
-lead_copy: "Producer Matt Spolar sits down with NPR's The Takeaway to discuss the epic fight that helped put boxing in the \"niche\" category of sports. "
+lead_copy: "Producer Matt Spolar sits down with NPR\'s The Takeaway to discuss the epic fight that helped put boxing in the \"niche\" category of sports. "
 backstory_type: backstory
 video: blood-and-sport
 type: backstories

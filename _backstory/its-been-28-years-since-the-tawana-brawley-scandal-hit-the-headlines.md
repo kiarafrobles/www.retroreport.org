@@ -1,5 +1,5 @@
 ---
-title: "It's been 28 years since the Tawana Brawley scandal hit the headlines"
+title: "It\'s been 28 years since the Tawana Brawley scandal hit the headlines"
 published: true
 date: 2015-11-28T18:19:00.000Z
 lead_copy: "The Tawana Brawley scandal hit the headlines 28 yrs ago today. Looking back on his role in the controversy, what does Reverend Al Sharpton think? "

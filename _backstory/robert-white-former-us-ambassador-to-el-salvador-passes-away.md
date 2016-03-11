@@ -8,7 +8,6 @@ video: a-search-for-justice
 type: backstories
 slug: robert-white-former-us-ambassador-to-el-salvador-passes-away
 ---
-
 Robert White has passed away. He was best known for resigning after refusing to cover up the Salvadoran military's murder of four churchwomen in 1980.
 
 **Robert E. White, Ex-Ambassador to Latin America, Dies at 88**

@@ -2,6 +2,7 @@
 title: "Revolution in a Capsule"
 published: true
 date: 2014-09-22T01:00:00.000Z
+video: revolution-in-a-capsule
 type: video
 slug: revolution-in-a-capsule
 ---

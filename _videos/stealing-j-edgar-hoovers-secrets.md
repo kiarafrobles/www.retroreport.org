@@ -1,30 +1,21 @@
 ---
-title: "Stealing J. Edgar Hoover's Secrets"
+title: "Stealing J. Edgar Hoover\'s Secrets"
 published: true
-date: 2014-01-07T04:15:00.000Z
-release_datetime: 2014-01-08T00:00:00.000Z
-video_id:
-video_provider: vimeo
-video_show_in_history: true
+date: 2014-01-08T00:00:00.000Z
+producer:
+  - bonnie-bertram
+  - drew-magratten
+  - peter-klein
+topic: law-society
+description: "On March 8, 1971, a group of eight Vietnam War protestors broke into a Federal Bureau of Investigation field office in Media, Pennsylvania and stole hundreds of government documents that shocked a nation."
+tweet: "The most important heist you've never heard of: "
+featured_image_path: /uploads/1422556567980_460034724_1280.jpg
+appearance: light-text
 video:
   video_id:
   video_provider: vimeo
   video_show_in_history: true
-meta_description: "On March 8, 1971, a group of eight Vietnam War protestors broke into a Federal Bureau of Investigation field office in Media, Pennsylvania and stole hundreds of government documents that shocked a nation. "
-twitter_description: "The most important heist you've never heard of: "
-topic: law-society
-playlist:
-- staff-favorites
-featured_image_path: /uploads/1422556567980_460034724_1280.jpg
-appearance: light-text
-producer:
-- bonnie-bertram
-- drew-magratten
-- peter-klein
-backstory:
-- related-coverage-for-stealing-j-edgar-hoovers-secrets
-- bonnie-bertram-on-the-burglary-that-exposed-fbi-surveillance
-type: video
+# type: video
 slug: stealing-j-edgar-hoovers-secrets
 ---
 
@@ -36,11 +27,7 @@ A new book by Betty Medsger, [The Burglary](http://theburglary.com), identifies 
 
 * * *
 
-<figure data-type="embed">
-
-<iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/128688995&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-
-</figure>
+<figure data-type="embed"><iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/128688995&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe></figure>
 
 * * *
 

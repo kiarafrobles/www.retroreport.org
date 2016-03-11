@@ -1,8 +1,8 @@
 ---
-title: "The problem with Google's driverless cars? Other drivers"
+title: "The problem with Google\'s driverless cars? Other drivers"
 published: true
 date: 2015-03-26T20:38:00.000Z
-lead_copy: "The biggest problem with Google's driverless cars? Other cars with drivers! Watch to see how \"smart\" cars got their start. "
+lead_copy: "The biggest problem with Google\'s driverless cars? Other cars with drivers! Watch to see how \"smart\" cars got their start. "
 backstory_type: backstory
 video: the-promise-of-the-air-bag
 type: backstories

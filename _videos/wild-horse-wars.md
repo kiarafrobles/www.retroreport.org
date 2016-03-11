@@ -1,26 +1,19 @@
 ---
 title: "Wild Horse Wars"
 published: true
-date: 2013-06-17T09:00:00.000Z
-release_datetime: 2013-06-17T23:00:00.000Z
-video_id:
-video_provider: vimeo
-video_show_in_history: true
+date: 2013-06-17T23:00:00.000Z
+producer:
+  - erik-german
+topic: nature
+description: "The decades-long quest to save wild horses has run amok, creating a problem that even swooping helicopters, aging cowboys, camera-savvy activists, and millions of dollars can’t solve."
+tweet: "The decades-long quest to save wild horses has run amok: "
+featured_image_path: /uploads/1422558291852_440720673_1280.jpg
+appearance: light-text
 video:
   video_id:
   video_provider: vimeo
   video_show_in_history: true
-meta_description: "The decades-long quest to save wild horses has run amok, creating a problem that even swooping helicopters, aging cowboys, camera-savvy activists, and millions of dollars can’t solve. "
-twitter_description: "The decades-long quest to save wild horses has run amok, creating a problem that even swooping helicopters, aging cowboys, camera-savvy activists, and millions of dollars can’t solve. "
-topic: nature
-playlist:
-- animal-tales
-featured_image_path: /uploads/1422558291852_440720673_1280.jpg
-producer:
-- erik-german
-backstory:
-- related-coverage-for-wild-horse-wars
-type: video
+# type: video
 slug: wild-horse-wars
 ---
 

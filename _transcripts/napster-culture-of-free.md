@@ -2,6 +2,7 @@
 title: "Napster: Culture of FREE"
 published: true
 date: 2015-07-29T04:00:00.000Z
+video: napster-culture-of-free
 type: video
 slug: napster-culture-of-free
 ---
@@ -78,7 +79,7 @@ ALI AYDAR: 40,000 wasn’t a big number, but it was bigger than what I thought i
 
 **NARRATION: And in the ‘90s, consumers’ emotional ties to music equaled big money — no one batted an eye when Puff Daddy’s record label made two music videos featuring elaborate helicopter chases in consecutive years.**
 
-STEVE KNOPPER (CONTRIBUTING EDITOR, ROLLING STONE): The CD boom was from ’84 to 2000. You actually had to drive your car to the Tower Records and buy a CD for $18 to get the one song you liked. And so that was a good model. It made the industry tons and tons of cash.
+STEVE KNOPPER (CONTRIBUTING EDITOR, ROLLING STONE): The CD boom was from ’84 to 2000\. You actually had to drive your car to the Tower Records and buy a CD for $18 to get the one song you liked. And so that was a good model. It made the industry tons and tons of cash.
 
 CHUMBAWUMBA VIDEO: I get knocked down, but I get up again…
 
@@ -86,7 +87,7 @@ ALBHY GALUTEN (V.P. MEDIA TECHNOLOGY STRATEGY, SONY): Selling millions of Chumba
 
 GREG HAMMER: That was pretty much the end of that era, because very soon afterwards, Napster really took hold in the public’s consciousness, and the consumer realized that they could get the music that that they wanted to hear for free.
 
-**NARRATION: It was on college campuses — with high speed internet that Napster really took off in the fall of ’99.**
+**NARRATION: It was on college campuses — with high speed internet that Napster really took off in the fall of ’99\.**
 
 ___ARCHIVAL (MTV NEWS, 3-31-00):___
 

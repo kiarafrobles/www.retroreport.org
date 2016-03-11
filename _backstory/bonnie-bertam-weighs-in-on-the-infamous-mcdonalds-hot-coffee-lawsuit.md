@@ -1,5 +1,5 @@
 ---
-title: "Bonnie Bertam weighs in on the infamous McDonald's hot coffee lawsuit"
+title: "Bonnie Bertam weighs in on the infamous McDonald\'s hot coffee lawsuit"
 published: true
 date: 2013-10-20T20:45:00.000Z
 backstory_type: backstory
