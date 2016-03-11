@@ -1,14 +1,14 @@
 ---
 title:
 published: false
-date:
-producers:
+date: 2016-01-01T00:00:00.000Z
+staff_members:
 topic:
 description:
 tweet:
 featured_image_path:
 appearance: dark-text
-video:
+source_video:
   video_id:
   video_provider:
   video_released_at:

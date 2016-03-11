@@ -3,13 +3,13 @@ title:
 published: false
 date:
 video:
-producers:
+staff_members:
 topic:
 description:
 tweet:
 featured_image_path:
 appearance: dark-text
-video:
+source_video:
   video_id:
   video_provider:
   video_released_at:
