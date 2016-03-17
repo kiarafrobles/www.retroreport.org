@@ -1,7 +1,11 @@
 # Site settings
 title: Retro Report
 email: budparr@sonnetmedia.net
+tagline: "Headlines Fade. The Stories Continue"
 description: "An innovative documentary news organization launched in 2013 as a timely online counterweight to today’s 24/7 news cycle"
+description_long: "How often does a great story dominate the headlines, only to be dropped from the news cycle? How often do journalists tell us of a looming danger or important discovery – only to move quickly to the next new thing? What really happened? How did these events change us? And what are the lingering consequences that may affect our society to this day?
+<br /><br />
+These are the questions we are answering at Retro Report, an innovative documentary news organization launched in 2013 as a timely online counterweight to today’s 24/7 news cycle."
 url: http://www.retroreport.org/
 
 #CONTENT VARIABLES
@@ -45,13 +49,15 @@ permalink: pretty
 future: false
 
 # PLUGINS
-#gems:
-# - jekyll-seo-tag
+gems:
+  - jekyll-seo-tag
 # - html-proofer
  #- jekyll-lunr-js-search
  #- jekyll-sitemap
 
 # FILES
+include:
+  - _landing_pages
 exclude:
   - app
   - readme.md
@@ -74,9 +80,6 @@ collections:
     output: false
   board:
     output: true
-  landing_pages:
-    output: true
-    permalink: '/:path/'
   mini-docs:
     output: true
   playlists:
@@ -105,11 +108,6 @@ defaults:
       layout: 'post'
   - scope:
       path: ''
-      type: 'pages'
-    values:
-      layout: 'page'
-  - scope:
-      path: ''
       type: 'backstory'
     values:
       layout: 'post'
@@ -119,10 +117,11 @@ defaults:
     values:
       layout: 'post'
   - scope:
-      path: ''
-      type: 'landing_pages'
+      path: '_landing_pages'
+      type: 'pages'
     values:
-      layout: 'post'
+      layout: 'page'
+      permalink: '/:basename/'
   - scope:
       path: ''
       type: 'playlists'

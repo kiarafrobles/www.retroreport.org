@@ -1,0 +1,82 @@
+{% comment %} {% if resetHeroBackgroundTop %}
+  {% assign heroBackgroundTop = resetHeroBackgroundTop %}
+{% else %}
+{% assign heroBackgroundTop = 0.5 %}
+{% endif %}
+
+{% if resetHeroBackgroundBottom %}
+  {% assign heroBackgroundBottom = resetHeroBackgroundBottom %}
+{% else %}
+{% assign heroBackgroundBottom = 0.37 %}
+{% endif %}
+
+{% for object in objects %}
+  {% assign featured_image_object = object.featured_image.url %}
+{% endfor %}
+{% assign base_url = getSetting('site_url') %}
+{% assign featured_image = item.featured_image|imageSize(1600,'auto') %}
+{% assign featured_image_mobile = item.featured_image|imageSize('auto', 600) %}
+{% if featured_image %}
+  {% assign background_image = featured_image %}
+  {% assign background_image_mobile = featured_image_mobile %}
+{% elsif featured_image_object %}
+  {% assign background_image = base_url + featured_image_object %}
+  {% assign background_image_mobile = base_url + featured_image_object %}
+{% else %}
+  {% assign background_image = cms.global.featured_image.url %}
+  {% assign background_image_mobile = cms.global.featured_image.url %}
+{% endif %}
+
+ {% endcomment %}
+{% assign background_image = page.featured_image_path %}
+{% assign background_image_mobile = page.featured_image_path %}
+
+<style type="text/css">
+
+  .gradient {
+    background-color: #101010;
+    background-image: url({{ background_image_mobile }});
+    background-position: center top;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+  }
+
+  .gradient:hover {
+    opacity: 0.98;
+    -webkit-transition:opacity 0s ease-in 0s;
+    -moz-transition:opacity 0s ease-in 0s;
+    transition:opacity 0s ease-in 0s
+  }
+
+  @media screen and (min-width: 46.5em) {
+    {% if item.banner_height %}
+    .hero {
+      height:{{ item.banner_height }}px;
+    }
+    {% endif %}
+    body.home .gradient,body.video .gradient, .gradient {
+      background: -moz-linear-gradient(top,  rgba(0,0,0,{% if heroBackgroundTop %}{{ heroBackgroundTop }}{% endif %}) 0%, rgba(0,0,0,{% if heroBackgroundBottom %}{{ heroBackgroundBottom }}{% endif %}) 100%), url({{ background_image }}) no-repeat top center;
+
+      background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,{% if heroBackgroundTop %}{{ heroBackgroundTop }}{% endif %})), color-stop(100%,rgba(0,0,0,{% if heroBackgroundBottom %}{{ heroBackgroundBottom }}{% endif %}))), url({{ background_image }}) no-repeat top center;
+
+      background: -webkit-linear-gradient(top,  rgba(0,0,0,{% if heroBackgroundTop %}{{ heroBackgroundTop }}{% endif %}) 0%,rgba(0,0,0,{% if heroBackgroundBottom %}{{ heroBackgroundBottom }}{% endif %}) 100%), url({{ background_image }}) no-repeat top center;
+
+      background: -o-linear-gradient(top,  rgba(0,0,0,{% if heroBackgroundTop %}{{ heroBackgroundTop }}{% endif %}) 0%,rgba(0,0,0,{% if heroBackgroundBottom %}{{ heroBackgroundBottom }}{% endif %}) 100%), url({{ background_image }}) no-repeat top center;
+
+      background: -ms-linear-gradient(top,  rgba(0,0,0,{% if heroBackgroundTop %}{{ heroBackgroundTop }}{% endif %}) 0%,rgba(0,0,0,{% if heroBackgroundBottom %}{{ heroBackgroundBottom }}{% endif %}) 100%), url({{ background_image }}) no-repeat top center;
+
+      background: linear-gradient(to bottom,  rgba(0,0,0,{% if heroBackgroundTop %}{{ heroBackgroundTop }}{% endif %}) 0%,rgba(0,0,0,{% if heroBackgroundBottom %}{{ heroBackgroundBottom }}{% endif %}) 100%), url({{ background_image }}) no-repeat top center;
+
+      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#99000000', endColorstr='#5e000000',GradientType=0 );
+      filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='{{ background_image }}',sizingMethod='scale');
+      -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='{{ background_image }}',sizingMethod='scale')";
+      background-position: top center;
+
+      background-size:cover;
+  }
+   .background-fixed {
+      background-attachment: fixed;
+    }
+  }
+</style>
