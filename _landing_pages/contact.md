@@ -2,8 +2,9 @@
 title: "Contact"
 published: true
 date: 2015-01-13T13:30:00.000Z
-type: about
+page_category: about
 slug: contact
+include_content: forms/contact.html
 ---
 
 Retro Report is produced in New York City

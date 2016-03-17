@@ -4,7 +4,7 @@ published: true
 date: 2015-01-11T22:10:00.000Z
 featured_image_path: /uploads/1422500293063_retro-report-screenshot.jpg
 description: "How often does a great story dominate the headlines, only to be dropped from the news cycle? How often do journalists tell us of a looming danger or important discovery – only to move quickly to the next new thing? What really happened? How did these events change us? And what are the lingering consequences that may affect our society to this day?"
-type: about
+page_category: about
 ---
 
 ## Our Mission
@@ -42,26 +42,26 @@ We know individuals may interpret historical events and their consequences diffe
 **News and Documentary Emmy Awards (2015)
 **"Go or No Go: The Challenger Legacy" winner for Outstanding Editing
 
-**<span class="s1"></span>The Edward R. Murrow Awards (2015)
-**“A Search for Justice" winner of Best National Continuing Coverage
+**The Edward R. Murrow Awards (2015)**
+“A Search for Justice" winner of Best National Continuing Coverage
 
-<span class="s1">**The Webby Awards (2015)**
-</span>“Go or No Go: the Challenger Legacy" chosen as an honoree for Best Editing
+**The Webby Awards (2015)**
+“Go or No Go: the Challenger Legacy" chosen as an honoree for Best Editing
 
-<span class="s1">**FOCAL International Award (2015)**
-</span>“Go or No Go: The Challenger Legacy" winner of best innovative use of archival footage
+**FOCAL International Award (2015)**
+“Go or No Go: The Challenger Legacy" winner of best innovative use of archival footage
 
-<span class="s1">**The News & Documentary Emmy Awards (2014)**
-</span>“The Shadow of Thalidomide" nominated for Outstanding Continuing Coverage of a News Magazine
+**The News & Documentary Emmy Awards (2014)**
+“The Shadow of Thalidomide" nominated for Outstanding Continuing Coverage of a News Magazine
 
-<span class="s1">**The Edward R. Murrow Awards (2014)**
-</span>Retro Report winner of Regional Overall Excellence
+**The Edward R. Murrow Awards (2014)**
+Retro Report winner of Regional Overall Excellence
 
 **The Edward R. Murrow Awards (2014)**
 “The Sleeper Cell That Wasn't" winner of Best Regional Video News Documentary
 
-<span class="s1">**The Gracie Awards (2014)**
-</span>“The Shadow of Thalidomide" winner of Outstanding Original Online Programming
+**The Gracie Awards (2014)**
+“The Shadow of Thalidomide" winner of Outstanding Original Online Programming
 
-<span class="s1">**The Mirror Awards (2014)**
-</span><span class="s1">“Taking the Lid Off the McDonald's Coffee Case" nominated for</span> <span class="s2">Best Single Story</span>
+**The Mirror Awards (2014)**
+“Taking the Lid Off the McDonald's Coffee Case" nominated for Best Single Story

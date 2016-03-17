@@ -7,6 +7,7 @@ description_long: "How often does a great story dominate the headlines, only to 
 <br /><br />
 These are the questions we are answering at Retro Report, an innovative documentary news organization launched in 2013 as a timely online counterweight to today’s 24/7 news cycle."
 url: http://www.retroreport.org/
+email_signup_heading: Get RETRO REPORT by Email
 
 #CONTENT VARIABLES
 
@@ -34,6 +35,9 @@ report_types:
   - "Video Extra"
   - "Multimedia Report"
 
+page_category:
+  - ''
+  - about
 
 # == DO NOT EDIT BELOW THIS LINE #
 

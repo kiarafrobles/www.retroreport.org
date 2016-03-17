@@ -81,8 +81,8 @@ input.email-input {
     width:24%;
   }
 }
-.sidebar ul li a.active-item {
-background-color: $black;
+.sidebar ul li a.active {
+  background-color: $black;
   color: $yellow2;
 }
 
