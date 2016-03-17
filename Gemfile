@@ -5,7 +5,7 @@ gem 'github-pages'
 group :jekyll_plugins do
   #### gem 'jekyll-assets'
   # gem 'autoprefixer-rails'
-  #### gem 'jekyll-seo-tag'
+  gem 'jekyll-seo-tag'
   #### gem "html-proofer"
   #### gem "jekyll-lunr-js-search"
   #### gem 'jekyll-sitemap'

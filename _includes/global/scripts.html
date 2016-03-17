@@ -1,0 +1,33 @@
+<script src="/assets/js/scripts.min.js" {% unless page.url == '/search-results/' %}async="true"{% endunless %}></script>
+
+  <!-- Go to www.addthis.com/dashboard to customize your tools -->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-539e3ee23fa64675" async="async"></script>
+
+  <script type="text/javascript">
+  var addthis_share = addthis_share || {}
+  addthis_share = {
+  	passthrough : {
+  		twitter: {
+  			via: "RetroReport"
+  		}
+  	}
+  }
+  </script>
+
+
+<script type="text/javascript">
+  WebFontConfig = {
+
+    google: { families: [ 'Lato:400,300,300italic,400italic,700,700italic,900,900italic:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+
+  {% include _script-facebook-pixel.html %}

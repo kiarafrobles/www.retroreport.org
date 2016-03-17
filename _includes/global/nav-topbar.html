@@ -1,0 +1,51 @@
+  <header class="navigation" role="banner" data-search-index="false">
+    <div class="navigation-wrapper">
+      <div class="brand">
+        <a href="/" class="logo">
+          <img src="/assets/images/logo-retroreport-259x50.png" alt="Logo Image">
+          <div class="tagline">{{ site.tagline }}</div>
+        </a>
+        <button type="button" class="js-menu-trigger sliding-panel-button">
+          MENU
+        </button>
+      </div>
+      <nav id="js-navigation-menu" role="navigation">
+        <ul class="navigation-menu showTK">
+          <li class="nav-link more"><a href="/library/">Library</a>
+            <ul class="submenu">
+              <li id="filter-none">
+                <a href="/library/" {% if page.url == page.topic %} class="active-item"{% endif %}> {% comment %} TODO: find appropriate match for active link {% endcomment %}
+                  All Retro Reports
+                </a>
+              </li>
+              <li id="filter-none">
+                <a href="/voices/" class="button{% if page.url == '/voices/' %} active-item{% endif %}">
+                  Mini Docs
+                </a>
+              </li>
+              <li id="filter-none">
+                <a href="/reports/" class="button{% if page.url == '/reports/' %} active-item{% endif %}">
+                  Photo Essays and More
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-link">
+            <a href="/about-retro-report/">About</a>
+          </li>
+          <li class="nav-link">
+            <a href="/blog/">Blog</a>
+          </li>
+          <li class="nav-link donate-button">
+            <a href="/donate/">Donate</a>
+          </li>
+        </ul>
+      </nav>
+      <div class="navigation-tools">
+        <div class="search-bar">
+          {% include forms/search.html %}
+        </div>
+      </div>
+    </div>
+  </header>
+

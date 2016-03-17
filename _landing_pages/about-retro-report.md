@@ -5,7 +5,6 @@ date: 2015-01-11T22:10:00.000Z
 featured_image_path: /uploads/1422500293063_retro-report-screenshot.jpg
 description: "How often does a great story dominate the headlines, only to be dropped from the news cycle? How often do journalists tell us of a looming danger or important discovery – only to move quickly to the next new thing? What really happened? How did these events change us? And what are the lingering consequences that may affect our society to this day?"
 type: about
-slug: about-retro-report
 ---
 
 ## Our Mission
