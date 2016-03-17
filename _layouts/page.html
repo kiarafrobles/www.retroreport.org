@@ -1,5 +1,6 @@
 ---
 layout: default
+sidebar: yoyo
 ---
 
 {% assign pages = site.pages | where: 'page_category', page.page_category %}
@@ -30,6 +31,11 @@ layout: default
      {% endif %}
    </header>
  {% endunless %}
+
+ layout {{ layout.sidebar }}<br />
+ page {{ page.sidebar }}<br />
+
+
  {% if page.content != '' %}
    <div id="entry-content" class="entry-content prose">
      {{ content | markdownify }}
