@@ -53,6 +53,7 @@ full_rebuild: true
 timezone: Etc/Zulu
 permalink: pretty
 future: false
+version: 3.0.3
 
 # PLUGINS
 gems:
