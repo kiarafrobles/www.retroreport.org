@@ -32,6 +32,10 @@
   @include outer-container(80%);
 }
 
+.row-spaced {
+  margin-bottom: 4em;
+}
+
 ///////////////////////// ARTICLES /////////////////////////
 
 article.hentry, article.subcontent {

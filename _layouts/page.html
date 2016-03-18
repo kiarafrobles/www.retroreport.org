@@ -1,6 +1,5 @@
 ---
 layout: default
-sidebar: yoyo
 ---
 
 {% assign pages = site.pages | where: 'page_category', page.page_category %}
@@ -31,18 +30,13 @@ sidebar: yoyo
      {% endif %}
    </header>
  {% endunless %}
-
- layout {{ layout.sidebar }}<br />
- page {{ page.sidebar }}<br />
-
-
  {% if page.content != '' %}
    <div id="entry-content" class="entry-content prose">
      {{ content | markdownify }}
-     {% if page.include_content %}
-        {% include {{ page.include_content }} %}
-     {% endif %}
    </div>
+ {% endif %}
+ {% if page.include_content %}
+    {% include {{ page.include_content }} %}
  {% endif %}
 </article>
 <div class="has-layout">

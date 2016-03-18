@@ -83,7 +83,7 @@ collections:
   backstory:
     output: false
   board:
-    output: true
+    output: false
   mini-docs:
     output: true
   playlists:
@@ -120,6 +120,7 @@ defaults:
       type: 'board'
     values:
       layout: 'post'
+      no_page: true
   - scope:
       path: '_landing_pages'
       type: 'pages'

@@ -1,0 +1,4 @@
+{% assign board = site.board | sort: 'last_name'%}
+{% for object in board %}
+  {% include _bios.html %}
+{% endfor %}

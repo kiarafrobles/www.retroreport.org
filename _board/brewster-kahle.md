@@ -9,4 +9,3 @@ slug: brewster-kahle
 ---
 
 Brewster Kahle is the founder of the Internet Archive, which now preserves over 20 petabytes of data—the books, Web pages, music, television, and software of our cultural heritage, working with more than 400 library and university partners to create a digital library, accessible to all. Brewster graduated from the Massachusetts Institute of Technology where he studied artificial intelligence.
-

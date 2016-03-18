@@ -1,0 +1,38 @@
+<div class="row row-spaced">
+  {% unless object.no_page == true %}
+    <h3>
+      <a href="{{ object.url }}">
+        {{ object.title }}
+      </a>
+    </h3>
+  {% else %}
+    <h3>
+      {{ object.title }}
+    </h3>
+  {% endunless %}
+
+  {% if object.position %}
+    <strong>
+      {{ object.position }}
+    </strong>
+  {% endif %}
+  {% if object.image_path %}
+    <div style="width:175px;">
+      <img src="{{ object.image_path }}" style="width:175px;float:left;margin-right:1.5em;">
+    </div>
+  {% endif %}
+  <div class="right">
+    {% if object.related_video %}
+      <small>
+        <a href="{{ object.url }}">
+          See&nbsp;{% if object.first_name %}{{ object.first_name }}'s{% endif %}&nbsp;videos
+        </a>
+      </small>
+      <br />
+    {% endif %}
+  {{ object.content | markdownify }}
+  {% if object.twitter_handle %}
+      <a href="http://twitter.com/{{ object.twitter_handle }}">{{ object.twitter_handle }}</a>
+  {% endif %}
+  </div>
+</div>
