@@ -1,0 +1,16 @@
+{% assign masthead_executive = site.staff_members | where:'role', 'Executive' %}
+{% assign masthead_all_staff = site.staff_members | sort: 'last_name' %}
+
+{% if masthead_executive %}
+ {% for object in masthead_executive %}
+   {% include _bios.html  %}
+ {% endfor %}
+ {% endif %}
+ <h2>Staff</h2>
+ {% if masthead_all_staff %}
+  {% for object in masthead_all_staff %}
+    {% unless object.role == "Executive" or object.role == 'Not on Masthead' %}
+      {% include _bios.html  %}
+    {% endunless %}
+  {% endfor %}
+ {% endif %}

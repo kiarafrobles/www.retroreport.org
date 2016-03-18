@@ -17,8 +17,9 @@
     </strong>
   {% endif %}
   {% if object.image_path %}
+    {% assign image = object.image_path %}
     <div style="width:175px;">
-      <img src="{{ object.image_path }}" style="width:175px;float:left;margin-right:1.5em;">
+      <img src="{{ image | imgix_url: w: 175, h: 175, fit:'clamp', exp:'1' }}" style="border:3px solid #ddd;width:175px;float:left;margin-right:1.5em;margin-top:.5em;">
     </div>
   {% endif %}
   <div class="right">
@@ -30,7 +31,9 @@
       </small>
       <br />
     {% endif %}
-  {{ object.content | markdownify }}
+    {% if object.content %}
+      {{ object.content | markdownify }}
+    {% endif %}
   {% if object.twitter_handle %}
       <a href="http://twitter.com/{{ object.twitter_handle }}">{{ object.twitter_handle }}</a>
   {% endif %}

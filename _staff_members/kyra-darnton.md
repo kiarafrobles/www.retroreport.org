@@ -5,7 +5,7 @@ date: 2015-01-13T05:03:00.000Z
 role: Executive
 first_name: Kyra
 last_name: Darnton
-twitter_handle: "@Kyra Darnton"
+twitter_handle: "@KyraDarnton"
 position: Executive Producer
 description: "Kyra Darnton is the executive producer of Retro Report"
 type: staff
