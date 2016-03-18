@@ -45,7 +45,7 @@ page_category:
 # BUILD VARIABLES
 google_analytics_id: UA-xxxxxxx-4
 bust_css_cache: true
-image_url: http://retroreport.imgix.net
+image_url: https://retroreport.imgix.net
 imgix:
   source: retroreport.imgix.net
 production: false
@@ -57,7 +57,6 @@ future: false
 # PLUGINS
 gems:
   - jekyll-seo-tag
-  - jekyll/imgix
 # - html-proofer
  #- jekyll-lunr-js-search
  #- jekyll-sitemap
