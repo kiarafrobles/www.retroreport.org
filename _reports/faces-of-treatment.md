@@ -6,6 +6,22 @@ category: Photo Essay
 tagline: ​​Photographs by Sarah Weiser​​​
 featured_image_path: /uploads/1437495512888_SW_Retro_Addiction_008_cropped-1600.jpg
 banner_height: 520
+slideshow:
+  - background_image_path: /images/slider/bg1.jpg
+    main_heading: First Slide
+    sub_heading: This is the sub heading for the first slide
+    read_more_link: http://google.com
+    pop_up_image_path: /images/slider/img1.png
+  - background_image_path: /images/slider/bg2.jpg
+    main_heading: Second Slide
+    sub_heading: This is the sub heading for the second slide
+    read_more_link: /blog.html
+    pop_up_image_path: /images/slider/img2.png
+  - background_image_path: /images/slider/bg3.jpg
+    main_heading: Third Heading
+    sub_heading: This is the sub heading for the third slide
+    read_more_link: /portfolio.html
+    pop_up_image_path: /images/slider/img3.png
 video: from-crack-babies-to-oxytots-lessons-not-learned
 slug: faces-of-treatment
 type: reports
