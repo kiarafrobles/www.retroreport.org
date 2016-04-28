@@ -4,6 +4,7 @@ published: true
 date: 2015-07-22T11:38:00.000Z
 category: Photo Essay
 tagline: ​​Photographs by Sarah Weiser​​​
+slideshow_path:
 featured_image_path: /uploads/1437495512888_SW_Retro_Addiction_008_cropped-1600.jpg
 banner_height: 520
 slideshow:
