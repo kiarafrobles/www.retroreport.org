@@ -54,8 +54,6 @@ GEM
       activesupport (>= 2, < 5)
       nokogiri (>= 1.4)
     i18n (0.7.0)
-    imgix (1.1.0)
-      addressable
     jekyll (3.0.3)
       colorator (~> 0.1)
       jekyll-sass-converter (~> 1.0)
@@ -72,8 +70,6 @@ GEM
       octokit (~> 4.2)
     jekyll-github-metadata (1.9.0)
       octokit (~> 4.0)
-    jekyll-imgix (1.1.0)
-      imgix (~> 1.1.0)
     jekyll-mentions (1.0.1)
       html-pipeline (~> 2.3)
       jekyll (~> 3.0)
@@ -132,7 +128,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-imgix
   jekyll-seo-tag
 
 BUNDLED WITH
