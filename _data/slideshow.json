@@ -1,23 +1,11 @@
-[
-	{
-		"name": "Faces of Treatment 2",
-		"image": {
-			"image_path": "/uploads/1422556466030_466954616_1280.jpg",
-			"copy": "Angela Holmes, 37, center, a recovering heroin addict who has been clean since 2007, with her daughter, Armani Davis, 6, left, and son Jermaine Davis, 12, at the Early Childhood Development Center at CCHP. Both children were born when Holmes was in methadone treatment. “I’m really trying to fix my life,” says Holmes, who adds that her drug use started at age 14 when she was given PCP by her stepfather. Holmes, who plans on returning to school, says she wants to lead her children by example. “My life story - which is negative to them - I don’t want to keep using that. I want to show them more than I can tell them.”  who plans on returning to school, says she wants to lead her children by example. My life story - which is negative to them - I don’t want to keep using that. I want to show them more than I can tell them."
-		}
-	},
-	{
-		"name": "Stuff and Nonesense",
-		"image": {
-			"image_path": "/uploads/1422556466030_466954616_1280.jpg",
-			"copy": "Nothing much here. But the copy could get longer. What if I had to go on two lines?  This **could** by markdwon."
-		}
-	},
-	{
-		"name": "Faces of Treatment",
-		"image": {
-			"image_path": "/uploads/1421952695446_10750118_919507174728369_399881278914132751_o.jpg",
-			"copy": "Robin Beard, right, a Senior Counselor at CCHP, helps lead the Young Mothers group, which provides educational and other support for mothers and pregnant women on methadone. “When you have an addiction, so many things come into play,” says CCHP’s Medical Director Mariely Fernandez. “So many social factors, so many economic factors… you just can’t treat it in a singular, silo kind of approach.”"
-		}
+[{
+	"copy": "<p>Angela Holmes, 37, with her fifth child, Jaheem Davis, 17 months old. Holmes first came to the Center for Comprehensive Health Practice (CCHP) in East Harlem in 2003, eight months pregnant and in desperate need of treatment for her heroin addiction. “I knew time was running out,” Holmes said. “Honestly this was the only program in New York that would take me pregnant.” Pregnant women addicted to opioids - whether illicit drugs like heroin or prescribed painkillers like OxyContin - face a dearth of treatment options, say doctors and patients alike.\n</p>",
+	"image": {
+		"height": 1600,
+		"resize_url": "http://lh3.googleusercontent.com/oUZng71-CYPpX80IzcEbKBxmL2SStUWflbooT5dx8us2NX6JHTrwnKIJT1Yfz9HrMVjJ7Q2htdcDf-VqlNRbCum2xwgNPvE",
+		"size": 493588,
+		"type": "image/jpeg",
+		"url": "/webhook-uploads/1437492489603_SW_Retro_Addiction_001-1600px.jpg",
+		"width": 1540
 	}
-]
+}]
