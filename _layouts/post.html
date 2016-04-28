@@ -9,6 +9,21 @@ layout: default
   </header>
 
   <div class="post-content" itemprop="articleBody">
+
+    df
+
+{{ page.slideshow_path }}
+
+{% assign slideshows = page.slideshow_path | remove: '/_data/' | remove: '.json' %}
+
+<h2>{{ slideshows }}</h2>
+
+
+{% for slideshow in slideshows %}
+  <h3>{{ slideshow.name }}</h3>
+{% endfor %}
+
+<hr><hr><hr><hr><hr>
     {{ content }}
   </div>
 
