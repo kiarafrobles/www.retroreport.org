@@ -10,7 +10,7 @@ slideshow:
   - background_image_path: /images/slider/bg1.jpg
     main_heading: First Slide
     sub_heading: This is the sub heading for the first slide
-    read_more_link: http://google.com
+    read_more_link: 'http://google.com'
     pop_up_image_path: /images/slider/img1.png
   - background_image_path: /images/slider/bg2.jpg
     main_heading: Second Slide
@@ -25,7 +25,7 @@ slideshow:
 video: from-crack-babies-to-oxytots-lessons-not-learned
 slug: faces-of-treatment
 type: reports
-hide_content: false
+hide_content: true
 ---
 
 
