@@ -1,11 +1,7 @@
 [{
-	"copy": "<p>Angela Holmes, 37, with her fifth child, Jaheem Davis, 17 months old. Holmes first came to the Center for Comprehensive Health Practice (CCHP) in East Harlem in 2003, eight months pregnant and in desperate need of treatment for her heroin addiction. “I knew time was running out,” Holmes said. “Honestly this was the only program in New York that would take me pregnant.” Pregnant women addicted to opioids - whether illicit drugs like heroin or prescribed painkillers like OxyContin - face a dearth of treatment options, say doctors and patients alike.\n</p>",
+	"name": "Image Name",
 	"image": {
-		"height": 1600,
-		"resize_url": "http://lh3.googleusercontent.com/oUZng71-CYPpX80IzcEbKBxmL2SStUWflbooT5dx8us2NX6JHTrwnKIJT1Yfz9HrMVjJ7Q2htdcDf-VqlNRbCum2xwgNPvE",
-		"size": 493588,
-		"type": "image/jpeg",
-		"url": "/webhook-uploads/1437492489603_SW_Retro_Addiction_001-1600px.jpg",
-		"width": 1540
+		"_path": "/webhook-uploads/1437492489603_SW_Retro_Addiction_001-1600px.jpg",
+		"copy": "Angela Holmes, 37, with her fifth child, Jaheem Davis, 17 months old. Holmes first came to the Center for Comprehensive Health Practice (CCHP) in East Harlem in 2003, eight months pregnant and in desperate need of treatment for her heroin addiction. “I knew time was running out,” Holmes said. “Honestly this was the only program in New York that would take me pregnant.” Pregnant women addicted to opioids - whether illicit drugs like heroin or prescribed painkillers like OxyContin - face a dearth of treatment options, say doctors and patients alike."
 	}
 }]
