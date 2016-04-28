@@ -4,18 +4,18 @@ published: true
 date: 2015-07-22T11:38:00.000Z
 category: Photo Essay
 tagline: ​​Photographs by Sarah Weiser​​​
-slideshow_path:
+slideshow_path: /_data/slideshow-faces-of-heroin-copy.json
 featured_image_path: /uploads/1437495512888_SW_Retro_Addiction_008_cropped-1600.jpg
 banner_height: 520
 slideshow:
   - background_image_path: /images/slider/bg1.jpg
     main_heading: First Slide
-    sub_heading: "Angela Holmes, 37, with her fifth child, Jaheem Davis, 17 months old. Holmes first came to the Center for Comprehensive Health Practice (CCHP) in East Harlem in 2003, eight months pregnant and in desperate need of treatment for her heroin addiction. “I knew time was running out,” Holmes said. “Honestly this was the only program in New York that would take me pregnant.” Pregnant women addicted to opioids - whether illicit drugs like heroin or prescribed painkillers like OxyContin - face a dearth of treatment options, say doctors and patients alike."
-    read_more_link: http://google.com
+    sub_heading: 'Angela Holmes, 37, with her fifth child, Jaheem Davis, 17 months old. Holmes first came to the Center for Comprehensive Health Practice (CCHP) in East Harlem in 2003, eight months pregnant and in desperate need of treatment for her heroin addiction. “I knew time was running out,” Holmes said. “Honestly this was the only program in New York that would take me pregnant.” Pregnant women addicted to opioids - whether illicit drugs like heroin or prescribed painkillers like OxyContin - face a dearth of treatment options, say doctors and patients alike.'
+    read_more_link: 'http://google.com'
     pop_up_image_path: /images/slider/img1.png
   - background_image_path: /images/slider/bg2.jpg
     main_heading: Second Slide
-    sub_heading: "Robin Beard, right, a Senior Counselor at CCHP, helps lead the Young Mothers group, which provides educational and other support for mothers and pregnant women on methadone. “When you have an addiction, so many things come into play,” says CCHP’s Medical Director Mariely Fernandez. “So many social factors, so many economic factors… you just can’t treat it in a singular, silo kind of approach.”"
+    sub_heading: 'Robin Beard, right, a Senior Counselor at CCHP, helps lead the Young Mothers group, which provides educational and other support for mothers and pregnant women on methadone. “When you have an addiction, so many things come into play,” says CCHP’s Medical Director Mariely Fernandez. “So many social factors, so many economic factors… you just can’t treat it in a singular, silo kind of approach.”'
     read_more_link: /blog.html
     pop_up_image_path: /images/slider/img2.png
   - background_image_path: /images/slider/bg3.jpg
