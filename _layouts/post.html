@@ -16,11 +16,13 @@ layout: default
 
 {% assign slideshows = page.slideshow_path | remove: '/_data/' | remove: '.json' %}
 
-<h2>{{ slideshows }}</h2>
 
+  {% assign slideshow  = site.data[slideshows] %}
 
-{% for slideshow in slideshows %}
-  <h3>{{ slideshow.name }}</h3>
+{% for data in slideshow %}
+
+  {{ data.copy }}
+  <hr>
 {% endfor %}
 
 <hr><hr><hr><hr><hr>
