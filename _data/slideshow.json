@@ -1,12 +1,5 @@
 [
 	{
-		"name": "Faces of Treatment",
-		"image": {
-			"image_path": "/uploads/1421952695446_10750118_919507174728369_399881278914132751_o.jpg",
-			"copy": "Robin Beard, right, a Senior Counselor at CCHP, helps lead the Young Mothers group, which provides educational and other support for mothers and pregnant women on methadone. “When you have an addiction, so many things come into play,” says CCHP’s Medical Director Mariely Fernandez. “So many social factors, so many economic factors… you just can’t treat it in a singular, silo kind of approach.”"
-		}
-	},
-	{
 		"name": "Faces of Treatment 2",
 		"image": {
 			"image_path": "/uploads/1422556466030_466954616_1280.jpg",
@@ -18,6 +11,13 @@
 		"image": {
 			"image_path": "/uploads/1422556466030_466954616_1280.jpg",
 			"copy": "Nothing much here."
+		}
+	},
+	{
+		"name": "Faces of Treatment",
+		"image": {
+			"image_path": "/uploads/1421952695446_10750118_919507174728369_399881278914132751_o.jpg",
+			"copy": "Robin Beard, right, a Senior Counselor at CCHP, helps lead the Young Mothers group, which provides educational and other support for mothers and pregnant women on methadone. “When you have an addiction, so many things come into play,” says CCHP’s Medical Director Mariely Fernandez. “So many social factors, so many economic factors… you just can’t treat it in a singular, silo kind of approach.”"
 		}
 	}
 ]
