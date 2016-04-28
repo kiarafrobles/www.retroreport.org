@@ -1,16 +1,16 @@
-[{
-	"name": "Faces of Treatment",
-	"image": {
-		"image_path": "image-1/image.jpg",
-		"image_path": "image-1/image.jpg"
+[
+	{
+		"name": "Faces of Treatment",
+		"image": {
+			"image_path": "/uploads/1421952695446_10750118_919507174728369_399881278914132751_o.jpg"
+		}
+	},
+	{
+		"name": "Travel through India",
+		"images": "image-2/image.jpg"
+	},
+	{
+		"name": "Surviving Heroin",
+		"images": "image-3/image.jpg"
 	}
-},
-
-
-{
-	"name": "Travel through India",
-	"images": "image-2/image.jpg"
-}, {
-	"name": "Surviving Heroin",
-	"images": "image-3/image.jpg"
-}]
+]
