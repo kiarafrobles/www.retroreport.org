@@ -9,6 +9,7 @@ banner_height: 520
 video: from-crack-babies-to-oxytots-lessons-not-learned
 slug: faces-of-treatment
 type: reports
+hide_content: true
 ---
 
 A photo essay by Sarah Weiser detailing the difficult path to recovery faced by pregnant addicts at New York City's Non-profit Center for Comprehensive Health Practice, one of the oldest centers in New York City to offer such treatment.
