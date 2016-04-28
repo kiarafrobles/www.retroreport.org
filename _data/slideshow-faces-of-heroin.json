@@ -1,8 +1,8 @@
 [{
 	"name": "Faces of Treatment",
 	"images": {
-		"path": "image-1/image.jpg",
-		"path": "image-1/image.jpg"
+		"image_path": "image-1/image.jpg",
+		"image_path": "image-1/image.jpg"
 	}
 }, {
 	"name": "Travel through India",
