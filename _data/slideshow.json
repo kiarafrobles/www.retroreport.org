@@ -6,11 +6,9 @@
 		}
 	},
 	{
-		"name": "Travel through India",
-		"images": "image-2/image.jpg"
-	},
-	{
-		"name": "Surviving Heroin",
-		"images": "image-3/image.jpg"
+		"name": "Faces of Treatment",
+		"image": {
+			"image_path": "/uploads/1422556466030_466954616_1280.jpg"
+		}
 	}
 ]
