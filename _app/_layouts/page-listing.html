@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+{% assign pages = site.pages | where: 'page_category', page.page_category %}
+
+{% if pages %}
+<aside class="sidebar sidebar-left">
+    <ul>
+      {% for link in pages %}
+        <li>
+          <a href="{{ link.url }}"{% if page.url == link.url %} class="active"{% endif %}>
+            {{ link.title }}
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+</aside>
+{% endif %}
+{{ content }}
+<div class="has-layout">
+  <div class="centered-content">
+    {% include forms/mailchimp-simple.html %}
+  </div>
+</div>

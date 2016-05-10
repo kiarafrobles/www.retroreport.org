@@ -2,21 +2,23 @@
 layout: default
 ---
 
-{% assign pages = site.pages | where: 'page_category', page.page_category %}
+{% if page.page_category %}
+  {% assign links = site.pages | where: 'page_category', page.page_category %}
+{% endif %}
 
-{% if pages %}
+{% if links %}
 <aside class="sidebar sidebar-left">
     <ul>
-      {% for link in pages %}
+      {% for object in links %}
         <li>
-          <a href="{{ link.url }}"{% if page.url == link.url %} class="active"{% endif %}>
-            {{ link.title }}
-          </a>
+          {% include components/link.html %}
         </li>
       {% endfor %}
     </ul>
 </aside>
 {% endif %}
+
+
 <article class="hentry {% if page.class %}{{page.class}}{% endif %}">
  {% unless page.featured_image_path %}
    <header>

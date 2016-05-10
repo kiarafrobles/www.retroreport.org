@@ -1,0 +1,27 @@
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.page %}
+    <div class="row" style="margin-bottom:.25em;">
+      <strong class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</strong>
+    </div>
+  {% endif %}
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">
+      <strong type="button" name="button">
+        Previous
+      </strong>
+    </a>
+  {% else %}
+    <span class="previous"></span>
+  {% endif %}
+
+  {% if paginator.next_page %} |
+    <a href="{{ paginator.next_page_path }}" class="next">
+      <strong type="button" name="button">
+        Next
+      </strong>
+    </a>
+  {% else %}
+    <span class="next "></span>
+  {% endif %}
+</div>

@@ -1,0 +1,31 @@
+{% comment %}
+<!--  Determine if we're limiting the output to a particular program  -->
+{% endcomment %}
+{% if include.cat %}
+  {% assign cats = include.cat %}
+  {% assign data = site.categories[cats] %}
+{% comment %} 
+<!-- if no program specified in the include, then show all the events --> 
+{% endcomment %}
+{% else %}
+  {% assign data = paginator.posts | sort: 'date' %}
+{% endif %}
+
+  <div class="layout-posts">
+        <h2>Updates</h2>
+        <div class="row">
+          {% for object in data %}
+          <div class="boxes-3-across">
+            {% include components/blog-posts.html %}
+          </div> 
+        {% endfor %}      
+        </div>
+      </div>
+
+
+
+
+
+{% include components/pagination.html %}
+
+

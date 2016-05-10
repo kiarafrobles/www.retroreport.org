@@ -55,7 +55,7 @@ permalink: pretty
 future: false
 version: 3.0.3
 
-source:       .
+#source:       .
 #destination:  ./_site
 #plugins_dir:  ./_plugins
 layouts_dir:  ./_app/_layouts
@@ -66,9 +66,14 @@ includes_dir: ./_app/_includes
 # PLUGINS
 gems:
   - jekyll-seo-tag
+  - jekyll-paginate
 # - html-proofer
  #- jekyll-lunr-js-search
  #- jekyll-sitemap
+
+
+paginate: 50
+paginate_path: "/blog/page-:num/"
 
 # FILES
 include:

@@ -1,0 +1,19 @@
+
+  <h6 class="light small">
+    {{ object.date | date: "%B %d" }}
+  </h6>
+  <a href="{{ object.url }}">
+    {% if object.featured_image_path %}
+    <div class="image-box">
+      <img src="{{ object.featured_image_path }}" style="max-width:100%;border:1px solid #ddd;">
+      </div>
+    {% endif %}
+    <br />
+    <h6 class="m0" style="margin:0;">
+      {{ object.title }}
+    </h6>
+  </a>
+  {% if object.content %}
+    {{ object.content | markdownify | strip_html | truncate: 100 }}
+      <a href="{{ url(object) }}">read</a>
+  {% endif %}
