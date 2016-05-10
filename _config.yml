@@ -55,6 +55,14 @@ permalink: pretty
 future: false
 version: 3.0.3
 
+source:       .
+#destination:  ./_site
+#plugins_dir:  ./_plugins
+layouts_dir:  ./_app/_layouts
+#data_dir:     ./_data
+includes_dir: ./_app/_includes
+#collections:  null
+
 # PLUGINS
 gems:
   - jekyll-seo-tag
