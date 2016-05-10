@@ -8,24 +8,16 @@
 <!-- if no program specified in the include, then show all the events --> 
 {% endcomment %}
 {% else %}
-  {% assign data = paginator.posts | sort: 'date' %}
+  {% assign data = paginator.posts | sort: 'date' | reverse %}
 {% endif %}
 
-  <div class="layout-posts">
-        <h2>Updates</h2>
-        <div class="row">
-          {% for object in data %}
-          <div class="boxes-3-across">
-            {% include components/blog-posts.html %}
-          </div> 
-        {% endfor %}      
-        </div>
-      </div>
-
-
-
-
-
-{% include components/pagination.html %}
-
-
+<div class="layout-posts">
+  <div class="row">
+    {% for object in data %}
+      <div class="boxes-3-across">
+        {% include components/blog-posts.html %}
+      </div> 
+    {% endfor %}      
+    {% include components/pagination.html %}
+  </div>
+</div>

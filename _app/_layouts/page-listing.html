@@ -2,22 +2,56 @@
 layout: default
 ---
 
-{% assign pages = site.pages | where: 'page_category', page.page_category %}
 
-{% if pages %}
-<aside class="sidebar sidebar-left">
+
+<div class="has-layout">
+   {% unless page.featured_image_path %}
+     <header>
+       <h1 class="entry-title">
+         {{ page.title }}
+       </h1>
+       {% if page.description %}
+         <p class="lede">
+           {{ page.description }}
+         </p>
+       {% endif %}
+     </header>
+   {% endunless %}
+
+   {% if page.content != '' %}
+     <div id="entry-content" class="entry-content prose">
+       {{ content | markdownify }}
+     </div>
+   {% endif %}
+   {% if page.include_content %}
+      {% include {{ page.include_content }} %}
+   {% endif %}
+</div>
+
+  {% if page.include %}
+    <div class="has-layout">
+      {% include {{ page.include }} %}
+    </div>
+  {% endif %}
+
+
+{% if page.page_category %}
+  {% assign links = site.pages | where: 'page_category', page.page_category %}
+{% endif %}
+
+{% if links %}
+  <aside class="sidebar sidebar-right">
     <ul>
-      {% for link in pages %}
+      {% for object in links %}
         <li>
-          <a href="{{ link.url }}"{% if page.url == link.url %} class="active"{% endif %}>
-            {{ link.title }}
-          </a>
+          {% include components/link.html %}
         </li>
       {% endfor %}
     </ul>
-</aside>
+  </aside>
 {% endif %}
-{{ content }}
+
+
 <div class="has-layout">
   <div class="centered-content">
     {% include forms/mailchimp-simple.html %}

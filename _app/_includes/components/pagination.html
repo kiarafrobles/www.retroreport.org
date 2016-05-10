@@ -1,7 +1,8 @@
+{% comment %}<!-- TODO: make the row class more robust  -->{% endcomment %}
 <!-- Pagination links -->
-<div class="pagination">
+<div class="row pagination" style="width:100%;clear:both;"> 
   {% if paginator.page %}
-    <div class="row" style="margin-bottom:.25em;">
+    <div style="margin-bottom:.25em;">
       <strong class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</strong>
     </div>
   {% endif %}

@@ -7,7 +7,7 @@ layout: default
 {% endif %}
 
 {% if links %}
-<aside class="sidebar sidebar-left">
+  <aside class="sidebar sidebar-left">
     <ul>
       {% for object in links %}
         <li>
@@ -15,32 +15,38 @@ layout: default
         </li>
       {% endfor %}
     </ul>
-</aside>
+  </aside>
 {% endif %}
 
 
 <article class="hentry {% if page.class %}{{page.class}}{% endif %}">
- {% unless page.featured_image_path %}
-   <header>
-     <h1 class="entry-title">
-       {{ page.title }}
-     </h1>
-     {% if page.tagline %}
-       <p class="lede">
-         {{page.tagline}}
-       </p>
-     {% endif %}
-   </header>
- {% endunless %}
- {% if page.content != '' %}
-   <div id="entry-content" class="entry-content prose">
-     {{ content | markdownify }}
-   </div>
- {% endif %}
- {% if page.include_content %}
-    {% include {{ page.include_content }} %}
- {% endif %}
+   {% unless page.featured_image_path %}
+     <header>
+       <h1 class="entry-title">
+         {{ page.title }}
+       </h1>
+       {% if page.description %}
+         <p class="lede">
+           {{ page.description }}
+         </p>
+       {% endif %}
+     </header>
+   {% endunless %}
+
+   {% if page.content != '' %}
+     <div id="entry-content" class="entry-content prose">
+       {{ content | markdownify }}
+     </div>
+   {% endif %}
+   {% if page.include_content %}
+      {% include {{ page.include_content }} %}
+   {% endif %}
 </article>
+  {% if page.include %}
+    <div class="has-layout">
+      {% include {{ page.include }} %}
+    </div>
+  {% endif %}
 <div class="has-layout">
   <div class="centered-content">
     {% include forms/mailchimp-simple.html %}

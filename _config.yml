@@ -72,9 +72,9 @@ gems:
  #- jekyll-sitemap
 
 
-paginate: 50
+paginate: 12
 paginate_path: "/blog/page-:num/"
-
+permalink: '/:categories/:path'
 # FILES
 include:
   - _landing_pages
@@ -106,6 +106,9 @@ collections:
     output: true
   staff_members:
     output: true
+  posts:
+    output: true
+    permalink: '/:collection/:path/'
   reports:
     output: true
   related_coverage:
