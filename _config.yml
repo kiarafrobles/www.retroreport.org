@@ -76,6 +76,10 @@ gems:
 # - html-proofer
  #- jekyll-lunr-js-search
  #- jekyll-sitemap
+jekyll_get:
+  data: news
+  json: 'https://www.googleapis.com/youtube/v3/search?order=date&part=snippet&channelId=UCBh_GM0xQZQRKSU0ZiVbqdg&maxResults=25&key=AIzaSyAlplT_aNA27yyAboWZZXP_2fEX8tOPAoo'
+  cache: true
 
 
 paginate: 12
