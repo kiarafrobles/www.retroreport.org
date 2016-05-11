@@ -63,7 +63,7 @@ version: 3.0.3
 
 #source:       .
 #destination:  ./_site
-#plugins_dir:  ./_plugins
+plugins_dir:  ./_app/_plugins
 layouts_dir:  ./_app/_layouts
 #data_dir:     ./_data
 includes_dir: ./_app/_includes

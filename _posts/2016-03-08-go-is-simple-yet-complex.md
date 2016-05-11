@@ -6,7 +6,6 @@ description: 'Just another day at the office -- a quick snap from our b-roll sho
 featured_image_path: /uploads/1457472693945_12792092_1141958659149885_6550988897571637162_o.jpg
 category:
   - on-the-road
-  - in-the-news
 ---
 
 
