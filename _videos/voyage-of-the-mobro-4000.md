@@ -9,15 +9,14 @@ description: "The 1987 voyage of a barge loaded with New York garbage became a s
 tweet: "The '87 voyage of a barge of NY trash was a fiasco, but it helped fuel today's recycling movement:"
 featured_image_path: /uploads/1422558533381_436536066_1280.jpg
 appearance: dark-text
-source_video:
-  video_id: _kKpInODaL4?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
-  video_provider: youtube
-source_video_2:
-  video_id: 62560526
-  video_provider: vimeo
-  video_show_in_history: true
-  video_source_file: "https://player.vimeo.com/external/62560526.source.mov?s=d594bb4cd8c8aaf21422bf1a518f9005&profile_id=0&download=1"
-# type: video
+video_source:
+  - video_id: _kKpInODaL4?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
+    video_provider: youtube
+    video_released_at:
+  - video_id: 62560526
+    video_provider: vimeo
+    video_released_at:
+    video_source_file: "https://player.vimeo.com/external/62560526.source.mov?s=d594bb4cd8c8aaf21422bf1a518f9005&profile_id=0&download=1"
 slug: voyage-of-the-mobro-4000
 ---
 
@@ -29,15 +28,14 @@ The pundits of the day portrayed the Mobro as a symbol of our nation’s growing
 
 It’s a classic tale with a twist: a get-rich-quick scheme that changed the way Americans take out the trash.
 
-source_video:
-  video_id: _kKpInODaL4?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
-  video_provider: youtube
-source_video_2:
-  video_id: 62560526
-  video_provider: vimeo
-  video_show_in_history: true
-  video_source_file: "https://player.vimeo.com/external/62560526.source.mov?s=d594bb4cd8c8aaf21422bf1a518f9005&profile_id=0&download=1"
-# type: video
+video_source:
+  - video_id: _kKpInODaL4?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
+    video_provider: youtube
+    video_released_at:
+  - video_id: 62560526
+    video_provider: vimeo
+    video_released_at:
+    video_source_file: "https://player.vimeo.com/external/62560526.source.mov?s=d594bb4cd8c8aaf21422bf1a518f9005&profile_id=0&download=1"
 slug: voyage-of-the-mobro-4000
 ---
 

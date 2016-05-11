@@ -9,18 +9,14 @@ description: "Should doctors be allowed to help suffering patients die? Twenty-f
 tweet: "The legacy of Dr. Jack Kevorkian and his home-made suicide machine on today's Right to Die movement "
 featured_image_path: /uploads/1427071690752_32844_1_retro-kevorkian_1600.jpg
 appearance: dark-text
-source_video:
-  video_id: MPXCpJHyHZQ?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
-  video_provider: youtube
-  video_released_at: "2015-03-22T22:00:00.000Z"
-source_video_2:
-  video_id: 122873849
-  video_provider: vimeo
-  video_released_at: "0023-03-22T22:00:00.000Z"
-  video_running_time: 14
-  video_show_in_history: true
-  video_source_file: "https://player.vimeo.com/external/122873849.source.mov?s=5712034df1116cd66f2336d7b7dbe1ce&profile_id=0&download=1"
-# type: video
+video_source:
+  - video_id: MPXCpJHyHZQ?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
+    video_provider: youtube
+    video_released_at: "2015-03-22T22:00:00.000Z"
+  - video_id: 122873849
+    video_provider: vimeo
+    video_released_at: "0023-03-22T22:00:00.000Z"
+    video_source_file: "https://player.vimeo.com/external/122873849.source.mov?s=5712034df1116cd66f2336d7b7dbe1ce&profile_id=0&download=1"
 slug: a-right-to-die
 ---
 
@@ -30,18 +26,14 @@ Twenty-five years ago, Dr. Jack Kevorkian used a homemade suicide machine to hel
 
 <span class="s1">But for doctors and patients in the rest of the nation, it's a wrenching issue. The recent case of 29-year-old Brittany Maynard, who suffered from brain cancer, has once again brought the subject to the fore, and more than a dozen state legislatures are considering the issue.</span>
 
-source_video:
-  video_id: MPXCpJHyHZQ?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
-  video_provider: youtube
-  video_released_at: "2015-03-22T22:00:00.000Z"
-source_video_2:
-  video_id: 122873849
-  video_provider: vimeo
-  video_released_at: "0023-03-22T22:00:00.000Z"
-  video_running_time: 14
-  video_show_in_history: true
-  video_source_file: "https://player.vimeo.com/external/122873849.source.mov?s=5712034df1116cd66f2336d7b7dbe1ce&profile_id=0&download=1"
-# type: video
+video_source:
+  - video_id: MPXCpJHyHZQ?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
+    video_provider: youtube
+    video_released_at: "2015-03-22T22:00:00.000Z"
+  - video_id: 122873849
+    video_provider: vimeo
+    video_released_at: "0023-03-22T22:00:00.000Z"
+    video_source_file: "https://player.vimeo.com/external/122873849.source.mov?s=5712034df1116cd66f2336d7b7dbe1ce&profile_id=0&download=1"
 slug: a-right-to-die
 ---
 

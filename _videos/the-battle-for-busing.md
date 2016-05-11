@@ -10,11 +10,10 @@ description: "A story of America's school integration and what happened when the
 tweet: "What happened to Charlotte’s forced school integration after the buses stopped rolling:"
 featured_image_path: /uploads/1422558163905_448249655_1280.jpg
 appearance: dark-text
-source_video:
-  video_id: K-rlZP0EXdY
-  video_provider: youtube
-  video_show_in_history: true
-# type: video
+video_source:
+  - video_id: K-rlZP0EXdY
+    video_provider: youtube
+    video_released_at:
 slug: the-battle-for-busing
 ---
 

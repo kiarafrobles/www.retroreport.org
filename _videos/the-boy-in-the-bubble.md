@@ -9,13 +9,11 @@ description: "In the early 1970s, an unusual boy captivated the nation. Now, dec
 tweet: "In the 1970s, the *Boy in the Bubble* captivated the nation. Decades later his story continues."
 featured_image_path: /uploads/1449598983652_37077_1_retro-boyinthebubble.jpg
 appearance: dark-text
-source_video:
-  video_id: rSGt_duNjGg
-  video_provider: youtube
-  video_released_at: "2015-12-07T01:00:00.000Z"
-  video_running_time: 12
-  video_source_file: "https://www.dropbox.com/s/d0tj6p3yqx06jee/RR239_RR_MASTER_12_04_2015_BUBBLE-H264_1080p.mov?dl=0"
-# type: video
+video_source:
+  - video_id: rSGt_duNjGg
+    video_provider: youtube
+    video_released_at: "2015-12-07T01:00:00.000Z"
+    video_source_file: "https://www.dropbox.com/s/d0tj6p3yqx06jee/RR239_RR_MASTER_12_04_2015_BUBBLE-H264_1080p.mov?dl=0"
 slug: the-boy-in-the-bubble
 ---
 

@@ -9,16 +9,14 @@ description: "Forty-two years ago when President Richard Nixon vowed to make cur
 tweet: "In 1971 Nixon declared war on cancer. But decades later, what have we really accomplished?"
 featured_image_path: /uploads/1422556855560_453774112_1280.jpg
 appearance: dark-text
-source_video:
-  video_id: qBVSnWofLvw?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
-  video_provider: youtube
-source_video_2:
-  video_id: 78362521
-  video_provider: vimeo
-  video_running_time: 13
-  video_show_in_history: true
-  video_source_file: "https://player.vimeo.com/external/78362521.source.mov?s=53af4c249ab4d1908187bc760fa57843&profile_id=0&download=1"
-# type: video
+video_source:
+  - video_id: qBVSnWofLvw?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
+    video_provider: youtube
+    video_released_at:
+  - video_id: 78362521
+    video_provider: vimeo
+    video_released_at:
+    video_source_file: "https://player.vimeo.com/external/78362521.source.mov?s=53af4c249ab4d1908187bc760fa57843&profile_id=0&download=1"
 slug: the-long-war-on-cancer
 ---
 
@@ -28,16 +26,14 @@ Since then, the United States government has spent over 100 billion dollars on r
 
 There has been long-term success treating a few types of cancer, including lymphomas and leukemias as well as testicular cancer. Early detection and screening, while controversial for some cancers, has also prevented many deaths from cervical and colorectal cancer. But after all these years, all this money, and all of these drugs, most cancers still kill once they metastacize, and over half a million Americans die from the disease each year. Despite the fact that treatments get the most press coverage, the greatest reductions in cancer mortality rates can be credited to lifestyle changes, like quitting smoking. But as we become more obese, and more sedentary, that progress may prove elusive, too.
 
-source_video:
-  video_id: qBVSnWofLvw?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
-  video_provider: youtube
-source_video_2:
-  video_id: 78362521
-  video_provider: vimeo
-  video_running_time: 13
-  video_show_in_history: true
-  video_source_file: "https://player.vimeo.com/external/78362521.source.mov?s=53af4c249ab4d1908187bc760fa57843&profile_id=0&download=1"
-# type: video
+video_source:
+  - video_id: qBVSnWofLvw?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
+    video_provider: youtube
+    video_released_at:
+  - video_id: 78362521
+    video_provider: vimeo
+    video_released_at:
+    video_source_file: "https://player.vimeo.com/external/78362521.source.mov?s=53af4c249ab4d1908187bc760fa57843&profile_id=0&download=1"
 slug: the-long-war-on-cancer
 ---
 

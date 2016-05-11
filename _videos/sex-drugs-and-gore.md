@@ -9,12 +9,11 @@ description: "Offended by lyrics they deemed too sexual and violent, Tipper Gore
 tweet: "Sex, Drugs and Gore. With a title like that, how could you not want to watch? #warninglabels #music"
 featured_image_path: /uploads/1445740641042_36234_1_retro-gore.jpg
 appearance: light-text
-source_video:
-  video_id: Falif9ry6oU
-  video_provider: youtube
-  video_released_at: "2015-10-26T00:00:00.000Z"
-  video_source_file: "https://www.dropbox.com/s/a0ix5be8wyvqxp2/RR255_RR_MASTER_10_27_2015_SEX_DRUGS_GORE_STANDARDS_CORRECTION-H264_1080p.mov?dl=0"
-# type: video
+video_source:
+  - video_id: Falif9ry6oU
+    video_provider: youtube
+    video_released_at: "2015-10-26T00:00:00.000Z"
+    video_source_file: "https://www.dropbox.com/s/a0ix5be8wyvqxp2/RR255_RR_MASTER_10_27_2015_SEX_DRUGS_GORE_STANDARDS_CORRECTION-H264_1080p.mov?dl=0"
 slug: sex-drugs-and-gore
 ---
 

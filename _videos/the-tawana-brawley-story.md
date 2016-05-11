@@ -9,11 +9,10 @@ description: "In 1988, the nation learned the truth about the alleged crimes aga
 tweet: "In '88 we learned the truth about alleged Tawana Brawley attack. But the story didn't end there: "
 featured_image_path: /uploads/1422558380720_439375323_1280.jpg
 appearance: light-text
-source_video:
-  video_id:
-  video_provider: vimeo
-  video_show_in_history: true
-# type: video
+video_source:
+  - video_id:
+    video_provider: vimeo
+    video_released_at:
 slug: the-tawana-brawley-story
 ---
 

@@ -9,15 +9,14 @@ description: "In the 1950s, thalidomide cut a wide swath of destruction across t
 tweet: "In the 1950s, thalidomide caused tons of deformities, but that was only the beginning of the story:"
 featured_image_path: /uploads/1422558080091_449539503_1280.jpg
 appearance: dark-text
-source_video:
-  video_id: 6JzNnU2Hy0Q?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
-  video_provider: youtube
-source_video_2:
-  video_id: 75056098
-  video_provider: vimeo
-  video_show_in_history: true
-  video_source_file: "https://player.vimeo.com/external/75056098.source.mov?s=07b305db388592fc1358e4fd1047547b&profile_id=0&download=1"
-# type: video
+video_source:
+  - video_id: 6JzNnU2Hy0Q?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
+    video_provider: youtube
+    video_released_at:
+  - video_id: 75056098
+    video_provider: vimeo
+    video_released_at:
+    video_source_file: "https://player.vimeo.com/external/75056098.source.mov?s=07b305db388592fc1358e4fd1047547b&profile_id=0&download=1"
 slug: the-shadow-of-thalidomide
 ---
 
@@ -37,15 +36,14 @@ But, as Retro Report found, this dark chapter was not the end for thalidomide. D
 
 [United States Food and Drug Administration](http://www.fda.gov/drugs/newsevents/ucm320924.htm)
 
-source_video:
-  video_id: 6JzNnU2Hy0Q?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
-  video_provider: youtube
-source_video_2:
-  video_id: 75056098
-  video_provider: vimeo
-  video_show_in_history: true
-  video_source_file: "https://player.vimeo.com/external/75056098.source.mov?s=07b305db388592fc1358e4fd1047547b&profile_id=0&download=1"
-# type: video
+video_source:
+  - video_id: 6JzNnU2Hy0Q?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
+    video_provider: youtube
+    video_released_at:
+  - video_id: 75056098
+    video_provider: vimeo
+    video_released_at:
+    video_source_file: "https://player.vimeo.com/external/75056098.source.mov?s=07b305db388592fc1358e4fd1047547b&profile_id=0&download=1"
 slug: the-shadow-of-thalidomide
 ---
 

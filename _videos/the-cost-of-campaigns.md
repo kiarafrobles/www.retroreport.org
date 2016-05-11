@@ -10,12 +10,10 @@ description: "The Watergate campaign finance scandals led to a landmark law desi
 tweet: "40 yrs after the Watergate campaign scandal, is the problem not what's illegal, but what's legal?"
 featured_image_path: /uploads/1422558858193_493314836_1280.jpg
 appearance: dark-text
-source_video:
-  video_id: 109350541
-  video_provider: vimeo
-  video_released_at: "2014-10-19T23:00:00.000Z"
-  video_show_in_history: true
-# type: video
+video_source:
+  - video_id: 109350541
+    video_provider: vimeo
+    video_released_at: "2014-10-19T23:00:00.000Z"
 slug: the-cost-of-campaigns
 ---
 

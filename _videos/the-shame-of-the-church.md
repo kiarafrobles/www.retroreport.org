@@ -9,11 +9,10 @@ description: "Sexual abuse in the Catholic Church has been making headlines for 
 tweet: "Some Catholic priests were punished for sexual abuse, but what about the bishops who shielded them?"
 featured_image_path: /uploads/1422556281026_469462731_1280.jpg
 appearance: light-text
-source_video:
-  video_id:
-  video_provider: vimeo
-  video_show_in_history: true
-# type: video
+video_source:
+  - video_id:
+    video_provider: vimeo
+    video_released_at:
 slug: the-shame-of-the-church
 ---
 

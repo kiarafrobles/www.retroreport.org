@@ -9,11 +9,10 @@ description: "In 1978, toxic chemicals leaking from an old landfill thrust an up
 tweet: "Decades after the environmental disaster Love Canal hit the headlines, questions still linger: "
 featured_image_path: /uploads/1422556714791_455908243_1280.jpg
 appearance: light-text
-source_video:
-  video_id:
-  video_provider: vimeo
-  video_show_in_history: true
-# type: video
+video_source:
+  - video_id:
+    video_provider: vimeo
+    video_released_at:
 slug: love-canal-a-legacy-of-doubt
 ---
 

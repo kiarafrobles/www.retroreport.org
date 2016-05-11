@@ -9,20 +9,17 @@ description: "In the 1980s, many government officials, scientists, and journalis
 tweet: "Recent new stories have focused on *oxytots* as a scary new trend. But is it *crack babies* redux?"
 featured_image_path: /uploads/1422558459238_437817467_1280.jpg
 appearance: light-text
-source_video:
-  video_id: XJ3-6qDTR-M
-  video_provider: youtube
-  video_show_in_history: true
-source_video_2:
-  video_id:
-  video_provider: vimeo
-  video_show_in_history: true
-source_video_3:
-  video_id: 134152076
-  video_provider: vimeo
-  video_running_time: 11
+video_source:
+  - video_id: XJ3-6qDTR-M
+    video_provider: youtube
+    video_released_at:
+  - video_id:
+    video_provider: vimeo
+    video_released_at:
+  - video_id: 134152076
+    video_provider: vimeo
+    video_released_at:
 show_related_report_on_video_page: true
-# type: video
 slug: from-crack-babies-to-oxytots-lessons-not-learned
 ---
 
@@ -36,20 +33,17 @@ But the story did not end there, as Retro Report reveals in its new updated vide
 
 _This documentary originally aired MAY 20, 2013. It was updated on July 21, 2015._
 
-source_video:
-  video_id: XJ3-6qDTR-M
-  video_provider: youtube
-  video_show_in_history: true
-source_video_2:
-  video_id:
-  video_provider: vimeo
-  video_show_in_history: true
-source_video_3:
-  video_id: 134152076
-  video_provider: vimeo
-  video_running_time: 11
+video_source:
+  - video_id: XJ3-6qDTR-M
+    video_provider: youtube
+    video_released_at:
+  - video_id:
+    video_provider: vimeo
+    video_released_at:
+  - video_id: 134152076
+    video_provider: vimeo
+    video_released_at:
 show_related_report_on_video_page: true
-# type: video
 slug: from-crack-babies-to-oxytots-lessons-not-learned
 ---
 
@@ -63,20 +57,17 @@ But the story did not end there, as Retro Report reveals in its new updated vide
 
 _This documentary originally aired MAY 20, 2013. It was updated on July 21, 2015._
 
-source_video:
-  video_id: XJ3-6qDTR-M
-  video_provider: youtube
-  video_show_in_history: true
-source_video_2:
-  video_id:
-  video_provider: vimeo
-  video_show_in_history: true
-source_video_3:
-  video_id: 134152076
-  video_provider: vimeo
-  video_running_time: 11
+video_source:
+  - video_id: XJ3-6qDTR-M
+    video_provider: youtube
+    video_released_at:
+  - video_id:
+    video_provider: vimeo
+    video_released_at:
+  - video_id: 134152076
+    video_provider: vimeo
+    video_released_at:
 show_related_report_on_video_page: true
-# type: video
 slug: from-crack-babies-to-oxytots-lessons-not-learned
 ---
 

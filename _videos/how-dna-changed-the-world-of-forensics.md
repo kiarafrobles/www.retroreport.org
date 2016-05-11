@@ -10,11 +10,10 @@ description: "Before DNA testing, prosecutors relied on less sophisticated foren
 tweet: "Before DNA testing the method most often used was microscopic hair analysis. But was it reliable?"
 featured_image_path: /uploads/1422559056828_475634179_1280.jpg
 appearance: light-text
-source_video:
-  video_id:
-  video_provider: vimeo
-  video_show_in_history: true
-# type: video
+video_source:
+  - video_id:
+    video_provider: vimeo
+    video_released_at:
 slug: how-dna-changed-the-world-of-forensics
 ---
 

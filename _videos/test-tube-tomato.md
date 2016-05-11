@@ -10,11 +10,10 @@ description: "In the 1990s, a bunch of gene jockeys brought the first geneticall
 tweet: "The 1st genetically engineered food, the Flvr Savr Tomato, gave rise to a very different industry:"
 featured_image_path: /uploads/1422558255448_441465677_1280.jpg
 appearance: light-text
-source_video:
-  video_id:
-  video_provider: vimeo
-  video_show_in_history: true
-# type: video
+video_source:
+  - video_id:
+    video_provider: vimeo
+    video_released_at:
 slug: test-tube-tomato
 ---
 

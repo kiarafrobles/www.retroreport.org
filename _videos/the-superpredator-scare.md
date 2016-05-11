@@ -10,16 +10,14 @@ description: "In the mid-1990s, after a decade of soaring juvenile crime, some s
 tweet: "We're still grappling with the destructive repercussions of the *superpredator* scare."
 featured_image_path: /uploads/1422556232865_470385170_1280.jpg
 appearance: dark-text
-source_video:
-  video_id: lkDBS6a7lWQ?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
-  video_provider: youtube
-source_video_2:
-  video_id: 90974858
-  video_provider: vimeo
-  video_running_time: 11
-  video_show_in_history: true
-  video_source_file: "https://player.vimeo.com/external/90974858.source.mov?s=ec32413ec100f3966f3e36dedf57139f&profile_id=0&download=1"
-# type: video
+video_source:
+  - video_id: lkDBS6a7lWQ?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
+    video_provider: youtube
+    video_released_at:
+  - video_id: 90974858
+    video_provider: vimeo
+    video_released_at:
+    video_source_file: "https://player.vimeo.com/external/90974858.source.mov?s=ec32413ec100f3966f3e36dedf57139f&profile_id=0&download=1"
 slug: the-superpredator-scare
 ---
 
@@ -29,16 +27,14 @@ The “superpredator” caught the attention of reporters and politicians, some 
 
 But what happened to the “superpredators” of the 1990s? And what’s changed since in how the nation deals with youth crime?
 
-source_video:
-  video_id: lkDBS6a7lWQ?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
-  video_provider: youtube
-source_video_2:
-  video_id: 90974858
-  video_provider: vimeo
-  video_running_time: 11
-  video_show_in_history: true
-  video_source_file: "https://player.vimeo.com/external/90974858.source.mov?s=ec32413ec100f3966f3e36dedf57139f&profile_id=0&download=1"
-# type: video
+video_source:
+  - video_id: lkDBS6a7lWQ?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
+    video_provider: youtube
+    video_released_at:
+  - video_id: 90974858
+    video_provider: vimeo
+    video_released_at:
+    video_source_file: "https://player.vimeo.com/external/90974858.source.mov?s=ec32413ec100f3966f3e36dedf57139f&profile_id=0&download=1"
 slug: the-superpredator-scare
 ---
 

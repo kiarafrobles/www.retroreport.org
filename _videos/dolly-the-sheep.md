@@ -10,11 +10,10 @@ description: "In 1997, Scottish scientists announced they had cloned a sheep and
 tweet: "In 1997, Dolly the Sheep sent waves of shock around the world that continue to shape science today:"
 featured_image_path: /uploads/1422557921471_451783600_1280.jpg
 appearance: light-text
-source_video:
-  video_id: 76740854
-  video_provider: vimeo
-  video_show_in_history: true
-# type: video
+video_source:
+  - video_id: 76740854
+    video_provider: vimeo
+    video_released_at:
 slug: dolly-the-sheep
 ---
 

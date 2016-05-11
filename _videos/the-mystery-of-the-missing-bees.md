@@ -9,12 +9,10 @@ description: "The mystery of Colony Collapse Disorder has pushed honeybees into 
 tweet: "The mystery of Colony Collapse Disorder and the plight of the honeybee is not cut and dried."
 featured_image_path: /uploads/1422558944669_490714644_1280.jpg
 appearance: light-text
-source_video:
-  video_id: 107334165
-  video_provider: vimeo
-  video_released_at: "2014-09-28T23:00:00.000Z"
-  video_show_in_history: true
-# type: video
+video_source:
+  - video_id: 107334165
+    video_provider: vimeo
+    video_released_at: "2014-09-28T23:00:00.000Z"
 slug: the-mystery-of-the-missing-bees
 ---
 

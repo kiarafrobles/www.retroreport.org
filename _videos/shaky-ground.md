@@ -1,5 +1,5 @@
 ---
-title: "On Shaky Ground"
+title: "Shaky Ground"
 published: true
 date: 2014-04-14T23:00:00.000Z
 staff_members:
@@ -9,12 +9,11 @@ description: "The 1989 earthquake that shook San Francisco sent out a wake up ca
 tweet: "The 1989 earthquake that shook San Francisco sent out a wake up call. But how prepared is the U.S.?"
 featured_image_path: /uploads/1422558687430_471265968_1280.jpg
 appearance: light-text
-source_video:
-  video_id:
-  video_provider: vimeo
-  video_show_in_history: true
-# type: video
-slug: on-shaky-ground
+video_source:
+  - video_id:
+    video_provider: vimeo
+    video_released_at:
+slug: shaky-ground
 ---
 
 On October 17, 1989, the opening jolt of a major American earthquake was broadcast on live TV. Suddenly and without warning, viewers tuning into the third installment of the 1989 World Series heard the pre-game banter of the ABC sportscaster cease. The images of San Francisco’s Candlestick Park crackled and disappeared.

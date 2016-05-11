@@ -9,11 +9,10 @@ description: "After the 1993 murder of a California child, many states passed la
 tweet: "Today's get-tough crime laws have raised a whole new set of problems -- with no easy answers:"
 featured_image_path: /uploads/1422556675886_456616501_1280.jpg
 appearance: light-text
-source_video:
-  video_id: gcMlZkMlSzM
-  video_provider: youtube
-  video_show_in_history: true
-# type: video
+video_source:
+  - video_id: gcMlZkMlSzM
+    video_provider: youtube
+    video_released_at:
 slug: crime-and-punishment-three-strikes-and-youre-out
 ---
 

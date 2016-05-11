@@ -9,11 +9,10 @@ description: "More than three decades after the accident at Three Mile Island ca
 tweet: "More than three decades after Three Mile Island, is America ready to try nuclear energy again?"
 featured_image_path: /uploads/1422559129804_473047149_1280.jpg
 appearance: light-text
-source_video:
-  video_id:
-  video_provider: vimeo
-  video_show_in_history: true
-# type: video
+video_source:
+  - video_id:
+    video_provider: vimeo
+    video_released_at:
 slug: three-mile-island-lessons-from-the-nuclear-dream
 ---
 

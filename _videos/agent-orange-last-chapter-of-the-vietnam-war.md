@@ -9,11 +9,10 @@ description: "The use of the defoliant Agent Orange during the Vietnam War conti
 tweet: "The use of the defoliant Agent Orange during the Vietnam War continues to cast a dark shadow."
 featured_image_path: /uploads/1422559082424_474740190_1280.jpg
 appearance: light-text
-source_video:
-  video_id:
-  video_provider: vimeo
-  video_show_in_history: true
-# type: video
+video_source:
+  - video_id:
+    video_provider: vimeo
+    video_released_at:
 slug: agent-orange-last-chapter-of-the-vietnam-war
 ---
 

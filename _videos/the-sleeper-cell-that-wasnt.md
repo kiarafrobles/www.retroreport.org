@@ -10,13 +10,11 @@ description: "Six days after 9/11, the FBI’s raid on a Detroit sleeper cell si
 tweet: "Despite a celebrated conviction of a Detroit sleeper cell, there was one major problem..."
 featured_image_path: /uploads/1422556751443_455248027_1280.jpg
 appearance: light-text
-source_video:
-  video_id: z_xmYtqUPqE
-  video_provider: youtube
-  video_running_time: 12
-  video_show_in_history: true
-  video_source_file: "https://www.dropbox.com/s/5gi0h84pq45o898/RR220_DOC_MASTER_11_15_2013_SLEEPER_CELL-H264_1080p.mov?dl=0"
-# type: video
+video_source:
+  - video_id: z_xmYtqUPqE
+    video_provider: youtube
+    video_released_at:
+    video_source_file: "https://www.dropbox.com/s/5gi0h84pq45o898/RR220_DOC_MASTER_11_15_2013_SLEEPER_CELL-H264_1080p.mov?dl=0"
 slug: the-sleeper-cell-that-wasnt
 ---
 

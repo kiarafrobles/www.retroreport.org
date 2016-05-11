@@ -10,13 +10,12 @@ description: "The killing of twelve students and a teacher at Columbine High Sch
 tweet: "Images from Columbine are part of our collective memory, but is school violence really worse?"
 featured_image_path: /uploads/1443378019781_35716_1_retro-columbine.jpg
 appearance: light-text
-source_video:
-  video_id: npE9FKcG5hs
-  video_released_at: "2015-09-28T00:00:00.000Z"
-  video_running_time: 12
-  video_source_file: "https://www.dropbox.com/s/46yytr651d6fnxu/RR261_DOC_MASTER_09_25_2015_COLUMBINE-H264_1080p.mov?dl=0"
+video_source:
+  - video_id: npE9FKcG5hs
+    video_provider:
+    video_released_at: "2015-09-28T00:00:00.000Z"
+    video_source_file: "https://www.dropbox.com/s/46yytr651d6fnxu/RR261_DOC_MASTER_09_25_2015_COLUMBINE-H264_1080p.mov?dl=0"
 show_related_report_on_video_page: true
-# type: video
 slug: haunted-by-columbine
 ---
 

@@ -9,16 +9,14 @@ description: "With dreams of one day colonizing space, eight people sealed thems
 tweet: "What happens when 8 people seal themselves inside a giant biosphere to prep for living in space:"
 featured_image_path: /uploads/1422558339210_439903003_1280.jpg
 appearance: light-text
-source_video:
-  video_id: SqIost9vZUM?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
-  video_provider: youtube
-source_video_2:
-  video_id: 67838260
-  video_provider: vimeo
-  video_running_time: 10
-  video_show_in_history: true
-  video_source_file: "https://player.vimeo.com/external/67838260.source.mov?s=8022df70e13e1a6a013c69d44ed7ce9a&profile_id=0&download=1"
-# type: video
+video_source:
+  - video_id: SqIost9vZUM?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
+    video_provider: youtube
+    video_released_at:
+  - video_id: 67838260
+    video_provider: vimeo
+    video_released_at:
+    video_source_file: "https://player.vimeo.com/external/67838260.source.mov?s=8022df70e13e1a6a013c69d44ed7ce9a&profile_id=0&download=1"
 slug: biosphere-2-an-american-space-odyssey
 ---
 
@@ -28,16 +26,14 @@ The $150 million experiment aimed to collect data with an eye to building struct
 
 Twenty years later, the dreams that gave rise to Biosphere 2 continue. Mars One, a non-profit venture, is seeking to colonize Mars –- then market it as a reality TV show.
 
-source_video:
-  video_id: SqIost9vZUM?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
-  video_provider: youtube
-source_video_2:
-  video_id: 67838260
-  video_provider: vimeo
-  video_running_time: 10
-  video_show_in_history: true
-  video_source_file: "https://player.vimeo.com/external/67838260.source.mov?s=8022df70e13e1a6a013c69d44ed7ce9a&profile_id=0&download=1"
-# type: video
+video_source:
+  - video_id: SqIost9vZUM?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
+    video_provider: youtube
+    video_released_at:
+  - video_id: 67838260
+    video_provider: vimeo
+    video_released_at:
+    video_source_file: "https://player.vimeo.com/external/67838260.source.mov?s=8022df70e13e1a6a013c69d44ed7ce9a&profile_id=0&download=1"
 slug: biosphere-2-an-american-space-odyssey
 ---
 

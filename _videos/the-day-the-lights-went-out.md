@@ -10,11 +10,10 @@ description: "In 2003, a blackout crippled areas of the U.S. and Canada, leaving
 tweet: "Years after a blackout crippled the US, we're still grappling with the vulnerability of our grid:"
 featured_image_path: /uploads/1422556806404_454538970_1280.jpg
 appearance: light-text
-source_video:
-  video_id:
-  video_provider: vimeo
-  video_show_in_history: true
-# type: video
+video_source:
+  - video_id:
+    video_provider: vimeo
+    video_released_at:
 slug: the-day-the-lights-went-out
 ---
 

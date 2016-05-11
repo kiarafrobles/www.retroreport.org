@@ -9,11 +9,10 @@ description: "The Y2K bug threatened to wipe out computers and disrupt modern so
 tweet: "We all remember the Y2K doomsday hype, but what really happened? And was it all just hype?"
 featured_image_path: /uploads/1422558419190_438453574_1280.jpg
 appearance: light-text
-source_video:
-  video_id:
-  video_provider: vimeo
-  video_show_in_history: true
-# type: video
+video_source:
+  - video_id:
+    video_provider: vimeo
+    video_released_at:
 slug: y2k-much-ado-about-nothing
 ---
 

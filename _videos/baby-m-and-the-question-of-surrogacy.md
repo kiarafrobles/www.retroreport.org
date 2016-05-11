@@ -9,11 +9,10 @@ description: "The custody battle over Baby M was the first time a court consider
 tweet: "The Baby M custody battle happened 30 years ago, but where do we stand with surrogacy today?"
 featured_image_path: /uploads/1422556320476_468613234_1280.jpg
 appearance: light-text
-source_video:
-  video_id: 89720820
-  video_provider: vimeo
-  video_show_in_history: true
-# type: video
+video_source:
+  - video_id: 89720820
+    video_provider: vimeo
+    video_released_at:
 slug: baby-m-and-the-question-of-surrogacy
 ---
 

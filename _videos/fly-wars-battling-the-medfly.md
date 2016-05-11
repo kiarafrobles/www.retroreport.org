@@ -9,11 +9,10 @@ description: "In the summer of 1981, the Mediterranean fruit fly spread through 
 tweet: "The Medfly once threatened California's $14 billion agricultural crop, but now tactics have changed"
 featured_image_path: /uploads/1422556399172_467771002_1280.jpg
 appearance: light-text
-source_video:
-  video_id:
-  video_provider: vimeo
-  video_show_in_history: true
-# type: video
+video_source:
+  - video_id:
+    video_provider: vimeo
+    video_released_at:
 slug: fly-wars-battling-the-medfly
 ---
 

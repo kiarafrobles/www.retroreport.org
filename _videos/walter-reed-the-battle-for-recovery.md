@@ -9,11 +9,10 @@ description: "In 2007, the scandalous treatment of wounded soldiers at Walter Re
 tweet: "In 2007, the treatment of soldiers at Walter Reed shocked the nation. But how much has changed?"
 featured_image_path: /uploads/1422558014499_450232088_1280.jpg
 appearance: light-text
-source_video:
-  video_id:
-  video_provider: vimeo
-  video_show_in_history: true
-# type: video
+video_source:
+  - video_id:
+    video_provider: vimeo
+    video_released_at:
 slug: walter-reed-the-battle-for-recovery
 ---
 

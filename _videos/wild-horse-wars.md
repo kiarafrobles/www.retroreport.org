@@ -9,11 +9,10 @@ description: "The decades-long quest to save wild horses has run amok, creating 
 tweet: "The decades-long quest to save wild horses has run amok: "
 featured_image_path: /uploads/1422558291852_440720673_1280.jpg
 appearance: light-text
-source_video:
-  video_id:
-  video_provider: vimeo
-  video_show_in_history: true
-# type: video
+video_source:
+  - video_id:
+    video_provider: vimeo
+    video_released_at:
 slug: wild-horse-wars
 ---
 

@@ -9,12 +9,11 @@ description: "Estela de Carlotto has spent nearly four decades searching for her
 tweet: "The story of babies stolen during Argentina's dictatorship & the grandmothers searching for them."
 featured_image_path: /uploads/1444537781848_RR262_Estela_Carlotto_Personal_Photo_02_Edited_16x9.jpg
 appearance: light-text
-source_video:
-  video_id: U9np-O58z8o
-  video_provider: youtube
-  video_released_at: "2015-10-12T00:00:00.000Z"
-  video_source_file: "https://www.dropbox.com/s/ix159m5mtzq2q6g/RR262_RR_MASTER_10_10_2015_PLAZA-H264_1080p.mov?dl=0"
-# type: video
+video_source:
+  - video_id: U9np-O58z8o
+    video_provider: youtube
+    video_released_at: "2015-10-12T00:00:00.000Z"
+    video_source_file: "https://www.dropbox.com/s/ix159m5mtzq2q6g/RR262_RR_MASTER_10_10_2015_PLAZA-H264_1080p.mov?dl=0"
 slug: where-is-my-grandchild
 ---
 

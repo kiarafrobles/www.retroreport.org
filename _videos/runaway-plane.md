@@ -11,11 +11,10 @@ description: "For decades the United States has been on a quest to perfect steal
 tweet: "For years the US has been on a quest for stealth technology, but the F35 shows how hard it can be:"
 featured_image_path: /uploads/1453665204948_37843_1_retro-f-35.jpg
 appearance: light-text
-source_video:
-  video_id: uww-VPOnd0o
-  video_provider: youtube
-  video_running_time: 8
-# type: video
+video_source:
+  - video_id: uww-VPOnd0o
+    video_provider: youtube
+    video_released_at:
 slug: runaway-plane
 ---
 

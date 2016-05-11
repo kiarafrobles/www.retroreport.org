@@ -9,11 +9,10 @@ description: "Hurricane Katrina devastated the Gulf Coast in 2005, and Louisiana
 tweet: "Katrina’s troubled housing recovery has unfortunately shaped the response to major disasters since:"
 featured_image_path: /uploads/1422556894956_453106669_1280.jpg
 appearance: light-text
-source_video:
-  video_id:
-  video_provider: vimeo
-  video_show_in_history: true
-# type: video
+video_source:
+  - video_id:
+    video_provider: vimeo
+    video_released_at:
 slug: in-the-shadow-of-katrina
 ---
 

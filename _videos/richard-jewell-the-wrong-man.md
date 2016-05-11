@@ -10,11 +10,10 @@ description: "The 1996 Olympics in Atlanta were rocked by a bomb that killed one
 tweet: "In the rush to find who bombed the '96 Olympics, one man was targeted. The problem? He was innocent"
 featured_image_path: /uploads/1422557960524_450957251_1280.jpg
 appearance: light-text
-source_video:
-  video_id:
-  video_provider: vimeo
-  video_show_in_history: true
-# type: video
+video_source:
+  - video_id:
+    video_provider: vimeo
+    video_released_at:
 slug: richard-jewell-the-wrong-man
 ---
 

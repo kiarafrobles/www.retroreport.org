@@ -9,11 +9,10 @@ description: "In the wake of the 1993 hit movie Free Willy, activists and fans c
 tweet: "The release of Keiko, the killer whale from Free Willy, was more dramatic than any Hollywood film:"
 featured_image_path: /uploads/1422558121174_448904658_1280.jpg
 appearance: light-text
-source_video:
-  video_id:
-  video_provider: vimeo
-  video_show_in_history: true
-# type: video
+video_source:
+  - video_id:
+    video_provider: vimeo
+    video_released_at:
 slug: freeing-willy
 ---
 
