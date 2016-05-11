@@ -3,7 +3,7 @@ title: "How DNA Changed the World of Forensics"
 published: true
 date: 2014-05-19T23:00:00.000Z
 video_source:
-  - video_id:
+  - video_id: 95626984
     video_provider: vimeo
     video_released_at:
 staff_members:

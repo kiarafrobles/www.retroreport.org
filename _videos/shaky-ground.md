@@ -3,7 +3,7 @@ title: "Shaky Ground"
 published: true
 date: 2014-04-14T23:00:00.000Z
 video_source:
-  - video_id:
+  - video_id: 91752249
     video_provider: vimeo
     video_released_at:
 staff_members:

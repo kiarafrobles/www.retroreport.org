@@ -3,7 +3,7 @@ title: "Exxon Valdez: In the Wake of Disaster "
 published: true
 date: 2013-12-10T00:00:00.000Z
 video_source:
-  - video_id:
+  - video_id: 81251317
     video_provider: vimeo
     video_released_at:
 staff_members:

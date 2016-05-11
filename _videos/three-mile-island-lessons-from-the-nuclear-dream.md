@@ -3,7 +3,7 @@ title: "Three Mile Island: Lessons from the Nuclear Dream"
 published: true
 date: 2014-04-29T23:00:00.000Z
 video_source:
-  - video_id:
+  - video_id: 93076985
     video_provider: vimeo
     video_released_at:
 staff_members:

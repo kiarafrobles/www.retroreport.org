@@ -3,7 +3,7 @@ title: "Love Canal: A Legacy of Doubt"
 published: true
 date: 2013-11-26T00:00:00.000Z
 video_source:
-  - video_id:
+  - video_id: 80045142
     video_provider: vimeo
     video_released_at:
 staff_members:

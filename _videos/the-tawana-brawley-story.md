@@ -3,7 +3,7 @@ title: "The Tawana Brawley Story"
 published: true
 date: 2013-06-03T23:00:00.000Z
 video_source:
-  - video_id:
+  - video_id: 67413260
     video_provider: vimeo
     video_released_at:
 staff_members:

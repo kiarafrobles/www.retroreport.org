@@ -3,7 +3,7 @@ title: "The Legacy of Tailhook"
 published: true
 date: 2013-05-13T23:00:00.000Z
 video_source:
-  - video_id:
+  - video_id: 65909604
     video_provider: vimeo
     video_released_at:
 staff_members:

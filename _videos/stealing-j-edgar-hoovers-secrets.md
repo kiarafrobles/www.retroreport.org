@@ -3,7 +3,7 @@ title: "Stealing J. Edgar Hoover's Secrets"
 published: true
 date: 2014-01-08T00:00:00.000Z
 video_source:
-  - video_id:
+  - video_id: 83529960
     video_provider: vimeo
     video_released_at:
 staff_members:

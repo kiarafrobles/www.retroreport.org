@@ -3,7 +3,7 @@ title: "Freeing Willy"
 published: true
 date: 2013-09-16T23:00:00.000Z
 video_source:
-  - video_id:
+  - video_id: 74495020
     video_provider: vimeo
     video_released_at:
 staff_members:

@@ -3,7 +3,7 @@ title: "Y2K: Much Ado About Nothing?"
 published: true
 date: 2013-05-27T23:00:00.000Z
 video_source:
-  - video_id:
+  - video_id: 66784719
     video_provider: vimeo
     video_released_at:
 staff_members:

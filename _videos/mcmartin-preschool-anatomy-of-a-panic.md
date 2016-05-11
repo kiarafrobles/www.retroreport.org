@@ -3,7 +3,7 @@ title: "McMartin Preschool: Anatomy of a Panic"
 published: true
 date: 2014-03-10T23:00:00.000Z
 video_source:
-  - video_id:
+  - video_id: 88475076
     video_provider: vimeo
     video_released_at:
 staff_members:

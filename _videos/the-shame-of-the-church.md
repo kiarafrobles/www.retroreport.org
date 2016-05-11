@@ -3,7 +3,7 @@ title: "The Shame of the Church"
 published: true
 date: 2014-03-31T23:00:00.000Z
 video_source:
-  - video_id:
+  - video_id: 90341148
     video_provider: vimeo
     video_released_at:
 staff_members:

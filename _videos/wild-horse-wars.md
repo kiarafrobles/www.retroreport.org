@@ -3,7 +3,7 @@ title: "Wild Horse Wars"
 published: true
 date: 2013-06-17T23:00:00.000Z
 video_source:
-  - video_id:
+  - video_id: 68408616
     video_provider: vimeo
     video_released_at:
 staff_members:
