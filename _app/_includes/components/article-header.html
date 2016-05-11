@@ -4,7 +4,7 @@
   </h2>
   {% if page.description %}
     <p class="lede">
-      {{ page.description }}
+      {{ page.description | markdownify | remove:'<p>' | remove:'</p>' }}
     </p>
   {% endif %}
 </header>

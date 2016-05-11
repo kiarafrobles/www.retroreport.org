@@ -1,0 +1,15 @@
+{% if page.page_category %}
+    {% assign links = site.pages | where: 'page_category', page.page_category %}
+  {% endif %}
+
+  {% if links %}
+    <aside class="sidebar sidebar-right">
+      <ul>
+        {% for object in links %}
+          <li>
+            {% include components/link.html %}
+          </li>
+        {% endfor %}
+      </ul>
+    </aside>
+  {% endif %}

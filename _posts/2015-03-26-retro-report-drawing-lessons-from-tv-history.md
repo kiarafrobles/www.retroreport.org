@@ -3,8 +3,7 @@ title: "Retro Report: Drawing Lessons from TV History"
 published: true
 date: 2015-03-26T20:11:00.000Z
 featured_image_path: /uploads/1427406199061_Screen%20Shot%202015-03-26%20at%205.42.52%20PM.png
-topic: awards-accolades
-type: blog
+category: awards-accolades
 ---
 
 Back in 2013, [Retro Report](http://www.retroreport.org/) joined the Slow Journalism fold. Distributed by _The New York Times_, the organisation makes 10-12 minute mini-documentaries that revisit big news stories—mostly from the 1980s and 1990s—and investigate what has happened since.

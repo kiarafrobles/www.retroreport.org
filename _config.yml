@@ -39,6 +39,12 @@ page_category:
   - ''
   - about
 
+category:
+  - awards-accolades
+  - in-the-news
+  - on-the-road
+
+
 # == DO NOT EDIT BELOW THIS LINE #
 
 
@@ -115,6 +121,7 @@ collections:
     output: true
   topics:
     output: true
+    permalink: '/topic/:path/'
   transcripts:
     output: true
     permalink: '/video/transcript/:path/'
@@ -165,7 +172,7 @@ defaults:
       path: ''
       type: 'topics'
     values:
-      layout: 'post'
+      layout: 'page-listing-blog-posts'
   - scope:
       path: ''
       type: 'transcripts'

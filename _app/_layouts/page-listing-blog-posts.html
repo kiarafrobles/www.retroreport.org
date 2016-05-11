@@ -1,9 +1,12 @@
+---
+layout: page-listing
+---
 {% comment %}
 <!--  Determine if we're limiting the output to a particular program  -->
 {% endcomment %}
-{% if include.cat %}
-  {% assign cats = include.cat %}
-  {% assign data = site.categories[cats] %}
+{% if page.url contains 'topic' %}
+  {% assign topic = page.slug %}
+  {% assign data = site.posts | where: 'topic', topic %}
 {% comment %} 
 <!-- if no program specified in the include, then show all the events --> 
 {% endcomment %}

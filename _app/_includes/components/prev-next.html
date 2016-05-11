@@ -1,0 +1,31 @@
+<div class="PageNavigation">
+  {% if page.previous.url %}
+    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+  {% endif %}
+  {% if page.next.url %}
+    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+  {% endif %}
+</div>
+
+<style type="text/css">
+  .PageNavigation {
+    margin-top: 4em;
+    font-size: .875em;
+    display: block;
+    width: auto;
+    overflow: hidden;
+  }
+  .PageNavigation a {
+    display: block;
+    width: 50%;
+    float: left;
+    margin: 1em 0;
+    color: #777;
+  }
+  .PageNavigation a:hover {
+    color: black;
+  }
+  .PageNavigation .next {
+    text-align: right;
+  }
+</style>

@@ -1,43 +1,22 @@
 ---
 layout: default
 ---
-{% if page.featured_image_path %}
-  {% include _hero.html %}
-{% endif %}
-<div id="content">    
-
-  {% if page.category %}
-    {% assign links = site.pages | where: 'page_category', page.page_category %}
-  {% endif %}
-
-  {% if links %}
-    <aside class="sidebar sidebar-right">
-      <ul>
-        {% for object in links %}
-          <li>
-            {% include components/link.html %}
-          </li>
-        {% endfor %}
-      </ul>
-    </aside>
-  {% endif %}
-
+<div id="content">
+  
   <article class="hentry {% if page.class %}{{page.class}}{% endif %}">
-
+  
+    {% if page.featured_image_path %}
+      <img src="{% if site.image_url %}{{ site.image_url }}{% endif %}{{ page.featured_image_path }}?exp=1">
+    {% endif %}
+  
     {% include components/article-header.html %}
-
-    {% if page.content != '' %}
+  
       <div id="entry-content" class="entry-content prose">
         {{ content | markdownify }}
-      </div>
-    {% endif %}
-    
-    {% if page.include_content %}
-      {% include {{ page.include_content }} %}
-    {% endif %}
-
+        {% include components/prev-next.html %}
+      </div>    
+  
   </article>
-
   
   {% include components/page-bottom.html %}
 </div>
