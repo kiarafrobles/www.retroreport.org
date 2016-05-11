@@ -10,7 +10,7 @@ description: "The murder of four American churchwomen focused attention on the U
 tweet: "The 10980 murder of four American nuns in El Salvador takes some surprising turns."
 featured_image_path: /uploads/1422558791679_495950418_1280.jpg
 appearance: dark-text
-source_video:
+video_source:
   - video_id: 7JCjrUp1GAs?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
     video_provider: youtube
     video_released_at: "2014-11-10T00:00:00.000Z"
