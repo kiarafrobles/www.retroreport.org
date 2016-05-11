@@ -1,17 +1,17 @@
 ---
 title: "A Change of Heart"
 published: true
-staff_members:
-  - catherine-olian
-topic: health
-description: "The artificial heart became a media sensation in the 1980s as it both raised hopes and spread controversy. Today its impact on medical science is still playing out in surprising ways."
-tweet: "In the 80s the artificial heart raised hopes &spread controversy. Now it's back in a surprising way"
-featured_image_path: /uploads/1458445338897_RR263_THUMB_EDITED_ARTIFICIAL_HEART_Getty_128555985.jpg
-appearance: light-text
 video_source:
   - video_id: a7CYazJB3eI
     video_provider: youtube
     video_released_at: "2016-03-20T23:00:00.000Z"
+staff_members:
+  - catherine-olian
+topic: health
+description: "The artificial heart became a media sensation in the 1980s as it both raised hopes and spread controversy. Today its impact on medical science is still playing out in surprising ways."
+appearance: light-text
+tweet: "In the 80s the artificial heart raised hopes &spread controversy. Now it's back in a surprising way"
+featured_image_path: /uploads/1458445338897_RR263_THUMB_EDITED_ARTIFICIAL_HEART_Getty_128555985.jpg
 slug: a-change-of-heart
 ---
 
