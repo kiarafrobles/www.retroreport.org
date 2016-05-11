@@ -3,7 +3,7 @@ title: "The Big Stories Then in the Clear Light of Now"
 published: true
 date: 2013-05-06T21:36:00.000Z
 featured_image_path: /uploads/1441316185501_Unknown.png
-category: in-the-news
+topic: in-the-news
 type: blog
 ---
 

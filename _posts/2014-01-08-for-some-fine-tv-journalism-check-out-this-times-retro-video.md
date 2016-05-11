@@ -3,7 +3,7 @@ title: "For some fine TV journalism, check out this Times 'Retro' video"
 published: true
 date: 2014-01-08T22:43:00.000Z
 featured_image_path: /uploads/1441316662327_Unknown.jpeg
-category: in-the-news
+topic: in-the-news
 type: blog
 ---
 

@@ -3,7 +3,7 @@ title: "Retro Report: Drawing Lessons from TV History"
 published: true
 date: 2015-03-26T20:11:00.000Z
 featured_image_path: /uploads/1427406199061_Screen%20Shot%202015-03-26%20at%205.42.52%20PM.png
-category: awards-accolades
+topic: awards-accolades
 type: blog
 ---
 

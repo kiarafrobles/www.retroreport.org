@@ -45,7 +45,7 @@ page_category:
 # BUILD VARIABLES
 google_analytics_id: UA-xxxxxxx-4
 bust_css_cache: true
-image_url: https://retroreport.imgix.net
+image_url: https://staging-retro-report.imgix.net
 imgix:
   source: retroreport.imgix.net
 production: false
@@ -74,7 +74,7 @@ gems:
 
 paginate: 12
 paginate_path: "/blog/page-:num/"
-permalink: '/:categories/:path'
+permalink: '/:categories/:title/'
 # FILES
 include:
   - _landing_pages

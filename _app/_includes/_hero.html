@@ -12,10 +12,12 @@
   </div>
 </div>
 
-{% comment %} |imageSize(1220,auto)  {% endcomment %}
+
+
+
 
 {% comment %}
-
+|imageSize(1220,auto)
 style="background-image: url({% if page.featured_image %}{{ page.featured_image_path }}{% else %} {{cms.global.featured_image_path }}{% endif %});background-position:center {% if page.featured_image_position %}{{ page.featured_image_position }}{% else %}top{% endif %};background-size:cover;{% if page.banner_height %}height:{{ page.banner_height }}px;{% endif %}background-repeat: no-repeat;"
 
  {% endcomment %}

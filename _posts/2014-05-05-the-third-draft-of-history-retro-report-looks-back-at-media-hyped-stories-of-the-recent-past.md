@@ -3,7 +3,7 @@ title: "The third draft of history: Retro Report looks back at media-hyped stori
 published: true
 date: 2014-05-05T21:41:00.000Z
 featured_image_path: /uploads/1441316378679_Screen%20Shot%202015-09-03%20at%205.39.26%20PM.png
-category: in-the-news
+topic: in-the-news
 type: blog
 ---
 

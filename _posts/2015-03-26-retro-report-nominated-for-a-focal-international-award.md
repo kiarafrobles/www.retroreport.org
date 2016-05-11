@@ -3,7 +3,7 @@ title: "Retro Report nominated for a FOCAL International Award"
 published: true
 date: 2015-03-26T18:28:00.000Z
 featured_image_path: /uploads/1427394966716_NominatedLong-hires-large.jpg
-category: awards-accolades
+topic: awards-accolades
 type: blog
 ---
 

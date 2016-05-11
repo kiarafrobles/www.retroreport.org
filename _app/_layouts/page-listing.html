@@ -1,59 +1,47 @@
 ---
 layout: default
 ---
+{% if page.featured_image_path %}
+  {% include _hero.html %}
+{% endif %}
+<div id="content">    
 
-
-
-<div class="has-layout">
-   {% unless page.featured_image_path %}
-     <header>
-       <h1 class="entry-title">
-         {{ page.title }}
-       </h1>
-       {% if page.description %}
-         <p class="lede">
-           {{ page.description }}
-         </p>
-       {% endif %}
-     </header>
-   {% endunless %}
-
-   {% if page.content != '' %}
-     <div id="entry-content" class="entry-content prose">
-       {{ content | markdownify }}
-     </div>
-   {% endif %}
-   {% if page.include_content %}
-      {% include {{ page.include_content }} %}
-   {% endif %}
-</div>
-
-  {% if page.include %}
-    <div class="has-layout">
-      {% include {{ page.include }} %}
+  <div class="has-layout">
+    <div class="row">
+      <header>
+        <h1 class="entry-title">
+          {{ page.title }}
+        </h1>
+        {% if page.description %}
+          <p class="lede">
+            {{ page.description }}
+          </p>
+        {% endif %}
+      </header>
     </div>
+    {% if page.include %}
+      {% include {{ page.include }} %}
+    {% endif %}
+  </div>
+
+  {% if page.page_category %}
+    {% assign links = site.pages | where: 'page_category', page.page_category %}
+  {% endif %}
+
+  {% if links %}
+    <aside class="sidebar sidebar-right">
+      <ul>
+        {% for object in links %}
+          <li>
+            {% include components/link.html %}
+          </li>
+        {% endfor %}
+      </ul>
+    </aside>
   {% endif %}
 
 
-{% if page.page_category %}
-  {% assign links = site.pages | where: 'page_category', page.page_category %}
-{% endif %}
 
-{% if links %}
-  <aside class="sidebar sidebar-right">
-    <ul>
-      {% for object in links %}
-        <li>
-          {% include components/link.html %}
-        </li>
-      {% endfor %}
-    </ul>
-  </aside>
-{% endif %}
-
-
-<div class="has-layout">
-  <div class="centered-content">
-    {% include forms/mailchimp-simple.html %}
-  </div>
+  
+  {% include components/page-bottom.html %}
 </div>

@@ -14,5 +14,7 @@
 </a>
 {% if object.content %}
   {{ object.content | markdownify | strip_html | truncate: 100 }}
-    <a href="{{ url(object) }}">read</a>
+    <a href="{{ object.url }}">
+      read
+    </a>
 {% endif %}

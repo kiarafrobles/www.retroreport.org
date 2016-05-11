@@ -1,32 +1,43 @@
 ---
 layout: default
 ---
-<article class="post-layout" itemscope itemtype="http://schema.org/BlogPosting">
+{% if page.featured_image_path %}
+  {% include _hero.html %}
+{% endif %}
+<div id="content">    
 
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-  </header>
+  {% if page.category %}
+    {% assign links = site.pages | where: 'page_category', page.page_category %}
+  {% endif %}
 
-  <div class="post-content" itemprop="articleBody">
+  {% if links %}
+    <aside class="sidebar sidebar-right">
+      <ul>
+        {% for object in links %}
+          <li>
+            {% include components/link.html %}
+          </li>
+        {% endfor %}
+      </ul>
+    </aside>
+  {% endif %}
 
-    df
+  <article class="hentry {% if page.class %}{{page.class}}{% endif %}">
 
-{{ page.slideshow_path }}
+    {% include components/article-header.html %}
 
-{% assign slideshows = page.slideshow_path | remove: '/_data/' | remove: '.json' %}
+    {% if page.content != '' %}
+      <div id="entry-content" class="entry-content prose">
+        {{ content | markdownify }}
+      </div>
+    {% endif %}
+    
+    {% if page.include_content %}
+      {% include {{ page.include_content }} %}
+    {% endif %}
 
+  </article>
 
-  {% assign slideshow  = site.data[slideshows] %}
-
-{% for data in slideshow %}
-
-  {{ data.image.resize_url }}
-  <hr>
-{% endfor %}
-
-<hr><hr><hr><hr><hr>
-    {{ content }}
-  </div>
-
-</article>
+  
+  {% include components/page-bottom.html %}
+</div>

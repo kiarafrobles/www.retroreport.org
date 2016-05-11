@@ -4,7 +4,7 @@ published: true
 date: 2015-03-12T18:22:00.000Z
 description: "Photographs from the road in Argentina"
 featured_image_path: /uploads/1426184168169_PLAZA-RETRO_REPORT.jpg
-category: on-the-road
+topic: on-the-road
 type: blog
 ---
 
