@@ -20,10 +20,10 @@
   clear: both;
   padding-left: 1em;
   padding-right: 1em;
-  // @include media($xl-up) {
-  //   padding-left: 0;
-  //   padding-right: 0;
-  // }
+  @include media($large-screen-up) {
+    padding-left: 4em;
+    padding-right: 4em;
+  }
 }
 .centered-content {
   width:98%;
@@ -195,7 +195,7 @@ article.hentry, article.subcontent {
   clear:both;
   @include span-columns(12 of 12);
   @include media($large-screen-up) {
-    //padding: 0 1em;
+    padding: 0 4em;
     @include span-columns(9 of 12);
     //@include shift(.5);
     }
@@ -338,8 +338,10 @@ article.hentry, article.subcontent {
     @include omega(3n);
   }
   @include media($xl-up) {
-    @include span-columns(3 of 12);
-    @include omega(4n);
+    //@include span-columns(3 of 12);
+    //@include omega(4n);
+    @include span-columns(4 of 12);
+    @include omega(3n);
   }
 }
 
