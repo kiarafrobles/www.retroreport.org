@@ -1,0 +1,31 @@
+{% assign image = object.featured_image_path | imgix_url: w: 400, txt64:Hello World! %}
+
+
+<a href="{{ object.url }}" class="flex-box">    
+
+  
+    <img src="{{ image }}">
+  
+
+ {% comment %}<!-- 
+  <h1 class="flex-title name">{{ object.title }}</h1>
+  -->{% endcomment %}  
+
+  {% if page.url == '/video/' %}
+    {% if object.collection == 'reports' %}
+      <h6 class="type">
+        {{ object.collection }}        
+      </h6>
+    {% endif %}
+  {% endif %}
+  
+  <span class="category hidden">
+    {{ object.topics  }}      
+  </span>
+  
+  <p class="description">
+    {{ object.description }}
+  </p> 
+ 
+ {% comment %}<!-- <span class="hidden related">{{ object.related_video.name }}</span>  -->{% endcomment %}
+</a>

@@ -1,7 +1,26 @@
 <script src="/assets/js/scripts.min.js" {% unless page.url == '/search-results/' %}async="true"{% endunless %}></script>
 
   <!-- Go to www.addthis.com/dashboard to customize your tools -->
-  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-539e3ee23fa64675" async="async"></script>
+   {% comment %}<!-- <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-539e3ee23fa64675" async="async"></script>  -->{% endcomment %}
+   
+<script type="text/javascript">
+  function downloadJSAtOnload() {
+    var element_addthis = document.createElement("script");
+    element_addthis.src = "//s7.addthis.com/js/300/addthis_widget.js#pubid={{ site.addthis_id }}";
+    document.body.appendChild(element_addthis);
+    }
+  if (window.addEventListener)
+  window.addEventListener("load", downloadJSAtOnload, false);
+  else if (window.attachEvent)
+  window.attachEvent("onload", downloadJSAtOnload);
+  else window.onload = downloadJSAtOnload;
+  ;(function(document) {
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/, 'js');
+}(document));
+</script>
+
+
+
 
   <script type="text/javascript">
   var addthis_share = addthis_share || {}

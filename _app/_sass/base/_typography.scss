@@ -14,6 +14,15 @@ body {
   }
 }
 
+// apply the modular scale to class names so we can be semantic, but spoof the size of a font
+@for $i from 1 through 6 {
+  .h#{$i} {
+    font-size: modular-scale(6 - $i);
+  }
+}
+
+
+
 h1,
 h2,
 h3,
@@ -23,7 +32,7 @@ h6 {
   font-family: $heading-font-family;
   //font-size: $base-font-size;
   line-height: $heading-line-height;
-  margin: $base-spacing 0 ($small-spacing * .5) 0;  
+  margin: $small-spacing 0 ($small-spacing * .5) 0;  
   color: $base-font-color-headings;
   a {
     color: $base-font-color-headings;

@@ -6,43 +6,16 @@ layout: default
 {% endif %}
 <div id="content">    
 
-  <div class="has-layout">
-    <div class="row">
-      <header>
-        <h1 class="entry-title">
-          {{ page.title }}
-        </h1>
-        {% if page.description %}
-          <p class="lede">
-            {{ page.description }}
-          </p>
-        {% endif %}
-      </header>
-    </div>
-    {% if page.include %}
-      {% include {{ page.include }} %}
-    {% endif %}
-    {{ content }}
+  <div class="row">
+    {% include components/article-header.html %}
   </div>
-
-  {% if page.page_category %}
-    {% assign links = site.pages | where: 'page_category', page.page_category %}
+  {% if page.include %}
+    <div class="row">
+      {% include {{ page.include }} %}
+    </div>
   {% endif %}
-
-  {% if links %}
-    <aside class="sidebar sidebar-right">
-      <ul>
-        {% for object in links %}
-          <li>
-            {% include components/link.html %}
-          </li>
-        {% endfor %}
-      </ul>
-    </aside>
-  {% endif %}
-
-
-
-  
+  <div class="has-layout">
+    {{ content }}    
+  </div>
   {% include components/page-bottom.html %}
 </div>

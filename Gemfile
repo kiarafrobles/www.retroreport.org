@@ -8,7 +8,7 @@ group :jekyll_plugins do
   # gem 'autoprefixer-rails'
   gem 'jekyll-seo-tag'
   gem 'hash-joiner'
-  #gem 'jekyll-imgix'
+  gem 'jekyll-imgix'
   #### gem "html-proofer"
   #### gem "jekyll-lunr-js-search"
   #### gem 'jekyll-sitemap'

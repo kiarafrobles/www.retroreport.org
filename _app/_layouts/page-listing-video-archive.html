@@ -1,0 +1,47 @@
+---
+layout: page-listing
+---
+
+{% if page.url contains 'topics' %}
+  {% assign topic = page.slug %}
+  {% assign data = site.videos | where: 'topic', topic %}
+{% else %}
+  {% assign data = site.documents | where: 'collection', page.channel | sort: 'date' | reverse %}
+{% endif %}
+
+<div class="layout-grid">
+  <div id="filter">    
+    <input class="search" type="search" placeholder="Type to Filter by name or keyword" name="q" style="display:inline-block;box-shadow:none;">
+    <div class="filter-list-videos">
+      <div class="flex-boxes filter-list"> 
+        {% for object in data %}
+          {% include components/video-block.html  %}          
+        {% endfor %}        
+      </div>
+    </div>
+  </div>
+</div>
+
+  {% assign links = site.topics  %}
+  {% assign sub_links = site.data.library-menu %}
+  {% if links %}
+    <aside class="sidebar sidebar-right">
+      <ul>
+        <li>
+          <a href="/library/"{% if page.url == '/library/' %} class="active"{% endif %}>
+            All
+          </a>
+        </li>
+        {% for object in links %}
+          <li>
+            {% include components/link.html %}
+          </li>
+        {% endfor %}
+        {% for object in sub_links %}
+          <li>
+            {% include components/link.html %}
+          </li>
+        {% endfor %}
+      </ul>
+    </aside>
+  {% endif %}

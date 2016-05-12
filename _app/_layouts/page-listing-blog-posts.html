@@ -14,13 +14,44 @@ layout: page-listing
   {% assign data = paginator.posts | sort: 'date' | reverse %}
 {% endif %}
 
-<div class="layout-posts">
-  <div class="row">
+  <div class="has-layout row">
     {% for object in data %}
       <div class="boxes-3-across">
-        {% include components/blog-posts.html %}
+        {% assign date = object.date %}
+        {% include components/date.html date=date %}
+        <a href="{{ object.url }}">
+          {% if object.featured_image_path %}
+            <div class="image-box">
+              <img src="{% if site.image_url %}{{ site.image_url }}{% endif %}{{ object.featured_image_path }}?w=300&h=200&fit=clamp&exp=1" style="max-width:100%;border:1px solid #ddd;">
+            </div>
+          {% endif %}
+          <br />
+          <h2 class="h6 m0">
+            {{ object.title | markdownify | remove: '<p>' | remove: '</p>' }}
+          </h2>
+        </a>
+        {% if object.content %}
+          {{ object.content | markdownify | strip_html | truncate: 100 }}
+          <a href="{{ object.url }}">
+            read
+          </a>
+        {% endif %}
       </div> 
     {% endfor %}      
     {% include components/pagination.html %}
   </div>
-</div>
+
+
+  {% assign links = site.category  %}
+
+    {% if links %}
+      <aside class="sidebar sidebar-right">
+        <ul>
+          {% for object in links %}
+            <li>
+              {% include components/link.html %}
+            </li>
+          {% endfor %}
+        </ul>
+      </aside>
+    {% endif %}

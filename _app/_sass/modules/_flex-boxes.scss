@@ -17,7 +17,7 @@
   $flex-box-background: lighten($light-gray, 10%);
   $flex-box-gutter: 0.4em;
   $flex-box-width: 18em;
-  $flex-box-color: white;//transparentize($base-font-color, 0.3);
+  $flex-box-color: #666;//white;//transparentize($base-font-color, 0.3);
   $flex-box-top-colors: 
     tomato, 
     #72BFBF, 
@@ -42,7 +42,7 @@
     box-shadow: inset 0 0 1px $flex-box-border-color, 0 2px 4px darken($base-background-color, 10%);
     display: block;
     margin: $flex-box-gutter;
-    padding: 2em 2em 3em 2em;
+    
 
     // @for $i from 1 to 7 { // assign colors from $flex-box-top-colors list
     //   &:nth-child(#{$i}) {
@@ -67,6 +67,7 @@
     // }
 
     .flex-title {
+      padding: 2em 2em .5em 2em;
       color: $flex-box-color;
       font-size: 1.8em;
       font-weight: 800;
@@ -74,11 +75,12 @@
     }
 
     p {
-      color: transparentize($flex-box-color, 0.1);
+      padding: 0 2em 3em 2em;
+      color: #111;//transparentize($flex-box-color, 0.1);
       line-height: 1.5em;
       margin: auto;
       font-size: .9rem;
-      visibility: hidden;
+      //visibility: hidden;
 
     }
 

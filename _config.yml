@@ -6,7 +6,7 @@ description: "An innovative documentary news organization launched in 2013 as a 
 description_long: "How often does a great story dominate the headlines, only to be dropped from the news cycle? How often do journalists tell us of a looming danger or important discovery – only to move quickly to the next new thing? What really happened? How did these events change us? And what are the lingering consequences that may affect our society to this day?
 <br /><br />
 These are the questions we are answering at Retro Report, an innovative documentary news organization launched in 2013 as a timely online counterweight to today’s 24/7 news cycle."
-url: http://www.retroreport.org/
+url: http://www.retroreport.org
 email_signup_heading: Get RETRO REPORT by Email
 
 #CONTENT VARIABLES
@@ -50,6 +50,7 @@ category:
 
 # BUILD VARIABLES
 google_analytics_id: UA-xxxxxxx-4
+addthis_id: ra-539e3ee23fa64675
 bust_css_cache: true
 image_url: https://staging-retro-report.imgix.net
 imgix:
@@ -71,8 +72,10 @@ includes_dir: ./_app/_includes
 
 # PLUGINS
 gems:
+  - jekyll/imgix
   - jekyll-seo-tag
   - jekyll-paginate
+
 # - html-proofer
  #- jekyll-lunr-js-search
  #- jekyll-sitemap
@@ -121,11 +124,12 @@ collections:
     permalink: '/:collection/:path/'
   reports:
     output: true
+    display_name: 'Multimedia Reports'
   related_coverage:
     output: true
   topics:
     output: true
-    permalink: '/topic/:path/'
+    permalink: '/:collection/:path/'
   transcripts:
     output: true
     permalink: '/video/transcript/:path/'
@@ -176,7 +180,7 @@ defaults:
       path: ''
       type: 'topics'
     values:
-      layout: 'page-listing-blog-posts'
+      layout: 'page-listing-video-archive'
   - scope:
       path: ''
       type: 'transcripts'

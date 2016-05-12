@@ -9,14 +9,21 @@
 .outer-container {
   @include outer-container(100%);
 }
-.row {
-  @include outer-container;
-  @include clearfix;
-}
+
 .has-layout {
   clear: both;
   @include clearfix;
   @include outer-container(100%);
+}
+
+.row {
+  clear: both;
+  padding-left: 1em;
+  padding-right: 1em;
+  // @include media($xl-up) {
+  //   padding-left: 0;
+  //   padding-right: 0;
+  // }
 }
 .centered-content {
   width:98%;
@@ -118,7 +125,7 @@ article.hentry, article.subcontent {
   @include media($large-screen-up) {
     @include omega();
     @include span-columns(2.5 of 12);
-    border-left: 1px solid darken($lightest-gray, 5%);
+    border: 1px solid darken($lightest-gray, 5%);
 
   }
 }
@@ -184,13 +191,13 @@ article.hentry, article.subcontent {
 }
 
 .layout-grid, .hentry-left {
-  padding:0 .875em;
+  padding:0 1em;
   clear:both;
   @include span-columns(12 of 12);
   @include media($large-screen-up) {
-    padding: 0;
+    //padding: 0 1em;
     @include span-columns(9 of 12);
-    @include shift(.5);
+    //@include shift(.5);
     }
   }
 .layout-copy {
@@ -326,9 +333,13 @@ article.hentry, article.subcontent {
     @include span-columns(6 of 12);
     @include omega(2n);
   }
-  @include media($l-up) {
+  @media screen and (min-width: $l) and (max-width: $xl) {
     @include span-columns(4 of 12);
     @include omega(3n);
+  }
+  @include media($xl-up) {
+    @include span-columns(3 of 12);
+    @include omega(4n);
   }
 }
 
