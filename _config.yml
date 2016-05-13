@@ -108,9 +108,9 @@ collections:
     output: false
   board:
     output: false
-  categories:
+  category:
     output: true
-    permalink: '/:path/'
+    permalink: '/:collection/:path/'
   mini-docs:
     output: true
   playlists:
@@ -155,7 +155,7 @@ defaults:
       no_page: true
   - scope:
       path: ''
-      type: 'categories'
+      type: 'category'
     values:
       layout: 'listing-blog-posts'
   - scope:
@@ -183,7 +183,8 @@ defaults:
       path: ''
       type: 'topics'
     values:
-      layout: 'page-listing-video-archive'
+      layout: 'listing-video-archive'
+      section: 'Library'
   - scope:
       path: ''
       type: 'transcripts'

@@ -1,7 +1,7 @@
 <header>
   {% if page.title %}
-    <h1 class="entry-title">
-      {{ page.title | markdownify | remove:'<p>' | remove:'</p>' }}
+    <h1 class="entry-title h2">
+      {% if page.section %}{{ page.section }}: {% endif %}{{ page.title | markdownify | remove:'<p>' | remove:'</p>' }}
     </h1>
   {% endif %}
   {% if page.description %}

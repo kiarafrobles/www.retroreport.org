@@ -1,16 +1,17 @@
 ---
 layout: page-listing
 ---
-{% if page.url contains 'topic' %}
-  {% assign topic = page.slug %}
-  {% assign data = site.posts | where: 'topic', topic %}
+{% if page.url == '/blog/' %}
+  {% assign data = paginator.posts  | sort: 'date', 'last' | reverse %}
 {% else %}
-  {% assign data = paginator.posts | sort: 'date' | reverse %}
+  {% assign category = page.slug %}
+  {% assign data = site.posts | where: 'category', category | sort: 'date', 'last' | reverse %}
 {% endif %}
-{% assign links = site.categories  %}
+
+{% assign links = site.category  %}
 
   <div class="layout-grid">
-    <div class="flex-boxes">
+    <div class="flex-boxesTK">
       {% for object in data %}
         {% include components/box-grid.html %} 
       {% endfor %}      
@@ -24,7 +25,7 @@ layout: page-listing
     <ul>
       {% for object in links %}
         <li>
-          {{ category }}
+            {% include components/link.html %}
         </li>
       {% endfor %}
     </ul>

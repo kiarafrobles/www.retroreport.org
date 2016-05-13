@@ -17,7 +17,7 @@
   $flex-box-background: lighten($light-gray, 10%);
   $flex-box-gutter: 0.4em;
   $flex-box-width: 18em;
-  $flex-box-color: #666;//white;//transparentize($base-font-color, 0.3);
+  $flex-box-color: $black;//#666;//white;//transparentize($base-font-color, 0.3);
   $flex-box-top-colors: 
     tomato, 
     #72BFBF, 
@@ -67,11 +67,11 @@
     // }
 
     .flex-title {
-      padding: 2em 2em .5em 2em;
+      //padding: 2em 2em .5em 2em;
       color: $flex-box-color;
-      font-size: 1.8em;
-      font-weight: 800;
-      margin-bottom: 0.5em;
+      //font-size: 1.8em;
+      //font-weight: 800;
+      //margin-bottom: 0.5em;
     }
 
     p {
@@ -91,13 +91,14 @@
 
     &:hover {
       //@include transition (all 0.2s ease-in-out);
-      background: rgba(0,0,0,.89);
+      background: darken($flex-box-background, 5%);//rgba(0,0,0,.89);
 
       p, i {
         visibility: visible;
         @include transition (all 0.2s ease-in-out);
         
       }
+     
     }
 
 

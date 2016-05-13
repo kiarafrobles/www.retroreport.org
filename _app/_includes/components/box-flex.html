@@ -1,15 +1,15 @@
-{% assign image = object.featured_image_path | imgix_url: w: 400, txt64:Hello World! %}
+{% assign image = object.featured_image_path | imgix_url: w: 400, txt:'Hello World!' %}
 
 
 <a href="{{ object.url }}" class="flex-box">    
 
-  
+    <div class="image-box">
     <img src="{{ image }}">
-  
+  </div>  
 
- {% comment %}<!-- 
-  <h1 class="flex-title name">{{ object.title }}</h1>
-  -->{% endcomment %}  
+ 
+  <h1 class="h6 flex-title name">{{ object.title }}</h1>
+ 
 
   {% if page.url == '/video/' %}
     {% if object.collection == 'reports' %}
