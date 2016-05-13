@@ -110,7 +110,7 @@ collections:
     output: false
   category:
     output: true
-    permalink: '/:collection/:path/'
+    permalink: '/:path/'
   mini-docs:
     output: true
   playlists:
