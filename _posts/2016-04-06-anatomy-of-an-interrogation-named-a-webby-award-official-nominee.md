@@ -1,11 +1,12 @@
 ---
-title: '*Anatomy of an Interrogation* named a Webby Award Official Nominee'
+title: "*Anatomy of an Interrogation* named a Webby Award Official Nominee"
 published: true
 date: 2016-04-06T15:21:00.000Z
-description: 'Fantastic news! *Anatomy of an Interrogation,* the little-known story of the first and only interrogator connected to the CIA to be convicted of torturing a suspected terrorist, has been chosen as an Official Honoree by The Webby Awards!'
+article-topic: awards-accolades
+description: "Fantastic news! *Anatomy of an Interrogation,* the little-known story of the first and only interrogator connected to the CIA to be convicted of torturing a suspected terrorist, has been chosen as an Official Honoree by The Webby Awards! "
 featured_image_path: /uploads/1459956900275_Unknown.png
-category: awards-and-accolades
+slug: 2016-04-06-anatomy-of-an-interrogation-named-a-webby-award-official-nominee
 ---
 
-
 Fantastic news! "Anatomy of an Interrogation," the little-known story of the first and only interrogator connected to the CIA to be convicted of torturing a suspected terrorist, has been chosen as an Official Honoree by The Webby Awards!
+
