@@ -9,7 +9,7 @@ layout: default
       <img src="{% if site.image_url %}{{ site.image_url }}{% endif %}{{ page.featured_image_path }}?exp=1">
     {% endif %}
   
-    {% include components/article-header.html %}
+    {% include components/page-header.html %}
   
       <div id="entry-content" class="entry-content prose">
         {{ content | markdownify }}

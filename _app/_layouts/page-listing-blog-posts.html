@@ -7,26 +7,26 @@ layout: page-listing
 {% else %}
   {% assign data = paginator.posts | sort: 'date' | reverse %}
 {% endif %}
-{% assign links = site.category  %}
+{% assign links = site.categories  %}
 
   <div class="layout-grid">
-    {% for object in data %}
-      {% include components/posts-block.html %} 
-    {% endfor %}      
+    <div class="flex-boxes">
+      {% for object in data %}
+        {% include components/box-grid.html %} 
+      {% endfor %}      
+    </div>
     {% include components/pagination.html %}
   </div>
 
 
-  
-
-    {% if links %}
-      <aside class="sidebar sidebar-right">
-        <ul>
-          {% for object in links %}
-            <li>
-              {% include components/link.html %}
-            </li>
-          {% endfor %}
-        </ul>
-      </aside>
-    {% endif %}
+{% if links %}
+  <aside class="sidebar sidebar-right">
+    <ul>
+      {% for object in links %}
+        <li>
+          {{ category }}
+        </li>
+      {% endfor %}
+    </ul>
+  </aside>
+{% endif %}

@@ -7,13 +7,9 @@ layout: default
 <div id="content">    
 
   <div class="row">
-    {% include components/article-header.html %}
+    {% include components/page-header.html %}
   </div>
-  {% if page.include %}
-    <div class="row">
-      {% include {{ page.include }} %}
-    </div>
-  {% endif %}
+  
   <div class="has-layout">
     {{ content }}    
   </div>

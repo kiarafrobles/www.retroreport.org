@@ -13,16 +13,18 @@ layout: page-listing
 
 
 <div class="layout-grid">
+
   <div id="filter">    
     <input class="search" type="search" placeholder="Type to Filter by name or keyword" name="q" style="display:inline-block;box-shadow:none;">
     <div class="filter-list-videos">
       <div class="flex-boxes filter-list"> 
         {% for object in data %}
-          {% include components/video-block.html  %}          
+          {% include components/box-flex.html  %}          
         {% endfor %}        
       </div>
     </div>
   </div>
+
 </div>
 
   {% if links %}
