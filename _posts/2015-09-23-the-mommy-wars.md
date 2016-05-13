@@ -5,7 +5,6 @@ date: 2015-09-23T19:19:00.000Z
 article-topic: on-the-road
 description: "A shoot in NYC with Paul Raeburn, author of Do Fathers Matter, for an upcoming story on the Mommy Wars."
 featured_image_path: /uploads/1443035976010_rBMgTPXLKJ4QpteWLoHiiXFe-F3kBWhvATNpDwQyVE8.jpeg
-slug: 2015-09-23-the-mommy-wars
 ---
 
 A shoot in NYC with Paul Raeburn, author of Do Fathers Matter, for an upcoming story on the Mommy Wars.

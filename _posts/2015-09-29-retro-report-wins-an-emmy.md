@@ -5,7 +5,6 @@ date: 2015-09-29T17:28:00.000Z
 article-topic: awards-accolades
 description: "We're incredibly excited to have won an Emmy for Best Editing for *Go or No Go: the Challenger Legacy,* which looked at the space shuttle explosion and the general nature of calamity."
 featured_image_path: /uploads/1443547549875_Emmy.jpg
-slug: 2015-09-29-retro-report-wins-an-emmy
 ---
 
 We're incredibly excited to have won an Emmy for Best Editing for "Go or No Go: the Challenger Legacy," which looked at the space shuttle explosion and the general nature of calamity.

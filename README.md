@@ -3,6 +3,7 @@ A starter theme for Jekyll.
 - [ ] blog categories
 - [ ] sort paginator
 - [ ] figure out reports - galleries
+- [ ] improve mobile images, srcset
 - [ ] video page
 - [ ] home page
 - [ ] playlists

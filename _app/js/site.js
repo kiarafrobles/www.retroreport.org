@@ -1,17 +1,3 @@
-// nav
-  $('.sliding-panel-button,.sliding-panel-fade-screen,.sliding-panel-close').on('click touchstart',function (e) {
-    $('.sliding-panel-content,.sliding-panel-fade-screen').toggleClass('is-visible');
-    e.preventDefault();
-  });
-//
-$('a').smoothScroll();
-$("img").unveil(600);
-
-// $("img").unveil(300, function() {
-//     $(this).load(function() {
-//       this.style.opacity = 1;
-//     });
-//   });
 
 //LISTJS
  var options = {
@@ -43,8 +29,3 @@ if (document.getElementById("filter-yahoo")) {
           });
         };
       }
-
-$('#tipue_search_input').tipuesearch({
-  highlightEveryTerm: true,
-  descriptiveWords: 100
-});

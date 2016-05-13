@@ -3,8 +3,7 @@
  "scssSrc":"./_sass",
  "cssDist":"./../assets/css",
 
- "scriptsSrc":[
-   "./node_modules/jquery/dist/jquery.js",
+ "scriptsSrc":[   
    "./node_modules/list.js/dist/list.js",
    "./js/*.js"
   ],
@@ -15,6 +14,7 @@
   "imgDist":"./../assets/images",
 
   "filesSrc":[
+    "./node_modules/flickity/dist/flickity.pkgd.min.js",
     "./node_modules/html5shiv/dist/html5shiv.min.js",
     "./node_modules/respond.js/dest/respond.min.js"
     ],

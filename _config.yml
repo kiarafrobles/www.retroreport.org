@@ -110,7 +110,7 @@ collections:
     output: false
   article-topics:
     output: true
-    permalink: '/:path/'
+    permalink: '/news/:path/'
   mini-docs:
     output: true
   playlists:
@@ -119,7 +119,7 @@ collections:
     output: true
   posts:
     output: true
-    permalink: '/:collection/:path/'
+    permalink: '/news/:path/'
   reports:
     output: true
     display_name: 'Multimedia Reports'
@@ -158,7 +158,6 @@ defaults:
       type: 'article-topics'
     values:
       layout: 'listing-blog-posts'
-      section: 'Retro Report'
   - scope:
       path: '_landing_pages'
       type: 'pages'
@@ -190,12 +189,12 @@ defaults:
       path: ''
       type: 'transcripts'
     values:
-      layout: 'post'
+      layout: 'page'
   - scope:
       path: ''
-      type: 'video'
+      type: 'videos'
     values:
-      layout: 'post'
+      layout: 'video'
   - scope:
       path: ''
       type: 'voices'

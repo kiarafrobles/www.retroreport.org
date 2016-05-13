@@ -1,12 +1,14 @@
 ---
 layout: page-listing
 ---
-{% if page.url == '/blog/' %}
-  {% assign data = paginator.posts | sort: 'date', 'last' | reverse %}
+{% if page.url == '/news/' %}
+  {% assign data = site.posts | sort: 'date', 'last' | reverse %}
    {% comment %}<!-- | sort: 'date', 'last' | reverse   -->{% endcomment %}
 {% else %}
   {% assign article-topic = page.slug %}
-  {% assign data = site.posts | where: 'article-topic', article-topic | sort: 'date', 'last' | reverse %}
+  {% if article-topic %}
+    {% assign data = site.posts | where: 'article-topic', article-topic | sort: 'date', 'last' | reverse %}
+  {% endif %}
 {% endif %} 
 
 {% assign links = site.article-topics  %}
