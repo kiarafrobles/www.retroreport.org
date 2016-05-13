@@ -3,5 +3,5 @@ title: "Multimedia Reports"
 published: true
 description: 
 channel: reports
-layout: page-listing-video-archive
+layout: listing-video-archive
 ---

@@ -154,6 +154,11 @@ defaults:
       layout: 'post'
       no_page: true
   - scope:
+      path: ''
+      type: 'categories'
+    values:
+      layout: 'listing-blog-posts'
+  - scope:
       path: '_landing_pages'
       type: 'pages'
     values:
