@@ -108,6 +108,9 @@ collections:
     output: false
   board:
     output: false
+  categories:
+    output: true
+    permalink: '/:path/'
   mini-docs:
     output: true
   playlists:
