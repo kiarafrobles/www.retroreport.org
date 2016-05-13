@@ -3,23 +3,23 @@ layout: page-listing
 ---
 {% if page.url == '/blog/' %}
   {% assign data = paginator.posts %}
-  {% assign data = data %}
+  {% assign data = data  | sort: 'date', 'last' | reverse %}
    {% comment %}<!-- | sort: 'date', 'last' | reverse   -->{% endcomment %}
 {% else %}
   {% assign category = page.slug %}
   {% assign data = site.posts | where: 'category', category | sort: 'date', 'last' | reverse %}
-{% endif %}
+{% endif %} 
 
 {% assign links = site.category  %}
 
-  <div class="layout-grid">
-    <div class="not-flex-boxes">
-      {% for object in data %}
-        {% include components/box-grid.html %} 
-      {% endfor %}      
-    </div>
-    {% include components/pagination.html %}
+<div class="layout-grid">
+  <div class="not-flex-boxes">
+    {% for object in data %}
+      {% include components/box-grid.html %} 
+    {% endfor %}      
   </div>
+  {% include components/pagination.html %}
+</div>
 
 
 {% if links %}
