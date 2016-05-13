@@ -108,7 +108,7 @@ collections:
     output: false
   board:
     output: false
-  category:
+  categories:
     output: true
     permalink: '/:path/'
   mini-docs:
@@ -155,7 +155,7 @@ defaults:
       no_page: true
   - scope:
       path: ''
-      type: 'category'
+      type: 'categories'
     values:
       layout: 'listing-blog-posts'
   - scope:
