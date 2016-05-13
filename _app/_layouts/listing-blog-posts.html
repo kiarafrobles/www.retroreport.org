@@ -2,7 +2,7 @@
 layout: page-listing
 ---
 {% if page.url == '/blog/' %}
-  {% assign data = paginator.posts  | sort: 'date', 'last' | reverse %}
+  {% assign data = paginator.posts   %}
 {% else %}
   {% assign category = page.slug %}
   {% assign data = site.posts | where: 'category', category | sort: 'date', 'last' | reverse %}
