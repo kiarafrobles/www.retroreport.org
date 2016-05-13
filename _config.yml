@@ -158,6 +158,7 @@ defaults:
       type: 'article-topics'
     values:
       layout: 'listing-blog-posts'
+      section: 'Retro Report'
   - scope:
       path: '_landing_pages'
       type: 'pages'
