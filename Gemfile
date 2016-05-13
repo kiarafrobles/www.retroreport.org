@@ -1,10 +1,10 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
+#gem 'jekyll'
 # gem 'github-pages'
 
 
-#gem 'jekyll', '3.0.3'
+gem 'jekyll', '3.0.3'
 
 group :jekyll_plugins do
   #### gem 'jekyll-assets'

@@ -8,7 +8,7 @@
   </div>  
 
  
-  <h1 class="h6 flex-title name">{{ object.title | markdownify | remove: '</p>' | remove: '</p>' }} </h1>
+  <h1 class="h6 flex-title name">{{ object.title | markdownify | remove: '<p>' | remove: '</p>' }} </h1>
  
 
   {% if page.url == '/video/' %}
