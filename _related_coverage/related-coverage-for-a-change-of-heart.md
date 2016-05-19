@@ -8,7 +8,7 @@ related_articles:
   - article:
     headline: "Artificial Hearts Ticking Along Decades After Jarvik-7 Debate"
     source: "The New York Times"
-    link:"http://www.nytimes.com/2016/03/21/us/artificial-hearts-ticking-along-decades-after-jarvik-7-debate.html?rref=collection%2Fcolumn%2Fretro-report&action=click&contentCollection=us&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection"
+    link:"http://www.nytimes.com/2016/03/21/us/artificial-hearts-ticking-along-decades-after-jarvik-7-debate.html"
   - article:
     headline: "How The Artificial Heart Went From Miracle To Medical Pariah And Back Again"
     source: "Gizmodo"
