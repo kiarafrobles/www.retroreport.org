@@ -124,6 +124,7 @@ collections:
     display_name: 'Multimedia Reports'
   related_coverage:
     output: true
+    hide_content: true
   topics:
     output: true
     permalink: '/:collection/:path/'

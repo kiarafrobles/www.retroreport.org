@@ -5,14 +5,12 @@ date: 2015-07-29T18:34:00.000Z
 lead_copy:
 video: in-the-shadow-of-katrina
 related_articles:
-  - article:
-    headline: "After Hurricanes, the ‘Road Home,’ the Long Way"
+  - headline: "After Hurricanes, the ‘Road Home,’ the Long Way"
     source: "The New York Times"
-    link:"http://www.nytimes.com/2013/10/28/booming/after-hurricanes-the-road-home-the-long-way.html?ref=booming"
-  - article:
-    headline: "Hurricane Katrina and Its Aftermath"
+    link: "http://www.nytimes.com/2013/10/28/booming/after-hurricanes-the-road-home-the-long-way.html?ref=booming"
+  - headline: "Hurricane Katrina and Its Aftermath"
     source: "NPR's The Takeaway"
-    link:"http://www.thetakeaway.org/story/retro-report-hurricane-katrina-and-its-aftermath/"
+    link: "http://www.thetakeaway.org/story/retro-report-hurricane-katrina-and-its-aftermath/"
 hide_content: true
 slug: related-coverage-for-in-the-shadow-of-katrina
 ---

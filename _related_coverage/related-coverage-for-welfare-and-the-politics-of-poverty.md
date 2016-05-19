@@ -5,14 +5,12 @@ date: 2016-05-02T17:08:00.000Z
 lead_copy:
 video: welfare-and-the-politics-of-poverty
 related_articles:
-  - article:
-    headline: "20 Years Later, Welfare Overhaul Resonates for Families and Candidates"
+  - headline: "20 Years Later, Welfare Overhaul Resonates for Families and Candidates"
     source: "The New York Times"
-    link:"http://www.nytimes.com/2016/05/02/us/20-years-later-welfare-overhaul-resonates-for-families-and-candidates.html?rref=collection%2Fsectioncollection%2Fus&action=click&contentCollection=us&region=rank&module=package&version=highlights&contentPlacement=7&pgtype=sectionfront&_r=0"
-  - article:
-    headline: "Morning Media Wire"
+    link: "http://www.nytimes.com/2016/05/02/us/20-years-later-welfare-overhaul-resonates-for-families-and-candidates.html?rref=collection%2Fsectioncollection%2Fus&action=click&contentCollection=us&region=rank&module=package&version=highlights&contentPlacement=7&pgtype=sectionfront&_r=0"
+  - headline: "Morning Media Wire"
     source: "Poynter"
-    link:"http://www.poynter.org/2016/the-dubious-rise-of-theranos-was-helped-by-a-compliant-press/409649/"
+    link: "http://www.poynter.org/2016/the-dubious-rise-of-theranos-was-helped-by-a-compliant-press/409649/"
 hide_content: true
 slug: related-coverage-for-welfare-and-the-politics-of-poverty
 ---

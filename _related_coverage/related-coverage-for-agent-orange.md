@@ -5,14 +5,12 @@ date: 2015-08-12T16:55:00.000Z
 lead_copy:
 video: agent-orange-last-chapter-of-the-vietnam-war
 related_articles:
-  - article:
-    headline: "Agent Orange’s Long Legacy, for Vietnam and Veterans"
+  - headline: "Agent Orange’s Long Legacy, for Vietnam and Veterans"
     source: "The New York Times"
-    link:"http://www.nytimes.com/2014/05/12/us/agent-oranges-long-legacy-for-vietnam-and-veterans.html"
-  - article:
-    headline: "The Dark Shadow of Agent Orange"
+    link: "http://www.nytimes.com/2014/05/12/us/agent-oranges-long-legacy-for-vietnam-and-veterans.html"
+  - headline: "The Dark Shadow of Agent Orange"
     source: "Mars Clash"
-    link:"http://www.marsclash.com/us/v/uzvTB0mOS0w/?keyword=Pitbull"
+    link: "http://www.marsclash.com/us/v/uzvTB0mOS0w/?keyword=Pitbull"
 hide_content: true
 slug: related-coverage-for-agent-orange
 ---

@@ -5,18 +5,15 @@ date: 2015-08-19T19:00:00.000Z
 lead_copy:
 video: dolly-the-sheep
 related_articles:
-  - article:
-    headline: "The Clone Named Dolly"
+  - headline: "The Clone Named Dolly"
     source: "The New York Times"
-    link:"http://www.nytimes.com/2013/10/14/booming/the-clone-named-dolly.html?ref=booming&_r=0"
-  - article:
-    headline: "A look back at Dolly the Sheep"
+    link: "http://www.nytimes.com/2013/10/14/booming/the-clone-named-dolly.html?ref=booming&_r=0"
+  - headline: "A look back at Dolly the Sheep"
     source: "NPR's The Takeaway"
-    link:"http://www.thetakeaway.org/story/october-14-2013/"
-  - article:
-    headline: "What Dolly Wrought"
+    link: "http://www.thetakeaway.org/story/october-14-2013/"
+  - headline: "What Dolly Wrought"
     source: "National Geographic"
-    link:"http://phenomena.nationalgeographic.com/2013/10/14/what-dolly-wrought-retro-report-looks-at-cloning/"
+    link: "http://phenomena.nationalgeographic.com/2013/10/14/what-dolly-wrought-retro-report-looks-at-cloning/"
 hide_content: true
 slug: related-coverage-for-dolly-the-sheep
 ---
