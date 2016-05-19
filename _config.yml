@@ -117,6 +117,7 @@ collections:
     output: true
   staff_members:
     output: true
+    permalink: '/staff/:path/'
   posts:
     output: true
     permalink: '/news/:path/'
@@ -178,7 +179,7 @@ defaults:
       path: ''
       type: 'staff'
     values:
-      layout: 'post'
+      layout: 'page'
   - scope:
       path: ''
       type: 'topics'
