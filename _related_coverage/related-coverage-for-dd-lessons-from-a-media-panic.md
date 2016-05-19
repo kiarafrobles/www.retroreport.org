@@ -1,8 +1,7 @@
 ---
 title: "Related coverage for D&D: Lessons from a Media Panic"
 published: true
-date: 2016-04-18T22:10:00.000Z
-lead_copy:
+#date: 2016-04-18T22:10:00.000Z
 video: dd-lessons-from-a-media-panic
 related_articles:
   - headline: "When Dungeons & Dragons Set Off a ‘Moral Panic’"
@@ -29,7 +28,6 @@ related_articles:
   - headline: "The Dungeons & Dragons Panic of the 1970s and 1980s Is Tackled in This Retro Report Video"
     source: "Retrovolve"
     link: "http://retrovolve.com/the-dungeons-dragons-panic-of-the-1970s-and-1980s-is-tackled-in-this-retro-report-video/"
-hide_content: true
-slug: related-coverage-for-dd-lessons-from-a-media-panic
+#slug: related-coverage-for-dd-lessons-from-a-media-panic
 ---
 
