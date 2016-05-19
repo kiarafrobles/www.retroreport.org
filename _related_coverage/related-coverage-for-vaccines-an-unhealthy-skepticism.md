@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for Vaccines: An Unhealthy Skepticism"
-published: true
-date: 2015-06-30T18:01:00.000Z
-lead_copy:
+#date: 2015-06-30T18:01:00.000Z
 video: vaccines-an-unhealthy-skepticism
 related_articles:
   - headline: "Tracing the origins of the anti-vaccine movement"
@@ -23,7 +21,7 @@ related_articles:
   - headline: "Anti-vaccine 'truthers' are using pseudoscience to put innocent lives at risk"
     source: "The Examiner"
     link: "http://www.examiner.com/article/anti-vaccine-truthers-are-using-pseudoscience-to-put-innocent-lives-at-risk"
-hide_content: true
+published: true
 slug: related-coverage-for-vaccines-an-unhealthy-skepticism
 ---
 

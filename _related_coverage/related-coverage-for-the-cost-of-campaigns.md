@@ -1,8 +1,6 @@
 ---
 title: "Related Coverage for the Cost of Campaigns"
-published: true
-date: 2015-08-11T19:50:00.000Z
-lead_copy:
+#date: 2015-08-11T19:50:00.000Z
 video: the-cost-of-campaigns
 related_articles:
   - headline: "The Cost of Campaigns"
@@ -14,7 +12,7 @@ related_articles:
   - headline: "NY Times Retro Report: The Cost of Campaigns"
     source: "Above Top Secret"
     link: "http://www.abovetopsecret.com/forum/thread1040532/pg1"
-hide_content: true
+published: true
 slug: related-coverage-for-the-cost-of-campaigns
 ---
 

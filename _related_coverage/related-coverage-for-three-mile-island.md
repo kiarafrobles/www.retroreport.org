@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for Three Mile Island"
-published: true
-date: 2015-08-12T18:44:00.000Z
-lead_copy:
+#date: 2015-08-12T18:44:00.000Z
 video: three-mile-island-lessons-from-the-nuclear-dream
 related_articles:
   - headline: "Three Mile Island, and Nuclear Hopes and Fears"
@@ -17,7 +15,7 @@ related_articles:
   - headline: "Nuclear Power's Promise and Peril"
     source: "Ted Ed"
     link: "http://ed.ted.com/on/LnFtrjPL"
-hide_content: true
+published: true
 slug: related-coverage-for-three-mile-island
 ---
 

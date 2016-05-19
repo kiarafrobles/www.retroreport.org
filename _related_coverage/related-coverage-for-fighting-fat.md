@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for Fighting Fat"
-published: true
-date: 2016-01-04T16:30:00.000Z
-lead_copy:
+#date: 2016-01-04T16:30:00.000Z
 video: fighting-fat
 related_articles:
   - headline: "A Healthy Diet’s Main Ingredients? Best Guesses"
@@ -17,7 +15,7 @@ related_articles:
   - headline: "The Diet of the 1980s May Be Why Americans Are So Fat Today"
     source: "Yahoo"
     link: "http://news.yahoo.com/diet-1980s-may-why-americans-fat-today-194911507.html"
-hide_content: true
+published: true
 slug: related-coverage-for-fighting-fat
 ---
 

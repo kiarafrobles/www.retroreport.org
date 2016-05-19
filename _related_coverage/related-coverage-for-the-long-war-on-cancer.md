@@ -1,8 +1,6 @@
 ---
 title: "Related Coverage for The Long War On Cancer"
-published: true
-date: 2015-07-29T18:29:00.000Z
-lead_copy:
+#date: 2015-07-29T18:29:00.000Z
 video: the-long-war-on-cancer
 related_articles:
   - headline: "Hopeful Glimmers in Long War on Cancer"
@@ -14,7 +12,7 @@ related_articles:
   - headline: "Retro Report: Hopeful Glimmers in Long War on Cancer"
     source: "(e) Science news"
     link: "http://esciencenews.com/sources/ny.times.health/2013/11/04/retro.report.hopeful.glimmers.long.war.cancer"
-hide_content: true
+published: true
 slug: related-coverage-for-the-long-war-on-cancer
 ---
 

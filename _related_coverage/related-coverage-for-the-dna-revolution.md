@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for The DNA Revolution"
-published: true
-date: 2015-08-12T15:36:00.000Z
-lead_copy:
+#date: 2015-08-12T15:36:00.000Z
 video: how-dna-changed-the-world-of-forensics
 related_articles:
   - headline: "DNA Analysis Exposes Flaws in an Inexact Forensic Science"
@@ -14,7 +12,7 @@ related_articles:
   - headline: "From Hair to DNA Analysis, How Crime Forensics Changed"
     source: "Channel Nonfiction"
     link: "http://www.channelnonfiction.com/retro-report-from-hair-to-dna-analysis-how-forensics-changed-11-minutes-2014-new-york-times/"
-hide_content: true
+published: true
 slug: related-coverage-for-the-dna-revolution
 ---
 

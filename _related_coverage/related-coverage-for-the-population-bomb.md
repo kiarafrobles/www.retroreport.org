@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for The Population Bomb?"
-published: true
-date: 2015-06-02T21:01:00.000Z
-lead_copy:
+#date: 2015-06-02T21:01:00.000Z
 video: the-population-bomb
 related_articles:
   - headline: "The Unrealized Horrors of Population Explosion"
@@ -29,7 +27,7 @@ related_articles:
   - headline: "What the New York Times Didn’t Learn from Paul Ehrlich’s Population Bomb Fizzle"
     source: "The Federalist"
     link: "http://thefederalist.com/2015/06/04/what-the-new-york-times-didnt-learn-from-paul-ehrlichs-population-bomb-fizzle/"
-hide_content: true
+published: true
 slug: related-coverage-for-the-population-bomb
 ---
 

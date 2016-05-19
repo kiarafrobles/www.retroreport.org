@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for Blood and Sport"
-published: true
-date: 2015-11-09T16:04:00.000Z
-lead_copy:
+#date: 2015-11-09T16:04:00.000Z
 video: blood-and-sport
 related_articles:
   - headline: "Boxing Is a Brutal, Fading Sport. Could Football Be Next?"
@@ -20,7 +18,7 @@ related_articles:
   - headline: "Boxing Fading, Is Football Next?"
     source: "Real Clear Sports"
     link: "http://www.realclearsports.com/video/2015/11/09/boxing_fading_is_football_next.html"
-hide_content: true
+published: true
 slug: related-coverage-for-blood-and-sport
 ---
 

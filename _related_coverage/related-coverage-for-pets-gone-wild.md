@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for Pets Gone Wild"
-published: true
-date: 2015-06-05T21:24:00.000Z
-lead_copy:
+#date: 2015-06-05T21:24:00.000Z
 video: pets-gone-wild
 related_articles:
   - headline: "The Snake That’s Eating Florida"
@@ -14,7 +12,7 @@ related_articles:
   - headline: "The python that's eating Florida"
     source: "Earth Sky"
     link: "http://earthsky.org/earth/the-python-thats-eating-florida"
-hide_content: true
+published: true
 slug: related-coverage-for-pets-gone-wild
 ---
 

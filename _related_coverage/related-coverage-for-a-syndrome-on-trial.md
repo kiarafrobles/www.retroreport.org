@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for A Syndrome on Trial"
-published: true
-date: 2015-09-14T16:50:00.000Z
-lead_copy:
+#date: 2015-09-14T16:50:00.000Z
 video: a-syndrome-on-trial
 related_articles:
   - headline: "Shaken Baby Syndrome: A Diagnosis That Divides the Medical World"
@@ -29,7 +27,7 @@ related_articles:
   - headline: "Media Coverage Criticized In _Retro Report_ On Shaken Baby Trial"
     source: "The Crime Report"
     link: "http://www.thecrimereport.org/news/crime-and-justice-news/2015-09-media-missed-in-nanny-trial"
-hide_content: true
+published: true
 slug: related-coverage-for-a-syndrome-on-trial
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Related Coverage for The Legacy of Terri Schiavo"
-published: true
-date: 2015-08-13T19:43:00.000Z
-lead_copy:
+#date: 2015-08-13T19:43:00.000Z
 video: the-enduring-legacy-of-terri-schiavo
 related_articles:
   - headline: "From Private Ordeal to National Fight: The Case of Terri Schiavo"
@@ -17,7 +15,7 @@ related_articles:
   - headline: "Nine years after her death, the “aftermath” of Terri Schiavo continues to be distorted by the New York Times"
     source: "National Right to Life"
     link: "http://www.nationalrighttolifenews.org/news/2014/04/nine-years-after-her-death-the-aftermath-of-terri-schiavo-continues-to-be-distorted-by-the-new-york-times/#.VczyiYvGOx4"
-hide_content: true
+published: true
 slug: related-coverage-for-the-legacy-of-terri-schiavo
 ---
 

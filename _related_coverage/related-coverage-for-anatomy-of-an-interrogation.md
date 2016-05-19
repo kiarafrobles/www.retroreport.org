@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for Anatomy of an Interrogation"
-published: true
-date: 2015-06-05T21:08:00.000Z
-lead_copy:
+#date: 2015-06-05T21:08:00.000Z
 video: anatomy-of-an-interrogation
 related_articles:
   - headline: "A Singular Conviction Amid the Debate on Torture and Terrorism"
@@ -14,7 +12,7 @@ related_articles:
   - headline: "Here is How Belmont's Alberto Gonzales Defines 'Torture'"
     source: "Nashville Scene"
     link: "http://www.nashvillescene.com/pitw/archives/2015/04/20/here-is-how-belmonts-alberto-gonzales-defines-torture"
-hide_content: true
+published: true
 slug: related-coverage-for-anatomy-of-an-interrogation
 ---
 

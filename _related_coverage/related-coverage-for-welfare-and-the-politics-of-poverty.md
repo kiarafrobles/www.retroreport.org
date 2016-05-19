@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for Welfare and the Politics of Poverty"
-published: true
-date: 2016-05-02T17:08:00.000Z
-lead_copy:
+#date: 2016-05-02T17:08:00.000Z
 video: welfare-and-the-politics-of-poverty
 related_articles:
   - headline: "20 Years Later, Welfare Overhaul Resonates for Families and Candidates"
@@ -11,7 +9,7 @@ related_articles:
   - headline: "Morning Media Wire"
     source: "Poynter"
     link: "http://www.poynter.org/2016/the-dubious-rise-of-theranos-was-helped-by-a-compliant-press/409649/"
-hide_content: true
+published: true
 slug: related-coverage-for-welfare-and-the-politics-of-poverty
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Related Coverage of Crime and Punishment: Three Strikes and You’re Out"
-published: true
-date: 2015-07-29T17:58:00.000Z
-lead_copy:
+#date: 2015-07-29T17:58:00.000Z
 video: crime-and-punishment-three-strikes-and-youre-out
 related_articles:
   - headline: "Born of Grief, ‘Three Strikes’ Laws Are Being Rethought"
@@ -17,7 +15,7 @@ related_articles:
   - headline: "Karen Sughrue: “Crime and Punishment: Three Strikes and You’re Out”"
     source: "Chris Riback's Conversations with Thinkers"
     link: "http://chrisriback.com/2013/12/10/retro-reports-karen-sughrue-crime-and-punishment-three-strikes-and-youre-out/"
-hide_content: true
+published: true
 slug: related-coverage-of-crime-and-punishment-three-strikes-and-youre-out
 ---
 

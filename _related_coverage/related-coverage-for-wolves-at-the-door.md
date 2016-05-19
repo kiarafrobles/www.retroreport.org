@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for Wolves At The Door"
-published: true
-date: 2015-07-28T16:44:00.000Z
-lead_copy:
+#date: 2015-07-28T16:44:00.000Z
 video: wolves-at-the-door
 related_articles:
   - headline: "For Grey Wolves a Success Story Without Detractors"
@@ -17,7 +15,7 @@ related_articles:
   - headline: "Wolves at the Door"
     source: "Outside Television"
     link: "http://www.outsidetelevision.com/video/wolves-door-retro-report-new-york-times"
-hide_content: true
+published: true
 slug: related-coverage-for-wolves-at-the-door
 ---
 

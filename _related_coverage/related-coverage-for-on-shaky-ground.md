@@ -1,8 +1,6 @@
 ---
 title: "Related Coverage for On Shaky Ground"
-published: true
-date: 2015-07-28T19:14:00.000Z
-lead_copy:
+#date: 2015-07-28T19:14:00.000Z
 video: shaky-ground
 related_articles:
   - headline: "Promises of Preparedness Followed Devastating Earthquakes. And Yet."
@@ -17,7 +15,7 @@ related_articles:
   - headline: "How Safe Is California? Earthquakes In Mexico And Chile Raise Questions About Preparedness"
     source: "Fox News Latino"
     link: "http://latino.foxnews.com/latino/news/2014/04/17/how-safe-is-california-earthquakes-in-chile-and-nicaragua-raise-questions-about/"
-hide_content: true
+published: true
 slug: related-coverage-for-on-shaky-ground
 ---
 

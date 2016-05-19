@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for The Summer of Fire"
-published: true
-date: 2015-08-19T20:54:00.000Z
-lead_copy:
+#date: 2015-08-19T20:54:00.000Z
 video: summer-of-fire
 related_articles:
   - headline: "Lessons From the Yellowstone Fires of 1988"
@@ -14,7 +12,7 @@ related_articles:
   - headline: "Retro Report: Season Two Launches With _Summer of Fire_"
     source: "The Huffington Post"
     link: "http://www.huffingtonpost.com/olivia-katrandjian/report-report-season-2_b_3845668.html?utm_hp_ref=science"
-hide_content: true
+published: true
 slug: related-coverage-for-the-summer-of-fire
 ---
 

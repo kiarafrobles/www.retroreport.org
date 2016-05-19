@@ -1,8 +1,4 @@
 ---
-title: "Related coverage for A Change of Heart"
-published: true
-date: 2016-03-21T16:19:00.000Z
-lead_copy:
 video: a-change-of-heart
 related_articles:
   - headline: "Artificial Hearts Ticking Along Decades After Jarvik-7 Debate"
@@ -20,7 +16,7 @@ related_articles:
   - headline: "The Story of the Artificial Heart Gives New Meaning to Being on The Bleeding Edge of Technology"
     source: "LinkedIn"
     link: "https://www.linkedin.com/pulse/story-artificial-heart-gives-new-meaning-being-bleeding-tammy-sachs?trk=hp-feed-article-title-like"
-hide_content: true
+published: true
 slug: related-coverage-for-a-change-of-heart
 ---
 

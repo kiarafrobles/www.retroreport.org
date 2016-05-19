@@ -1,8 +1,6 @@
 ---
 title: "Related Coverage for The Sleeper Cell That Wasn't"
-published: true
-date: 2015-07-29T18:17:00.000Z
-lead_copy:
+#date: 2015-07-29T18:17:00.000Z
 video: the-sleeper-cell-that-wasnt
 related_articles:
   - headline: "The Demise and Afterlife of the ‘Detroit Sleeper Cell’ Case"
@@ -20,7 +18,7 @@ related_articles:
   - headline: "Retro Report’s Peter Klein: “The Sleeper Cell That Wasn’t”"
     source: "Conversations with Thinkers"
     link: "http://chrisriback.com/2013/11/24/retro-reports-peter-klein-the-sleeper-cell-that-wasnt/"
-hide_content: true
+published: true
 slug: related-coverage-for-the-sleeper-cell-that-wasnt
 ---
 

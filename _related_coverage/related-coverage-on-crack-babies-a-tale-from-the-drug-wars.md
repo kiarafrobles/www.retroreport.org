@@ -1,8 +1,6 @@
 ---
 title: "Related Coverage on Crack Babies: A Tale from the Drug Wars"
-published: true
-date: 2013-07-27T11:27:00.000Z
-lead_copy:
+#date: 2013-07-27T11:27:00.000Z
 video: from-crack-babies-to-oxytots-lessons-not-learned
 related_articles:
   - headline: "Revisiting the _Crack Babies_ Epidemic That Was Not"
@@ -35,6 +33,6 @@ related_articles:
   - headline: "What _crack babies_ can teach our lawmakers​"
     source: "The Week"
     link: "http://theweek.com/article/index/244535/what-crack-babies-can-teach-our-lawmakers"
-hide_content: true
+published: true
 slug: related-coverage-on-crack-babies-a-tale-from-the-drug-wars
 ---

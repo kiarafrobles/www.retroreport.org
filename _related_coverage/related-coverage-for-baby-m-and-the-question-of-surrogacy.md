@@ -1,8 +1,6 @@
 ---
 title: "Related Coverage for Baby M and the Question of Surrogacy "
-published: true
-date: 2015-07-29T15:01:00.000Z
-lead_copy:
+#date: 2015-07-29T15:01:00.000Z
 video: baby-m-and-the-question-of-surrogacy
 related_articles:
   - headline: "Baby M and the Question of Surrogate Motherhood"
@@ -14,7 +12,7 @@ related_articles:
   - headline: "Baby M and the Question of Surrogate Motherhood - NY Times Retro Report"
     source: "Circle Surrogacy"
     link: "http://www.circlesurrogacy.com/press/55-baby-m-and-the-question-of-surrogate-motherhood-ny-times-retro-report"
-hide_content: true
+published: true
 slug: related-coverage-for-baby-m-and-the-question-of-surrogacy
 ---
 

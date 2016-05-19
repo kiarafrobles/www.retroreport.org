@@ -1,8 +1,6 @@
 ---
 title: "Related Coverage for The Superpredator Scare"
-published: true
-date: 2016-02-19T17:05:00.000Z
-lead_copy:
+#date: 2016-02-19T17:05:00.000Z
 video: the-superpredator-scare
 related_articles:
   - headline: "When Youth Violence Spurred ‘Superpredator’ Fear"
@@ -23,7 +21,7 @@ related_articles:
   - headline: "Retro Report provides reminder of _When Youth Violence Spurred ‘Superpredator’ Fear_"
     source: "Sentencing Law and Policy"
     link: "http://sentencing.typepad.com/sentencing_law_and_policy/2014/04/retro-report-provides-reminder-of-when-youth-violence-spurred-superpredator-fear.html"
-hide_content: true
+published: true
 slug: related-coverage-for-the-superpredator-scare
 ---
 

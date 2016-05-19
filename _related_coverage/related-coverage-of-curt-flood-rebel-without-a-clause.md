@@ -1,8 +1,6 @@
 ---
 title: "Related Coverage of Curt Flood: Rebel Without A Clause"
-published: true
-date: 2015-07-28T17:16:00.000Z
-lead_copy:
+#date: 2015-07-28T17:16:00.000Z
 video: curt-flood-rebel-without-a-clause
 related_articles:
   - headline: "The Athlete Who Made Lebron James Possible"
@@ -17,7 +15,7 @@ related_articles:
   - headline: "Curt Flood: Rebel Without a Clause"
     source: "Digg"
     link: "http://digg.com/video/curt-flood-rebel-without-a-clause"
-hide_content: true
+published: true
 slug: related-coverage-of-curt-flood-rebel-without-a-clause
 ---
 

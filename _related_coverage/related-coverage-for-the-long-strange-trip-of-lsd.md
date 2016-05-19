@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for The Long, Strange Trip of LSD"
-published: true
-date: 2016-05-16T14:54:00.000Z
-lead_copy:
+#date: 2016-05-16T14:54:00.000Z
 video: the-long-strange-trip-of-lsd
 related_articles:
   - headline: "LSD-Like Drugs Are Out of the Haze and Back in the Labs"
@@ -26,7 +24,7 @@ related_articles:
   - headline: "LSD-Like Drugs Are Out of the Haze and Back in the Labs"
     source: "Singapore News"
     link: "http://www.singaporenews.sg/health/retro-report-lsd-like-drugs-are-out-of-the-haze-and-back-in-the-labs/"
-hide_content: true
+published: true
 slug: related-coverage-for-the-long-strange-trip-of-lsd
 ---
 

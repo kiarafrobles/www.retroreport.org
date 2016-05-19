@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for Voyage of the Mobro 4000"
-published: true
-date: 2015-08-21T18:19:00.000Z
-lead_copy:
+#date: 2015-08-21T18:19:00.000Z
 video: voyage-of-the-mobro-4000
 related_articles:
   - headline: "The Big Stories Then in the Clear Light of Now"
@@ -35,7 +33,7 @@ related_articles:
   - headline: "The New York Times And Retro Report Look Back At Old News Stories"
     source: "The Huffington Post"
     link: "http://www.huffingtonpost.com/2013/05/05/new-york-times-retro-report_n_3220329.html"
-hide_content: true
+published: true
 slug: related-coverage-for-voyage-of-the-mobro-4000
 ---
 

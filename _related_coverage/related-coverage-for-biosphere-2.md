@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for Biosphere 2"
-published: true
-date: 2015-08-20T19:49:00.000Z
-lead_copy:
+#date: 2015-08-20T19:49:00.000Z
 video: biosphere-2-an-american-space-odyssey
 related_articles:
   - headline: "A Second Act for Biosphere 2"
@@ -17,7 +15,7 @@ related_articles:
   - headline: "Biosphere 2: An American Space Odyssey"
     source: "Curiosity"
     link: "https://curiosity.com/paths/biosphere-2-an-american-space-odyssey-retro-report-the-new-york-times-the-new-york-times/#biosphere-2-an-american-space-odyssey-retro-report-the-new-york-times-the-new-york-times"
-hide_content: true
+published: true
 slug: related-coverage-for-biosphere-2
 ---
 

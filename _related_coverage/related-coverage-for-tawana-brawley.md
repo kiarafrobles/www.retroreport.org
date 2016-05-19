@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for Tawana Brawley"
-published: true
-date: 2015-08-20T20:03:00.000Z
-lead_copy:
+#date: 2015-08-20T20:03:00.000Z
 video: the-tawana-brawley-story
 related_articles:
   - headline: "Revisiting a Rape Scandal That Would Have Been Monstrous if True"
@@ -20,7 +18,7 @@ related_articles:
   - headline: "Retro Report Revisits Al Sharpton and Tawana Brawley"
     source: "Taylor Marsh"
     link: "http://www.taylormarsh.com/2013/06/retro-report-revisits-al-sharpton-and-tawana-brawley/"
-hide_content: true
+published: true
 slug: related-coverage-for-tawana-brawley
 ---
 

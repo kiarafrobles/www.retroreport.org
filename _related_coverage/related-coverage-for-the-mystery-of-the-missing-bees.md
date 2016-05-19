@@ -1,8 +1,6 @@
 ---
 title: "Related Coverage for the Mystery of the Missing Bees"
-published: true
-date: 2015-08-11T20:25:00.000Z
-lead_copy:
+#date: 2015-08-11T20:25:00.000Z
 video: the-mystery-of-the-missing-bees
 related_articles:
   - headline: "The Head-Scratching Case of the Vanishing Bees"
@@ -20,7 +18,7 @@ related_articles:
   - headline: "Are Honeybees Still Disappearing?"
     source: "The kitchen"
     link: "http://www.thekitchn.com/are-honeybees-still-disappearing-food-news-210979"
-hide_content: true
+published: true
 slug: related-coverage-for-the-mystery-of-the-missing-bees
 ---
 

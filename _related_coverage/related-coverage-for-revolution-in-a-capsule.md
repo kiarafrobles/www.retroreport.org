@@ -1,8 +1,6 @@
 ---
 title: "Related Coverage for Revolution in a Capsule"
-published: true
-date: 2015-06-16T21:29:00.000Z
-lead_copy:
+#date: 2015-06-16T21:29:00.000Z
 video: revolution-in-a-capsule
 related_articles:
   - headline: "Selling Prozac as the Life-Enhancing Cure for Mental Woes"
@@ -26,7 +24,7 @@ related_articles:
   - headline: "Prozac _News_"
     source: "Psych Practice"
     link: "http://psychpracticemd.blogspot.com/2014/09/prozac-news.html"
-hide_content: true
+published: true
 slug: related-coverage-for-revolution-in-a-capsule
 ---
 

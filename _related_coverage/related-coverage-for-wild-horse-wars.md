@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for Wild Horse Wars"
-published: true
-date: 2015-08-20T19:41:00.000Z
-lead_copy:
+#date: 2015-08-20T19:41:00.000Z
 video: wild-horse-wars
 related_articles:
   - headline: "The Wild Horses’ Troubled Rescue"
@@ -11,7 +9,7 @@ related_articles:
   - headline: "Wild Horse Wars"
     source: "The Week"
     link: "http://theweek.com/articles/462547/wild-horse-wars"
-hide_content: true
+published: true
 slug: related-coverage-for-wild-horse-wars
 ---
 

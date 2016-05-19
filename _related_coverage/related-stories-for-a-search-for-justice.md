@@ -1,8 +1,6 @@
 ---
 title: "Related Stories for A Search for Justice"
-published: true
-date: 2015-07-09T12:45:00.000Z
-lead_copy:
+#date: 2015-07-09T12:45:00.000Z
 video: a-search-for-justice
 related_articles:
   - headline: "Laying Out a Case for Deporting Human Rights Abusers"
@@ -17,7 +15,7 @@ related_articles:
   - headline: "Four churchwomen and their killers, nearly thirty-five years later"
     source: "Commonweal Magazine"
     link: "https://www.commonwealmagazine.org/blog/four-churchwomen-and-their-killers-nearly-thirty-five-years-later"
-hide_content: true
+published: true
 slug: related-stories-for-a-search-for-justice
 ---
 

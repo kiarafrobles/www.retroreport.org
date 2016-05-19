@@ -1,8 +1,6 @@
 ---
 title: "Related Coverage for Ruby Ridge: American Standoff"
-published: true
-date: 2015-07-28T16:57:00.000Z
-lead_copy:
+#date: 2015-07-28T16:57:00.000Z
 video: ruby-ridge-american-standoff
 related_articles:
   - headline: "An Idaho Family, and Federal Tactics Under Siege "
@@ -17,7 +15,7 @@ related_articles:
   - headline: "New York Times' Retro Report: Ruby Ridge: American Standoff"
     source: "Ticklethewire.com"
     link: "http://www.ticklethewire.com/2014/10/28/new-york-times-retro-report-ruby-ridge-american-standoff/"
-hide_content: true
+published: true
 slug: related-coverage-for-ruby-ridge-american-standoff
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for Test Tube Tomato"
-published: true
-date: 2015-08-20T19:28:00.000Z
-lead_copy:
+#date: 2015-08-20T19:28:00.000Z
 video: test-tube-tomato
 related_articles:
   - headline: "You Call That a Tomato?"
@@ -20,7 +18,7 @@ related_articles:
   - headline: "Top 5 investigative videos of the week: Test tube tomatoes"
     source: "Reveal News"
     link: "https://www.revealnews.org/article/top-5-investigative-videos-of-the-week-test-tube-tomatoes/"
-hide_content: true
+published: true
 slug: related-coverage-for-test-tube-tomato
 ---
 

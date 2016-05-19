@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for The Legacy of Tailhook"
-published: true
-date: 2015-08-21T17:56:00.000Z
-lead_copy:
+#date: 2015-08-21T17:56:00.000Z
 video: the-legacy-of-tailhook
 related_articles:
   - headline: "Revisiting the Military’s Tailhook Scandal"
@@ -11,7 +9,7 @@ related_articles:
   - headline: "Retro Report: The Legacy of Tailhook"
     source: "The Huffington Post"
     link: "http://oliviakatrandjian.com/2013/05/13/retro-report-the-legacy-of-tailhook/"
-hide_content: true
+published: true
 slug: related-coverage-for-the-legacy-of-tailhook
 ---
 

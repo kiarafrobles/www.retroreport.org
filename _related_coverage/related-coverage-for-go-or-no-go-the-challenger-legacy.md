@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for Go or No Go: The Challenger Legacy"
-published: true
-date: 2015-08-11T21:52:00.000Z
-lead_copy:
+#date: 2015-08-11T21:52:00.000Z
 video: major-malfunction-lessons-from-challenger
 related_articles:
   - headline: "Challenger, Columbia and the Nature of Calamity"
@@ -23,7 +21,7 @@ related_articles:
   - headline: "The Year’s Best Archive Docs"
     source: "Broadcast Now"
     link: "http://www.broadcastnow.co.uk/features/the-years-best-archive-docs/5087897.article"
-hide_content: true
+published: true
 slug: related-coverage-for-go-or-no-go-the-challenger-legacy
 ---
 

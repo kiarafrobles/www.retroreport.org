@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for Freeing Willy"
-published: true
-date: 2015-08-19T20:35:00.000Z
-lead_copy:
+#date: 2015-08-19T20:35:00.000Z
 video: freeing-willy
 related_articles:
   - headline: "The Whale Who Would Not Be Freed"
@@ -17,7 +15,7 @@ related_articles:
   - headline: "'Freeing Willy' Documentary Retells What Really Happened To Keiko The Orca Whale"
     source: "The Huffington Post"
     link: "http://www.huffingtonpost.com/2013/09/19/freeing-willy-documentary_n_3957369.html"
-hide_content: true
+published: true
 slug: related-coverage-for-freeing-willy
 ---
 

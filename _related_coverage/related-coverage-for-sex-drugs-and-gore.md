@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for Sex, Drugs and Gore"
-published: true
-date: 2015-10-27T17:24:00.000Z
-lead_copy:
+#date: 2015-10-27T17:24:00.000Z
 video: sex-drugs-and-gore
 related_articles:
   - headline: "Two Pop Culture Wars: First Over Comics, Then Over Music"
@@ -14,7 +12,7 @@ related_articles:
   - headline: "Sex, Drugs and Gore"
     source: "Reddit"
     link: "https://www.reddit.com/r/Documentaries/comments/3qffy0/sex_drugs_and_gore_2015_offended_by_lyrics_they/"
-hide_content: true
+published: true
 slug: related-coverage-for-sex-drugs-and-gore
 ---
 

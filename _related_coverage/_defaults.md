@@ -1,15 +1,8 @@
 ---
-title:
-date: 2016-01-01T12:00:00.000Z
-published: false
-embed:
-backstory_type:
 video:
 related_articles:
- - article:
-    headline:
+  - headline:
     source:
     link:
+published: true
 ---
-article title
-article source and link

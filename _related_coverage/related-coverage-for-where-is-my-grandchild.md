@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for Where Is My Grandchild?"
-published: true
-date: 2015-10-14T15:46:00.000Z
-lead_copy:
+#date: 2015-10-14T15:46:00.000Z
 video: where-is-my-grandchild
 related_articles:
   - headline: "Children of Argentina’s ‘Disappeared’ Reclaim Past, With Help"
@@ -23,7 +21,7 @@ related_articles:
   - headline: "El New York Times destaca el trabajo de Abuelas de Plaza de Mayo para recuperar a los nietos desaparecidos"
     source: "El Intransigente"
     link: "http://www.elintransigente.com/argentina/2015/10/13/york-times-destaco-trabajo-abuelas-plaza-mayo-347437.html"
-hide_content: true
+published: true
 slug: related-coverage-for-where-is-my-grandchild
 ---
 

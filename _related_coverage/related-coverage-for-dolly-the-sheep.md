@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for Dolly the Sheep"
-published: true
-date: 2015-08-19T19:00:00.000Z
-lead_copy:
+#date: 2015-08-19T19:00:00.000Z
 video: dolly-the-sheep
 related_articles:
   - headline: "The Clone Named Dolly"
@@ -14,7 +12,7 @@ related_articles:
   - headline: "What Dolly Wrought"
     source: "National Geographic"
     link: "http://phenomena.nationalgeographic.com/2013/10/14/what-dolly-wrought-retro-report-looks-at-cloning/"
-hide_content: true
+published: true
 slug: related-coverage-for-dolly-the-sheep
 ---
 

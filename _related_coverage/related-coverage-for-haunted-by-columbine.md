@@ -1,8 +1,6 @@
 ---
 title: "Related Coverage for Haunted By Columbine"
-published: true
-date: 2015-09-29T16:20:00.000Z
-lead_copy:
+#date: 2015-09-29T16:20:00.000Z
 video: haunted-by-columbine
 related_articles:
   - headline: "When Columbine Is Invoked, Fears Tend to Overshadow Facts"
@@ -20,7 +18,7 @@ related_articles:
   - headline: "Columbine: Re-examining the motives of the shooters "
     source: "American School & University"
     link: "http://asumag.com/safety-security/columbine-re-examining-motives-shooters-video"
-hide_content: true
+published: true
 slug: related-coverage-for-haunted-by-columbine
 ---
 

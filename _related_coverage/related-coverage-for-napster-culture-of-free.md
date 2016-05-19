@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for Napster: Culture of Free"
-published: true
-date: 2015-06-30T21:01:00.000Z
-lead_copy:
+#date: 2015-06-30T21:01:00.000Z
 video: napster-culture-of-free
 related_articles:
   - headline: "Grappling With the ‘Culture of Free’ in Napster’s Aftermath"
@@ -23,7 +21,7 @@ related_articles:
   - headline: "Watch New Documentary Showing how Napster Overthrew Record Companies"
     source: "Hypertrak"
     link: "http://hypetrak.com/2014/12/watch-new-documentary-showing-how-napster-overthrew-record-companies/"
-hide_content: true
+published: true
 slug: related-coverage-for-napster-culture-of-free
 ---
 

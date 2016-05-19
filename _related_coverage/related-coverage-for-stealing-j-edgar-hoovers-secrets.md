@@ -1,8 +1,6 @@
 ---
 title: "Related Coverage for Stealing J. Edgar Hoover's Secrets "
-published: true
-date: 2015-07-29T16:35:00.000Z
-lead_copy:
+#date: 2015-07-29T16:35:00.000Z
 video: stealing-j-edgar-hoovers-secrets
 related_articles:
   - headline: "Burglars Who Took On F.B.I. Abandon Shadows"
@@ -26,7 +24,7 @@ related_articles:
   - headline: "Activists Take Credit for Notorious FBI Raid That Spilled Secrets—Forty-two Years Ago"
     source: "The Nation"
     link: "http://www.thenation.com/article/activists-take-credit-notorious-fbi-raid-spilled-secrets-forty-two-years-ago/"
-hide_content: true
+published: true
 slug: related-coverage-for-stealing-j-edgar-hoovers-secrets
 ---
 

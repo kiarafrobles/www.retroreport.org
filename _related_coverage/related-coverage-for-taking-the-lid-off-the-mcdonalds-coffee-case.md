@@ -1,8 +1,6 @@
 ---
 title: "Related Coverage for Taking the Lid Off the McDonald’s Coffee Case"
-published: true
-date: 2015-07-29T18:42:00.000Z
-lead_copy:
+#date: 2015-07-29T18:42:00.000Z
 video: taking-the-lid-off-the-mcdonalds-coffee-case
 related_articles:
   - headline: "Not Just a Hot Cup Anymore"
@@ -20,7 +18,7 @@ related_articles:
   - headline: "Supersize Me, Your Honor: Liebeck v. McDonald’s and Our Era of Ambition"
     source: "The Daily Beast"
     link: "http://www.thedailybeast.com/articles/2013/10/21/supersize-me-your-honor-liebeck-v-mcdonald-s-and-our-era-of-ambition.html"
-hide_content: true
+published: true
 slug: related-coverage-for-taking-the-lid-off-the-mcdonalds-coffee-case
 ---
 

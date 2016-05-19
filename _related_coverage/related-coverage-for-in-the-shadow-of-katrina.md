@@ -1,8 +1,6 @@
 ---
 title: "Related Coverage for In the Shadow of Katrina"
-published: true
-date: 2015-07-29T18:34:00.000Z
-lead_copy:
+#date: 2015-07-29T18:34:00.000Z
 video: in-the-shadow-of-katrina
 related_articles:
   - headline: "After Hurricanes, the ‘Road Home,’ the Long Way"
@@ -11,7 +9,7 @@ related_articles:
   - headline: "Hurricane Katrina and Its Aftermath"
     source: "NPR's The Takeaway"
     link: "http://www.thetakeaway.org/story/retro-report-hurricane-katrina-and-its-aftermath/"
-hide_content: true
+published: true
 slug: related-coverage-for-in-the-shadow-of-katrina
 ---
 

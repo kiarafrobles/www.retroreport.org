@@ -1,8 +1,6 @@
 ---
 title: "Related Coverage for The Shame of the Church"
-published: true
-date: 2015-07-29T14:50:00.000Z
-lead_copy:
+#date: 2015-07-29T14:50:00.000Z
 video: the-shame-of-the-church
 related_articles:
   - headline: "The Fight to Reveal Abuses by Catholic Priests"
@@ -11,7 +9,7 @@ related_articles:
   - headline: "New York Times _Retro Report_ on _The Shame of the Church_"
     source: "The Bilgrimage"
     link: "http://bilgrimage.blogspot.com/2014/03/new-york-times-retro-report-on-shame-of.html"
-hide_content: true
+published: true
 slug: related-coverage-for-the-shame-of-the-church
 ---
 

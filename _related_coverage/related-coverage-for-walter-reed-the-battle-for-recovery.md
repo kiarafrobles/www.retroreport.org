@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for Walter Reed: The Battle for Recovery"
-published: true
-date: 2015-08-19T19:58:00.000Z
-lead_copy:
+#date: 2015-08-19T19:58:00.000Z
 video: walter-reed-the-battle-for-recovery
 related_articles:
   - headline: "And This Was Called Care? The Walter Reed Story"
@@ -11,7 +9,7 @@ related_articles:
   - headline: "Harry Hanbury discusses “Walter Reed: The Battle for Recovery”"
     source: "Chris Riback's Conversation with Thinkers"
     link: "http://chrisriback.com/?s=walter+reed"
-hide_content: true
+published: true
 slug: related-coverage-for-walter-reed-the-battle-for-recovery
 ---
 

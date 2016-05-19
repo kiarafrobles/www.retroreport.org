@@ -1,8 +1,6 @@
 ---
 title: "Related Coverage of Exxon Valdez: In the Wake of Disaster"
-published: true
-date: 2015-07-29T16:43:00.000Z
-lead_copy:
+#date: 2015-07-29T16:43:00.000Z
 video: exxon-valdez-in-the-wake-of-disaster
 related_articles:
   - headline: "Lessons From the Exxon Valdez Oil Spill"
@@ -20,7 +18,7 @@ related_articles:
   - headline: "Retro Report: Lessons From the Exxon Valdez Oil Spill"
     source: "The Chicago Tribune"
     link: "http://finance.chicagotribune.com/news/ny-times/retro-report-lessons-from-the-exxon-valdez-oil-spill/retro-report-lessons-from-the-exxon-valdez-oil-spill-12361055.htm"
-hide_content: true
+published: true
 slug: related-coverage-of-exxon-valdez-in-the-wake-of-disaster
 ---
 

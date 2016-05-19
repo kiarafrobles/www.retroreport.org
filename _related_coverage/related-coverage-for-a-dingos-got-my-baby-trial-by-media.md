@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for A Dingo's Got My Baby: Trial by Media"
-published: true
-date: 2015-07-28T16:31:00.000Z
-lead_copy:
+#date: 2015-07-28T16:31:00.000Z
 video: a-dingos-got-my-baby-trial-by-media
 related_articles:
   - headline: "The Trial That Unleashed Hysteria Over Child Abuse"
@@ -23,7 +21,7 @@ related_articles:
   - headline: "Dingo's Got My Baby - How a mother's panic turned her into a joke "
     source: "Reddit"
     link: "https://www.reddit.com/r/Documentaries/comments/3qow8w/dingos_got_my_baby_2014_how_a_mothers_panic/"
-hide_content: true
+published: true
 slug: related-coverage-for-a-dingos-got-my-baby-trial-by-media
 ---
 

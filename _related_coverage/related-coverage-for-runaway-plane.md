@@ -1,8 +1,6 @@
 ---
 title: "Related Coverage for Runaway Plane"
-published: true
-date: 2016-01-25T16:03:00.000Z
-lead_copy:
+#date: 2016-01-25T16:03:00.000Z
 video: runaway-plane
 related_articles:
   - headline: "Despite Decades of Stealth, Sticking Points Bedevil F-35 Jet"
@@ -17,7 +15,7 @@ related_articles:
   - headline: "New York Times: Sticking Points Bedevil F-35 Jet"
     source: "Project on Government Oversight"
     link: "http://www.pogo.org/blog/2016/new-york-times-sticking-points-f-35-jet.html?referrer=https://www.google.com/"
-hide_content: true
+published: true
 slug: related-coverage-for-runaway-plane
 ---
 

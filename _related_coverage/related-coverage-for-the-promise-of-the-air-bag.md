@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for the Promise of the Air Bag"
-published: true
-date: 2015-08-11T21:18:00.000Z
-lead_copy:
+#date: 2015-08-11T21:18:00.000Z
 video: the-promise-of-the-air-bag
 related_articles:
   - headline: "Lessons From the Past for a Future in Smart Cars"
@@ -23,7 +21,7 @@ related_articles:
   - headline: "The Battle For the Air bag"
     source: "Digg"
     link: "http://digg.com/video/the-promise-of-the-air-bag"
-hide_content: true
+published: true
 slug: related-coverage-for-the-promise-of-the-air-bag
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for Transforming History"
-published: true
-date: 2015-06-22T17:00:00.000Z
-lead_copy:
+#date: 2015-06-22T17:00:00.000Z
 video: transforming-history
 related_articles:
   - headline: "Beyond Caitlyn Jenner Lies a Long Struggle by Transgender People"
@@ -23,7 +21,7 @@ related_articles:
   - headline: "Sylvia Rivera to Caitlyn Jenner: Retro Report explores the hidden history of transgender America"
     source: "The Week"
     link: "http://theweek.com/speedreads/561913/sylvia-rivera-caitlyn-jenner-retro-report-explores-hidden-history-transgender-america"
-hide_content: true
+published: true
 slug: related-coverage-for-transforming-history
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for The Boy in the Bubble"
-published: true
-date: 2015-12-07T16:55:00.000Z
-lead_copy:
+#date: 2015-12-07T16:55:00.000Z
 video: the-boy-in-the-bubble
 related_articles:
   - headline: "‘The Boy in the Bubble’ Moved a World He Couldn’t Touch"
@@ -26,7 +24,7 @@ related_articles:
   - headline: " The Boy in the Bubble"
     source: "Kottke"
     link: "http://kottke.org/15/12/the-boy-in-the-bubble"
-hide_content: true
+published: true
 slug: related-coverage-for-the-boy-in-the-bubble
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for The Shadow of Thalidomide"
-published: true
-date: 2015-08-19T20:17:00.000Z
-lead_copy:
+#date: 2015-08-19T20:17:00.000Z
 video: the-shadow-of-thalidomide
 related_articles:
   - headline: "The Death and Afterlife of Thalidomide"
@@ -17,7 +15,7 @@ related_articles:
   - headline: "The Shadow of the Thalidomide Tragedy"
     source: "Reddit"
     link: "https://www.reddit.com/r/Documentaries/comments/3hlc7e/the_shadow_of_the_thalidomide_tragedy_2013/"
-hide_content: true
+published: true
 slug: related-coverage-for-the-shadow-of-thalidomide
 ---
 

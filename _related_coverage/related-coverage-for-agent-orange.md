@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for Agent Orange"
-published: true
-date: 2015-08-12T16:55:00.000Z
-lead_copy:
+#date: 2015-08-12T16:55:00.000Z
 video: agent-orange-last-chapter-of-the-vietnam-war
 related_articles:
   - headline: "Agent Orange’s Long Legacy, for Vietnam and Veterans"
@@ -11,7 +9,7 @@ related_articles:
   - headline: "The Dark Shadow of Agent Orange"
     source: "Mars Clash"
     link: "http://www.marsclash.com/us/v/uzvTB0mOS0w/?keyword=Pitbull"
-hide_content: true
+published: true
 slug: related-coverage-for-agent-orange
 ---
 

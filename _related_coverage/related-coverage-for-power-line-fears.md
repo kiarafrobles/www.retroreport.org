@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for Power Line Fears"
-published: true
-date: 2015-06-26T15:42:00.000Z
-lead_copy:
+#date: 2015-06-26T15:42:00.000Z
 video: power-line-fears
 related_articles:
   - headline: "Power Lines, Electricity and Health"
@@ -23,7 +21,7 @@ related_articles:
   - headline: "Retro Report looks at America's persistent panic over power lines and cancer"
     source: "The Week"
     link: "https://theweek.com/speedreads/441014/retro-report-looks-americas-persistent-panic-over-power-lines-cancer"
-hide_content: true
+published: true
 slug: related-coverage-for-power-line-fears
 ---
 

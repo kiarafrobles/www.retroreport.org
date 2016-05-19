@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for Heroin and the War on Drugs"
-published: true
-date: 2015-12-01T18:08:00.000Z
-lead_copy:
+#date: 2015-12-01T18:08:00.000Z
 video: heroin-and-the-war-on-drugs
 related_articles:
   - headline: "Heroin, Survivor of War on Drugs, Returns With New Face"
@@ -11,7 +9,7 @@ related_articles:
   - headline: "How did U.S. drug laws go so awry? Retro Report examines 40 years of heroin in America."
     source: "The Week"
     link: "http://theweek.com/speedreads/591354/how-did-drug-laws-awry-retro-report-examines-40-years-heroin-america"
-hide_content: true
+published: true
 slug: related-coverage-for-heroin-and-the-war-on-drugs
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for The Shadow of Waco"
-published: true
-date: 2015-07-13T22:25:00.000Z
-lead_copy:
+#date: 2015-07-13T22:25:00.000Z
 video: the-shadow-of-waco
 related_articles:
   - headline: "Memories of Waco Siege Continue to Fuel Far-Right Groups"
@@ -23,7 +21,7 @@ related_articles:
   - headline: "The Shadow of Waco"
     source: "Reddit"
     link: "http://www.reddit.com/r/EnoughLibertarianSpam/comments/3d4y0y/the_shadow_of_waco/"
-hide_content: true
+published: true
 slug: related-coverage-for-the-shadow-of-waco
 ---
 

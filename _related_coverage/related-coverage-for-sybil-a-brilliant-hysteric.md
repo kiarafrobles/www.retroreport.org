@@ -1,8 +1,6 @@
 ---
 title: "Related coverage for Sybil: A Brilliant Hysteric?"
-published: true
-date: 2015-07-28T16:12:00.000Z
-lead_copy:
+#date: 2015-07-28T16:12:00.000Z
 video: sybil-a-brilliant-hysteric
 related_articles:
   - headline: "Debate Persists Over Diagnosing Mental Health Disorders, Long After ‘Sybil’"
@@ -20,7 +18,7 @@ related_articles:
   - headline: "Debate Persists Over Personality Disorder, Long After 'Sybil'"
     source: "New York Association of Psychiatric Rehabilitation Services"
     link: "http://www.nyaprs.org/e-news-bulletins/2014/006755.cfm"
-hide_content: true
+published: true
 slug: related-coverage-for-sybil-a-brilliant-hysteric
 ---
 
