@@ -1,5 +1,5 @@
 {% if page.page_category %}
-    {% assign links = site.pages | where: 'page_category', page.page_category %}
+    {% assign links = site.documents | where: 'page_category', page.page_category %}
   {% endif %}
 
   {% if links %}
