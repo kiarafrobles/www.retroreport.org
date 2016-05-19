@@ -7,5 +7,4 @@ videos:
   - curt-flood-rebel-without-a-clause
   - picking-a-winner-the-1998-nfl-draft
 type: playlists
-slug: sporting-life
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for Freeing Willy"
+title: "Freeing Willy"
 #date: 2015-08-19T20:35:00.000Z
 video: freeing-willy
 related_articles:
@@ -16,6 +16,5 @@ related_articles:
     source: "The Huffington Post"
     link: "http://www.huffingtonpost.com/2013/09/19/freeing-willy-documentary_n_3957369.html"
 published: true
-slug: related-coverage-for-freeing-willy
 ---
 

@@ -14,7 +14,6 @@ description: "The 1996 Olympics in Atlanta were rocked by a bomb that killed one
 appearance: light-text
 tweet: "In the rush to find who bombed the '96 Olympics, one man was targeted. The problem? He was innocent"
 featured_image_path: /uploads/1422557960524_450957251_1280.jpg
-slug: richard-jewell-the-wrong-man
 ---
 
 It was a law enforcement nightmare -- a pipe bomb explosion at an outdoor concert at Centennial Olympic Park during a celebration of the Olympics.

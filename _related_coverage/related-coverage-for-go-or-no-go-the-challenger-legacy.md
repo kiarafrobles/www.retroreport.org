@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for Go or No Go: The Challenger Legacy"
+title: "Go or No Go: The Challenger Legacy"
 #date: 2015-08-11T21:52:00.000Z
 video: major-malfunction-lessons-from-challenger
 related_articles:
@@ -22,6 +22,5 @@ related_articles:
     source: "Broadcast Now"
     link: "http://www.broadcastnow.co.uk/features/the-years-best-archive-docs/5087897.article"
 published: true
-slug: related-coverage-for-go-or-no-go-the-challenger-legacy
 ---
 

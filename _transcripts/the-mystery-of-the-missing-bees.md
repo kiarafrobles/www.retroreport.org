@@ -4,7 +4,6 @@ published: true
 date: 2014-09-29T01:00:00.000Z
 video: the-mystery-of-the-missing-bees
 type: video
-slug: the-mystery-of-the-missing-bees
 ---
 
 **MYSTERY OF THE MISSING BEES**

@@ -14,7 +14,6 @@ description: "In the 1990s, a bunch of gene jockeys brought the first geneticall
 appearance: light-text
 tweet: "The 1st genetically engineered food, the Flvr Savr Tomato, gave rise to a very different industry:"
 featured_image_path: /uploads/1422558255448_441465677_1280.jpg
-slug: test-tube-tomato
 ---
 
 In May 1994, a tomato appeared on supermarket shelves across the country that was unlike anything Americans had eaten before. Grown from so-called "Flavr Savr" seeds, it was the first genetically engineered food approved for sale, dreamed up by a group of scientists in a California lab.

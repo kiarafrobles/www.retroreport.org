@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for Heroin and the War on Drugs"
+title: "Heroin and the War on Drugs"
 #date: 2015-12-01T18:08:00.000Z
 video: heroin-and-the-war-on-drugs
 related_articles:
@@ -10,6 +10,5 @@ related_articles:
     source: "The Week"
     link: "http://theweek.com/speedreads/591354/how-did-drug-laws-awry-retro-report-examines-40-years-heroin-america"
 published: true
-slug: related-coverage-for-heroin-and-the-war-on-drugs
 ---
 

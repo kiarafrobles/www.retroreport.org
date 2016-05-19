@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for Three Mile Island"
+title: "Three Mile Island"
 #date: 2015-08-12T18:44:00.000Z
 video: three-mile-island-lessons-from-the-nuclear-dream
 related_articles:
@@ -16,6 +16,5 @@ related_articles:
     source: "Ted Ed"
     link: "http://ed.ted.com/on/LnFtrjPL"
 published: true
-slug: related-coverage-for-three-mile-island
 ---
 

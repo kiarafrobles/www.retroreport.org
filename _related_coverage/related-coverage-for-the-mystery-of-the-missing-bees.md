@@ -19,6 +19,5 @@ related_articles:
     source: "The kitchen"
     link: "http://www.thekitchn.com/are-honeybees-still-disappearing-food-news-210979"
 published: true
-slug: related-coverage-for-the-mystery-of-the-missing-bees
 ---
 

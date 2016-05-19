@@ -16,7 +16,6 @@ appearance: light-text
 tweet: "Images from Columbine are part of our collective memory, but is school violence really worse?"
 featured_image_path: /uploads/1443378019781_35716_1_retro-columbine.jpg
 show_related_report_on_video_page: true
-slug: haunted-by-columbine
 ---
 
 On April 20th, 1999, two students at Columbine High School murdered twelve students and a teacher and sent the nation scrambling for answers.

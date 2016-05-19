@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for A Syndrome on Trial"
+title: "A Syndrome on Trial"
 #date: 2015-09-14T16:50:00.000Z
 video: a-syndrome-on-trial
 related_articles:
@@ -28,6 +28,5 @@ related_articles:
     source: "The Crime Report"
     link: "http://www.thecrimereport.org/news/crime-and-justice-news/2015-09-media-missed-in-nanny-trial"
 published: true
-slug: related-coverage-for-a-syndrome-on-trial
 ---
 

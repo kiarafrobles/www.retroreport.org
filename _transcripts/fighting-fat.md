@@ -4,7 +4,6 @@ published: true
 date: 2016-01-04T00:35:00.000Z
 video: fighting-fat
 type: video
-slug: fighting-fat
 ---
 
 **Fighting Fat**

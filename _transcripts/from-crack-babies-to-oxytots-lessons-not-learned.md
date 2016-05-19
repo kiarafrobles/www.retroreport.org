@@ -4,7 +4,6 @@ published: true
 date: 2015-07-22T15:00:00.000Z
 video: from-crack-babies-to-oxytots-lessons-not-learned
 type: video
-slug: from-crack-babies-to-oxytots-lessons-not-learned
 ---
 
 **FROM CRACK BABIES TO OXYTOTS: LESSONS NOT LEARNED**

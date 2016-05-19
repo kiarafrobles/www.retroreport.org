@@ -20,7 +20,6 @@ description: "In 1999, a file-sharing program created in a Boston dorm room sent
 appearance: dark-text
 tweet: "In 1999, Napster sent shockwaves across the music industry and ushered in the “culture of free.” "
 featured_image_path: /uploads/1422553159483_499314463_1280.jpg
-slug: napster-culture-of-free
 ---
 
 The software was called Napster, so named by its 18-year-old developer, and its usage soon exploded on college campuses across the country. No longer did music lovers have to go to the record store to buy CDs -- with the click of a mouse, they could gain free access to their favorite tunes.

@@ -9,5 +9,4 @@ videos:
   - y2k-much-ado-about-nothing
   - sybil-a-brilliant-hysteric
 type: playlists
-slug: panics
 ---

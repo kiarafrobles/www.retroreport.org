@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for Transforming History"
+title: "Transforming History"
 #date: 2015-06-22T17:00:00.000Z
 video: transforming-history
 related_articles:
@@ -22,6 +22,5 @@ related_articles:
     source: "The Week"
     link: "http://theweek.com/speedreads/561913/sylvia-rivera-caitlyn-jenner-retro-report-explores-hidden-history-transgender-america"
 published: true
-slug: related-coverage-for-transforming-history
 ---
 

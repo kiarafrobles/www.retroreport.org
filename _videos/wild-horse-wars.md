@@ -13,7 +13,6 @@ description: "The decades-long quest to save wild horses has run amok, creating 
 appearance: light-text
 tweet: "The decades-long quest to save wild horses has run amok: "
 featured_image_path: /uploads/1422558291852_440720673_1280.jpg
-slug: wild-horse-wars
 ---
 
 America has been fighting a war over wild horses since 1971, when Congress passed a landmark law protecting animals it called “living symbols of the historic and pioneer sprit of the West.”

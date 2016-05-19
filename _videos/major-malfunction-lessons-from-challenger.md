@@ -17,7 +17,6 @@ description: "On January 28, 1986, seven astronauts *slipped the surly bonds of 
 appearance: dark-text
 tweet: "Jan 28, 1986 the Challenger astronauts “slipped the surly bonds of earth to touch the face of God.”"
 featured_image_path: /uploads/1422559036729_477272946_1280.jpg
-slug: major-malfunction-lessons-from-challenger
 ---
 
 Those who saw it never forgot: the Space Shuttle Challenger launched on January 28, 1986 only to break apart 73 seconds later, killing seven astronauts, including the first "teacher in space" -- Christa McAuliffe.

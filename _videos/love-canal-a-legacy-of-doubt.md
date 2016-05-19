@@ -13,7 +13,6 @@ description: "In 1978, toxic chemicals leaking from an old landfill thrust an up
 appearance: light-text
 tweet: "Decades after the environmental disaster Love Canal hit the headlines, questions still linger: "
 featured_image_path: /uploads/1422556714791_455908243_1280.jpg
-slug: love-canal-a-legacy-of-doubt
 ---
 
 This week's Retro Report unpacks the story behind this dark tale, examines how it transformed the small suburb of Niagara Falls, and why it raised questions that still resonate today.

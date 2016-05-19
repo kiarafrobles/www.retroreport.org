@@ -13,7 +13,6 @@ description: "The nightmare began in 1983 when a 39-year-old mother called the p
 appearance: light-text
 tweet: "The McMartin Preschool sex abuse case fed a panic that enmeshed many day care centers across the US "
 featured_image_path: /uploads/1422556466030_466954616_1280.jpg
-slug: mcmartin-preschool-anatomy-of-a-panic
 ---
 
 The accusation soon led to reports that hundreds of children had been abused at the prominent preschool, and set in motion one of the longest and most expensive child molestation cases in U.S. history. It also fed a national panic about child sex abuse, satanic rituals and child pornography that enmeshed dozens of day care centers across the country.

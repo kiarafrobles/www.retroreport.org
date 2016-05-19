@@ -16,7 +16,6 @@ appearance: light-text
 tweet: "More than 20 yrs after the Jack in the Box #Ecoli outbreak, millions still get food poisoning. Why?"
 featured_image_path: /uploads/1431306982326_retro-taintedmeat.jpg
 show_related_report_on_video_page: true
-slug: chasing-outbreaks-how-safe-is-our-food
 ---
 
 <span class="s1">In early 1993, the Washington State health department warned that a bacterium most Americans had never heard of, E. coli O157:H7, was making dozens of people sick—and spreading rapidly. The likely culprit: undercooked hamburgers from the Jack in the Box fast-food chain. Ultimately, more than 700 people fell ill and four children died during what proved to be one of the most significant food poisoning outbreaks in U.S. history.</span>

@@ -13,7 +13,6 @@ description: "The custody battle over Baby M was the first time a court consider
 appearance: light-text
 tweet: "The Baby M custody battle happened 30 years ago, but where do we stand with surrogacy today?"
 featured_image_path: /uploads/1422556320476_468613234_1280.jpg
-slug: baby-m-and-the-question-of-surrogacy
 ---
 
 Melissa Stern, also known as "Baby M," was born in March of 1986 in New Jersey to a surrogate mother, Mary Beth Whitehead. After answering a newspaper ad Whitehead was inseminated with sperm from William Stern and contracted to carry a child for him and his wife. But once Baby "M" was born, Whitehead decided she could not give her child away. The ensuing custody battle both fascinated and divided the public, raising important questions: was surrogacy essentially baby selling or was it a new way to help infertile couples have families?

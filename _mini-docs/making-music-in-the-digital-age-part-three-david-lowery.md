@@ -12,5 +12,4 @@ description:
 appearance:
 tweet:
 featured_image_path: /uploads/1442103512394_499316195_1280.jpg
-slug: making-music-in-the-digital-age-part-three-david-lowery
 ---

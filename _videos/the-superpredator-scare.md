@@ -18,7 +18,6 @@ description: "In the mid-1990s, after a decade of soaring juvenile crime, some s
 appearance: dark-text
 tweet: "We're still grappling with the destructive repercussions of the *superpredator* scare."
 featured_image_path: /uploads/1422556232865_470385170_1280.jpg
-slug: the-superpredator-scare
 ---
 
 In 1995, John DiIulio, Jr., then a Princeton professor, coined a phrase that seemed to sum up the nation’s fear of teen violence: “superpredator.” In the previous decade, teenage crime rates had exploded. Television news led with story after story of seemingly incomprehensible violence committed by children as young as 10. Many criminologists feared the trend would continue, and DiIulio warned that hundreds of thousands of remorseless teen predators were just over the horizon.

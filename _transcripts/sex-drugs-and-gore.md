@@ -4,7 +4,6 @@ published: true
 date: 2015-10-26T00:00:00.000Z
 video: sex-drugs-and-gore
 type: video
-slug: sex-drugs-and-gore
 ---
 
 **Sex, Drug and Gore**

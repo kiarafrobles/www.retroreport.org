@@ -16,6 +16,5 @@ related_articles:
     source: "National Right to Life"
     link: "http://www.nationalrighttolifenews.org/news/2014/04/nine-years-after-her-death-the-aftermath-of-terri-schiavo-continues-to-be-distorted-by-the-new-york-times/#.VczyiYvGOx4"
 published: true
-slug: related-coverage-for-the-legacy-of-terri-schiavo
 ---
 

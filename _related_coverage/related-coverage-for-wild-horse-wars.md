@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for Wild Horse Wars"
+title: "Wild Horse Wars"
 #date: 2015-08-20T19:41:00.000Z
 video: wild-horse-wars
 related_articles:
@@ -10,6 +10,5 @@ related_articles:
     source: "The Week"
     link: "http://theweek.com/articles/462547/wild-horse-wars"
 published: true
-slug: related-coverage-for-wild-horse-wars
 ---
 

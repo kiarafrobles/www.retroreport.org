@@ -16,6 +16,5 @@ related_articles:
     source: "Digg"
     link: "http://digg.com/video/curt-flood-rebel-without-a-clause"
 published: true
-slug: related-coverage-of-curt-flood-rebel-without-a-clause
 ---
 

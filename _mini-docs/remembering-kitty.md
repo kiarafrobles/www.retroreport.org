@@ -15,5 +15,4 @@ description: "More than 50 years after Kitty Genovese's murder became a symbol o
 appearance: light-text
 tweet: "More than 50 yrs after Kitty Genovese's murder became a symbol of apathy, her partner remembers her:"
 featured_image_path: /uploads/1460394395550_RR248_THUMB_MASTER_KITTY_GETTY_97323542.jpg
-slug: remembering-kitty
 ---

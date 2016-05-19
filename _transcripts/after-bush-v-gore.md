@@ -4,7 +4,6 @@ published: true
 date: 2016-02-22T00:00:00.000Z
 video: after-bush-v-gore
 type: video
-slug: after-bush-v-gore
 ---
 
 **After Bush v. Gore**

@@ -16,6 +16,5 @@ related_articles:
     source: "Project on Government Oversight"
     link: "http://www.pogo.org/blog/2016/new-york-times-sticking-points-f-35-jet.html?referrer=https://www.google.com/"
 published: true
-slug: related-coverage-for-runaway-plane
 ---
 

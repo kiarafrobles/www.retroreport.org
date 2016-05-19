@@ -4,7 +4,6 @@ published: true
 date: 2014-05-05T09:00:00.000Z
 video: picking-a-winner-the-1998-nfl-draft
 type: video
-slug: picking-a-winner-the-1998-nfl-draft
 ---
 
 **PICKING A WINNER: THE 1998 NFL DRAFT**

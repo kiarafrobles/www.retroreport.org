@@ -17,7 +17,6 @@ description: "Burmese pythons, often released into the wild by well-meaning pet 
 appearance: dark-text
 tweet: "Burmese pythons, often released into the wild by pet owners, have infested the FL Everglades."
 featured_image_path: /uploads/1428271588033_33029_1_retro-python-wildpets-1600x900.jpg
-slug: pets-gone-wild
 ---
 
 <span class="s1">For more than a decade, Burmese pythons have been multiplying unchecked in the wilds of Florida, and thwarting repeated attempts by state environmental officials to get the invasive population under control.</span>

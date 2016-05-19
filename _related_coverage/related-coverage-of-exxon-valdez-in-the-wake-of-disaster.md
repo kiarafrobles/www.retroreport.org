@@ -19,6 +19,5 @@ related_articles:
     source: "The Chicago Tribune"
     link: "http://finance.chicagotribune.com/news/ny-times/retro-report-lessons-from-the-exxon-valdez-oil-spill/retro-report-lessons-from-the-exxon-valdez-oil-spill-12361055.htm"
 published: true
-slug: related-coverage-of-exxon-valdez-in-the-wake-of-disaster
 ---
 

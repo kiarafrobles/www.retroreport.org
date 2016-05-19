@@ -4,7 +4,6 @@ published: true
 date: 2015-02-23T15:04:00.000Z
 description: "Privacy Policy"
 type: community
-slug: privacy-policy
 ---
 
 **Summary**

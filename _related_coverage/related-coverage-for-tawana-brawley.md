@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for Tawana Brawley"
+title: "Tawana Brawley"
 #date: 2015-08-20T20:03:00.000Z
 video: the-tawana-brawley-story
 related_articles:
@@ -19,6 +19,5 @@ related_articles:
     source: "Taylor Marsh"
     link: "http://www.taylormarsh.com/2013/06/retro-report-revisits-al-sharpton-and-tawana-brawley/"
 published: true
-slug: related-coverage-for-tawana-brawley
 ---
 

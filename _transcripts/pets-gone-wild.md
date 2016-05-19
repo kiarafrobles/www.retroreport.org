@@ -4,7 +4,6 @@ published: true
 date: 2015-08-20T00:19:00.000Z
 video: pets-gone-wild
 type: video
-slug: pets-gone-wild
 ---
 
 **PETS GONE WILD**

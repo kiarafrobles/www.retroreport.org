@@ -14,7 +14,6 @@ description: "In the 1970s, frustration over heroin related, urban crime led to 
 appearance: light-text
 tweet: "In the 1970s, frustration over heroin related crime led to the War on Drugs. Today, heroin is back."
 featured_image_path: /uploads/1448211975519_RR278_HEROIN_THUMB_MASTER_MAGNUM_NYC63855_CROP_2.jpg
-slug: heroin-and-the-war-on-drugs
 ---
 
 In the late 1960s and early 1970s, America's inner cities were wracked by an epidemic of heroin addiction and the crime that went with it. New York State responded with harsh drug laws, including mandatory minimum sentences up to life in prison for selling just one ounce of heroin. Soon, other states and the federal government adopted similar laws, and the nation's prisons filled up with non-violent drug offenders, mostly young black men.

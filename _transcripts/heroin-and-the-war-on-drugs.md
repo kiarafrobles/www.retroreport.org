@@ -4,7 +4,6 @@ published: true
 date: 2015-11-23T01:00:00.000Z
 video: heroin-and-the-war-on-drugs
 type: video
-slug: heroin-and-the-war-on-drugs
 ---
 
 **Heroin and the War on Drugs**

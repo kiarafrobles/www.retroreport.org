@@ -6,5 +6,4 @@ role: Not on Masthead
 first_name: Liam
 last_name: Dalzell
 type: staff
-slug: liam-dalzell
 ---

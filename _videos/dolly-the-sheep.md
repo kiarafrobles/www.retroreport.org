@@ -14,7 +14,6 @@ description: "In 1997, Scottish scientists announced they had cloned a sheep and
 appearance: light-text
 tweet: "In 1997, Dolly the Sheep sent waves of shock around the world that continue to shape science today:"
 featured_image_path: /uploads/1422557921471_451783600_1280.jpg
-slug: dolly-the-sheep
 ---
 
 "Scientists clone adult sheep," read the headline splashed across the front of a British newspaper in the winter of 1997. Soon, the rest of the world would meet Dolly, the product of a team of Scottish scientists who took a mammary cell from an adult sheep, fused it to another sheep's unfertilized egg and created an identical twin.

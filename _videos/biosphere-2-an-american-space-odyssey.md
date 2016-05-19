@@ -17,7 +17,6 @@ description: "With dreams of one day colonizing space, eight people sealed thems
 appearance: light-text
 tweet: "What happens when 8 people seal themselves inside a giant biosphere to prep for living in space:"
 featured_image_path: /uploads/1422558339210_439903003_1280.jpg
-slug: biosphere-2-an-american-space-odyssey
 ---
 
 In 1991, eight men and women sealed themselves inside Biosphere 2, a vast, greenhouse-like structure that replicated the ecosystems of “Biosphere 1” –- Earth. They called themselves “Biospherians,” dressed in Star Trek-like uniforms, and promised not to emerge for two years.

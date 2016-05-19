@@ -14,5 +14,4 @@ description: "Does exercise really make you lose weight? One scientist went to A
 appearance: light-text
 tweet: "Does exercise really make you lose weight? One scientist went to Africa and found an unexpected answer."
 featured_image_path: /uploads/1451847131834_37458_1_retro-short-exercise.jpg
-slug: the-unexpected-science-of-exercise
 ---

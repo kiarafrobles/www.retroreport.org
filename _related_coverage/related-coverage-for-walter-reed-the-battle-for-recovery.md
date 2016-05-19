@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for Walter Reed: The Battle for Recovery"
+title: "Walter Reed: The Battle for Recovery"
 #date: 2015-08-19T19:58:00.000Z
 video: walter-reed-the-battle-for-recovery
 related_articles:
@@ -10,6 +10,5 @@ related_articles:
     source: "Chris Riback's Conversation with Thinkers"
     link: "http://chrisriback.com/?s=walter+reed"
 published: true
-slug: related-coverage-for-walter-reed-the-battle-for-recovery
 ---
 

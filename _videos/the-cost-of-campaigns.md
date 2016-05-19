@@ -14,7 +14,6 @@ description: "The Watergate campaign finance scandals led to a landmark law desi
 appearance: dark-text
 tweet: "40 yrs after the Watergate campaign scandal, is the problem not what's illegal, but what's legal?"
 featured_image_path: /uploads/1422558858193_493314836_1280.jpg
-slug: the-cost-of-campaigns
 ---
 
 Watergate might be best known as the burglary that led to the downfall of a president. But it also exposed a network of secret fundraising and illegal campaign donations. A landmark law passed in the wake of the scandal cleaned up some of the worst abuses and imposed strict limits on how much could be given. But in the 40 years since, wealthy donors, corporations, and unions have always found a way for their money to back their candidate. Have we come full circle?

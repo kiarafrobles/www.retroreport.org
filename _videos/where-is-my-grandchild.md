@@ -14,7 +14,6 @@ description: "Estela de Carlotto has spent nearly four decades searching for her
 appearance: light-text
 tweet: "The story of babies stolen during Argentina's dictatorship & the grandmothers searching for them."
 featured_image_path: /uploads/1444537781848_RR262_Estela_Carlotto_Personal_Photo_02_Edited_16x9.jpg
-slug: where-is-my-grandchild
 ---
 
 As many as 30,000 people were tortured and killed during the seven year military regime -- from 1976-1983. They came to be known as the “disappeared.” Over time, it became clear that they were not coming back, but the question remained: what had happened to them and to the estimated 500 babies whose mothers were taken during pregnancy?

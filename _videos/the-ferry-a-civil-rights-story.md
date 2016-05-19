@@ -18,7 +18,6 @@ appearance: dark-text
 tweet: "The story behind a little known tale from the Civil Rights Era in Gee's Bend, Alabama."
 featured_image_path: /uploads/1425845382640_32681_1_retro-gees-bend-1600x900.jpg
 show_related_report_on_video_page: true
-slug: the-ferry-a-civil-rights-story
 ---
 
 <span class="s1">Retro Report examines the story behind this little known tale from the Civil Rights Era, illuminating the forces that took the ferry off the river in 1962 and the decades of hardships that followed for African Americans living on Gee's Bend. An unexpected alliance finally brought the ferry back in 2006. But what's happened since?</span>

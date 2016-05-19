@@ -13,6 +13,5 @@ related_articles:
     source: "(e) Science news"
     link: "http://esciencenews.com/sources/ny.times.health/2013/11/04/retro.report.hopeful.glimmers.long.war.cancer"
 published: true
-slug: related-coverage-for-the-long-war-on-cancer
 ---
 

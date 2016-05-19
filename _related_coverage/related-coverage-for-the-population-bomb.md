@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for The Population Bomb?"
+title: "The Population Bomb?"
 #date: 2015-06-02T21:01:00.000Z
 video: the-population-bomb
 related_articles:
@@ -28,6 +28,5 @@ related_articles:
     source: "The Federalist"
     link: "http://thefederalist.com/2015/06/04/what-the-new-york-times-didnt-learn-from-paul-ehrlichs-population-bomb-fizzle/"
 published: true
-slug: related-coverage-for-the-population-bomb
 ---
 

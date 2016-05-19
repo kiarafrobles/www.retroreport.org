@@ -10,6 +10,5 @@ related_articles:
     source: "Mr. Media Training"
     link: "http://www.mrmediatraining.com/2013/10/07/falsely-accused-the-sad-life-of-richard-jewell/"
 published: true
-slug: related-coverage-of-richard-jewell-the-wrong-man
 ---
 

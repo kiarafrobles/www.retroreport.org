@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for Sex, Drugs and Gore"
+title: "Sex, Drugs and Gore"
 #date: 2015-10-27T17:24:00.000Z
 video: sex-drugs-and-gore
 related_articles:
@@ -13,6 +13,5 @@ related_articles:
     source: "Reddit"
     link: "https://www.reddit.com/r/Documentaries/comments/3qffy0/sex_drugs_and_gore_2015_offended_by_lyrics_they/"
 published: true
-slug: related-coverage-for-sex-drugs-and-gore
 ---
 

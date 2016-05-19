@@ -13,7 +13,6 @@ description: "The mystery of Colony Collapse Disorder has pushed honeybees into 
 appearance: light-text
 tweet: "The mystery of Colony Collapse Disorder and the plight of the honeybee is not cut and dried."
 featured_image_path: /uploads/1422558944669_490714644_1280.jpg
-slug: the-mystery-of-the-missing-bees
 ---
 
 There was no question about it: some 400 beehives had been alive and thriving, now they were suddenly dead and empty. The bees had simply vanished.

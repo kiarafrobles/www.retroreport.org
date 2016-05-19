@@ -24,7 +24,6 @@ description: "SWAT teams were created in the 1960’s to combat violent events. 
 appearance: light-text
 tweet: "SWAT teams were created in the 60s, but today many people wonder if they've gone too far."
 featured_image_path: /uploads/1422559014531_488332378_1280.jpg
-slug: swat-mission-creep
 ---
 
 <figure data-type="image">[![](http://lh3.googleusercontent.com/CLzQXZ66TfgPFRkbSB2zkEtuWkYy20fqtPJpXwTJqTceObebdzZx0lvc3c9bYrqKIFdLVjINJfvFRtdrX9MHIcOoU99azpo=s1200)](/webhook-uploads/1429194329389_RR256W001.jpg)

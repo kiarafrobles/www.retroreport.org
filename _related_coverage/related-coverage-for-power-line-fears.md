@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for Power Line Fears"
+title: "Power Line Fears"
 #date: 2015-06-26T15:42:00.000Z
 video: power-line-fears
 related_articles:
@@ -22,6 +22,5 @@ related_articles:
     source: "The Week"
     link: "https://theweek.com/speedreads/441014/retro-report-looks-americas-persistent-panic-over-power-lines-cancer"
 published: true
-slug: related-coverage-for-power-line-fears
 ---
 

@@ -4,7 +4,6 @@ published: true
 date: 2015-06-01T11:08:00.000Z
 video: the-population-bomb
 type: video
-slug: the-population-bomb
 ---
 
 <a name="TO_REVKIN">**THE POPULATION BOMB?**</a>

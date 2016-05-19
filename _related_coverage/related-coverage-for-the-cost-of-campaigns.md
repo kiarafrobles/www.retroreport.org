@@ -13,6 +13,5 @@ related_articles:
     source: "Above Top Secret"
     link: "http://www.abovetopsecret.com/forum/thread1040532/pg1"
 published: true
-slug: related-coverage-for-the-cost-of-campaigns
 ---
 

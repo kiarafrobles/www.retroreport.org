@@ -14,7 +14,6 @@ description: "A story of America's school integration and what happened when the
 appearance: dark-text
 tweet: "What happened to Charlotte’s forced school integration after the buses stopped rolling:"
 featured_image_path: /uploads/1422558163905_448249655_1280.jpg
-slug: the-battle-for-busing
 ---
 
 In the late 1960s and early 1970s, busing became a dirty word to parents of many school age children around the country, especially in the South. And no place attracted more attention than Charlotte, North Carolina, whose long fight over mandatory busing landed it in a closely-watched test case before the U.S. Supreme Court. The landmark 1971 ruling mandated that federal courts could impose a host of remedies, including busing, to force school integration in Charlotte, and opened the floodgates for busing students in hundreds of school districts across the country over the next decade.

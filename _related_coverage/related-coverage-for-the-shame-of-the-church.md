@@ -10,6 +10,5 @@ related_articles:
     source: "The Bilgrimage"
     link: "http://bilgrimage.blogspot.com/2014/03/new-york-times-retro-report-on-shame-of.html"
 published: true
-slug: related-coverage-for-the-shame-of-the-church
 ---
 

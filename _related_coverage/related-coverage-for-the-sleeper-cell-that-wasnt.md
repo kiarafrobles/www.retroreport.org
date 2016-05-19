@@ -19,6 +19,5 @@ related_articles:
     source: "Conversations with Thinkers"
     link: "http://chrisriback.com/2013/11/24/retro-reports-peter-klein-the-sleeper-cell-that-wasnt/"
 published: true
-slug: related-coverage-for-the-sleeper-cell-that-wasnt
 ---
 

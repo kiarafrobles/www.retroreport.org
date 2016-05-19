@@ -18,5 +18,4 @@ description: "A mini-doc about the anatomy of a shaken baby case from the perspe
 appearance:
 tweet: "A mini-doc about the anatomy of a shaken baby case from the perspective of defense attorney Adele Bernhard."
 featured_image_path: /uploads/1442157707060_35469_1_retrovoices-baby-lawyer.jpg
-slug: the-lawyer
 ---

@@ -16,6 +16,5 @@ related_articles:
     source: "Chris Riback's Conversations with Thinkers"
     link: "http://chrisriback.com/2013/12/10/retro-reports-karen-sughrue-crime-and-punishment-three-strikes-and-youre-out/"
 published: true
-slug: related-coverage-of-crime-and-punishment-three-strikes-and-youre-out
 ---
 

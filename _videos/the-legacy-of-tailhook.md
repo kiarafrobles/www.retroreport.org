@@ -13,7 +13,6 @@ description: "Military sexual assault is not a new phenomenon. A second look at 
 appearance: light-text
 tweet: "A second look at the 1991 Tailhook scandal and what it means to military sexual assaults today:"
 featured_image_path: /uploads/1422558498310_437106448_1280.jpg
-slug: the-legacy-of-tailhook
 ---
 
 "Tailhook." It was called the worst case of sexual harassment in the U.S. Navy’s history and led to promises of culture change. But 20 years later, how much has really changed?

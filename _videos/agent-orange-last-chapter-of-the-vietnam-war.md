@@ -13,7 +13,6 @@ description: "The use of the defoliant Agent Orange during the Vietnam War conti
 appearance: light-text
 tweet: "The use of the defoliant Agent Orange during the Vietnam War continues to cast a dark shadow."
 featured_image_path: /uploads/1422559082424_474740190_1280.jpg
-slug: agent-orange-last-chapter-of-the-vietnam-war
 ---
 
 During the war, the U.S. military sprayed Agent Orange over millions of acres to defoliate jungles, deprive its enemy defensive cover, and save the lives of American soldiers.

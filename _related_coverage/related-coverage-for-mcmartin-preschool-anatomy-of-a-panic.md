@@ -13,6 +13,5 @@ related_articles:
     source: "Reddit"
     link: "https://www.reddit.com/r/Documentaries/comments/2k2mj2/mcmartin_preschool_anatomy_of_a_panic_2014_nyt/"
 published: true
-slug: related-coverage-for-mcmartin-preschool-anatomy-of-a-panic
 ---
 

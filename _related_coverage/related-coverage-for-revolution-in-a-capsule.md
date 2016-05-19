@@ -25,6 +25,5 @@ related_articles:
     source: "Psych Practice"
     link: "http://psychpracticemd.blogspot.com/2014/09/prozac-news.html"
 published: true
-slug: related-coverage-for-revolution-in-a-capsule
 ---
 

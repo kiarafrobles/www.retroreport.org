@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for the Promise of the Air Bag"
+title: "the Promise of the Air Bag"
 #date: 2015-08-11T21:18:00.000Z
 video: the-promise-of-the-air-bag
 related_articles:
@@ -22,6 +22,5 @@ related_articles:
     source: "Digg"
     link: "http://digg.com/video/the-promise-of-the-air-bag"
 published: true
-slug: related-coverage-for-the-promise-of-the-air-bag
 ---
 

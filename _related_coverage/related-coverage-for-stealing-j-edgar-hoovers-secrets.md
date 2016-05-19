@@ -25,6 +25,5 @@ related_articles:
     source: "The Nation"
     link: "http://www.thenation.com/article/activists-take-credit-notorious-fbi-raid-spilled-secrets-forty-two-years-ago/"
 published: true
-slug: related-coverage-for-stealing-j-edgar-hoovers-secrets
 ---
 

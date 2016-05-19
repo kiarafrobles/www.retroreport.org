@@ -4,7 +4,6 @@ published: true
 date: 2015-07-13T01:44:00.000Z
 video: the-shadow-of-waco
 type: video
-slug: the-shadow-of-waco
 ---
 
 **THE SHADOW OF WACO**

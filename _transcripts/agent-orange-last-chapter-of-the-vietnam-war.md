@@ -4,7 +4,6 @@ published: true
 date: 2014-05-12T15:04:00.000Z
 video: agent-orange-last-chapter-of-the-vietnam-war
 type: video
-slug: agent-orange-last-chapter-of-the-vietnam-war
 ---
 
 **AGENT ORANGE: LAST CHAPTER OF THE VIETNAM WAR**

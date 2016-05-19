@@ -16,6 +16,5 @@ related_articles:
     source: "Ticklethewire.com"
     link: "http://www.ticklethewire.com/2014/10/28/new-york-times-retro-report-ruby-ridge-american-standoff/"
 published: true
-slug: related-coverage-for-ruby-ridge-american-standoff
 ---
 

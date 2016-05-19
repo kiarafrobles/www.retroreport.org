@@ -10,6 +10,5 @@ videos:
   - haunted-by-columbine
   - taking-the-lid-off-the-mcdonalds-coffee-case
 type: playlists
-slug: media-mishaps
 ---
 ---

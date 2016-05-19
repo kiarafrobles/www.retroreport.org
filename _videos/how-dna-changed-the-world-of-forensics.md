@@ -14,7 +14,6 @@ description: "Before DNA testing, prosecutors relied on less sophisticated foren
 appearance: light-text
 tweet: "Before DNA testing the method most often used was microscopic hair analysis. But was it reliable?"
 featured_image_path: /uploads/1422559056828_475634179_1280.jpg
-slug: how-dna-changed-the-world-of-forensics
 ---
 
 In the late 1980s, DNA technology upended the world of forensics.  Genetic fingerprinting, as it was often called, was a powerful tool to win convictions, but it also revealed cracks in the criminal justice system: innocent people were in prison. And many of them had been convicted in part using older forensic techniques, including microscopic hair analysis.

@@ -34,5 +34,4 @@ related_articles:
     source: "The Week"
     link: "http://theweek.com/article/index/244535/what-crack-babies-can-teach-our-lawmakers"
 published: true
-slug: related-coverage-on-crack-babies-a-tale-from-the-drug-wars
 ---

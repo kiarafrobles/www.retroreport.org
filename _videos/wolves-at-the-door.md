@@ -14,7 +14,6 @@ description: "In the 1990s, the federal government reintroduced the gray wolf to
 appearance: dark-text
 tweet: "The reintroduction of the gray wolf to Yellowstone was a success. And that’s when the trouble began"
 featured_image_path: /uploads/1422558810445_495059159_1280.jpg
-slug: wolves-at-the-door
 ---
 
 Some call it one of the great conservation success stories of our time. After being nearly killed off, gray wolves were re-introduced to Yellowstone National Park in 1995.

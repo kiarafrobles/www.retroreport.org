@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for The Shadow of Waco"
+title: "The Shadow of Waco"
 #date: 2015-07-13T22:25:00.000Z
 video: the-shadow-of-waco
 related_articles:
@@ -22,6 +22,5 @@ related_articles:
     source: "Reddit"
     link: "http://www.reddit.com/r/EnoughLibertarianSpam/comments/3d4y0y/the_shadow_of_waco/"
 published: true
-slug: related-coverage-for-the-shadow-of-waco
 ---
 

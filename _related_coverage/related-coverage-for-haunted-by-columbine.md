@@ -19,6 +19,5 @@ related_articles:
     source: "American School & University"
     link: "http://asumag.com/safety-security/columbine-re-examining-motives-shooters-video"
 published: true
-slug: related-coverage-for-haunted-by-columbine
 ---
 

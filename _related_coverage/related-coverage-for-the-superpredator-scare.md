@@ -22,6 +22,5 @@ related_articles:
     source: "Sentencing Law and Policy"
     link: "http://sentencing.typepad.com/sentencing_law_and_policy/2014/04/retro-report-provides-reminder-of-when-youth-violence-spurred-superpredator-fear.html"
 published: true
-slug: related-coverage-for-the-superpredator-scare
 ---
 

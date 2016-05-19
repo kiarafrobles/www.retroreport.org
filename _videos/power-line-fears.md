@@ -13,7 +13,6 @@ description: "News media coverage in the 1980s and early 1990s fueled fears of a
 appearance: dark-text
 tweet: "In the 1980s the media fueled fears of a cancer epidemic caused by power lines, but was it true?"
 featured_image_path: /uploads/1422558707299_498483781_1280.jpg
-slug: power-line-fears
 ---
 
 In the late 1980s and early 1990s, news outlets reported a disturbing scientific finding: the electromagnetic fields from power lines may cause cancer. In a world that runs on electricity, the threat seemed to be everywhere.

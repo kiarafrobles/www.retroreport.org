@@ -4,7 +4,6 @@ published: true
 date: 2014-03-10T09:00:00.000Z
 video: mcmartin-preschool-anatomy-of-a-panic
 type: video
-slug: mcmartin-preschool-anatomy-of-a-panic
 ---
 
 **Anatomy of a Panic**

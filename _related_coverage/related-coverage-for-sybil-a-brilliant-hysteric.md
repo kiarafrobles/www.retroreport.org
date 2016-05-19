@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for Sybil: A Brilliant Hysteric?"
+title: "Sybil: A Brilliant Hysteric?"
 #date: 2015-07-28T16:12:00.000Z
 video: sybil-a-brilliant-hysteric
 related_articles:
@@ -19,6 +19,5 @@ related_articles:
     source: "New York Association of Psychiatric Rehabilitation Services"
     link: "http://www.nyaprs.org/e-news-bulletins/2014/006755.cfm"
 published: true
-slug: related-coverage-for-sybil-a-brilliant-hysteric
 ---
 

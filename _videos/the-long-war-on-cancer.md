@@ -17,7 +17,6 @@ description: "Forty-two years ago when President Richard Nixon vowed to make cur
 appearance: dark-text
 tweet: "In 1971 Nixon declared war on cancer. But decades later, what have we really accomplished?"
 featured_image_path: /uploads/1422556855560_453774112_1280.jpg
-slug: the-long-war-on-cancer
 ---
 
 That expectation was raised in part by the PR campaign, complete with ads suggesting we could cure cancer by the bicentennial, that successfully pushed President Nixon to support what came to be called his "War on Cancer."

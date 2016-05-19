@@ -12,7 +12,6 @@ description:
 appearance: light-text
 tweet: "The ancient strategy game of Go may have met its ultimate match in Google's new AI."
 featured_image_path: /uploads/1457627758732_Go_Short_For_YT_2.jpg
-slug: machine-trains-self-to-beat-humans-at-worlds-hardest-game
 ---
 
 The ancient strategy game of Go may have met its ultimate match in Google's AI.

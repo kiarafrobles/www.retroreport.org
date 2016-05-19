@@ -14,5 +14,4 @@ description: "The robotics team from M.I.T recovers from disaster at the robot O
 appearance: light-text
 tweet: "The robotics team from M.I.T recovers from disaster at the robot Olympics. #RobotsAreComing"
 featured_image_path: /uploads/1458313450592_DARPA%20SHORT%20THUMB.jpg
-slug: why-teaching-robots-to-do-easy-stuff-is-still-hard
 ---

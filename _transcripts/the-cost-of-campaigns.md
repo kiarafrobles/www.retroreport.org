@@ -4,7 +4,6 @@ published: true
 date: 2014-10-20T01:00:00.000Z
 video: the-cost-of-campaigns
 type: video
-slug: the-cost-of-campaigns
 ---
 
 **THE COST OF CAMPAIGNS**

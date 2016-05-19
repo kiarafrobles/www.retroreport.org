@@ -4,7 +4,6 @@ published: true
 date: 2015-12-07T01:00:00.000Z
 video: the-boy-in-the-bubble
 type: video
-slug: the-boy-in-the-bubble
 ---
 
 **The Boy in the Bubble**

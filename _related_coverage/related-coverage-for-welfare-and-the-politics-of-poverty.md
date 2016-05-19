@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for Welfare and the Politics of Poverty"
+title: "Welfare and the Politics of Poverty"
 #date: 2016-05-02T17:08:00.000Z
 video: welfare-and-the-politics-of-poverty
 related_articles:
@@ -10,6 +10,5 @@ related_articles:
     source: "Poynter"
     link: "http://www.poynter.org/2016/the-dubious-rise-of-theranos-was-helped-by-a-compliant-press/409649/"
 published: true
-slug: related-coverage-for-welfare-and-the-politics-of-poverty
 ---
 

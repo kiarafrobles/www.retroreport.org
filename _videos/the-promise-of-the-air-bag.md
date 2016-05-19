@@ -17,7 +17,6 @@ description: "How did cars become “computers on wheels,” so automated that s
 appearance: light-text
 tweet: "How did cars become “computers on wheels,” so automated that some are driving themselves? "
 featured_image_path: /uploads/1422558986460_488997738_1280.jpg
-slug: the-promise-of-the-air-bag
 ---
 
 Air bags are ubiquitous today and have saved more than 40,000 lives. But there was a time when they were controversial — even downright dangerous for some occupants. The technology ultimately developed to make air bags safer is leading to a revolution in computerized auto safety. But as cars become more and more automated, and even begin to drive themselves, are we really on the road to safety -- or more recalls?

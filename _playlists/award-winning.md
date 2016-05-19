@@ -9,5 +9,4 @@ videos:
   - the-shadow-of-thalidomide
   - a-search-for-justice
 type: playlists
-slug: award-winning
 ---

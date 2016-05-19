@@ -13,7 +13,6 @@ description: "In the 1970s, the T.V. movie “Sybil” introduced much of the na
 appearance: dark-text
 tweet: "After the movie “Sybil” many were diagnosed w/multiple personality disorder, but was it just a fad?"
 featured_image_path: /uploads/1422558749714_497704566_1280.jpg
-slug: sybil-a-brilliant-hysteric
 ---
 
 In 1976, millions of viewers tuned in to watch “Sybil,” a television movie based on the best-selling book of the same name, and were introduced to the agonies of a young woman said to have 16 different personalities.

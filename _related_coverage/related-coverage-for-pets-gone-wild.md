@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for Pets Gone Wild"
+title: "Pets Gone Wild"
 #date: 2015-06-05T21:24:00.000Z
 video: pets-gone-wild
 related_articles:
@@ -13,6 +13,5 @@ related_articles:
     source: "Earth Sky"
     link: "http://earthsky.org/earth/the-python-thats-eating-florida"
 published: true
-slug: related-coverage-for-pets-gone-wild
 ---
 

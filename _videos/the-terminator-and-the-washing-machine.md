@@ -13,7 +13,6 @@ description: "What the legendary match between a supercomputer and chess grandma
 appearance: light-text
 tweet: "What the iconic match between a supercomputer & a chess grandmaster reveals about today's AI panic."
 featured_image_path: /uploads/1457269939676_38637_1_retro-ai.jpg
-slug: the-terminator-and-the-washing-machine
 ---
 
 The first time the word “robot” ever appeared in literature in the 1920s, the fictional machines rose up and killed their creators. We’ve been telling the same story ever since. From Hal 9000 to the Terminator, it often seems the measure of a fictional machine’s intelligence is best taken by its wish to do us harm.

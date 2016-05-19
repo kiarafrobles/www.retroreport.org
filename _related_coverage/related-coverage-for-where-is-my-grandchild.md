@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for Where Is My Grandchild?"
+title: "Where Is My Grandchild?"
 #date: 2015-10-14T15:46:00.000Z
 video: where-is-my-grandchild
 related_articles:
@@ -22,6 +22,5 @@ related_articles:
     source: "El Intransigente"
     link: "http://www.elintransigente.com/argentina/2015/10/13/york-times-destaco-trabajo-abuelas-plaza-mayo-347437.html"
 published: true
-slug: related-coverage-for-where-is-my-grandchild
 ---
 

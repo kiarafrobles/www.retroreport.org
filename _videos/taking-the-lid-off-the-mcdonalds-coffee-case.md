@@ -17,7 +17,6 @@ description: "In 1992, Stella Liebeck spilled scalding McDonald's coffee in her 
 appearance: light-text
 tweet: "First Stella Liebeck got burned by hot McDonald’s coffee, then she got burned by the media: "
 featured_image_path: /uploads/1422556984277_452387407_1280.jpg
-slug: taking-the-lid-off-the-mcdonalds-coffee-case
 ---
 
 More than 20 years ago, 79-year-old Stella Liebeck ordered coffee at a McDonald's drive-through in Albuquerque, New Mexico. She spilled the coffee, was burned, and a year later, sued McDonald's. The jury awarded her $2.9 million dollars.

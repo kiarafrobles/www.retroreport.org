@@ -14,7 +14,6 @@ description: "Offended by lyrics they deemed too sexual and violent, Tipper Gore
 appearance: light-text
 tweet: "Sex, Drugs and Gore. With a title like that, how could you not want to watch? #warninglabels #music"
 featured_image_path: /uploads/1445740641042_36234_1_retro-gore.jpg
-slug: sex-drugs-and-gore
 ---
 
 When Tipper Gore and Susan Baker founded the Parents Music Resource Center (PMRC), their campaign to put warning labels on albums sparked a debate over censorship and resulted in a dramatic Capitol Hill showdown with musicians like Frank Zappa. Ultimately, the record industry agreed to put parental advisory stickers on explicit albums, and today warning labels are commonly found on everything from music to television to video games. Which leads us to explore some age-old questions when it comes to kids and pop culture: how do we define harm? And who gets to decide?

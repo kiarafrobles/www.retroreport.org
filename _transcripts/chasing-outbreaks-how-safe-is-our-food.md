@@ -4,7 +4,6 @@ published: true
 date: 2015-05-11T11:37:00.000Z
 video: chasing-outbreaks-how-safe-is-our-food
 type: video
-slug: chasing-outbreaks-how-safe-is-our-food
 ---
 
 **CHASING OUTBREAKS: HOW SAFE IS OUR FOOD?**

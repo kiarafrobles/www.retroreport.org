@@ -17,7 +17,6 @@ description: "In 1982, an Australian mother was convicted of murdering her baby 
 appearance: dark-text
 tweet: "Turns out the dingo really did eat the baby. And the true story behind the joke is a tragic one."
 featured_image_path: /uploads/1422558771169_496836121_1280.jpg
-slug: a-dingos-got-my-baby-trial-by-media
 ---
 
 When Lindy Chamberlain’s nine-week-old baby daughter Azaria disappeared from a campsite in the Australian outback, she maintained a dingo had snatched the infant from inside a tent.

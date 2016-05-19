@@ -17,7 +17,6 @@ description: "Should doctors be allowed to help suffering patients die? Twenty-f
 appearance: dark-text
 tweet: "The legacy of Dr. Jack Kevorkian and his home-made suicide machine on today's Right to Die movement "
 featured_image_path: /uploads/1427071690752_32844_1_retro-kevorkian_1600.jpg
-slug: a-right-to-die
 ---
 
 Twenty-five years ago, Dr. Jack Kevorkian used a homemade suicide machine to help a 54-year-old Alzheimer's patient, Janet Adkins, end her life. Adkins was the first of many patients Kevorkian helped to die, but her case began a long debate over the ethics of assisted suicide.

@@ -13,7 +13,6 @@ description: "Bill Clinton's 1996 welfare reform was supposed to move needy fami
 appearance: light-text
 tweet: "20 years after Bill Clinton's welfare reform was enacted, how's it working out for poor families?"
 featured_image_path: /uploads/1462117294826_RR285_THUMB_MASTER_WELFARE_REUTERS_RTRKPG_CROPPED_2.jpg
-slug: welfare-and-the-politics-of-poverty
 ---
 
 By the mid-1990s, with record numbers of Americans on welfare, public resentment reached a tipping point. Recipients were stigmatized as lazy ne’er-do-wells feeding at the public trough. Politicians railed against “welfare queens”, the unwed mothers they claimed were gaming the system, having more babies to get more taxpayer cash.

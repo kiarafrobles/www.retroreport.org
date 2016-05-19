@@ -11,5 +11,4 @@ videos:
   - voyage-of-the-mobro-4000
   - biosphere-2-an-american-space-odyssey
 type: playlists
-slug: staff-favorites
 ---

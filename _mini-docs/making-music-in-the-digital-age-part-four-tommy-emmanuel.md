@@ -12,5 +12,4 @@ description:
 appearance:
 tweet:
 featured_image_path: /uploads/1442103631834_499316931_1280.jpg
-slug: making-music-in-the-digital-age-part-four-tommy-emmanuel
 ---

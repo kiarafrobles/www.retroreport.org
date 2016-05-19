@@ -4,7 +4,6 @@ published: true
 date: 2015-06-15T02:24:00.000Z
 video: transforming-history
 type: video
-slug: transforming-history
 ---
 
 **TRANSFORMING HISTORY**

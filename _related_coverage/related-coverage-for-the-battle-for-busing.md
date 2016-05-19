@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for The Battle for Busing "
+title: "The Battle for Busing "
 #date: 2015-08-19T20:45:00.000Z
 video: the-battle-for-busing
 related_articles:
@@ -13,6 +13,5 @@ related_articles:
     source: "Chris Riback's Conversations with Thinkers"
     link: "http://chrisriback.com/2013/09/10/retro-report-producer-b-drummond-ayres-jr-the-battle-for-busing/"
 published: true
-slug: related-coverage-for-the-battle-for-busing
 ---
 

@@ -4,7 +4,6 @@ published: true
 date: 2014-11-03T01:00:00.000Z
 video: wolves-at-the-door
 type: video
-slug: wolves-at-the-door
 ---
 
 **WOLVES AT THE DOOR____**

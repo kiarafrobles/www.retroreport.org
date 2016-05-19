@@ -18,7 +18,6 @@ description: "After the 1998 NFL draft produced one of the greatest busts in his
 appearance: dark-text
 tweet: "After the 1998 NFL draft produced one of the greatest busts in history, what have we learned about the science of evaluating human talent – on and off the field?"
 featured_image_path: /uploads/1422559107113_473791450_1280.jpg
-slug: picking-a-winner-the-1998-nfl-draft
 ---
 
 In the 1998 NFL draft, the Indianapolis Colts and San Diego Chargers both drew on a blend of physical and psychological testing, player background checks, and gut instincts to select a quarterback who would turn a losing football franchise into a winner. And when the draft was over, each team thought they had done just that.

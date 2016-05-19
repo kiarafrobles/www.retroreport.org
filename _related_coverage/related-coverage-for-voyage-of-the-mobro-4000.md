@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for Voyage of the Mobro 4000"
+title: "Voyage of the Mobro 4000"
 #date: 2015-08-21T18:19:00.000Z
 video: voyage-of-the-mobro-4000
 related_articles:
@@ -34,6 +34,5 @@ related_articles:
     source: "The Huffington Post"
     link: "http://www.huffingtonpost.com/2013/05/05/new-york-times-retro-report_n_3220329.html"
 published: true
-slug: related-coverage-for-voyage-of-the-mobro-4000
 ---
 

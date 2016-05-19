@@ -17,7 +17,6 @@ description: "22 years ago, federal agents raided the Branch Davidian compound i
 appearance: dark-text
 tweet: "The government's siege on Waco continues to shape antigovernment groups today."
 featured_image_path: /uploads/1436705658647_34377_1_retro-waco.jpg
-slug: the-shadow-of-waco
 ---
 
 In 1993, millions of Americans watched as federal agents laid siege to the Mt. Carmel compound of the Branch Davidians, after a shootout with the ATF left four agents and six Davidians dead. Fifty-one days later, the FBI sought to end the standoff by tear-gassing the compound. It went up in flames. Seventy-five Davidians died, including its self-appointed messiah, David Koresh.

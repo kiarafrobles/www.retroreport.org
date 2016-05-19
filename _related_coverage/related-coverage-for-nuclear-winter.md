@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for Nuclear Winter"
+title: "Nuclear Winter"
 #date: 2016-04-04T16:17:00.000Z
 video: nuclear-winter
 related_articles:
@@ -10,6 +10,5 @@ related_articles:
     source: "The New York Times"
     link: "http://www.nytimes.com/2016/04/04/us/global-warming-gives-science-behind-nuclear-winter-a-new-purpose.html?rref=collection%2Fsectioncollection%2Fus&action=click&contentCollection=us&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=sectionfront"
 published: true
-slug: related-coverage-for-nuclear-winter
 ---
 

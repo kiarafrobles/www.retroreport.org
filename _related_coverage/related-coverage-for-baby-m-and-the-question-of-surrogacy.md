@@ -13,6 +13,5 @@ related_articles:
     source: "Circle Surrogacy"
     link: "http://www.circlesurrogacy.com/press/55-baby-m-and-the-question-of-surrogate-motherhood-ny-times-retro-report"
 published: true
-slug: related-coverage-for-baby-m-and-the-question-of-surrogacy
 ---
 

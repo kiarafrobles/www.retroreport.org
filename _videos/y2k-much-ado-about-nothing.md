@@ -13,7 +13,6 @@ description: "The Y2K bug threatened to wipe out computers and disrupt modern so
 appearance: light-text
 tweet: "We all remember the Y2K doomsday hype, but what really happened? And was it all just hype?"
 featured_image_path: /uploads/1422558419190_438453574_1280.jpg
-slug: y2k-much-ado-about-nothing
 ---
 
 It’s hard to imagine in these days of smartphones, iPads, and Google Glass that something called the Y2K bug threatened to topple technology, upset the economy and wreak general havoc at the close of the 20th century. But it did. Survivalists bunkered down. Preachers predicted the apocalypse. And ordinary folks wondered if any of it was real.

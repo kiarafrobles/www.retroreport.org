@@ -13,7 +13,6 @@ description: "In 2007, the scandalous treatment of wounded soldiers at Walter Re
 appearance: light-text
 tweet: "In 2007, the treatment of soldiers at Walter Reed shocked the nation. But how much has changed?"
 featured_image_path: /uploads/1422558014499_450232088_1280.jpg
-slug: walter-reed-the-battle-for-recovery
 ---
 
 After a [series of articles](http://www.washingtonpost.com/wp-srv/nation/walter-reed/index.html) in _The Washington Post_ detailed the neglect and squalor endured by outpatients at Walter Reed, President Bush promised reforms. Congress investigated. And the Army pledged to provide wounded, ill or injured troops with the care they--and their families--deserved.

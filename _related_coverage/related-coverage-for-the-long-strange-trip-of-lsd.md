@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for The Long, Strange Trip of LSD"
+title: "The Long, Strange Trip of LSD"
 #date: 2016-05-16T14:54:00.000Z
 video: the-long-strange-trip-of-lsd
 related_articles:
@@ -25,6 +25,5 @@ related_articles:
     source: "Singapore News"
     link: "http://www.singaporenews.sg/health/retro-report-lsd-like-drugs-are-out-of-the-haze-and-back-in-the-labs/"
 published: true
-slug: related-coverage-for-the-long-strange-trip-of-lsd
 ---
 

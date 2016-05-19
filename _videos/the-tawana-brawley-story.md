@@ -13,7 +13,6 @@ description: "In 1988, the nation learned the truth about the alleged crimes aga
 appearance: light-text
 tweet: "In '88 we learned the truth about alleged Tawana Brawley attack. But the story didn't end there: "
 featured_image_path: /uploads/1422558380720_439375323_1280.jpg
-slug: the-tawana-brawley-story
 ---
 
 In the late 1980s, Tawana Brawley became a household name as her horrifying story spread across the country, igniting outrage and setting off a fierce debate about race in America.

@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for Fighting Fat"
+title: "Fighting Fat"
 #date: 2016-01-04T16:30:00.000Z
 video: fighting-fat
 related_articles:
@@ -16,6 +16,5 @@ related_articles:
     source: "Yahoo"
     link: "http://news.yahoo.com/diet-1980s-may-why-americans-fat-today-194911507.html"
 published: true
-slug: related-coverage-for-fighting-fat
 ---
 

@@ -4,7 +4,6 @@ published: true
 date: 2015-03-23T01:03:00.000Z
 video: a-right-to-die
 type: video
-slug: a-right-to-die
 ---
 
 **A RIGHT TO DIE?**

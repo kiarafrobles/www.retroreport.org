@@ -18,5 +18,4 @@ description: "The pediatric neurosurgeon who first identified shaken baby syndro
 appearance:
 tweet: "The pediatric neurosurgeon who first identified shaken baby syndrome has a surprising take on the very syndrome he's credited with discovering."
 featured_image_path: /uploads/1442157451497_35468_1_retrovoices-baby-doctor.jpg
-slug: the-doctor
 ---

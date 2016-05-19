@@ -13,7 +13,6 @@ description: "Hurricane Katrina devastated the Gulf Coast in 2005, and Louisiana
 appearance: light-text
 tweet: "Katrina’s troubled housing recovery has unfortunately shaped the response to major disasters since:"
 featured_image_path: /uploads/1422556894956_453106669_1280.jpg
-slug: in-the-shadow-of-katrina
 ---
 
 This week's Retro Report video tells the story of Louisiana after Katrina -- not the levee failures, FEMA's infamous trailers, or the legal battles with insurers, but the long process of rebuilding homes. The effort in Louisiana was called the Road Home, a program primarily designed by the state, run by private contractors, and funded with grants from the US Department of Housing and Urban Development (HUD).

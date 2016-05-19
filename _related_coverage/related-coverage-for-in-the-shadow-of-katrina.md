@@ -10,6 +10,5 @@ related_articles:
     source: "NPR's The Takeaway"
     link: "http://www.thetakeaway.org/story/retro-report-hurricane-katrina-and-its-aftermath/"
 published: true
-slug: related-coverage-for-in-the-shadow-of-katrina
 ---
 

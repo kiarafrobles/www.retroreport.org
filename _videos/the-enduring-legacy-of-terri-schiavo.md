@@ -17,7 +17,6 @@ description: "The controversy over Terri Schiavo’s case elevated a family matt
 appearance: dark-text
 tweet: "The fight over Terri Schiavo grew into a political battle that still frames end-of-life issues."
 featured_image_path: /uploads/1422559155302_472109651_1280.jpg
-slug: the-enduring-legacy-of-terri-schiavo
 ---
 
 Terri Schiavo’s case started long before the cameras appeared.  In February 1990, the 26-year-old suffered cardiac arrest and was left in a persistent vegetative state. Initially, Schiavo’s husband and parents cared for her together, exploring potential treatments and rehabilitation. But over time, Schiavo’s husband and parents became locked in a very public battle over whether or not to remove the feeding tube that sustained her.

@@ -14,5 +14,4 @@ description: "Wondering what the Hillary Clinton/superpredator brouhaha is all a
 appearance: light-text
 tweet: "Wondering what the Hillary Clinton/superpredator brouhaha is all about? Here's the cliff notes...."
 featured_image_path: /uploads/1457628883687_HILLARY%20SHORT%20THUMB.jpg
-slug: hillary-clinton-and-the-superpredator
 ---

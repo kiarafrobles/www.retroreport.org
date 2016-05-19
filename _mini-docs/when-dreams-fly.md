@@ -14,5 +14,4 @@ description: "More than 40 years ago, Pierre Sprey set out to build the ultimate
 appearance: light-text
 tweet:
 featured_image_path: /uploads/1453665446961_37844_1_retro-f-35-voices.jpg
-slug: when-dreams-fly
 ---

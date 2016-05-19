@@ -20,7 +20,6 @@ appearance: light-text
 tweet: "Recent new stories have focused on *oxytots* as a scary new trend. But is it *crack babies* redux?"
 featured_image_path: /uploads/1422558459238_437817467_1280.jpg
 show_related_report_on_video_page: true
-slug: from-crack-babies-to-oxytots-lessons-not-learned
 ---
 
 Easy to transport, highly addictive and sometimes deadly, crack cocaine ripped through the 1980s like a bullet, a headline-maker that seemed to destroy lives at every turn. But the symbol of that destruction was not the tiny crack vials littering the streets or the addicts crouching in corners. The poster child for America's drug epidemic was a jittery infant whom commentators said was destined to a lifetime of pain and suffering through no fault of its own.

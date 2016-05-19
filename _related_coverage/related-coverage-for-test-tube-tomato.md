@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for Test Tube Tomato"
+title: "Test Tube Tomato"
 #date: 2015-08-20T19:28:00.000Z
 video: test-tube-tomato
 related_articles:
@@ -19,6 +19,5 @@ related_articles:
     source: "Reveal News"
     link: "https://www.revealnews.org/article/top-5-investigative-videos-of-the-week-test-tube-tomatoes/"
 published: true
-slug: related-coverage-for-test-tube-tomato
 ---
 

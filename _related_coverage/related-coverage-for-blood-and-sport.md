@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for Blood and Sport"
+title: "Blood and Sport"
 #date: 2015-11-09T16:04:00.000Z
 video: blood-and-sport
 related_articles:
@@ -19,6 +19,5 @@ related_articles:
     source: "Real Clear Sports"
     link: "http://www.realclearsports.com/video/2015/11/09/boxing_fading_is_football_next.html"
 published: true
-slug: related-coverage-for-blood-and-sport
 ---
 

@@ -21,7 +21,6 @@ description: "The murder of four American churchwomen focused attention on the U
 appearance: dark-text
 tweet: "The 1980 murder of four American nuns in El Salvador takes some surprising turns."
 featured_image_path: /uploads/1422558791679_495950418_1280.jpg
-slug: a-search-for-justice
 ---
 
 In 1980, four American churchwomen, working as missionaries, were raped and then murdered in El Salvador. The killings created a storm of protest in the United States, revealed the brutality of the civil war in El Salvador and raised awareness about America's policies in Central America. Now, the families of the slain churchwomen are still hoping to find justice — this time in American immigration courts.

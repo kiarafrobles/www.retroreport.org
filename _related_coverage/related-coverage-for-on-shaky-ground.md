@@ -16,6 +16,5 @@ related_articles:
     source: "Fox News Latino"
     link: "http://latino.foxnews.com/latino/news/2014/04/17/how-safe-is-california-earthquakes-in-chile-and-nicaragua-raise-questions-about/"
 published: true
-slug: related-coverage-for-on-shaky-ground
 ---
 

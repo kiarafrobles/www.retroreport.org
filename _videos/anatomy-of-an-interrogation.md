@@ -18,7 +18,6 @@ description: "The story of the first and only interrogator connected to the CIA 
 appearance: dark-text
 tweet: "The story of the only interrogator connected to the CIA to be convicted in a torture-related case."
 featured_image_path: /uploads/1429468349230_retro-anatomy-of-an-interrogation.jpg
-slug: anatomy-of-an-interrogation
 ---
 
 The Senate Intelligence Committee's report on the Central Intelligence Agency's interrogation program in the years after September 11th caused controversy over the use of "enhanced interrogation techniques" and calls for accountability. Retro Report explores a little-known case, which remains the only time an interrogator connected to the CIA has been brought to trial in a torture-related case.

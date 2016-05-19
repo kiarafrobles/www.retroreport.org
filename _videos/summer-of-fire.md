@@ -19,7 +19,6 @@ description: "The lessons learned from the summer of 1988 when fires burned near
 appearance: light-text
 tweet: "Lessons learned from the 1988 Yellowstone fire continue to shape how we fight wildfires today:"
 featured_image_path: /uploads/1422558210637_447561590_1280.jpg
-slug: summer-of-fire
 ---
 
 “Part of our national heritage is under threat and on fire tonight.”

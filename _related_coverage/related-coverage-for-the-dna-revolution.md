@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for The DNA Revolution"
+title: "The DNA Revolution"
 #date: 2015-08-12T15:36:00.000Z
 video: how-dna-changed-the-world-of-forensics
 related_articles:
@@ -13,6 +13,5 @@ related_articles:
     source: "Channel Nonfiction"
     link: "http://www.channelnonfiction.com/retro-report-from-hair-to-dna-analysis-how-forensics-changed-11-minutes-2014-new-york-times/"
 published: true
-slug: related-coverage-for-the-dna-revolution
 ---
 

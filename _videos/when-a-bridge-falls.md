@@ -17,7 +17,6 @@ description: "At the height of rush hour on August 1, 2007 in Minneapolis, Minne
 appearance: dark-text
 tweet: "States are spending more money than ever to repair bridges, but engineers say it’s not enough:"
 featured_image_path: /uploads/1422556520048_466116212_1280.jpg
-slug: when-a-bridge-falls
 ---
 
 Thirteen people died and 145 were injured in one of the worst bridge accidents in years.

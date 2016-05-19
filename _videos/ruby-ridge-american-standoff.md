@@ -16,7 +16,6 @@ description: "When armed suspects stand off against the law today, one event con
 appearance: light-text
 tweet: "When armed suspects stand off against the law, Ruby Ridge still casts its shadow over both sides:"
 featured_image_path: /uploads/1422558836929_494191386_1280.jpg
-slug: ruby-ridge-american-standoff
 ---
 
 In 1992, federal agents surrounded the remote Idaho cabin of fugitive Randy Weaver, wanted for selling two illegal sawed-off shotguns to an informant. By the time Weaver surrendered 11 days later, his wife, 14-year-old son and a federal agent were dead.

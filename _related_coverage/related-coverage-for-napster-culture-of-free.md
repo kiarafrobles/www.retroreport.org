@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for Napster: Culture of Free"
+title: "Napster: Culture of Free"
 #date: 2015-06-30T21:01:00.000Z
 video: napster-culture-of-free
 related_articles:
@@ -22,6 +22,5 @@ related_articles:
     source: "Hypertrak"
     link: "http://hypetrak.com/2014/12/watch-new-documentary-showing-how-napster-overthrew-record-companies/"
 published: true
-slug: related-coverage-for-napster-culture-of-free
 ---
 

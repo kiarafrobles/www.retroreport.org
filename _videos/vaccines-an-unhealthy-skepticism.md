@@ -18,7 +18,6 @@ description: "An outbreak of measles that started at Disneyland turned a spotlig
 appearance: light-text
 tweet: "The backstory on how childhood vaccinations became one of our nation's most contentious topics: "
 featured_image_path: /uploads/1422898464866_vaccines-featured_image-1600x900.jpg
-slug: vaccines-an-unhealthy-skepticism
 ---
 
 As the nation deals with a resurgence of measles, Retro Report examines how the science about the safety of vaccines has been questioned by a few, which is compromising the health of all of us.

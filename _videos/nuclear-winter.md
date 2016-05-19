@@ -13,7 +13,6 @@ description: "Carl Sagan and other Cold War scientists once feared that a nuclea
 appearance: light-text
 tweet: "The second life of all those pesky nuclear winter fears -- maybe not so overblown after all..."
 featured_image_path: /uploads/1459579104133_RR274_THUMB_ALT_2_MASTER_NUCLEAR_WINTER_NASA.jpg
-slug: nuclear-winter
 ---
 
 In 1983, scientists gave the world a new reason to fear nuclear war. It had long been assumed that the immediate, direct effects of a nuclear blast would cause a devastating loss of life, and that radioactive fallout would linger. But these scientists stressed that smoke from nuclear-ignited cities might affect something far more remote — the climate around the globe.

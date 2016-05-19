@@ -4,7 +4,6 @@ published: true
 date: 2016-01-25T01:00:00.000Z
 video: runaway-plane
 type: video
-slug: runaway-plane
 ---
 
 **RUNAWAY PLANE**

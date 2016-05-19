@@ -16,6 +16,5 @@ related_articles:
     source: "Squeek TV"
     link: "http://www.squeektv.com/when-a-bridge-falls-disaster-in-minneapolis-retro-report-the-new-york-times-video_995e84a15.html"
 published: true
-slug: related-coverage-for-when-a-bridge-falls
 ---
 

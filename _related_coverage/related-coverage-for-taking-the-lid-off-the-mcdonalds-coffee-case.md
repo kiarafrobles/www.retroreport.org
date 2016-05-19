@@ -19,6 +19,5 @@ related_articles:
     source: "The Daily Beast"
     link: "http://www.thedailybeast.com/articles/2013/10/21/supersize-me-your-honor-liebeck-v-mcdonald-s-and-our-era-of-ambition.html"
 published: true
-slug: related-coverage-for-taking-the-lid-off-the-mcdonalds-coffee-case
 ---
 

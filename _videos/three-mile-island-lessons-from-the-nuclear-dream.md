@@ -13,7 +13,6 @@ description: "More than three decades after the accident at Three Mile Island ca
 appearance: light-text
 tweet: "More than three decades after Three Mile Island, is America ready to try nuclear energy again?"
 featured_image_path: /uploads/1422559129804_473047149_1280.jpg
-slug: three-mile-island-lessons-from-the-nuclear-dream
 ---
 
 In March of 1979, the news of an accident at the nuclear power plant at Three Mile Island near Harrisburg, Pennsylvania sent reporters rushing to the scene, while some 140,000 residents eventually fled from surrounding towns in fear and confusion.

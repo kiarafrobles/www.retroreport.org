@@ -17,7 +17,6 @@ description: "There are over 80,000 chemicals in use today. The story of TRIS, r
 appearance: light-text
 tweet: "What do we know about the flame retardants in our everyday products? Not as much as you'd hope."
 featured_image_path: /uploads/1430682359156_33386_1_retro-fire-retardant.jpg
-slug: safety-on-fire
 ---
 
 In 1977, the flame retardant TRIS was removed from children's pajamas as a suspected carcinogen, but it continued to be used in a host of other products—including baby cribs, car seats, and furniture.

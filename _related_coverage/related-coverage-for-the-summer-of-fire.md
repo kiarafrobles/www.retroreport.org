@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for The Summer of Fire"
+title: "The Summer of Fire"
 #date: 2015-08-19T20:54:00.000Z
 video: summer-of-fire
 related_articles:
@@ -13,6 +13,5 @@ related_articles:
     source: "The Huffington Post"
     link: "http://www.huffingtonpost.com/olivia-katrandjian/report-report-season-2_b_3845668.html?utm_hp_ref=science"
 published: true
-slug: related-coverage-for-the-summer-of-fire
 ---
 

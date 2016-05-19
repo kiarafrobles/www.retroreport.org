@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for Agent Orange"
+title: "Agent Orange"
 #date: 2015-08-12T16:55:00.000Z
 video: agent-orange-last-chapter-of-the-vietnam-war
 related_articles:
@@ -10,6 +10,5 @@ related_articles:
     source: "Mars Clash"
     link: "http://www.marsclash.com/us/v/uzvTB0mOS0w/?keyword=Pitbull"
 published: true
-slug: related-coverage-for-agent-orange
 ---
 

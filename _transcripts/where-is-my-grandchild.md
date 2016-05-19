@@ -4,7 +4,6 @@ published: true
 date: 2015-10-12T00:00:00.000Z
 video: where-is-my-grandchild
 type: video
-slug: where-is-my-grandchild
 ---
 
 **WHERE IS MY GRANDCHILD?**

@@ -14,7 +14,6 @@ description: "When Prozac was introduced in 1988, the green-and-cream pill to tr
 appearance: dark-text
 tweet: "In 1988 the introduction of Prozac launched a cultural revolution that still echoes today. "
 featured_image_path: /uploads/1422558965975_489812484_1280.jpg
-slug: revolution-in-a-capsule
 ---
 
 It was called the “wonder drug that works wonder” and Prozac lived up to its billing. It provided a new way of treating depression, gained celebrity status, and eventually extended the promise of changing lives – whether you were depressed or not. It also ushered in a revolution in marketing that can be seen today in everything from Prilosec to Viagra.

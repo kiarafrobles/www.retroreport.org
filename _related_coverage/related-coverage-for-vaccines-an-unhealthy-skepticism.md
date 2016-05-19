@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for Vaccines: An Unhealthy Skepticism"
+title: "Vaccines: An Unhealthy Skepticism"
 #date: 2015-06-30T18:01:00.000Z
 video: vaccines-an-unhealthy-skepticism
 related_articles:
@@ -22,6 +22,5 @@ related_articles:
     source: "The Examiner"
     link: "http://www.examiner.com/article/anti-vaccine-truthers-are-using-pseudoscience-to-put-innocent-lives-at-risk"
 published: true
-slug: related-coverage-for-vaccines-an-unhealthy-skepticism
 ---
 

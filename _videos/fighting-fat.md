@@ -17,7 +17,6 @@ description: "Thirty-five years after the first dietary guidelines, how much do 
 appearance: light-text
 tweet: "35 yrs after the 1st dietary guidelines, how much do we know about the science of a healthy diet?"
 featured_image_path: /uploads/1451867883955_37456_1_retro-diets.jpg
-slug: fighting-fat
 ---
 
 In the 1960s and 1970s, doctors pointed to two likely culprits for the country’s heart disease epidemic: dietary fat and cholesterol. Much of the country tried to avoid fat at all costs. But did the low-fat recommendation help or hurt? And why is nutrition still so controversial?

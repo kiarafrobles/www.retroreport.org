@@ -14,7 +14,6 @@ description: "On a cold March night in 1989, the tanker Exxon Valdez ran aground
 appearance: light-text
 tweet: "Decades after the Exxon Valdez ran aground, the jury is still out on just what we have learned: "
 featured_image_path: /uploads/1422556638081_457364992_1280.jpg
-slug: exxon-valdez-in-the-wake-of-disaster
 ---
 
 This week's Retro Report examines how the spill happened and follows its impact. Using archival footage and interviews with those involved, including former Alaska Attorney General John Havelock and Riki Ott, a fisherman who became an environmental activist in the wake of the spill, the video explains how the focus on a reportedly intoxicated tanker captain obscured a far more complex set of safety failures that led to the spill.

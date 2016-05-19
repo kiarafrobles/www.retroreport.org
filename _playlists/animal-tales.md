@@ -10,5 +10,4 @@ videos:
   - wild-horse-wars
   - wolves-at-the-door
 type: playlists
-slug: animal-tales
 ---

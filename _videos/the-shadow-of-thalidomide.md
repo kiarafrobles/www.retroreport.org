@@ -17,7 +17,6 @@ description: "In the 1950s, thalidomide cut a wide swath of destruction across t
 appearance: dark-text
 tweet: "In the 1950s, thalidomide caused tons of deformities, but that was only the beginning of the story:"
 featured_image_path: /uploads/1422558080091_449539503_1280.jpg
-slug: the-shadow-of-thalidomide
 ---
 
 When it was introduced in Germany in the late 1950s, thalidomide was supposed to be something of a miracle drug: a completely safe sleeping pill that could also treat a range of ills. But after it spread across Europe and the rest of the world, this chemical farrago proved to be something far more sinister -- a poison of a sort, one that caused an untold number of spontaneous abortions and led to thousands of terribly deformed infants.

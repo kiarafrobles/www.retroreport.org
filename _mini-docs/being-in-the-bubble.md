@@ -15,5 +15,4 @@ description: "The curious origin of a political metaphor."
 appearance: dark-text
 tweet: "The curious origin of a political metaphor."
 featured_image_path: /uploads/1449787096592_lI8JEdGuI80CVnlr7fvAGC5OTUVV0nRNdM9OXKPY33tbgYQ1trIE6j2fxe4Me8rmRWQGt7oYTh07AMdcEPGGjuM3XThv-9A%3Ds1440
-slug: being-in-the-bubble
 ---

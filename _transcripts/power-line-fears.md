@@ -4,7 +4,6 @@ published: true
 date: 2014-12-01T02:00:00.000Z
 video: power-line-fears
 type: video
-slug: power-line-fears
 ---
 
 **POWER LINE FEARS**

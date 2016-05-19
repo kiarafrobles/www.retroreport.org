@@ -13,7 +13,6 @@ description: "After the 1993 murder of a California child, many states passed la
 appearance: light-text
 tweet: "Today's get-tough crime laws have raised a whole new set of problems -- with no easy answers:"
 featured_image_path: /uploads/1422556675886_456616501_1280.jpg
-slug: crime-and-punishment-three-strikes-and-youre-out
 ---
 
 This week’s Retro Report video is a story of how personal tragedy led to what has been called one of the harshest criminal laws in the country. California’s Three Strikes law was meant to lock up the most violent repeat offenders for 25 years to life, but was almost immediately embroiled in controversy.

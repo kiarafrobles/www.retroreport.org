@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for The Shadow of Thalidomide"
+title: "The Shadow of Thalidomide"
 #date: 2015-08-19T20:17:00.000Z
 video: the-shadow-of-thalidomide
 related_articles:
@@ -16,6 +16,5 @@ related_articles:
     source: "Reddit"
     link: "https://www.reddit.com/r/Documentaries/comments/3hlc7e/the_shadow_of_the_thalidomide_tragedy_2013/"
 published: true
-slug: related-coverage-for-the-shadow-of-thalidomide
 ---
 

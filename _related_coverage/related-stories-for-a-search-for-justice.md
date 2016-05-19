@@ -16,6 +16,5 @@ related_articles:
     source: "Commonweal Magazine"
     link: "https://www.commonwealmagazine.org/blog/four-churchwomen-and-their-killers-nearly-thirty-five-years-later"
 published: true
-slug: related-stories-for-a-search-for-justice
 ---
 

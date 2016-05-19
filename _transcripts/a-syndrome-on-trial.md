@@ -4,7 +4,6 @@ published: true
 date: 2015-09-14T00:00:00.000Z
 video: a-syndrome-on-trial
 type: video
-slug: a-syndrome-on-trial
 ---
 
 **A SYNDROME ON TRIAL**

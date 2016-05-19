@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for Bush v. Gore"
+title: "Bush v. Gore"
 #date: 2016-02-23T20:40:00.000Z
 video: after-bush-v-gore
 related_articles:
@@ -13,6 +13,5 @@ related_articles:
     source: "TIME"
     link: "http://time.com/4233561/what-to-watch-at-the-nevada-caucuses/"
 published: true
-slug: related-coverage-for-bush-v-gore
 ---
 

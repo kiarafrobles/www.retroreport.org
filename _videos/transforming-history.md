@@ -18,7 +18,6 @@ appearance: light-text
 tweet: "Transgender issues today are rooted in a decades-long struggle for inclusion."
 featured_image_path: /uploads/1434339107641_retro-transgender.jpg
 show_related_report_on_video_page: true
-slug: transforming-history
 ---
 
 The transgender community’s fight for rights took shape in the 1960s, and included a little-known uprising at Gene Compton’s all-night cafeteria in San Francisco, then continued in New York City, thanks to the determined activism of Sylvia Rivera and others, in the wake of the riot at the Stonewall Inn.

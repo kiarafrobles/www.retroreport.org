@@ -9,5 +9,4 @@ videos:
   - the-superpredator-scare
   - crime-and-punishment-three-strikes-and-youre-out
 type: playlists
-slug: race-in-america
 ---

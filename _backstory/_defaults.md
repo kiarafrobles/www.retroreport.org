@@ -1,9 +1,7 @@
 ---
 title:
-published: false
+published: true
 date: 2016-01-01T12:00:00.000Z
-embed:
-backstory_type:
 video:
 related_articles:
  - article:
@@ -11,5 +9,3 @@ related_articles:
     source:
     link:
 ---
-article title
-article source and link

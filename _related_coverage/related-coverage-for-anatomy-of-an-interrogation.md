@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for Anatomy of an Interrogation"
+title: "Anatomy of an Interrogation"
 #date: 2015-06-05T21:08:00.000Z
 video: anatomy-of-an-interrogation
 related_articles:
@@ -13,6 +13,5 @@ related_articles:
     source: "Nashville Scene"
     link: "http://www.nashvillescene.com/pitw/archives/2015/04/20/here-is-how-belmonts-alberto-gonzales-defines-torture"
 published: true
-slug: related-coverage-for-anatomy-of-an-interrogation
 ---
 

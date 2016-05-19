@@ -4,7 +4,6 @@ published: true
 date: 2014-11-24T02:00:00.000Z
 video: sybil-a-brilliant-hysteric
 type: video
-slug: sybil-a-brilliant-hysteric
 ---
 
 **A BRILLIANT HYSTERIC?**

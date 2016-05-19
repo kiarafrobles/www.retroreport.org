@@ -14,7 +14,6 @@ description: "In 2003, a blackout crippled areas of the U.S. and Canada, leaving
 appearance: light-text
 tweet: "Years after a blackout crippled the US, we're still grappling with the vulnerability of our grid:"
 featured_image_path: /uploads/1422556806404_454538970_1280.jpg
-slug: the-day-the-lights-went-out
 ---
 
 On a late Thursday afternoon in the summer of 2003, everything turned off. In the span of a few minutes, the biggest power outage in U.S. history brought swaths of the Northeast, the Midwest and Canada to a standstill.

@@ -15,7 +15,6 @@ description: "On March 8, 1971, a group of eight Vietnam War protestors broke in
 appearance: light-text
 tweet: "The most important heist you've never heard of: "
 featured_image_path: /uploads/1422556567980_460034724_1280.jpg
-slug: stealing-j-edgar-hoovers-secrets
 ---
 
 The stolen memos, reports and internal correspondence provided the first tangible evidence that J. Edgar Hoover's FBI was systematically targeting and harassing hundreds of American citizens then known collectively as “the New Left."

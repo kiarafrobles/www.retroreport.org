@@ -13,7 +13,6 @@ description: "In the wake of the 1993 hit movie Free Willy, activists and fans c
 appearance: light-text
 tweet: "The release of Keiko, the killer whale from Free Willy, was more dramatic than any Hollywood film:"
 featured_image_path: /uploads/1422558121174_448904658_1280.jpg
-slug: freeing-willy
 ---
 
 In the summer of 1993, “[Free Willy](http://en.wikipedia.org/wiki/Free_Willy)” thrilled moviegoers with the tale of a 12-year-old boy who returns a captive, performing killer whale to the wild. But when activists and fans campaigned to free the real whale that played Willy, the story got complicated.

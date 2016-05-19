@@ -4,7 +4,6 @@ published: true
 date: 2015-11-09T01:00:00.000Z
 video: blood-and-sport
 type: video
-slug: blood-and-sport
 ---
 
 **Blood and Sport**

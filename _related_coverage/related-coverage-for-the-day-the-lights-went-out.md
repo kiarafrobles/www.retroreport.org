@@ -7,6 +7,5 @@ related_articles:
     source: "The New York Times"
     link: "http://www.nytimes.com/2013/11/11/booming/the-blackout-that-exposed-the-flaws-in-the-grid.html?_r=0"
 published: true
-slug: related-coverage-for-the-day-the-lights-went-out
 ---
 

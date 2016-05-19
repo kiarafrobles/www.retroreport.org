@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for Biosphere 2"
+title: "Biosphere 2"
 #date: 2015-08-20T19:49:00.000Z
 video: biosphere-2-an-american-space-odyssey
 related_articles:
@@ -16,6 +16,5 @@ related_articles:
     source: "Curiosity"
     link: "https://curiosity.com/paths/biosphere-2-an-american-space-odyssey-retro-report-the-new-york-times-the-new-york-times/#biosphere-2-an-american-space-odyssey-retro-report-the-new-york-times-the-new-york-times"
 published: true
-slug: related-coverage-for-biosphere-2
 ---
 

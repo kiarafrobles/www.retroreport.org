@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for The Boy in the Bubble"
+title: "The Boy in the Bubble"
 #date: 2015-12-07T16:55:00.000Z
 video: the-boy-in-the-bubble
 related_articles:
@@ -25,6 +25,5 @@ related_articles:
     source: "Kottke"
     link: "http://kottke.org/15/12/the-boy-in-the-bubble"
 published: true
-slug: related-coverage-for-the-boy-in-the-bubble
 ---
 

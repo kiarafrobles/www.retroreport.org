@@ -17,7 +17,6 @@ description: "In 1997, a young British nanny charged with murder brought shaken 
 appearance: light-text
 tweet: "Why the debate surrounding Shaken Baby Syndrome is playing out in courtrooms across the country."
 featured_image_path: /uploads/1442157174427_35418_1_retro-shakenbaby.jpg
-slug: a-syndrome-on-trial
 ---
 
 Louise Woodward was charged with shaking a baby in her care to death, and the subsequent trial in Boston dominated the headlines for months, focusing attention on a little known diagnosis called shaken baby syndrome, now referred to as abusive head trauma.

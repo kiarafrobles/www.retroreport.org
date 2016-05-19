@@ -10,6 +10,5 @@ related_articles:
     source: "NPR's The Takeaway"
     link: "http://www.thetakeaway.org/story/the-takeaway-2014-03-17/"
 published: true
-slug: related-coverage-for-fly-wars-battling-the-medfly
 ---
 

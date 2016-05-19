@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for Chasing Outbreaks"
+title: "Chasing Outbreaks"
 #date: 2015-05-14T16:37:00.000Z
 video: chasing-outbreaks-how-safe-is-our-food
 related_articles:
@@ -16,7 +16,6 @@ related_articles:
     source: "Takepart.com"
     link: "http://www.takepart.com/article/2015/05/11/jack-box-e-coli"
 published: true
-slug: related-coverage-for-chasing-outbreaks
 ---
 
 ---

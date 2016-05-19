@@ -23,7 +23,6 @@ description: "When baseball star Curt Flood rejected a trade in 1969, he challen
 appearance: light-text
 tweet: "When baseballer Curt Flood rejected a trade in 1969, he sparked a movement beyond the game."
 featured_image_path: /uploads/1422558883261_491653066_1280.jpg
-slug: curt-flood-rebel-without-a-clause
 ---
 
 On the morning of October 8, 1969, just days after the end of a disappointing season for the St. Louis Cardinals, Curt Flood's phone rang.

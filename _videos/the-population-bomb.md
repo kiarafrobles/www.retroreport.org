@@ -18,7 +18,6 @@ description: "In the 1960s, fears of overpopulation sparked campaigns for popula
 appearance: light-text
 tweet: "In the 1960s America was worried the planet was doomed due to overpopulation. So what happened? "
 featured_image_path: /uploads/1433121424331_33722_1_retro-population-1600x900.jpg
-slug: the-population-bomb
 ---
 
 In 1968, the release of Paul Ehrlich's best-selling book _The Population Bomb_ and his multiple appearances on the “Tonight Show" helped spread fears that our planet could not sustain itself. Population concerns were already percolating, and Americans soon flocked to Ehrlich's movement, Zero Population Growth, whose mantra on children was “stop at two."

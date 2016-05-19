@@ -15,5 +15,4 @@ description: "Dungeons and Dragons co-creator Gary Gygax's son explains what lif
 appearance: light-text
 tweet:
 featured_image_path: /uploads/1462289986118_Screen%20Shot%202016-05-03%20at%2011.39.16%20AM.png
-slug: growing-up-gygax
 ---

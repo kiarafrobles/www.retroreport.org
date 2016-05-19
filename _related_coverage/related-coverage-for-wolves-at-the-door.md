@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for Wolves At The Door"
+title: "Wolves At The Door"
 #date: 2015-07-28T16:44:00.000Z
 video: wolves-at-the-door
 related_articles:
@@ -16,6 +16,5 @@ related_articles:
     source: "Outside Television"
     link: "http://www.outsidetelevision.com/video/wolves-door-retro-report-new-york-times"
 published: true
-slug: related-coverage-for-wolves-at-the-door
 ---
 

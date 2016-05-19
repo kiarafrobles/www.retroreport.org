@@ -15,7 +15,6 @@ description: "Six days after 9/11, the FBI’s raid on a Detroit sleeper cell si
 appearance: light-text
 tweet: "Despite a celebrated conviction of a Detroit sleeper cell, there was one major problem..."
 featured_image_path: /uploads/1422556751443_455248027_1280.jpg
-slug: the-sleeper-cell-that-wasnt
 ---
 
 This week’s Retro Report video tells the story of the “Detroit Sleeper Cell,” the first terrorism trial after 9/11. It began six days after September 11th, when FBI agents tracking a suspected terrorist raided a Detroit house and stumbled upon three North African immigrants living in the apartment upstairs. The man the FBI was looking for had moved out. But a sweep of the apartment revealed something suspicious — two old airport badges and fake identity documents.

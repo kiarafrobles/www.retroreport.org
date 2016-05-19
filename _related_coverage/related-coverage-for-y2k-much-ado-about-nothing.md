@@ -1,5 +1,5 @@
 ---
-title: "Related coverage for Y2K: Much Ado About Nothing?"
+title: "Y2K: Much Ado About Nothing?"
 #date: 2015-08-20T21:09:00.000Z
 video: y2k-much-ado-about-nothing
 related_articles:
@@ -10,6 +10,5 @@ related_articles:
     source: "Snopes"
     link: "http://message.snopes.com/showthread.php?t=87054"
 published: true
-slug: related-coverage-for-y2k-much-ado-about-nothing
 ---
 

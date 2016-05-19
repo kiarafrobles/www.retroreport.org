@@ -4,7 +4,6 @@ published: true
 date: 2015-08-27T01:00:00.000Z
 video: curt-flood-rebel-without-a-clause
 type: video
-slug: curt-flood-rebel-without-a-clause
 ---
 
 **CURT FLOOD: REBEL WITHOUT A CLAUSE**

@@ -13,7 +13,6 @@ description: "In the summer of 1981, the Mediterranean fruit fly spread through 
 appearance: light-text
 tweet: "The Medfly once threatened California's $14 billion agricultural crop, but now tactics have changed"
 featured_image_path: /uploads/1422556399172_467771002_1280.jpg
-slug: fly-wars-battling-the-medfly
 ---
 
 But it would take more than conventional tools to defeat this bug. A massive ground eradication program failed to stop the Medfly, and a plan to spray pesticides from the air sparked angry protests and led Governor Jerry Brown into a dramatic showdown with the Reagan administration.
