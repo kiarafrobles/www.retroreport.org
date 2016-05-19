@@ -1,7 +1,6 @@
 ---
 title: "Related coverage for A Right to Die?"
 video: a-right-to-die
-lead_copy:
 related_articles:
   - headline: "Stigma Around Physician-Assisted Dying Lingers"
     source: "The New York Times"
@@ -15,7 +14,7 @@ related_articles:
   - headline: "Aid in Dying"
     source: "Huffington Post"
     link: "http://www.huffingtonpost.com/jane-gross/aid-in-dying_b_6925958.html"
-date: 2016-04-15T15:07:00.000Z
+publish_date: 2016-04-15T15:07:00.000Z
 published: true
 slug: related-coverage-for-a-right-to-die
 ---

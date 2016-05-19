@@ -110,6 +110,7 @@ collections:
     permalink: '/news/:path/'
   landing_pages:
     output: true
+    permalink: '/:path/'
   mini-docs:
     output: true
   playlists:
@@ -159,11 +160,10 @@ defaults:
     values:
       layout: 'listing-blog-posts'
   - scope:
-      path: '_landing_pages'
-      type: 'pages'
+      path: ''
+      type: 'landing_pages'
     values:
       layout: 'page'
-      permalink: '/:basename/'
   - scope:
       path: ''
       type: 'playlists'

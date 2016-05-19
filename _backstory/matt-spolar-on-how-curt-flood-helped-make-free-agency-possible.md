@@ -1,14 +1,12 @@
 ---
 title: "Matt Spolar on how Curt Flood helped make free agency possible"
 video: curt-flood-rebel-without-a-clause
-lead_copy:
 related_articles:
   - headline: "MLB Player Curt Flood Paved the Way for Free Agency"
     source: "NPR's The Takeaway"
     link: "http://www.thetakeaway.org/story/retro-report-curtis-floods-mlb-legacy/"
-date: 2014-10-05T20:10:00.000Z
+publish_date: 2014-10-05T20:10:00.000Z
 published: true
 slug: matt-spolar-on-how-curt-flood-helped-make-free-agency-possible
 ---
-<iframe width="600" height="130" frameborder="0" scrolling="no" src="https://www.wnyc.org/widgets/ondemand_player/takeaway/#file=%2Faudio%2Fxspf%2F404126%2F"></iframe>
 

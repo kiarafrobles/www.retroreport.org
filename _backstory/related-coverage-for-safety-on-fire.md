@@ -1,7 +1,6 @@
 ---
 title: "Related coverage for Safety on Fire"
 video: safety-on-fire
-lead_copy:
 related_articles:
   - headline: "A Flame Retardant That Came With Its Own Threat to Health"
     source: "The New York Times"
@@ -12,7 +11,7 @@ related_articles:
   - headline: "We Live With 80,000 Untested Chemicals in Consumer Products"
     source: "Gizmodo"
     link: "http://gizmodo.com/we-live-with-80-000-untested-chemicals-thanks-to-corpor-1702009031"
-date: 2015-06-05T21:00:00.000Z
+publish_date: 2015-06-05T21:00:00.000Z
 published: true
 slug: related-coverage-for-safety-on-fire
 ---

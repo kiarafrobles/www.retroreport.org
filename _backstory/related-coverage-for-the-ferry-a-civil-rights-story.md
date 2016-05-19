@@ -1,7 +1,6 @@
 ---
 title: "Related Coverage for The Ferry: A Civil Rights Story"
 video: the-ferry-a-civil-rights-story
-lead_copy:
 related_articles:
   - headline: "Martin Luther King’s Call for Voting Rights Inspired Isolated Hamlet"
     source: "The New York Times"
@@ -12,7 +11,7 @@ related_articles:
   - headline: "View A Couple Of Videos From The Selma 50th Bloody Sunday Anniversary"
     source: "Geek Alabama"
     link: "http://geekalabama.com/2015/03/10/view-a-couple-of-videos-from-the-selma-50th-bloody-sunday-anniversary/"
-date: 2015-06-10T03:18:00.000Z
+publish_date: 2015-06-10T03:18:00.000Z
 published: true
 slug: related-coverage-for-the-ferry-a-civil-rights-story
 ---
