@@ -67,17 +67,16 @@ includes_dir: ./_app/_includes
 
 # PLUGINS
 gems:
-  - jekyll/imgix
   - jekyll-seo-tag
   - jekyll-paginate
 
 # - html-proofer
  #- jekyll-lunr-js-search
  #- jekyll-sitemap
-jekyll_get:
-  data: news
-  json: 'https://www.googleapis.com/youtube/v3/channels?part=contentDetails&id=UCBh_GM0xQZQRKSU0ZiVbqdg&maxResults=20&key=AIzaSyAlplT_aNA27yyAboWZZXP_2fEX8tOPAoo'
-  cache: true
+# jekyll_get:
+#   data: news
+#   json: 'https://www.googleapis.com/youtube/v3/channels?part=contentDetails&id=UCBh_GM0xQZQRKSU0ZiVbqdg&maxResults=20&key=AIzaSyAlplT_aNA27yyAboWZZXP_2fEX8tOPAoo'
+#   cache: true
 
 
 paginate: 12

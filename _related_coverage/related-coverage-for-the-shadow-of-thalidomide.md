@@ -2,21 +2,26 @@
 title: "Related coverage for The Shadow of Thalidomide"
 published: true
 date: 2015-08-19T20:17:00.000Z
-backstory_type: related coverage
+lead_copy:
 video: the-shadow-of-thalidomide
-type: backstories
+related_articles:
+  - article:
+    headline: "The Death and Afterlife of Thalidomide"
+    source: "The New York Times"
+    link:"http://www.nytimes.com/2013/09/23/booming/the-death-and-afterlife-of-thalidomide.html?ref=booming&_r=0"
+  - article:
+    headline: "Retro Report Looks At the Afterlife of Thalidomide"
+    source: "National Geographic"
+    link:"http://phenomena.nationalgeographic.com/2013/09/23/retro-report-looks-at-the-afterlife-of-thalidomide/"
+  - article:
+    headline: "Kit Roane: “The Shadow of Thalidomide”"
+    source: "Chris Riback's Conversations with Thinkers"
+    link:"http://chrisriback.com/2013/09/27/retro-reports-kit-roane-the-shadow-of-thalidomide/"
+  - article:
+    headline: "The Shadow of the Thalidomide Tragedy"
+    source: "Reddit"
+    link:"https://www.reddit.com/r/Documentaries/comments/3hlc7e/the_shadow_of_the_thalidomide_tragedy_2013/"
+hide_content: true
 slug: related-coverage-for-the-shadow-of-thalidomide
 ---
-
-**The Death and Afterlife of Thalidomide**
-[The New York Times](http://www.nytimes.com/2013/09/23/booming/the-death-and-afterlife-of-thalidomide.html?ref=booming&_r=0)
-
-**Retro Report Looks At the Afterlife of Thalidomide**
-[National Geographic](http://phenomena.nationalgeographic.com/2013/09/23/retro-report-looks-at-the-afterlife-of-thalidomide/)
-
-**Kit Roane: “The Shadow of Thalidomide”**
-[Chris Riback's Conversations with Thinkers](http://chrisriback.com/2013/09/27/retro-reports-kit-roane-the-shadow-of-thalidomide/)
-
-**The Shadow of the Thalidomide Tragedy**
-[Reddit](https://www.reddit.com/r/Documentaries/comments/3hlc7e/the_shadow_of_the_thalidomide_tragedy_2013/)
 

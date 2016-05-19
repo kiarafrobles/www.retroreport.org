@@ -12,3 +12,4 @@ A starter theme for Jekyll.
 
 history
 - add categories to blog
+| imgix_url: w: 400, h: 300

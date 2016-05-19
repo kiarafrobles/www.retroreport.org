@@ -2,22 +2,27 @@
 title: "Related coverage for Chasing Outbreaks"
 published: true
 date: 2015-05-14T16:37:00.000Z
-backstory_type: related coverage
+lead_copy:
 video: chasing-outbreaks-how-safe-is-our-food
-type: backstories
+related_articles:
+  - article:
+    headline: "Action and Dysfunction in the U.S. Food-Safety Effort"
+    source: "The New York Times"
+    link:"http://www.nytimes.com/2015/05/11/us/action-and-dysfunction-in-the-us-food-safety-effort.html"
+  - article:
+    headline: "America's Food Safety Issues Will Make Your Stomach Turn"
+    source: "Gizmodo"
+    link:"http://gizmodo.com/americas-horrible-food-safety-system-will-make-your-sto-1703729069"
+  - article:
+    headline: "Inside the Fast-Food Scandal That Changed How Beef Is Regulated"
+    source: "Frontline"
+    link:"http://www.pbs.org/wgbh/pages/frontline/health-science-technology/trouble-with-chicken/inside-the-fast-food-scandal-that-changed-how-beef-is-regulated/"
+  - article:
+    headline: "Remembering the Days When Fast-Food Burgers Could Be Deadly"
+    source: "Takepart.com"
+    link:"http://www.takepart.com/article/2015/05/11/jack-box-e-coli"
+hide_content: true
 slug: related-coverage-for-chasing-outbreaks
 ---
-
-**Action and Dysfunction in the U.S. Food-Safety Effort**
-[The New York Times](http://www.nytimes.com/2015/05/11/us/action-and-dysfunction-in-the-us-food-safety-effort.html)
-
-**America's Food Safety Issues Will Make Your Stomach Turn**
-[Gizmodo](http://gizmodo.com/americas-horrible-food-safety-system-will-make-your-sto-1703729069)
-
-**Inside the Fast-Food Scandal That Changed How Beef Is Regulated**
-[Frontline](http://www.pbs.org/wgbh/pages/frontline/health-science-technology/trouble-with-chicken/inside-the-fast-food-scandal-that-changed-how-beef-is-regulated/)
-
-**Remembering the Days When Fast-Food Burgers Could Be Deadly**
-[Takepart.com](http://www.takepart.com/article/2015/05/11/jack-box-e-coli)
 
 ---
