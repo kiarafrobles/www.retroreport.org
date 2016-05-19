@@ -108,7 +108,7 @@ collections:
   article-topics:
     output: true
     permalink: '/news/:path/'
-  landging_pages:
+  landing_pages:
     output: true
   mini-docs:
     output: true
