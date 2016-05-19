@@ -17,5 +17,6 @@ related_articles:
     source: "LinkedIn"
     link: "https://www.linkedin.com/pulse/story-artificial-heart-gives-new-meaning-being-bleeding-tammy-sachs?trk=hp-feed-article-title-like"
 published: true
+hide_content: true
 ---
 
