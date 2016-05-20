@@ -7,17 +7,23 @@ layout: default
 {% assign related_video    = site.documents | where: 'collection', 'videos'    | where: 'slug'  , page.video %}
 {% assign related_mini_doc = site.documents | where: 'collection', 'mini-docs' | where: 'video' , page.slug %}
 {% assign related_transcript = site.documents | where: 'collection', 'transcripts' | where: 'video' , page.slug %}
+{% assign backstory = site.backstory | where: 'video', page.slug | sort: 'publish_date', 'last' %}    
+{% assign related_coverage = site.related_coverage | where: 'video', page.slug  | sort: 'publish_date', 'last'  %}
+{% if backstory.size > 0 or related_coverage.size > 0 %}
+  {% assign related_coverage_or_backstory = true %}
+{% endif %}
 
 {% include video/hero-video.html %}
 
 <div id="content" class="has-layout">    
 
-  <article class="{% if page.collection == 'mini-docs' %}hentry{% else %}layout-copy{% endif %}" data-search-index="true">    
+  <article class="{% if related_coverage_or_backstory != true %}hentry{% else %}layout-copy{% endif %}" data-search-index="true">    
 
       <div id="entry-content" class="entry-content prose">
         
         {% include page-header.html %}
-        {% include components/featured-image.html %}
+        {% assign featured_image = page.featured_image_path | imgix_url: w: 700 %}
+          <img src="{{ featured_image }}">
         {{ content | markdownify }}
         
         {% if page.video_source[0].video_released_at %}
@@ -49,58 +55,61 @@ layout: default
 
     </article>
       
-
-    {% assign backstory = site.backstory | where: 'video', page.slug | sort: 'publish_date', 'last' %}    
-    {% assign related_coverage = site.related_coverage | where: 'video', page.slug  | sort: 'publish_date', 'last'  %}
-
-    {% if backstory or related_coverage %}
+    {% if related_coverage_or_backstory %}
       <aside class="sidebar sidebar-right-large">
         <h3 id="more-on-the-story">More on the Story</h3>
-        {% for object in backstory %}
-          
-          {% include video/more-on-the-story.html %}
-          
+        {% for object in backstory %}          
+          {% include video/more-on-the-story.html %}          
          {% endfor %}
 
-         {% for object in related_coverage %}
-            
-          {% include video/more-on-the-story.html %}
-          
+         {% for object in related_coverage %}            
+          {% include video/more-on-the-story.html %}          
          {% endfor %}
       </aside>
     {% endif %}
    
 
-
-
-   <!-- include components/page-bottom.html %} -->
-
 </div>
 
- {% comment %}<!--   
+ 
 
-  {% if  item.reports_related_video %}
+  {% if  page.reports_related_video %}
+  <!-- TODO: Include Reports -->
     {% if item.show_related_report_on_video_page %}
-      set reports = item.reports_related_video 
-      {% include "templates/partials/video-related-report-display.html" %}
+      <!-- set reports = item.reports_related_video  -->
+      <!--  include "templates/partials/video-related-report-display.html" %} -->
     {% endif %}
   {% endif %}
 
-  set related_voices_video = related_voices_video|sort('release_date') %}
-    {% if related_voices_video %}
-      <div id="related_videos" class="centered-content">
-        {% for object in related_voices_video %}
-          <div style="margin-bottom:4em;">
-            {% include "templates/partials/video-related-video.html" %}
+  
+  {% if related_mini_doc.size > 0 %}
+    <div id="related_videos" class="centered-content">
+      {% for object in related_mini_doc %}
+        <div style="margin-bottom:4em;">
+          <h5>
+            <a href="{{ object.url }}">
+              {{ object.title }}
+            </a>
+          </h5>
+          <div class="embed-container">
+            {% assign source = object.video_source[0] %}
+            {% include video/embed.html %}
           </div>
-        {% endfor %}
-      </div>
-    {% endif %}
+            {% if object.description %}
+              {{ object.description | markdownify }}
+            {% endif %}
+          <div class="addthis_sharing_toolbox" data-url="{{ site.url }}{{ object.url }}" data-title="{{ object.name }}" style="margin-top:1em;display:inline-block !important;width:100% !important;clear:both !important;">              
+          </div>
+        
+          {{ object.tagline }}
 
-{% endblock %}
-{% block content_bottom %}
-  {% parent %}
-  {% include "templates/partials/video-paginate.html" %}
-{% endblock %}
+        </div>
+      {% endfor %}
+    </div>
+  {% endif %}
 
--->{% endcomment %}
+{% include components/page-bottom.html %} 
+
+
+
+{% include video/paginate.html %} 

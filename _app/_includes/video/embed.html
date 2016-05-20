@@ -2,31 +2,17 @@
 
 {% if source.video_provider == 'youtube' %}
 
-
-
-
 http://www.youtube.com/embed/{{ source.video_id }}?enablejsapi=1&autoplay=0&controls=1&showinfo=0&rel=0"
 
 {% else %}
 
-//player.vimeo.com/video/{{ source.video_id }}
-
-
-?api=1&player_id=player1&color=111&badge=0&autoplay=0
+//player.vimeo.com/video/{{ source.video_id }}?api=1&player_id=player1&color=111&badge=0&autoplay=0
 
 {% endif %}
 
-
-
-
-
 " 
-
-
 width="1200" height="675" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder="0">
   
-
-
 </iframe>
    {% comment %}<!-- 
 http://www.youtube.com/embed/{{ source.video_id }}?enablejsapi=1&autoplay=0&controls=1&showinfo=0&rel=0"

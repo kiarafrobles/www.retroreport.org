@@ -1,0 +1,47 @@
+<div class="pagination-visual" data-search-index="false">  
+  {% if related_video.size > 0 %}     
+
+    {% assign background_image = related_video[0].featured_image_path | imgix_url: w: 1200, blur: 10 %}
+    {% assign title = related_video[0].title %}
+    {% assign url = related_video[0].url %}
+    
+    {% include components/link-image-with-background.html %}
+
+  {% else %}   
+
+    {% if page.previous %}
+    
+      {% assign background_image = page.previous.featured_image_path | imgix_url: w: 600, blur: 10 %}
+      {% assign title = page.previous.title %}
+      {% assign url = page.previous.url %}
+
+      {% include components/link-image-with-background.html %}
+  
+    {% endif %}
+  
+    {% if page.next %}
+  
+      {% assign background_image = page.next.featured_image_path | imgix_url: w: 600, blur: 10 %}
+      {% assign title = page.next.title %}
+      {% assign url = page.next.url %}
+    
+      {% include components/link-image-with-background.html %}
+  
+    {% endif %}
+
+  {% endif %}
+
+</div>
+
+
+
+<script>
+  document.body.onkeyup = function(e){
+    {% if page.previous %}
+      if (e.keyCode == '37') { window.location = '{{ page.previous.url }}'; }
+    {% endif %}
+    {% if page.next %}
+      if (e.keyCode == '39') { window.location = '{{ page.next.url }}'; }
+    {% endif %}
+  };
+</script>

@@ -1,3 +1,7 @@
+{% comment %}
+<!-- deprecate? -->
+{% endcomment %}
+
 {% if page.featured_image_path %}
-  <img src="{% if site.image_url %}{{ site.image_url }}{% endif %}{{ page.featured_image_path }}?exp=1">
+  <img src="{% if site.image_url %}{{ site.image_url }}{% endif %}{{ page.featured_image_path }}?exp=1" style="max-width:100%;">
 {% endif %}
