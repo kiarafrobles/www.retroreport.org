@@ -5,6 +5,7 @@
 - improved list handling (...and, and serial commas)
 - update video library to be more useful (and pave the way for more features)
 - improved page layout for videos where there are not yet any related coverage or backstories.
+- changed styling of donate button.
 
 performance improvements:
  - serve all images from a CDN
@@ -18,7 +19,11 @@ security improvements:
 
 
 todo:
+  - add awards page
  - Include Reports on video page
  - improve youtube video loading jank/time
  - review images from imigix and see if we can improve speed with quality/size, etc.
  - if there are more than one mini-docs related to a video, each mini-doc page should show them all. (this might just be a related video function)
+
+ todo, low priority
+ - fix issue where the side menu on staff pages bonks the video grid

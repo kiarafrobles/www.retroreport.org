@@ -75,13 +75,12 @@
     }
 
     p {
-      padding: 0 2em 3em 2em;
+      padding: 0 2em 1em 2em;
       color: #111;//transparentize($flex-box-color, 0.1);
       line-height: 1.5em;
       margin: auto;
       font-size: .9rem;
       //visibility: hidden;
-
     }
 
     i {
@@ -92,7 +91,6 @@
     &:hover {
       //@include transition (all 0.2s ease-in-out);
       background: darken($flex-box-background, 5%);//rgba(0,0,0,.89);
-
       p, i {
         visibility: visible;
         @include transition (all 0.2s ease-in-out);

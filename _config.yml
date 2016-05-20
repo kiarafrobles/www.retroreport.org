@@ -114,6 +114,7 @@ collections:
   mini-docs:
     output: true
     permalink: '/voices/:path/'
+    name: 'Mini Docs'
   playlists:
     output: true
   staff_members:
@@ -181,7 +182,7 @@ defaults:
       type: 'staff_members'
     values:
       layout: 'page'
-      page_category: staff
+      #page_category: staff
   - scope:
       path: ''
       type: 'topics'

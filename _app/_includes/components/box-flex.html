@@ -1,9 +1,9 @@
 {% assign image = object.featured_image_path | imgix_url: w: 400, txt:'Hello World!' %}
-
+{% assign collection = site.collections | where: 'label', object.collection | first  %}
 
 <a href="{{ object.url }}" class="flex-box">    
-
-    <div class="image-box">
+  
+  <div class="image-box">
     <img src="{{ image }}">
   </div>  
 
@@ -11,22 +11,24 @@
     {{ object.title | markdownify | remove: '<p>' | remove: '</p>' }}
   </h1>
  
-
-  {% if page.url == '/video/' %}
-    {% if object.collection == 'reports' %}
-      <h6 class="type">
-        {{ object.collection }}        
-      </h6>
-    {% endif %}
+  {% if object.collection == 'mini-docs' %}
+    <h6 class="type m0 light">
+      <small>
+        {{ collection.name }}
+      </small>
+    </h6>
   {% endif %}
+
   
   <span class="category hidden">
-    {{ object.topic  }}      
+    {{ object.topic  }} {{ object.staff_members[0] }} {{ object.staff_members[1] }}     
   </span>
   
-  <p class="description">
-    {{ object.description }}
-  </p> 
- 
+  <div class="description">
+    <p>
+      {{ object.description }}
+    </p>  
+</div>
+
  {% comment %}<!-- <span class="hidden related">{{ object.related_video.name }}</span>  -->{% endcomment %}
 </a>

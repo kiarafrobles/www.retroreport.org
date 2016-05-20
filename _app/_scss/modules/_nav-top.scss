@@ -157,21 +157,39 @@ header.navigation {
 
       &:focus,
       &:hover {
-
-        color: $navigation-color-hover;
+        color: $navigation-color-hover;        
       }
     }
 
 
   }
 
-  li.donate-button a{
+  // li.donate-button a{
+  //   background-color: $red;
+  //   &.hover {
+  //     background-color: $black;
+  //     color: $red;
+  //   }
+  // }
+
+  li a .donate-button {
     background-color: $red;
-    &.hover {
-      background-color: $black;
-      color: $red;
-    }
+    color: white;
+    padding:.25em .375em .125em .375em;
+    border-radius: 10%;
+    -webkit-box-shadow: 0 3px 4px 0 rgba(0,0,0,0.4);
+    box-shadow: 0 3px 4px 0 rgba(0,0,0,0.4);
+    @include transition (all .25s ease-out);
+    
   }
+   li a:hover .donate-button {
+      background-color: $black;
+      background-color: rgba(0,0,0,0.9);
+      
+      -webkit-box-shadow: 0 1px 0px 0 rgba(0,0,0,0.4);
+    box-shadow: 0 1px 0px 0 rgba(0,0,0,0.4);
+    }
+
   .active-nav-item a {
     //border-bottom: 1px solid $navigation-active-link-color;
     //padding-bottom: 3px;

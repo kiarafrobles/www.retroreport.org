@@ -17,6 +17,15 @@ layout: default
       </div>
     {% endif %}
     
+    {% assign related_video = site.documents | sort: 'date', 'last' | reverse%}
+    <div class="flex-boxes"> 
+      {% for object in related_video %}
+        {% if object.staff_members contains page.slug %}
+          {% include components/box-flex.html %}            
+        {% endif %}    
+      {% endfor %}
+    </div>
+    
     {% if page.include_content %}
       {% include {{ page.include_content }} %}
     {% endif %}
