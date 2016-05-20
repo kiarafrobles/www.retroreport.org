@@ -2,7 +2,7 @@
 title: Faces of Treatment
 published: true
 date: 2015-07-22T11:38:00.000Z
-category: Photo Essay
+report_type: Photo Essay
 tagline: ​​Photographs by Sarah Weiser​​​
 slideshow_path: /_data/slideshow-faces-of-heroin-copy.json
 featured_image_path: /uploads/1437495512888_SW_Retro_Addiction_008_cropped-1600.jpg

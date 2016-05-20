@@ -8,7 +8,7 @@ header.navigation {
     z-index: 9999;
   }
 
-  background-color: $navigation-background;
+  background-color: transparent;//$navigation-background;
   min-height: $navigation-height;
   width: 100%;
   z-index: 999;

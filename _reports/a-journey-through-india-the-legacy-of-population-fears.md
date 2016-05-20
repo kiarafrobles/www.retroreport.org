@@ -2,7 +2,7 @@
 title: "A Journey through India: The Legacy of Population Fears"
 published: true
 date: 2015-06-01T10:44:00.000Z
-category: Photo Essay
+report_type: Photo Essay
 description: "By 2030, India is poised to become the most populous nation in the world. The country\'s fertility rate has declined from an estimated 5.9 children per woman in the 1950s to 2.5 today. But concern about population persists in this country of 1.2 billion people, particularly in northern India where women on average are still having more children. "
 meta_copy_description: "Photographs by Sarah Weiser Photographs in Birth Control Today: Karla Torres / Human Rights Law Network This report was supported in part by the Pulitzer Center on Crisis Reporting "
 featured_image_path: /uploads/1432766247506_Weiser_India_001.jpg

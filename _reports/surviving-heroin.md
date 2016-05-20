@@ -2,7 +2,7 @@
 title: "Surviving Heroin"
 published: true
 date: 2015-11-23T13:13:00.000Z
-category: Photo Gallery
+report_type: Photo Gallery
 tagline: "After surviving four heroin overdoses, Heather Wetzel hopes she can stay clean for her daughter."
 description: "After surviving four heroin overdoses, Heather Wetzel hopes she can stay clean for her daughter. "
 featured_image_path: /uploads/1448284392174_Qlt2HWHQZGSiX9iUcEzE9g_7g0EVtn8VRla5m6NAVAOWzx3albaeAJ3XlaZxAO2CO0zN9z8ER6o9T6PxTEHsz5-X5E1kPtHqsA%3Dw1600

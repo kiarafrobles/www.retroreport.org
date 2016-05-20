@@ -6,6 +6,7 @@ video_source:
   - video_id: 0KhFJGEKcPs
     video_provider: youtube
     video_released_at:
+pulitzer_logo: true
 staff_members:
   - kit-roane
 topic: science-technology

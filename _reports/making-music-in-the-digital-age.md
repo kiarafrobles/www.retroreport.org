@@ -2,7 +2,7 @@
 title: "Making Music in the Digital Age"
 published: true
 date: 2014-12-15T18:44:00.000Z
-category: Multimedia Report
+report_type: Multimedia Report
 tagline: "In 1999, a file-sharing program created in a Boston dorm room sent shockwaves across the music industry and served notice that a major cultural shift was underway. Fifteen years later, four artists reflect on making music in the digital age."
 description: "In 1999, a file-sharing program created in a Boston dorm room sent shockwaves across the music industry and served notice that a major cultural shift was underway. Fifteen years later, four artists reflect on making music in the digital age. "
 featured_image_path: /uploads/1423145358420_napsters-extras-thumb.jpg

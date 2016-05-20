@@ -2,7 +2,7 @@
 title: "Lessons from the Nuclear Dream"
 published: true
 date: 2014-04-03T17:32:00.000Z
-category: Photo Gallery
+report_type: Photo Gallery
 tagline: "In March of 1979, the news of an accident at the nuclear power plant at Three Mile Island near Harrisburg, Pennsylvania sent reporters rushing to the scene, while some 140,000 residents eventually fled from surrounding towns in fear and confusion."
 description: "A photo essay by Sarah Weiser "
 featured_image_path: /uploads/1433178424203_SvwBvgwF05LPQIW_jhJejSClDFpPagk8WzcS6SLv76kuEZaSxDlMXFMVCh05CX_juac66vHJrgyJyVFYGdjncnS5qHYxgS_R%3Ds1200

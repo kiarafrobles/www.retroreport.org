@@ -2,7 +2,7 @@
 title: "Remembrance of a Massacre — El Mozote"
 published: true
 date: 2014-12-10T19:44:00.000Z
-category: Photo Gallery
+report_type: Photo Gallery
 tagline: "In January of 1982, in the midst of El Salvador's civil war, photographer Susan Meiselas and I clandestinely crossed the border from Honduras to begin a reporting assignment behind guerrilla lines. "
 description: "Photographs by Susan Meiselas / Magnum Photos Introduction by Raymond Bonner "
 featured_image_path: /uploads/1433178458331_JDNO-n9rakgF4pL0TAu9vOLB5muo879kQ-xXRhEGZewERJyBrol_Okw0Ot7KWLkRL8WW74pCbAZ1i1FqehcWXNioAA0NNxg%3Ds1600

@@ -1,6 +1,7 @@
 {% if page.page_category %}
     {% assign links = site.documents | where: 'page_category', page.page_category %}
-  {% endif %}
+    {% assign links = links | sort: 'last_name', 'last' %}
+{% endif %}
 
   {% if links %}
     <aside class="sidebar sidebar-right">

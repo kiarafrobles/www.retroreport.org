@@ -2,7 +2,7 @@
 title: "The Public Debate About Torture"
 published: true
 date: 2015-04-28T01:16:00.000Z
-category: Multimedia Report
+report_type: Multimedia Report
 description: "Poll graph created by Britney Dennison, Lisa Hale, Codi Hauka, and Peter W. Klein "
 meta_copy_description: " METHODOLOGY: The graph above was created with polling data gathered by the following institutions: Investor\'s Business Daily, The Christian Science Monitor, TIPP poll, Fox Broadcasting Company, ABC News, The Washington Post, Pew Research Center, CNN, USA Today, Gallup Poll, Public Agenda, Associated Press, Ipsos-Public Affairs, Harris Interactive, CBS News, New York Times Poll, Program on International Policy Attitudes, Globescan, Scripps Howard, Ohio University Poll, Center for American Progress, World Public Opinion, Public Religion Research Institute, National Opinion Research Center. Responses were taken for the following question as well as derivatives of the following question: How do you feel about the use of torture against suspected terrorists to obtain information about terrorism activities? The resulting data is a combination of those who answered in favor of or somewhat in favor of the use of torture during interrogations. "
 featured_image_path: /uploads/1430183646399_retro-report-torture-graph-2015-04-27d.jpg
