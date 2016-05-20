@@ -5,9 +5,9 @@ related_articles:
   - headline: "Chemicals in Your Popcorn?"
     source: "The New York Times"
     link: "http://www.nytimes.com/2015/06/04/opinion/nicholas-kristof-chemicals-in-your-popcorn.html?smid=tw-share"
-publish_date: 2015-06-04T21:55:00.000Z
+description: "Toxic chemicals called PFASs are in tons of everyday products -- even microwave popcorn bags. Here's some context on why regulating chemicals is so hard."
+date: 2015-06-04T21:55:00.000Z
 published: true
 slug: toxic-chemicals-called-pfass-are-in-many-everyday-products
 ---
-Toxic chemicals called PFASs are in tons of everyday products -- even microwave popcorn bags. Here's some context on why regulating chemicals is so hard.
 

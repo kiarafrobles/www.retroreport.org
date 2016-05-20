@@ -8,13 +8,11 @@ video_source:
     video_provider: youtube
     video_released_at:
 topic:
-description:
+description: The ancient strategy game of Go may have met its ultimate match in Google's AI.
 appearance: light-text
 tweet: "The ancient strategy game of Go may have met its ultimate match in Google's new AI."
 featured_image_path: /uploads/1457627758732_Go_Short_For_YT_2.jpg
 ---
-
-The ancient strategy game of Go may have met its ultimate match in Google's AI.
 
 The brain-taxing board game is a little like an Eastern version of chess, except many times more complex. It has millions of devotees in China, Korea and Japan. Many of them tuned in today to watch an artificial intelligence computer built by Google’s DeepMind beat the world champion, Lee Sedol, in the first of a five-game contest.
 

@@ -1,32 +1,106 @@
 ---
 layout: default
 ---
-{% if page.featured_image_path %}
-  {% include hero-video.html %}
-{% endif %}
-<div id="content">    
+{% assign source = page.video_source[0] %}
+{% assign related_reports = page.reports_related_video %}
+{% assign related_reports  = site.documents | where: 'collection', 'reports'   | where: 'video' , page.slug %}
+{% assign related_video    = site.documents | where: 'collection', 'videos'    | where: 'slug'  , page.video %}
+{% assign related_mini_doc = site.documents | where: 'collection', 'mini-docs' | where: 'video' , page.slug %}
+{% assign related_transcript = site.documents | where: 'collection', 'transcripts' | where: 'video' , page.slug %}
 
-  {% include page-links-sidebar.html %}
+{% include video/hero-video.html %}
 
-  <article class="hentry">
-    {% include components/page-header.html %}
+<div id="content" class="has-layout">    
 
-    {% if page.content != '' %}
+  <article class="{% if page.collection == 'mini-docs' %}hentry{% else %}layout-copy{% endif %}" data-search-index="true">    
+
       <div id="entry-content" class="entry-content prose">
+        
+        {% include page-header.html %}
+        {% include components/featured-image.html %}
         {{ content | markdownify }}
-      </div>
-    {% endif %}
-    
-    {% if page.include_content %}
-      {% include {{ page.include_content }} %}
-    {% endif %}
-  </article>
+        
+        {% if page.video_source[0].video_released_at %}
+          <p class="caption">
+            Original Release {{ page.video_source[0].video_released_at | date: '%B %e, %Y' }}
+          </p>
+        {% endif %}
+          
+        {% if related_reports.size > 0 %}          
+          <h5>
+            {% include video/related-report.html %}
+          </h5>
+        {% endif %} 
 
-  {% if page.include %}
-    <div class="has-layout">
-      {% include {{ page.include }} %}
-    </div>
+      </div>
+    
+
+      {% if related_mini_doc.size > 0 %}
+        <h5>
+          {% include video/related-clips.html %}
+        </h5>
+      {% endif %}
+
+
+      {% if related_video.size > 0 %}        
+        {% include video/mini-doc-related-video.html %}
+      {% endif %}
+
+
+    </article>
+      
+
+    {% assign backstory = site.backstory | where: 'video', page.slug | sort: 'publish_date', 'last' %}    
+    {% assign related_coverage = site.related_coverage | where: 'video', page.slug  | sort: 'publish_date', 'last'  %}
+
+    {% if backstory or related_coverage %}
+      <aside class="sidebar sidebar-right-large">
+        <h3 id="more-on-the-story">More on the Story</h3>
+        {% for object in backstory %}
+          
+          {% include video/more-on-the-story.html %}
+          
+         {% endfor %}
+
+         {% for object in related_coverage %}
+            
+          {% include video/more-on-the-story.html %}
+          
+         {% endfor %}
+      </aside>
+    {% endif %}
+   
+
+
+
+   <!-- include components/page-bottom.html %} -->
+
+</div>
+
+ {% comment %}<!--   
+
+  {% if  item.reports_related_video %}
+    {% if item.show_related_report_on_video_page %}
+      set reports = item.reports_related_video 
+      {% include "templates/partials/video-related-report-display.html" %}
+    {% endif %}
   {% endif %}
 
-  {% include components/page-bottom.html %}
-</div>
+  set related_voices_video = related_voices_video|sort('release_date') %}
+    {% if related_voices_video %}
+      <div id="related_videos" class="centered-content">
+        {% for object in related_voices_video %}
+          <div style="margin-bottom:4em;">
+            {% include "templates/partials/video-related-video.html" %}
+          </div>
+        {% endfor %}
+      </div>
+    {% endif %}
+
+{% endblock %}
+{% block content_bottom %}
+  {% parent %}
+  {% include "templates/partials/video-paginate.html" %}
+{% endblock %}
+
+-->{% endcomment %}

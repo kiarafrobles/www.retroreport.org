@@ -5,9 +5,9 @@ related_articles:
   - headline: "Bees may like neonicotinoids, but some may be harmed"
     source: "Science News"
     link: "https://www.sciencenews.org/article/bees-may-neonicotinoids-some-may-be-harmed"
-publish_date: 2015-04-27T13:31:00.000Z
+description: "A new study shows honeybees actually prefer nectar laced with the pesticide that's linked to their deaths. Their plight is a complicated one."
+date: 2015-04-27T13:31:00.000Z
 published: true
 slug: a-new-study-shows-honeybees-prefer-nectar-laced-with-pesticide
 ---
-A new study shows honeybees actually prefer nectar laced with the pesticide that's linked to their deaths. Their plight is a complicated one.
 

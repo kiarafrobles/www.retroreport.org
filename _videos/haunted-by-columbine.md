@@ -4,12 +4,13 @@ published: true
 date: 2015-09-28T00:00:00.000Z
 video_source:
   - video_id: npE9FKcG5hs
-    video_provider:
+    video_provider: youtube
     video_released_at: "2015-09-28T00:00:00.000Z"
     video_source_file: "https://www.dropbox.com/s/46yytr651d6fnxu/RR261_DOC_MASTER_09_25_2015_COLUMBINE-H264_1080p.mov?dl=0"
 staff_members:
   - erik-german
   - olivia-katrandjian
+  - bonnie-bertram
 topic: crime
 description: "The killing of twelve students and a teacher at Columbine High School in 1999 continues to shape how we view and understand school shootings today."
 appearance: light-text

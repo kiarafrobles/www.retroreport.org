@@ -5,9 +5,9 @@ related_articles:
   - headline: "Vaccine Issue Arises at Republican Debate, to Doctors’ Dismay"
     source: "The New York Times"
     link: "http://www.nytimes.com/2015/09/18/health/republican-presidential-debate-vaccines.html"
-publish_date: 2015-09-17T17:08:00.000Z
+description: "Donald Trump has once again linked vaccines to autism, despite hundreds of studies that show otherwise. Here's the backstory on how this issue came to be."
+date: 2015-09-17T17:08:00.000Z
 published: true
 slug: once-again-donald-trump-links-vaccines-to-autism
 ---
-Donald Trump has once again linked vaccines to autism, despite hundreds of studies that show otherwise. Here's the backstory on how this issue came to be.
 

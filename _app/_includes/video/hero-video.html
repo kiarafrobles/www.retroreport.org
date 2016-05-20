@@ -1,0 +1,93 @@
+
+<div class="hero gradient hero-video" style="background-color:#111;">
+
+   {% include global/nav-topbar.html %}    
+
+  <div class="hero-inner-video">
+
+    <div class="hero__vid"> {% comment %}<!-- LEFT side  -->{% endcomment %}   
+      {% if source.video_id %}
+        <div class="embed-container">
+           {% include video/embed.html %}
+        </div>
+      {% endif %}
+    </div>
+    
+    <div class="hero__info"> {% comment %}<!-- right side  -->{% endcomment %}
+    
+
+      <h1 class="entry-title">
+        {{ page.title }}
+      </h1>        
+
+
+      {% if page.description %}
+        <p class="appearance{% if page.appearance == 'light-text' %}__light{% endif %}">
+          {{ page.description | markdownify | remove: '<p>' | remove: '</p>'  }}
+        </p>
+      {% endif %}
+
+
+
+      {% if page.pulitzer_logo == true %}
+        <img src="/assets/images/pulitzer-center.png" alt="" style="max-width:247px;margin-top:1em;" />
+      {% endif %}
+
+
+      {% if related_reports.size > 0 %}          
+        <h5>
+          {% include video/related-report.html %}
+        </h5>
+      {% endif %} 
+
+
+
+      {% if related_video.size > 0 %}
+        {% include video/mini-doc-related-video.html %}
+      {% endif %}
+            
+
+
+      {% if related_mini_doc.size > 0 %}
+        <h5>
+          {% include video/related-clips.html %}
+        </h5>
+      {% endif %}
+
+      {% include components/addthis-sharing.html %}
+
+    </div>
+  </div>
+</div>
+
+
+<div class="title-bar">
+
+  <div class="title-bar-inner">
+    {% if related_transcript.size > 0 %}
+      <a href="{{ related_transcript[0].url }}transcript#entry-content">
+        <button>
+          Transcript
+        </button>
+      </a>
+    {% endif %}
+    
+     {% comment %}
+     <!-- 
+      {% assign archived_vids = page.video_source | where: 'show_in_history', true %}
+    
+      {% if archived_vids %}    
+        {% for archived_vid in archived_vids|slice(0,1) %}
+          <button>
+            <a href="{{ url(item) }}history#entry-content">History</a>
+          </button>
+        {% endfor %}
+      {% endif %}
+       -->
+      {% endcomment %}
+   
+    
+    <div class="addthis_horizontal_follow_toolbox" style="float:right !important;display:inline-block !important;">
+    </div>
+  </div>
+</div>

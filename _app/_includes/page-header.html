@@ -1,0 +1,35 @@
+<header>
+
+  {% if page.pulitzer_logo == true %}
+    <img src="/assets/images/pulitzer-center.jpg" alt="" style="max-height:80px;margin-top:1em;" />
+  {% endif %}
+
+  {% if page.title %}
+    <h1 class="entry-titleTK h2">
+      {% if page.section %}{{ page.section }}: {% endif %}{{ page.title | markdownify | remove:'<p>' | remove:'</p>' }}
+    </h1>
+  {% endif %}
+
+  {% if page.staff_members %}
+    {% assign producers = page.staff_members %}          
+    <ul class="inline">      
+        <li class="heading inline" style="margin-right:.125em;">
+          Produced by
+        </li>
+        {% for producer in producers %}
+          {% assign object = site.staff_members | where: 'slug', producer %}
+          {% assign object = object[0] %}          
+          {% include components/list-items.html %}
+        {% endfor %}                  
+    </ul>
+  {% endif %}  
+
+  {% if page.description %}
+    <p class="lede">
+      {{ page.description | markdownify | remove:'<p>' | remove:'</p>' }}
+    </p>
+  {% endif %}
+
+ 
+
+</header>

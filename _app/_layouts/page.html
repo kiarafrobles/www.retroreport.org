@@ -1,15 +1,15 @@
 ---
 layout: default
 ---
-{% if page.featured_image_path %}
-  {% include components/hero.html  %}
-{% endif %}
+
+{% include hero.html  %}
+
 <div id="content">    
 
   {% include page-links-sidebar.html %}
 
   <article class="hentry">
-    {% include components/page-header.html %}
+    {% include page-header.html %}
 
     {% if page.content != '' %}
       <div id="entry-content" class="entry-content prose">

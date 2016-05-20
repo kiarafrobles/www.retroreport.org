@@ -1,22 +1,23 @@
 ---
 layout: default
 ---
+{% include hero.html  %}
+
 <div id="content">
   
   <article class="hentry {% if page.class %}{{page.class}}{% endif %}">
   
-    {% if page.featured_image_path %}
-      <img src="{% if site.image_url %}{{ site.image_url }}{% endif %}{{ page.featured_image_path }}?exp=1">
-    {% endif %}
+    {% include components/featured-image.html %}
   
-    {% include components/page-header.html %}
+    {% include page-header.html %}
   
-      <div id="entry-content" class="entry-content prose">
-        {{ content | markdownify }}
-        {% include components/prev-next.html %}
-      </div>    
+    <div id="entry-content" class="entry-content prose">
+      {{ content | markdownify }}
+      {% include components/prev-next.html %}
+    </div>    
   
   </article>
   
   {% include components/page-bottom.html %}
+
 </div>

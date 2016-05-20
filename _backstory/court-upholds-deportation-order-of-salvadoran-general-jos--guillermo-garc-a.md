@@ -5,9 +5,9 @@ related_articles:
   - headline: "Deportation of Former Salvadoran Official Is Upheld"
     source: "The New York Times"
     link: "http://www.nytimes.com/2015/12/17/us/deportation-of-former-salvadoran-official-is-upheld.html?_r=0"
-publish_date: 2015-12-17T15:42:00.000Z
+description: "An immigration appeals court has upheld the deportation order of Salvadoran Gen. José Guillermo García, which is based on his role in the 1980 murders of these four American nuns."
+date: 2015-12-17T15:42:00.000Z
 published: true
 slug: court-upholds-deportation-order-of-salvadoran-general-josé-guillermo-garcía
 ---
-An immigration appeals court has upheld the deportation order of Salvadoran Gen. José Guillermo García, which is based on his role in the 1980 murders of these four American nuns.
 

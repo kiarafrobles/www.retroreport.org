@@ -1,17 +1,18 @@
 ---
 layout: default
 ---
-{% if page.featured_image_path %}
-  {% include _hero.html %}
-{% endif %}
+{% include hero.html  %}
+
 <div id="content">    
 
   <div class="row">
-    {% include components/page-header.html %}
+    {% include page-header.html %}
   </div>
   
   <div class="has-layout">
     {{ content }}    
   </div>
+
   {% include components/page-bottom.html %}
+
 </div>

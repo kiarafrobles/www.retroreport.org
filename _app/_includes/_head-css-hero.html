@@ -1,5 +1,5 @@
-{% if page.collection == 'videos' %}
-  {% assign background_image = page.featured_image_path | imgix_url: w: 1200, blur: 400 %}
+{% if page.collection == 'videos' or page.collection == 'mini-docs' %}
+  {% assign background_image = page.featured_image_path | imgix_url: w: 1200, blur: 380 %}
 {% else %}
   {% assign background_image = page.featured_image_path | imgix_url: w: 1200 %}
 {% endif %}

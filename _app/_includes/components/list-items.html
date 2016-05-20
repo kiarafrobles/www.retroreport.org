@@ -1,0 +1,4 @@
+<li{% unless forloop.last %} style="margin-right:.125em;"  class="inline"{% endunless %}>{% if forloop.last and forloop.index0 > 0 %}and {% endif %}
+  <a href="{{ object.url }}">
+    {{ object.title }}</a>{% if forloop.length > 2 %}{% unless forloop.last %}, {% endunless %}{% endif %}
+</li>

@@ -5,8 +5,11 @@ related_articles:
   - headline: "Bee gone. Bee where?"
     source: "The Brian Lehrer Show"
     link: "http://www.wnyc.org/story/bee-gone-bee-where/"
-publish_date: 2014-09-29T16:10:00.000Z
+description:
+date: 2014-09-29T16:10:00.000Z
 published: true
 slug: josh-fisher-weighs-in-on-obamas-new-bee-plan-with-brian-lehrer
 ---
+
+<iframe width="600" height="130" frameborder="0" scrolling="no" src="//www.wnyc.org/widgets/ondemand_player/wnyc/#file=%2Faudio%2Fxspf%2F455156%2F"></iframe>
 

@@ -1,0 +1,34 @@
+
+
+<h5>{% if object.collection == 'related_coverage' %}Related Coverage for {% endif %}{{ object.title }}</h5>
+{% if object.content %}{{ object.content | markdownify }}
+{% elsif object.lead_copy %}
+  {{ object.copy|markdown|replace('<iframe ', '<div class="embed-container"><iframe ' )|replace('</iframe>', '</iframe></div>') }}
+{% endif %}
+
+
+
+{% if object.related_articles %}
+  <ul class="article-list">
+    {% for row in object.related_articles %}
+      <li>
+        {% if row.link %}
+          {% if row.source %}
+            <em>
+              {{ row.source | markdownify | remove: '<p>' | remove: '</p>' }}
+            </em>
+          {% endif %}
+          <a href="{{ row.link }}" target="_blank" class="headline">  
+          {% comment %}<!-- we put the first quote mark in with CSS so the article title can stay flush left  -->{% endcomment %}
+            {{ row.headline }}” <i class="icon-link-ext small"></i>
+          </a>
+        {% else %}
+          {% if row.source %}
+            {{ row.source | markdownify | remove: '<p>' | remove: '</p>'  }}:
+          {% endif %}
+          <span class="headline">{{ row.headline }}”</span>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}

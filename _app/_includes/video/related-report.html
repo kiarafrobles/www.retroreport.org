@@ -1,0 +1,9 @@
+{% if related_reports[0].report_type %}
+  <small>
+    {{ related_reports[0].report_type }}: 
+  </small>
+  <br />
+{% endif %}
+<a href="{% if item.show_related_report_on_video_page %}#report{% else %}{{ related_reports[0].url }}{% endif %}">
+  {{ related_reports[0].title }}
+</a>

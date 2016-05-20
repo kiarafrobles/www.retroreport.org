@@ -14,7 +14,8 @@ related_articles:
   - headline: "Aid in Dying"
     source: "Huffington Post"
     link: "http://www.huffingtonpost.com/jane-gross/aid-in-dying_b_6925958.html"
-publish_date: 2016-04-15T15:07:00.000Z
+description:
+date: 2016-04-15T15:07:00.000Z
 published: true
 slug: related-coverage-for-a-right-to-die
 ---
