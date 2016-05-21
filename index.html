@@ -2,22 +2,91 @@
 layout: default
 ---
 
-<div class="home">
+  <div class="has-layout">
 
-  <h1 class="page-heading">Posts</h1>
+    <section class="home-left" data-search-index="false">
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      {% assign videos = site.videos | sort: 'date', 'last' | reverse %}
+      {% for object in videos limit: 1 %}
+        {% assign source = page.video_source[0] %}
+        {% assign related_reports = object.reports_related_video %}
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+        <div class="row hero-home">
+          <h6 class="light small">Latest Video</h6>
+          <h4 style="margin:.125em;"><a href="{{ object.url }}">{{ object.title }}</a></h4>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+          <div class="columns-3-4">
+            {% if source %}
+              <div class="embed-container">
+                {% include video/embed.html %}
+              </div>
+            {% endif %}
+          </div>
 
-</div>
+          <div class="columns-1-4">
+            {% if object.description %}
+              <p class="lede-small" style="margin-bottom:0;">
+                {{ object.description | markdownify | remove: '<p>' | remove: '</p>' }}
+              </p>              
+              {% endif %}
+              {% if related_reports %}
+                <!--  TODO: include video-related-report.html %} -->
+              {% endif %}
+              <a href="{{ object.url }}"><small><button class="black" style="width:100%;margin-top:.5em;">Watch Now</button></small></a>
+            </div>
+
+        </div>
+      {% endfor %}
+
+      <div class="outer-container border-top" style="margin-top:4em;padding: 4em auto">
+        <div class="columns-3-4">
+          {% include forms/mailchimp-inline.html %}
+        </div>
+        <div class="columns-1-4">
+          <div class="addthis_horizontal_follow_toolbox" style="float:right;margin: 2em 2em 3em 0"></div>
+        </div>
+      </div>
+
+      <div class="row border-top">
+        {% assign posts = merge(cms.voices, cms.blog, cms.reports) %}
+        {% assign posts = posts| sort: 'publish_date' | reverse  %}
+           {% for object in posts|slice(0,3) %}
+            <div class="boxes-3-across">
+              {% include format-posts.html %}
+            </div>
+          {% endfor %}
+      </div>
+
+      <div class="row border-top">
+        {% assign videos = videos %}
+        {% assign videos = videos| sort: 'publish_date' | reverse  %}
+           {% for object in videos|slice(0,100) %}
+            <div class="boxes-2-across">
+              {% include format-list-video-with-tagline.html %}
+            </div>
+          {% endfor %}
+
+      </div>
+    </section><!-- // END home-left -->
+
+
+
+    <section class="sidebar-home">
+
+        <a href="/video/major-malfunction-lessons-from-challenger/" style="display:block;width:190px;margin:2.5em auto 2em auto;text-align:center;">
+          <img src="http://lh3.googleusercontent.com/qnG5CuTMYPKBQWGB15Soo78uNtoAdt2akZzRH2vHcP5OrquLggg3H1DQnBcFVSeXbJUQFtACHWSviYrnFODpnIPAFnlmtY8=w245" style="width:190px;" alt="" />
+        </a>
+
+
+      <h4 class="sidebar-heading">Get the Backstory on Today's News</h4>
+      {% assign backstories = cms.backstories %}
+      {% assign backstories = cms.backstories|where('type', 'backstory') %}
+      {% assign backstories = backstories| sort: 'publish_date' | reverse  %}
+        {% for object in backstories|slice(0,15) %}
+          {% if object.lead_copy %}
+            {% include format-backstories.html %}
+          {% endif %}
+        {% endfor %}
+      </section>
+
+    </div> <!-- //has-layout -->
