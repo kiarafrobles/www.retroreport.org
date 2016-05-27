@@ -17,7 +17,8 @@ layout: default
       </div>
     {% endif %}
     
-    {% assign related_video = site.documents | sort: 'date', 'last' | reverse%}
+    {% if page.collection == 'staff_members' %}    
+    {% assign related_video = site.documents | sort: 'date', 'last' | reverse %}
     <div class="flex-boxes"> 
       {% for object in related_video %}
         {% if object.staff_members contains page.slug %}
@@ -25,6 +26,7 @@ layout: default
         {% endif %}    
       {% endfor %}
     </div>
+    {% endif %}
     
     {% if page.include_content %}
       {% include {{ page.include_content }} %}

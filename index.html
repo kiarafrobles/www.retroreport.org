@@ -1,14 +1,13 @@
 ---
 layout: default
 ---
-
+{% include hero.html  %}
   <div class="has-layout">
 
     <section class="home-left" data-search-index="false">
 
-      {% assign videos = site.videos | sort: 'date', 'last' | reverse %}
-      {% for object in videos limit: 1 %}
-        {% assign source = page.video_source[0] %}
+        {% assign object = site.videos | reverse | first  %}      
+        {% assign source = object.video_source[0] %}
         {% assign related_reports = object.reports_related_video %}
 
         <div class="row hero-home">
@@ -36,11 +35,11 @@ layout: default
             </div>
 
         </div>
-      {% endfor %}
+      
 
       <div class="outer-container border-top" style="margin-top:4em;padding: 4em auto">
         <div class="columns-3-4">
-          {% include forms/mailchimp-inline.html %}
+          <!--  include forms/mailchimp-inline.html %} -->
         </div>
         <div class="columns-1-4">
           <div class="addthis_horizontal_follow_toolbox" style="float:right;margin: 2em 2em 3em 0"></div>
@@ -48,23 +47,23 @@ layout: default
       </div>
 
       <div class="row border-top">
-        {% assign posts = merge(cms.voices, cms.blog, cms.reports) %}
-        {% assign posts = posts| sort: 'publish_date' | reverse  %}
-           {% for object in posts|slice(0,3) %}
+         <!-- assign posts = merge(cms.voices, cms.blog, cms.reports)  -->
+        <!--  assign posts = posts | sort: 'publish_date' | reverse  %} -->
+           <!--  for object in posts|slice(0,3) %}
             <div class="boxes-3-across">
-              {% include format-posts.html %}
+              include format-posts.html %}
             </div>
-          {% endfor %}
+           endfor %} -->
       </div>
 
       <div class="row border-top">
-        {% assign videos = videos %}
-        {% assign videos = videos| sort: 'publish_date' | reverse  %}
-           {% for object in videos|slice(0,100) %}
+        <!-- assign videos = videos %}
+         assign videos = videos| sort: 'publish_date' | reverse  %} -->
+           <!--  for object in videos|slice(0,100) %}
             <div class="boxes-2-across">
-              {% include format-list-video-with-tagline.html %}
+               include format-list-video-with-tagline.html %}
             </div>
-          {% endfor %}
+           endfor %} -->
 
       </div>
     </section><!-- // END home-left -->
@@ -79,14 +78,14 @@ layout: default
 
 
       <h4 class="sidebar-heading">Get the Backstory on Today's News</h4>
-      {% assign backstories = cms.backstories %}
-      {% assign backstories = cms.backstories|where('type', 'backstory') %}
-      {% assign backstories = backstories| sort: 'publish_date' | reverse  %}
-        {% for object in backstories|slice(0,15) %}
+      <!--  assign backstories = cms.backstories %} -->
+      <!--  assign backstories = cms.backstories | where: 'type', 'backstory' %} -->
+      <!--  assign backstories = backstories| sort: 'publish_date' | reverse  %} -->
+        <!--  for object in backstories|slice(0,15) %}
           {% if object.lead_copy %}
-            {% include format-backstories.html %}
+             include format-backstories.html %}
           {% endif %}
-        {% endfor %}
+         endfor %} -->
       </section>
 
     </div> <!-- //has-layout -->
