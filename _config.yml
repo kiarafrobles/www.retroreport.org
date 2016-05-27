@@ -51,7 +51,9 @@ image_url: https://staging-retro-report.imgix.net
 imgix:
   source: retroreport.imgix.net
 production: false
-full_rebuild: true
+#full_rebuild: false
+incremental: true
+keep_files:   [".png", ".jpg"]
 timezone: Etc/Zulu
 permalink: pretty
 future: false

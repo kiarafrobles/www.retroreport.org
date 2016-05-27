@@ -92,7 +92,7 @@ gulp.task('jekyll-build', function (done) {
     //return cp.spawn(jekyll, ['build'], {stdio: 'inherit', env:jekyllEnv})
 
     return cp.spawn('bundle', ['exec', 'jekyll', 'build', '-q', '--source=' + jekyllConfig.src, '--destination=' + jekyllConfig.dest, '--config=' + jekyllConfig.config], { stdio: 'inherit' })
-  
+        .on('error', (error) => gutil.log(gutil.colors.red(error.message)))
 
         .on('close', done);
 });
@@ -148,7 +148,7 @@ gulp.task('sass', function () {
 gulp.task('watch', function () {
     gulp.watch(paths.scssSrc + '/**/*.scss', ['sass']);
     
-    gulp.watch(['**/*.md','**/*.md', '_app/_layouts/**/*.html','_app/_includes/**/*.html'], ['jekyll-rebuild']);
+    gulp.watch(['*.html', '**/*.md','**/*.md', '_app/_layouts/**/*.html','_app/_includes/**/*.html'], ['jekyll-rebuild']);
     
     gulp.watch(paths.scriptsWatch + '**/*.js', ['js-uglify', 'file-copy']);
 });
