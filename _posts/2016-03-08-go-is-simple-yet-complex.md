@@ -9,4 +9,4 @@ slug: 2016-03-08-go-is-simple-yet-complex
 ---
 
 Just another day at the office -- a quick snap from our b-roll shoot for an upcoming short on Artificial Intelligence and how it is set to beat the world champion in the 2,500 year old Chinese game Go.
-
+TEST
