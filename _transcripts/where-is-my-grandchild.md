@@ -1,12 +1,15 @@
 ---
-title: "Where is my Grandchild?"
+title: Where is my Grandchild?
+date: '2015-10-12 00:00:00'
+categories: []
+layout: post
 published: true
-date: 2015-10-12T00:00:00.000Z
 video: where-is-my-grandchild
 type: video
 slug: where-is-my-grandchild
----
+tags: []
 
+---
 **WHERE IS MY GRANDCHILD?**
 
 **October 9, 2015**

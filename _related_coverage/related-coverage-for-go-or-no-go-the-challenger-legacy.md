@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for Go or No Go: The Challenger Legacy"
+title: 'Related coverage for Go or No Go: The Challenger Legacy'
+date: '2015-08-11 21:52:00'
+categories: []
 published: true
-date: 2015-08-11T21:52:00.000Z
 backstory_type: related coverage
 video: major-malfunction-lessons-from-challenger
 type: backstories
 slug: related-coverage-for-go-or-no-go-the-challenger-legacy
----
+tags: []
 
+---
 **Challenger, Columbia and the Nature of Calamity**
 [The New York Times](http://www.nytimes.com/2014/06/02/us/challenger-columbia-and-the-nature-of-calamity.html)
 

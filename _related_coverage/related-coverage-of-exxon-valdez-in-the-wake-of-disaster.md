@@ -1,13 +1,15 @@
 ---
-title: "Related Coverage of Exxon Valdez: In the Wake of Disaster"
+title: 'Related Coverage of Exxon Valdez: In the Wake of Disaster'
+date: '2015-07-29 16:43:00'
+categories: []
 published: true
-date: 2015-07-29T16:43:00.000Z
 backstory_type: related coverage
 video: exxon-valdez-in-the-wake-of-disaster
 type: backstories
 slug: related-coverage-of-exxon-valdez-in-the-wake-of-disaster
----
+tags: []
 
+---
 **Lessons From the Exxon Valdez Oil Spill**
 [The New York Times](http://www.nytimes.com/2013/12/09/booming/lessons-from-the-exxon-valdez-oil-spill.html?ref=booming)
 

@@ -1,16 +1,24 @@
 ---
-title: "A Journey through India: The Legacy of Population Fears"
+title: 'A Journey through India: The Legacy of Population Fears'
+date: '2015-06-01 10:44:00'
+categories: Photo Essay
+layout: post
 published: true
-date: 2015-06-01T10:44:00.000Z
-category: Photo Essay
-description: "By 2030, India is poised to become the most populous nation in the world. The country\'s fertility rate has declined from an estimated 5.9 children per woman in the 1950s to 2.5 today. But concern about population persists in this country of 1.2 billion people, particularly in northern India where women on average are still having more children. "
-meta_copy_description: " Photographs by Sarah Weiser Photographs in Birth Control Today: Karla Torres / Human Rights Law Network This report was supported in part by the Pulitzer Center on Crisis Reporting "
-featured_image_path: /uploads/1432766247506_Weiser_India_001.jpg
+description: 'By 2030, India is poised to become the most populous nation in the world.
+  The country''s fertility rate has declined from an estimated 5.9 children per woman
+  in the 1950s to 2.5 today. But concern about population persists in this country
+  of 1.2 billion people, particularly in northern India where women on average are
+  still having more children. '
+meta_copy_description: " Photographs by Sarah Weiser Photographs in Birth Control
+  Today: Karla Torres / Human Rights Law Network This report was supported in part
+  by the Pulitzer Center on Crisis Reporting "
+featured_image_path: "/uploads/1432766247506_Weiser_India_001.jpg"
 video: the-population-bomb
 slug: a-journey-through-india-the-legacy-of-population-fears
 type: reports
----
+tags: []
 
+---
 By 2030, India is poised to become the most populous nation in the world. The country's fertility rate has declined from an estimated 5.9 children per woman in the 1950s to 2.5 today. But concern about population persists in this country of 1.2 billion people, particularly in northern India where women on average are still having more children.
 
 <figure data-type="image" class="wy-figure-small wy-figure-left">![](http://lh3.googleusercontent.com/fg9uZ05WPwsKkAEP2etm6ocX1zMCKgUMVXKbOkmbPSgZm6wyk-onNaK2NJ0qTr3xGnkzW4mn9iouNNP_AIa8pEzKxtieCDTQ=s300)</figure>

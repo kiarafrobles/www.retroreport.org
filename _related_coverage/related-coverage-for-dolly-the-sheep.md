@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for Dolly the Sheep"
+title: Related coverage for Dolly the Sheep
+date: '2015-08-19 19:00:00'
+categories: []
 published: true
-date: 2015-08-19T19:00:00.000Z
 backstory_type: related coverage
 video: dolly-the-sheep
 type: backstories
 slug: related-coverage-for-dolly-the-sheep
----
+tags: []
 
+---
 **The Clone Named Dolly**
 [The New York Times](http://www.nytimes.com/2013/10/14/booming/the-clone-named-dolly.html?ref=booming&_r=0)
 

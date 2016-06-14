@@ -1,7 +1,8 @@
 ---
-title: "Get Updates"
+title: Get Updates
+date: '2015-02-19 20:03:00'
 published: true
-date: 2015-02-19T20:03:00.000Z
 type: community
 slug: get-updates
+
 ---

@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for Anatomy of an Interrogation"
+title: Related coverage for Anatomy of an Interrogation
+date: '2015-06-05 21:08:00'
+categories: []
 published: true
-date: 2015-06-05T21:08:00.000Z
 backstory_type: related coverage
 video: anatomy-of-an-interrogation
 type: backstories
 slug: related-coverage-for-anatomy-of-an-interrogation
----
+tags: []
 
+---
 **A Singular Conviction Amid the Debate on Torture and Terrorism**
 [The New York Times](http://www.nytimes.com/2015/04/20/us/a-singular-conviction-amid-the-debate-on-torture-and-terrorism.html)
 

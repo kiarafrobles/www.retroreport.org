@@ -1,22 +1,25 @@
 ---
-title: "The Tawana Brawley Story"
+title: The Tawana Brawley Story
+date: '2013-06-03 23:00:00'
+categories: []
 published: true
-date: 2013-06-03T23:00:00.000Z
 staff_members:
-  - kit-roane
+- kit-roane
 topic: crime
-description: "In 1988, the nation learned the truth about the alleged crimes against Tawana Brawley, but the shocking story was far from over."
-tweet: "In '88 we learned the truth about alleged Tawana Brawley attack. But the story didn't end there: "
-featured_image_path: /uploads/1422558380720_439375323_1280.jpg
+description: In 1988, the nation learned the truth about the alleged crimes against
+  Tawana Brawley, but the shocking story was far from over.
+tweet: 'In ''88 we learned the truth about alleged Tawana Brawley attack. But the
+  story didn''t end there: '
+featured_image_path: "/uploads/1422558380720_439375323_1280.jpg"
 appearance: light-text
 source_video:
-  video_id:
+  video_id: 
   video_provider: vimeo
   video_show_in_history: true
-# type: video
 slug: the-tawana-brawley-story
----
+tags: []
 
+---
 In the late 1980s, Tawana Brawley became a household name as her horrifying story spread across the country, igniting outrage and setting off a fierce debate about race in America.
 
 Brawley, after all, was a 15-year old African American teenager, who had been allegedly assaulted by six white men -- including a police officer -- from her upstate New York community.

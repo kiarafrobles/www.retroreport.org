@@ -1,12 +1,15 @@
 ---
-title: "Curt Flood: Rebel Without a Clause"
+title: 'Curt Flood: Rebel Without a Clause'
+date: '2015-08-27 01:00:00'
+categories: []
+layout: post
 published: true
-date: 2015-08-27T01:00:00.000Z
 video: curt-flood-rebel-without-a-clause
 type: video
 slug: curt-flood-rebel-without-a-clause
----
+tags: []
 
+---
 **CURT FLOOD: REBEL WITHOUT A CLAUSE**
 
 **August 26, 2015**

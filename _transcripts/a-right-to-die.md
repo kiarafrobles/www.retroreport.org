@@ -1,12 +1,15 @@
 ---
-title: "A Right to Die?"
+title: A Right to Die?
+date: '2015-03-23 01:03:00'
+categories: []
+layout: post
 published: true
-date: 2015-03-23T01:03:00.000Z
 video: a-right-to-die
 type: video
 slug: a-right-to-die
----
+tags: []
 
+---
 **A RIGHT TO DIE?**
 
 **March 23, 2015**

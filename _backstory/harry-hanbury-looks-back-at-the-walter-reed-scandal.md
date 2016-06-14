@@ -1,11 +1,15 @@
 ---
-title: "Harry Hanbury looks back at the Walter Reed scandal"
+title: Harry Hanbury looks back at the Walter Reed scandal
+date: '2015-07-19 19:59:00'
+categories: []
+layout: post
 published: true
-date: 2015-07-19T19:59:00.000Z
 backstory_type: backstory
 video: walter-reed-the-battle-for-recovery
 type: backstories
 slug: harry-hanbury-looks-back-at-the-walter-reed-scandal
+tags: []
+
 ---
 <iframe width="600" height="130" frameborder="0" scrolling="no" src="https://www.wnyc.org/widgets/ondemand_player/takeaway/#file=%2Faudio%2Fxspf%2F320872%2F"></iframe>
 

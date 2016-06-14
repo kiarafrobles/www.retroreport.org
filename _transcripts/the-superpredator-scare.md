@@ -1,8 +1,12 @@
 ---
-title: "The Superpredator Scare"
+title: The Superpredator Scare
+date: '2014-04-07 09:00:00'
+categories: []
+layout: post
 published: true
-date: 2014-04-07T09:00:00.000Z
 video: the-superpredator-scare
 type: video
 slug: the-superpredator-scare
+tags: []
+
 ---

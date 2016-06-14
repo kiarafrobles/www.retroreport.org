@@ -1,7 +1,11 @@
 ---
-title: "Nature"
+title: Nature
+date: '2015-01-11 19:07:00'
+categories: []
+layout: post
 published: true
-date: 2015-01-11T19:07:00.000Z
 type: topics
 slug: nature
+tags: []
+
 ---

@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for The Shadow of Thalidomide"
+title: Related coverage for The Shadow of Thalidomide
+date: '2015-08-19 20:17:00'
+categories: []
 published: true
-date: 2015-08-19T20:17:00.000Z
 backstory_type: related coverage
 video: the-shadow-of-thalidomide
 type: backstories
 slug: related-coverage-for-the-shadow-of-thalidomide
----
+tags: []
 
+---
 **The Death and Afterlife of Thalidomide**
 [The New York Times](http://www.nytimes.com/2013/09/23/booming/the-death-and-afterlife-of-thalidomide.html?ref=booming&_r=0)
 

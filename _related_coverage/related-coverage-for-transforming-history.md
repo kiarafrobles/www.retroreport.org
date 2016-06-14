@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for Transforming History"
+title: Related coverage for Transforming History
+date: '2015-06-22 17:00:00'
+categories: []
 published: true
-date: 2015-06-22T17:00:00.000Z
 backstory_type: related coverage
 video: transforming-history
 type: backstories
 slug: related-coverage-for-transforming-history
----
+tags: []
 
+---
 **Beyond Caitlyn Jenner Lies a Long Struggle by Transgender People**
 [New York Times](http://www.nytimes.com/2015/06/15/us/beyond-caitlyn-jenner-lies-a-long-struggle-by-transgender-people.html)
 

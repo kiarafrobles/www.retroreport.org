@@ -1,12 +1,15 @@
 ---
-title: "Agent Orange: Last Chapter of the Vietnam War"
+title: 'Agent Orange: Last Chapter of the Vietnam War'
+date: '2014-05-12 15:04:00'
+categories: []
+layout: post
 published: true
-date: 2014-05-12T15:04:00.000Z
 video: agent-orange-last-chapter-of-the-vietnam-war
 type: video
 slug: agent-orange-last-chapter-of-the-vietnam-war
----
+tags: []
 
+---
 **AGENT ORANGE: LAST CHAPTER OF THE VIETNAM WAR**
 
 **May 12, 2014**

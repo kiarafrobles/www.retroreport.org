@@ -1,8 +1,12 @@
 ---
-title: "The Long War on Cancer"
+title: The Long War on Cancer
+date: '2013-11-04 09:00:00'
+categories: []
+layout: post
 published: true
-date: 2013-11-04T09:00:00.000Z
 video: the-long-war-on-cancer
 type: video
 slug: the-long-war-on-cancer
+tags: []
+
 ---

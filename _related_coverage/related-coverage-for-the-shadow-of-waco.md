@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for The Shadow of Waco"
+title: Related coverage for The Shadow of Waco
+date: '2015-07-13 22:25:00'
+categories: []
 published: true
-date: 2015-07-13T22:25:00.000Z
 backstory_type: related coverage
 video: the-shadow-of-waco
 type: backstories
 slug: related-coverage-for-the-shadow-of-waco
----
+tags: []
 
+---
 **Memories of Waco Siege Continue to Fuel Far-Right Groups**
 [The New York Times](http://www.nytimes.com/2015/07/13/us/memories-of-waco-siege-continue-to-fuel-far-right-groups.html)
 

@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for A Syndrome on Trial"
+title: Related coverage for A Syndrome on Trial
+date: '2015-09-14 16:50:00'
+categories: []
 published: true
-date: 2015-09-14T16:50:00.000Z
 backstory_type: related coverage
 video: a-syndrome-on-trial
 type: backstories
 slug: related-coverage-for-a-syndrome-on-trial
----
+tags: []
 
+---
 **Shaken Baby Syndrome: A Diagnosis That Divides the Medical World**
 [The New York Times](http://www.nytimes.com/2015/09/14/us/shaken-baby-syndrome-a-diagnosis-that-divides-the-medical-world.html)
 

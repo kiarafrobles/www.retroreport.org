@@ -1,8 +1,11 @@
 ---
-title: "Sandy Northrop"
+title: Sandy Northrop
+date: '2015-09-25 18:32:00'
+categories: []
 published: true
-date: 2015-09-25T18:32:00.000Z
 role: Not on Masthead
 type: staff
 slug: sandy-northrop
+tags: []
+
 ---

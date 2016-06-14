@@ -1,12 +1,15 @@
 ---
-title: "Transforming History"
+title: Transforming History
+date: '2015-06-15 02:24:00'
+categories: []
+layout: post
 published: true
-date: 2015-06-15T02:24:00.000Z
 video: transforming-history
 type: video
 slug: transforming-history
----
+tags: []
 
+---
 **TRANSFORMING HISTORY**
 
 **June 15, 2015**

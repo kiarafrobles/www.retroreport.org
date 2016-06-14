@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for the Promise of the Air Bag"
+title: Related coverage for the Promise of the Air Bag
+date: '2015-08-11 21:18:00'
+categories: []
 published: true
-date: 2015-08-11T21:18:00.000Z
 backstory_type: related coverage
 video: the-promise-of-the-air-bag
 type: backstories
 slug: related-coverage-for-the-promise-of-the-air-bag
----
+tags: []
 
+---
 **Lessons From the Past for a Future in Smart Cars**
 [The New York Times](http://www.nytimes.com/2014/09/15/us/lessons-from-the-past-for-a-future-in-smart-cars.html)
 

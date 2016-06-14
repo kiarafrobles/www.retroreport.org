@@ -1,12 +1,15 @@
 ---
-title: "The Population Bomb?"
+title: The Population Bomb?
+date: '2015-06-01 11:08:00'
+categories: []
+layout: post
 published: true
-date: 2015-06-01T11:08:00.000Z
 video: the-population-bomb
 type: video
 slug: the-population-bomb
----
+tags: []
 
+---
 <a name="TO_REVKIN">**THE POPULATION BOMB?**</a>
 
 **June 1, 2015**

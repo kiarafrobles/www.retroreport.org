@@ -1,17 +1,23 @@
 ---
-title: "Making Music in the Digital Age"
+title: Making Music in the Digital Age
+date: '2014-12-15 18:44:00'
+categories: Multimedia Report
+layout: post
 published: true
-date: 2014-12-15T18:44:00.000Z
-category: Multimedia Report
-tagline: "In 1999, a file-sharing program created in a Boston dorm room sent shockwaves across the music industry and served notice that a major cultural shift was underway. Fifteen years later, four artists reflect on making music in the digital age."
-description: "In 1999, a file-sharing program created in a Boston dorm room sent shockwaves across the music industry and served notice that a major cultural shift was underway. Fifteen years later, four artists reflect on making music in the digital age. "
-featured_image_path: /uploads/1423145358420_napsters-extras-thumb.jpg
+tagline: In 1999, a file-sharing program created in a Boston dorm room sent shockwaves
+  across the music industry and served notice that a major cultural shift was underway.
+  Fifteen years later, four artists reflect on making music in the digital age.
+description: 'In 1999, a file-sharing program created in a Boston dorm room sent shockwaves
+  across the music industry and served notice that a major cultural shift was underway.
+  Fifteen years later, four artists reflect on making music in the digital age. '
+featured_image_path: "/uploads/1423145358420_napsters-extras-thumb.jpg"
 banner_height: 525
 video: napster-culture-of-free
 slug: making-music-in-the-digital-age
 type: reports
----
+tags: []
 
+---
 In 1999, a file-sharing program created in a Boston dorm room sent shockwaves across the music industry and served notice that a major cultural shift was underway. Fifteen years later, four artists reflect on making music in the digital age.
 
 **Ingrid Michaelson**

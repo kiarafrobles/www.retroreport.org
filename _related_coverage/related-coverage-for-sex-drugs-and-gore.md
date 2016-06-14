@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for Sex, Drugs and Gore"
+title: Related coverage for Sex, Drugs and Gore
+date: '2015-10-27 17:24:00'
+categories: []
 published: true
-date: 2015-10-27T17:24:00.000Z
 backstory_type: related coverage
 video: sex-drugs-and-gore
 type: backstories
 slug: related-coverage-for-sex-drugs-and-gore
----
+tags: []
 
+---
 **Two Pop Culture Wars: First Over Comics, Then Over Music**
 [The New York Times](http://www.nytimes.com/2015/10/26/us/two-pop-culture-wars-first-over-comics-then-over-music.html)
 

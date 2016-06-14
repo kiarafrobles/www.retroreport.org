@@ -1,13 +1,15 @@
 ---
-title: "Related Coverage for Haunted By Columbine"
+title: Related Coverage for Haunted By Columbine
+date: '2015-09-29 16:20:00'
+categories: []
 published: true
-date: 2015-09-29T16:20:00.000Z
 backstory_type: related coverage
 video: haunted-by-columbine
 type: backstories
 slug: related-coverage-for-haunted-by-columbine
----
+tags: []
 
+---
 **When Columbine Is Invoked, Fears Tend to Overshadow Facts**
 [The New York Times](http://www.nytimes.com/2015/09/28/us/when-columbine-is-invoked-fears-tend-to-overshadow-facts.html?_r=0)
 

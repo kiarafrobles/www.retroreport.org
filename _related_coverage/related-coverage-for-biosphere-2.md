@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for Biosphere 2"
+title: Related coverage for Biosphere 2
+date: '2015-08-20 19:49:00'
+categories: []
 published: true
-date: 2015-08-20T19:49:00.000Z
 backstory_type: related coverage
 video: biosphere-2-an-american-space-odyssey
 type: backstories
 slug: related-coverage-for-biosphere-2
----
+tags: []
 
+---
 **A Second Act for Biosphere 2**
 [The New York Times](http://www.nytimes.com/2013/06/10/booming/biosphere-2-good-science-or-bad-sense.html)
 

@@ -1,12 +1,15 @@
 ---
-title: "Wolves at the Door"
+title: Wolves at the Door
+date: '2014-11-03 01:00:00'
+categories: []
+layout: post
 published: true
-date: 2014-11-03T01:00:00.000Z
 video: wolves-at-the-door
 type: video
 slug: wolves-at-the-door
----
+tags: []
 
+---
 **WOLVES AT THE DOOR____**
 
 **November 11, 2014**

@@ -1,12 +1,15 @@
 ---
-title: "Haunted by Columbine"
+title: Haunted by Columbine
+date: '2015-09-28 00:00:00'
+categories: []
+layout: post
 published: true
-date: 2015-09-28T00:00:00.000Z
 video: haunted-by-columbine
 type: video
 slug: haunted-by-columbine
----
+tags: []
 
+---
 **HAUNTED BY COLUMBINE**
 
 **September 28, 2015**

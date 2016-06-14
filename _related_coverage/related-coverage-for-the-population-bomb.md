@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for The Population Bomb?"
+title: Related coverage for The Population Bomb?
+date: '2015-06-02 21:01:00'
+categories: []
 published: true
-date: 2015-06-02T21:01:00.000Z
 backstory_type: related coverage
 video: the-population-bomb
 type: backstories
 slug: related-coverage-for-the-population-bomb
----
+tags: []
 
+---
 **The Unrealized Horrors of Population Explosion**
 [The New York Times](http://www.nytimes.com/2015/06/01/us/the-unrealized-horrors-of-population-explosion.html)
 

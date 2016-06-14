@@ -1,8 +1,12 @@
 ---
-title: "Dolly the Sheep"
+title: Dolly the Sheep
+date: '2013-10-14 09:00:00'
+categories: []
+layout: post
 published: true
-date: 2013-10-14T09:00:00.000Z
 video: dolly-the-sheep
 type: video
 slug: dolly-the-sheep
+tags: []
+
 ---

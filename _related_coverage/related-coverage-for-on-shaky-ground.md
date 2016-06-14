@@ -1,13 +1,15 @@
 ---
-title: "Related Coverage for On Shaky Ground"
+title: Related Coverage for On Shaky Ground
+date: '2015-07-28 19:14:00'
+categories: []
 published: true
-date: 2015-07-28T19:14:00.000Z
 backstory_type: related coverage
 video: on-shaky-ground
 type: backstories
 slug: related-coverage-for-on-shaky-ground
----
+tags: []
 
+---
 **Promises of Preparedness Followed Devastating Earthquakes. And Yet.**
 [The New York Times](http://www.nytimes.com/2014/04/14/us/promises-of-preparedness-followed-devastating-earthquakes-and-yet.html?_r=1)
 

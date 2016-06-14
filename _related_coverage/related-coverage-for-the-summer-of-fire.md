@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for The Summer of Fire"
+title: Related coverage for The Summer of Fire
+date: '2015-08-19 20:54:00'
+categories: []
 published: true
-date: 2015-08-19T20:54:00.000Z
 backstory_type: related coverage
 video: summer-of-fire
 type: backstories
 slug: related-coverage-for-the-summer-of-fire
----
+tags: []
 
+---
 **Lessons From the Yellowstone Fires of 1988**
 [The New York Times](http://www.nytimes.com/2013/09/02/booming/lessons-from-the-yellowstone-fires-of-1988.html?ref=booming)
 

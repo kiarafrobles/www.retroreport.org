@@ -1,13 +1,15 @@
 ---
-title: "Related Coverage for Taking the Lid Off the McDonald’s Coffee Case"
+title: Related Coverage for Taking the Lid Off the McDonald’s Coffee Case
+date: '2015-07-29 18:42:00'
+categories: []
 published: true
-date: 2015-07-29T18:42:00.000Z
 backstory_type: related coverage
 video: taking-the-lid-off-the-mcdonalds-coffee-case
 type: backstories
 slug: related-coverage-for-taking-the-lid-off-the-mcdonalds-coffee-case
----
+tags: []
 
+---
 **Not Just a Hot Cup Anymore**
 [The New York Times ](http://www.nytimes.com/2013/10/21/booming/not-just-a-hot-cup-anymore.html?ref=booming)
 

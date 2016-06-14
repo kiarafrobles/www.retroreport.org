@@ -1,22 +1,26 @@
 ---
-title: "Baby M and the Question of Surrogacy"
+title: Baby M and the Question of Surrogacy
+date: '2014-03-24 23:00:00'
+categories: []
 published: true
-date: 2014-03-24T23:00:00.000Z
 staff_members:
-  - jill-rosenbaum
+- jill-rosenbaum
 topic: law-society
-description: "The custody battle over Baby M was the first time a court considered surrogacy. Today's families are created in many different ways. But have we resolved the question of surrogacy?"
-tweet: "The Baby M custody battle happened 30 years ago, but where do we stand with surrogacy today?"
-featured_image_path: /uploads/1422556320476_468613234_1280.jpg
+description: The custody battle over Baby M was the first time a court considered
+  surrogacy. Today's families are created in many different ways. But have we resolved
+  the question of surrogacy?
+tweet: The Baby M custody battle happened 30 years ago, but where do we stand with
+  surrogacy today?
+featured_image_path: "/uploads/1422556320476_468613234_1280.jpg"
 appearance: light-text
 source_video:
   video_id: 89720820
   video_provider: vimeo
   video_show_in_history: true
-# type: video
 slug: baby-m-and-the-question-of-surrogacy
----
+tags: []
 
+---
 Melissa Stern, also known as "Baby M," was born in March of 1986 in New Jersey to a surrogate mother, Mary Beth Whitehead. After answering a newspaper ad Whitehead was inseminated with sperm from William Stern and contracted to carry a child for him and his wife. But once Baby "M" was born, Whitehead decided she could not give her child away. The ensuing custody battle both fascinated and divided the public, raising important questions: was surrogacy essentially baby selling or was it a new way to help infertile couples have families?
 
 In the days since Baby M, reproductive technology has made it possible for a surrogate to carry a baby made from another women's egg--either from an egg donor or the intended mother. And, today, families look very different than they did back in the 1980s. Gay male couples are one of the fastest growing groups employing surrogates to have children, and hopeful parents come from around the world to use American surrogates.

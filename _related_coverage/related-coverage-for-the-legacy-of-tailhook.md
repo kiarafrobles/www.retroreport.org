@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for The Legacy of Tailhook"
+title: Related coverage for The Legacy of Tailhook
+date: '2015-08-21 17:56:00'
+categories: []
 published: true
-date: 2015-08-21T17:56:00.000Z
 backstory_type: related coverage
 video: the-legacy-of-tailhook
 type: backstories
 slug: related-coverage-for-the-legacy-of-tailhook
----
+tags: []
 
+---
 **Revisiting the Military’s Tailhook Scandal**
 [The New York Times](http://www.nytimes.com/2013/05/13/booming/revisiting-the-militarys-tailhook-scandal-video.html?ref=booming)
 

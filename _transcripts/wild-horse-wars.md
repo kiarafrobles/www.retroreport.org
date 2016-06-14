@@ -1,8 +1,12 @@
 ---
-title: "Wild Horse Wars"
+title: Wild Horse Wars
+date: '2013-06-17 09:00:00'
+categories: []
+layout: post
 published: true
-date: 2013-06-17T09:00:00.000Z
 video: wild-horse-wars
 type: video
 slug: wild-horse-wars
+tags: []
+
 ---

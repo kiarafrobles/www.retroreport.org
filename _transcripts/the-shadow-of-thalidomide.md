@@ -1,8 +1,12 @@
 ---
-title: "The Shadow of Thalidomide"
+title: The Shadow of Thalidomide
+date: '2013-09-23 09:00:00'
+categories: []
+layout: post
 published: true
-date: 2013-09-23T09:00:00.000Z
 video: the-shadow-of-thalidomide
 type: video
 slug: the-shadow-of-thalidomide
+tags: []
+
 ---

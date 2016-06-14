@@ -1,13 +1,15 @@
 ---
-title: "Related Coverage for McMartin Preschool: Anatomy of a Panic"
+title: 'Related Coverage for McMartin Preschool: Anatomy of a Panic'
+date: '2015-08-14 16:06:00'
+categories: []
 published: true
-date: 2015-08-14T16:06:00.000Z
 backstory_type: related coverage
 video: mcmartin-preschool-anatomy-of-a-panic
 type: backstories
 slug: related-coverage-for-mcmartin-preschool-anatomy-of-a-panic
----
+tags: []
 
+---
 **The Trial That Unleashed Hysteria Over Child Abuse**
 [The New York Times](http://www.nytimes.com/2014/03/10/us/the-trial-that-unleashed-hysteria-over-child-abuse.html?hp)
 

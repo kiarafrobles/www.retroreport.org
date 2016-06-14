@@ -1,23 +1,26 @@
 ---
-title: "The Battle For Busing"
+title: The Battle For Busing
+date: '2013-09-09 23:00:00'
+categories: []
 published: true
-date: 2013-09-09T23:00:00.000Z
 staff_members:
-  - kit-roane
-  - b-drummond-ayres-jr
+- kit-roane
+- b-drummond-ayres-jr
 topic: law-society
-description: "A story of America's school integration and what happened when the buses stopped rolling."
-tweet: "What happened to Charlotte’s forced school integration after the buses stopped rolling:"
-featured_image_path: /uploads/1422558163905_448249655_1280.jpg
+description: A story of America's school integration and what happened when the buses
+  stopped rolling.
+tweet: 'What happened to Charlotte’s forced school integration after the buses stopped
+  rolling:'
+featured_image_path: "/uploads/1422558163905_448249655_1280.jpg"
 appearance: dark-text
 source_video:
   video_id: K-rlZP0EXdY
   video_provider: youtube
   video_show_in_history: true
-# type: video
 slug: the-battle-for-busing
----
+tags: []
 
+---
 In the late 1960s and early 1970s, busing became a dirty word to parents of many school age children around the country, especially in the South. And no place attracted more attention than Charlotte, North Carolina, whose long fight over mandatory busing landed it in a closely-watched test case before the U.S. Supreme Court. The landmark 1971 ruling mandated that federal courts could impose a host of remedies, including busing, to force school integration in Charlotte, and opened the floodgates for busing students in hundreds of school districts across the country over the next decade.
 
 On the face of it, busing seemed a logical solution to implementing the long overdue school desegregation promised by the Supreme Court in Brown v. Board of Education more than 15 years earlier. But implementation turned out to be anything but easy.

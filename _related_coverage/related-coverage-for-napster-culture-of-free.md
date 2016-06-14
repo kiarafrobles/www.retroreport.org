@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for Napster: Culture of Free"
+title: 'Related coverage for Napster: Culture of Free'
+date: '2015-06-30 21:01:00'
+categories: []
 published: true
-date: 2015-06-30T21:01:00.000Z
 backstory_type: related coverage
 video: napster-culture-of-free
 type: backstories
 slug: related-coverage-for-napster-culture-of-free
----
+tags: []
 
+---
 **Grappling With the ‘Culture of Free’ in Napster’s Aftermath**
 [The New York Times](http://www.nytimes.com/2014/12/08/technology/grappling-with-the-culture-of-free-in-napsters-aftermath.html?rref=collection%2Fcolumn%2Fretro-report&action=click&contentCollection=us&region=stream&module=stream_unit&contentPlacement=1&pgtype=collection)
 

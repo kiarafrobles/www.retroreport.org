@@ -1,12 +1,15 @@
 ---
-title: "Picking a Winner: The 1998 NFL Draft"
+title: 'Picking a Winner: The 1998 NFL Draft'
+date: '2014-05-05 09:00:00'
+categories: []
+layout: post
 published: true
-date: 2014-05-05T09:00:00.000Z
 video: picking-a-winner-the-1998-nfl-draft
 type: video
 slug: picking-a-winner-the-1998-nfl-draft
----
+tags: []
 
+---
 **PICKING A WINNER: THE 1998 NFL DRAFT**
 
 **May 5, 2014**

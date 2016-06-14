@@ -1,8 +1,12 @@
 ---
-title: "When a Bridge Falls"
+title: When a Bridge Falls
+date: '2014-03-03 09:00:00'
+categories: []
+layout: post
 published: true
-date: 2014-03-03T09:00:00.000Z
 video: when-a-bridge-falls
 type: video
 slug: when-a-bridge-falls
+tags: []
+
 ---

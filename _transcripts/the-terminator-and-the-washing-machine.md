@@ -1,12 +1,15 @@
 ---
-title: "The Terminator and the Washing Machine"
+title: The Terminator and the Washing Machine
+date: '2016-03-07 00:00:00'
+categories: []
+layout: post
 published: true
-date: 2016-03-07T00:00:00.000Z
 video: the-terminator-and-the-washing-machine
 type: video
 slug: the-terminator-and-the-washing-machine
----
+tags: []
 
+---
 **The Terminator and the Washing Machine**
 
 **March 7, 2016**

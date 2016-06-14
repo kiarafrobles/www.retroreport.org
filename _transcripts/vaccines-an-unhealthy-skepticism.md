@@ -1,12 +1,15 @@
 ---
-title: "Vaccines: An Unhealthy Skepticism"
+title: 'Vaccines: An Unhealthy Skepticism'
+date: '2015-02-01 21:00:00'
+categories: []
+layout: post
 published: true
-date: 2015-02-01T21:00:00.000Z
 video: vaccines-an-unhealthy-skepticism
 type: video
 slug: vaccines-an-unhealthy-skepticism
----
+tags: []
 
+---
 **VACCINES: AN UNHEALTHY SKEPTICISM**
 
 **February 1, 2015**

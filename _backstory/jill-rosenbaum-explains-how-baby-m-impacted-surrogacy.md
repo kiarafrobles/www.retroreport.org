@@ -1,11 +1,15 @@
 ---
-title: "Jill Rosenbaum explains how Baby M impacted surrogacy"
+title: Jill Rosenbaum explains how Baby M impacted surrogacy
+date: '2014-03-24 20:31:00'
+categories: []
+layout: post
 published: true
-date: 2014-03-24T20:31:00.000Z
 backstory_type: backstory
 video: baby-m-and-the-question-of-surrogacy
 type: backstories
 slug: jill-rosenbaum-explains-how-baby-m-impacted-surrogacy
+tags: []
+
 ---
 <iframe width="600" height="130" frameborder="0" scrolling="no" src="https://www.wnyc.org/widgets/ondemand_player/takeaway/#file=%2Faudio%2Fxspf%2F359492%2F"></iframe>
 

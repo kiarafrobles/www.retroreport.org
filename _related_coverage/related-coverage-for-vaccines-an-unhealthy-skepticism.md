@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for Vaccines: An Unhealthy Skepticism"
+title: 'Related coverage for Vaccines: An Unhealthy Skepticism'
+date: '2015-06-30 18:01:00'
+categories: []
 published: true
-date: 2015-06-30T18:01:00.000Z
 backstory_type: related coverage
 video: vaccines-an-unhealthy-skepticism
 type: backstories
 slug: related-coverage-for-vaccines-an-unhealthy-skepticism
----
+tags: []
 
+---
 **Tracing the origins of the anti-vaccine movement**
 [PBS NewsHour](http://www.pbs.org/newshour/bb/tracing-origins-anti-vaccine-movement/)
 

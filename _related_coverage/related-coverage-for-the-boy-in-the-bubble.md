@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for The Boy in the Bubble"
+title: Related coverage for The Boy in the Bubble
+date: '2015-12-07 16:55:00'
+categories: []
 published: true
-date: 2015-12-07T16:55:00.000Z
 backstory_type: related coverage
 video: the-boy-in-the-bubble
 type: backstories
 slug: related-coverage-for-the-boy-in-the-bubble
----
+tags: []
 
+---
 **‘The Boy in the Bubble’ Moved a World He Couldn’t Touch**
 [The New York Times](http://www.nytimes.com/2015/12/07/us/the-boy-in-the-bubble-moved-a-world-he-couldnt-touch.html)
 

@@ -1,12 +1,15 @@
 ---
-title: "How DNA Changed the World of Forensics"
+title: How DNA Changed the World of Forensics
+date: '2014-05-19 09:00:00'
+categories: []
+layout: post
 published: true
-date: 2014-05-19T09:00:00.000Z
 video: how-dna-changed-the-world-of-forensics
 type: video
 slug: how-dna-changed-the-world-of-forensics
----
+tags: []
 
+---
 **THE DNA REVOLUTION: HAIR ANALYSIS**
 
 **May 19, 2014**

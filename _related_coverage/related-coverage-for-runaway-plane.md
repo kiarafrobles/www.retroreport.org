@@ -1,13 +1,15 @@
 ---
-title: "Related Coverage for Runaway Plane"
+title: Related Coverage for Runaway Plane
+date: '2016-01-25 16:03:00'
+categories: []
 published: true
-date: 2016-01-25T16:03:00.000Z
 backstory_type: related coverage
 video: runaway-plane
 type: backstories
 slug: related-coverage-for-runaway-plane
----
+tags: []
 
+---
 **Despite Decades of Stealth, Sticking Points Bedevil F-35 Jet**
 [The New York Times](http://www.nytimes.com/2016/01/25/us/despite-decades-of-stealth-sticking-points-bedevil-f-35-jet.html)
 

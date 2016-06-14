@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for Picking a Winner"
+title: Related coverage for Picking a Winner
+date: '2015-08-12 17:22:00'
+categories: []
 published: true
-date: 2015-08-12T17:22:00.000Z
 backstory_type: related coverage
 video: picking-a-winner-the-1998-nfl-draft
 type: backstories
 slug: related-coverage-for-picking-a-winner
----
+tags: []
 
+---
 **Manning or Leaf? A Lesson in Intangibles**
 [The New York Times](http://www.nytimes.com/2014/05/05/us/manning-or-leaf-a-lesson-in-intangibles.html)
 

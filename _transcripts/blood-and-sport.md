@@ -1,12 +1,15 @@
 ---
-title: "Blood and Sport"
+title: Blood and Sport
+date: '2015-11-09 01:00:00'
+categories: []
+layout: post
 published: true
-date: 2015-11-09T01:00:00.000Z
 video: blood-and-sport
 type: video
 slug: blood-and-sport
----
+tags: []
 
+---
 **Blood and Sport**
 
 **November 9, 2015**

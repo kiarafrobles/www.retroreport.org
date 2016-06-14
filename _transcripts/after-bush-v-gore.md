@@ -1,12 +1,15 @@
 ---
-title: "After Bush v. Gore"
+title: After Bush v. Gore
+date: '2016-02-22 00:00:00'
+categories: []
+layout: post
 published: true
-date: 2016-02-22T00:00:00.000Z
 video: after-bush-v-gore
 type: video
 slug: after-bush-v-gore
----
+tags: []
 
+---
 **After Bush v. Gore**
 
 **February 22, 2016**

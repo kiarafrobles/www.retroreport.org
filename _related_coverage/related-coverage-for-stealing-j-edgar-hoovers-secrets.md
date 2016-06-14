@@ -1,13 +1,15 @@
 ---
-title: "Related Coverage for Stealing J. Edgar Hoover's Secrets "
+title: 'Related Coverage for Stealing J. Edgar Hoover''s Secrets '
+date: '2015-07-29 16:35:00'
+categories: []
 published: true
-date: 2015-07-29T16:35:00.000Z
 backstory_type: related coverage
 video: stealing-j-edgar-hoovers-secrets
 type: backstories
 slug: related-coverage-for-stealing-j-edgar-hoovers-secrets
----
+tags: []
 
+---
 **Burglars Who Took On F.B.I. Abandon Shadows**
 [The New York Times](http://www.nytimes.com/2014/01/07/us/burglars-who-took-on-fbi-abandon-shadows.html?hp&_r=0)
 

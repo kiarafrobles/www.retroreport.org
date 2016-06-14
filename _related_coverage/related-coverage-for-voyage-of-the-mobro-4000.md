@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for Voyage of the Mobro 4000"
+title: Related coverage for Voyage of the Mobro 4000
+date: '2015-08-21 18:19:00'
+categories: []
 published: true
-date: 2015-08-21T18:19:00.000Z
 backstory_type: related coverage
 video: voyage-of-the-mobro-4000
 type: backstories
 slug: related-coverage-for-voyage-of-the-mobro-4000
----
+tags: []
 
+---
 **The Big Stories Then in the Clear Light of Now**
 [The New York Times](http://www.nytimes.com/2013/05/06/booming/new-video-series-re-examines-garbage-barge-fiasco.html?ref=booming)
 

@@ -1,12 +1,16 @@
 ---
-title: "Producer Josh Fisher on “Fly Wars: Battling the Medfly*"
+title: 'Producer Josh Fisher on “Fly Wars: Battling the Medfly*'
+date: '2014-03-17 17:47:00'
+categories: []
+layout: post
 published: true
-date: 2014-03-17T17:47:00.000Z
-lead_copy: "Producer Josh Fisher on “Fly Wars: Battling the Medfly*"
+lead_copy: 'Producer Josh Fisher on “Fly Wars: Battling the Medfly*'
 backstory_type: backstory
 video: fly-wars-battling-the-medfly
 type: backstories
 slug: producer-josh-fisher-on-fly-wars-battling-the-medfly
+tags: []
+
 ---
 <iframe width="100%" height="140" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&amp;url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F140725764&amp;show_artwork=true"></iframe>
 

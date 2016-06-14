@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for Tawana Brawley"
+title: Related coverage for Tawana Brawley
+date: '2015-08-20 20:03:00'
+categories: []
 published: true
-date: 2015-08-20T20:03:00.000Z
 backstory_type: related coverage
 video: the-tawana-brawley-story
 type: backstories
 slug: related-coverage-for-tawana-brawley
----
+tags: []
 
+---
 **Revisiting a Rape Scandal That Would Have Been Monstrous if True**
 [New York Times](http://www.nytimes.com/2013/06/03/booming/revisiting-the-tawana-brawley-rape-scandal.html?ref=booming&_r=0)
 

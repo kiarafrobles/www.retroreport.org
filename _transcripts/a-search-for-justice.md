@@ -1,12 +1,15 @@
 ---
-title: "A Search for Justice"
+title: A Search for Justice
+date: '2014-11-10 01:00:00'
+categories: []
+layout: post
 published: true
-date: 2014-11-10T01:00:00.000Z
 video: a-search-for-justice
 type: video
 slug: a-search-for-justice
----
+tags: []
 
+---
 **A SEARCH FOR JUSTICE**
 
 **November 10, 2014**

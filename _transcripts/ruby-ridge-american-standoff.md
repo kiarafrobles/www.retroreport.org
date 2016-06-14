@@ -1,8 +1,12 @@
 ---
-title: "Ruby Ridge: American Standoff"
+title: 'Ruby Ridge: American Standoff'
+date: '2014-10-27 01:00:00'
+categories: []
+layout: post
 published: true
-date: 2014-10-27T01:00:00.000Z
 video: ruby-ridge-american-standoff
 type: video
 slug: ruby-ridge-american-standoff
+tags: []
+
 ---

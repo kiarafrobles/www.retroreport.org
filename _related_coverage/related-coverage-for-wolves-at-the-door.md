@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for Wolves At The Door"
+title: Related coverage for Wolves At The Door
+date: '2015-07-28 16:44:00'
+categories: []
 published: true
-date: 2015-07-28T16:44:00.000Z
 backstory_type: related coverage
 video: wolves-at-the-door
 type: backstories
 slug: related-coverage-for-wolves-at-the-door
----
+tags: []
 
+---
 **For Grey Wolves a Success Story Without Detractors**
 [The New York Times](http://www.nytimes.com/2014/11/03/us/for-gray-wolves-a-success-story-not-without-detractors.html?gwh=2DC8091F78720307313AE97889A45128&gwt=pay)
 

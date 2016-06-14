@@ -1,12 +1,15 @@
 ---
-title: "Go or no Go: The Challenger Legacy"
+title: 'Go or no Go: The Challenger Legacy'
+date: '2014-06-02 09:00:00'
+categories: []
+layout: post
 published: true
-date: 2014-06-02T09:00:00.000Z
 video: major-malfunction-lessons-from-challenger
 type: video
 slug: major-malfunction-lessons-from-challenger
----
+tags: []
 
+---
 **GO OR NO GO: THE CHALLENGER LEGACY**
 
 **JUNE 2, 2014**

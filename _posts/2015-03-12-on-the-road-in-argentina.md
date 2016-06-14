@@ -1,14 +1,16 @@
 ---
-title: "On the Road in Argentina"
+title: On the Road in Argentina
+date: '2015-03-12 18:22:00'
+categories: on-the-road
+layout: post
 published: true
-date: 2015-03-12T18:22:00.000Z
-description: "Photographs from the road in Argentina"
-featured_image_path: /uploads/1426184168169_PLAZA-RETRO_REPORT.jpg
-category: on-the-road
+description: Photographs from the road in Argentina
+featured_image_path: "/uploads/1426184168169_PLAZA-RETRO_REPORT.jpg"
 type: blog
-slug: 2015-03-12-on-the-road-in-argentina
----
+slug: '2015-03-12 00:00:00'
+tags: []
 
+---
 We're in Argentina shooting a story about the Grandmothers of the Plaza de Mayo, a human rights group trying to find children who were stolen during the Argentine Dirty War.
 
 <figure data-type="image">[![](http://lh3.googleusercontent.com/iRWvP2TTMKiqkmErDUOXjmCLLsKdtkKxugrScruJ2x3PiH3lVX-SXIYCeYDMkOuF7szL7744uUlRnUZhpjTotDzDc0bzTV0F-g=s1200)](/webhook-uploads/1427388714797_Estela_Carlotto_Interview2.jpg)</figure>

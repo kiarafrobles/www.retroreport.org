@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for Fighting Fat"
+title: Related coverage for Fighting Fat
+date: '2016-01-04 16:30:00'
+categories: []
 published: true
-date: 2016-01-04T16:30:00.000Z
 backstory_type: related coverage
 video: fighting-fat
 type: backstories
 slug: related-coverage-for-fighting-fat
----
+tags: []
 
+---
 **A Healthy Diet’s Main Ingredients? Best Guesses**
 [The New York Times](http://www.nytimes.com/2016/01/04/us/a-healthy-diets-main-ingredients-best-guesses.html?_r=0)
 

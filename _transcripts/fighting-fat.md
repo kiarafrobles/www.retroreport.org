@@ -1,12 +1,15 @@
 ---
-title: "Fighting Fat"
+title: Fighting Fat
+date: '2016-01-04 00:35:00'
+categories: []
+layout: post
 published: true
-date: 2016-01-04T00:35:00.000Z
 video: fighting-fat
 type: video
 slug: fighting-fat
----
+tags: []
 
+---
 **Fighting Fat**
 
 **January 4, 2016**

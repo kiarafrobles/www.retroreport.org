@@ -1,12 +1,15 @@
 ---
-title: "The Cost of Campaigns"
+title: The Cost of Campaigns
+date: '2014-10-20 01:00:00'
+categories: []
+layout: post
 published: true
-date: 2014-10-20T01:00:00.000Z
 video: the-cost-of-campaigns
 type: video
 slug: the-cost-of-campaigns
----
+tags: []
 
+---
 **THE COST OF CAMPAIGNS**
 
 **October 19, 2014**

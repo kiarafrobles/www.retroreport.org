@@ -1,13 +1,15 @@
 ---
-title: "Related Coverage for When a Bridge Falls"
+title: Related Coverage for When a Bridge Falls
+date: '2015-07-29 16:16:00'
+categories: []
 published: true
-date: 2015-07-29T16:16:00.000Z
 backstory_type: related coverage
 video: when-a-bridge-falls
 type: backstories
 slug: related-coverage-for-when-a-bridge-falls
----
+tags: []
 
+---
 **A Disaster Brought Awareness but Little Action on Infrastructure**
 [The New York Times](http://www.nytimes.com/2014/03/03/us/a-disaster-brings-awareness-but-little-action-on-infrastructure.html)
 

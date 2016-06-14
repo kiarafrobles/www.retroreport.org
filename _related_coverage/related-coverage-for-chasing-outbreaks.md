@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for Chasing Outbreaks"
+title: Related coverage for Chasing Outbreaks
+date: '2015-05-14 16:37:00'
+categories: []
 published: true
-date: 2015-05-14T16:37:00.000Z
 backstory_type: related coverage
 video: chasing-outbreaks-how-safe-is-our-food
 type: backstories
 slug: related-coverage-for-chasing-outbreaks
----
+tags: []
 
+---
 **Action and Dysfunction in the U.S. Food-Safety Effort**
 [The New York Times](http://www.nytimes.com/2015/05/11/us/action-and-dysfunction-in-the-us-food-safety-effort.html)
 

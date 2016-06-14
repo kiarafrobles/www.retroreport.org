@@ -1,13 +1,15 @@
 ---
-title: "Related Coverage for Ruby Ridge: American Standoff"
+title: 'Related Coverage for Ruby Ridge: American Standoff'
+date: '2015-07-28 16:57:00'
+categories: []
 published: true
-date: 2015-07-28T16:57:00.000Z
 backstory_type: related coverage
 video: ruby-ridge-american-standoff
 type: backstories
 slug: related-coverage-for-ruby-ridge-american-standoff
----
+tags: []
 
+---
 **An Idaho Family, and Federal Tactics Under Siege **
 [The New York Times](http://www.nytimes.com/2014/10/27/us/an-idaho-family-and-federal-tactics-under-siege.html?gwh=39E507B73830FE5E38AF8F9D6089E4EA&gwt=pay&assetType=nyt_now)
 

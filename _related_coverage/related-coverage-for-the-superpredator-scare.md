@@ -1,13 +1,15 @@
 ---
-title: "Related Coverage for The Superpredator Scare"
+title: Related Coverage for The Superpredator Scare
+date: '2016-02-19 17:05:00'
+categories: []
 published: true
-date: 2016-02-19T17:05:00.000Z
 backstory_type: related coverage
 video: the-superpredator-scare
 type: backstories
 slug: related-coverage-for-the-superpredator-scare
----
+tags: []
 
+---
 **When Youth Violence Spurred ‘Superpredator’ Fear**
 [The New York Times](http://www.nytimes.com/2014/04/07/us/politics/killing-on-bus-recalls-superpredator-threat-of-90s.html?ref=us)
 

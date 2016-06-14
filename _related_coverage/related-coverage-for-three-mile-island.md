@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for Three Mile Island"
+title: Related coverage for Three Mile Island
+date: '2015-08-12 18:44:00'
+categories: []
 published: true
-date: 2015-08-12T18:44:00.000Z
 backstory_type: related coverage
 video: three-mile-island-lessons-from-the-nuclear-dream
 type: backstories
 slug: related-coverage-for-three-mile-island
----
+tags: []
 
+---
 **Three Mile Island, and Nuclear Hopes and Fears**
 [New York Times](http://www.nytimes.com/2014/04/29/us/three-mile-island-and-nuclear-hopes-and-fears.html?_r=0)
 

@@ -1,11 +1,15 @@
 ---
-title: "Peter Klein discusses *Anatomy of an Interrogation*"
+title: Peter Klein discusses *Anatomy of an Interrogation*
+date: '2015-04-21 17:30:00'
+categories: []
+layout: post
 published: true
-date: 2015-04-21T17:30:00.000Z
 backstory_type: backstory
 video: anatomy-of-an-interrogation
 type: backstories
 slug: peter-klein-discusses-anatomy-of-an-interrogation
+tags: []
+
 ---
 <iframe src="http://embed.live.huffingtonpost.com/HPLEmbedPlayer/?segmentId=5531630178c90a0384000574&amp;autoPlay=false" width="570" height="321" frameborder="0" scrollable="no"></iframe>
 

@@ -1,12 +1,15 @@
 ---
-title: "Chasing Outbreaks: How Safe Is Our Food?"
+title: 'Chasing Outbreaks: How Safe Is Our Food?'
+date: '2015-05-11 11:37:00'
+categories: []
+layout: post
 published: true
-date: 2015-05-11T11:37:00.000Z
 video: chasing-outbreaks-how-safe-is-our-food
 type: video
 slug: chasing-outbreaks-how-safe-is-our-food
----
+tags: []
 
+---
 **CHASING OUTBREAKS: HOW SAFE IS OUR FOOD?**
 
 **May 11, 2015**

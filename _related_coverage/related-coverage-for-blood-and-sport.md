@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for Blood and Sport"
+title: Related coverage for Blood and Sport
+date: '2015-11-09 16:04:00'
+categories: []
 published: true
-date: 2015-11-09T16:04:00.000Z
 backstory_type: related coverage
 video: blood-and-sport
 type: backstories
 slug: related-coverage-for-blood-and-sport
----
+tags: []
 
+---
 **Boxing Is a Brutal, Fading Sport. Could Football Be Next?**
 [The New York Times](http://www.nytimes.com/2015/11/09/us/boxing-is-a-brutal-fading-sport-could-football-be-next.html?_r=0)
 

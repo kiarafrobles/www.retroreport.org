@@ -1,12 +1,15 @@
 ---
-title: "McMartin Preschool: Anatomy of a Panic"
+title: 'McMartin Preschool: Anatomy of a Panic'
+date: '2014-03-10 09:00:00'
+categories: []
+layout: post
 published: true
-date: 2014-03-10T09:00:00.000Z
 video: mcmartin-preschool-anatomy-of-a-panic
 type: video
 slug: mcmartin-preschool-anatomy-of-a-panic
----
+tags: []
 
+---
 **Anatomy of a Panic**
 
 **March 5, 2014**

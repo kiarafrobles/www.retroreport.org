@@ -1,13 +1,15 @@
 ---
-title: "Related Coverage of Crime and Punishment: Three Strikes and You’re Out"
+title: 'Related Coverage of Crime and Punishment: Three Strikes and You’re Out'
+date: '2015-07-29 17:58:00'
+categories: []
 published: true
-date: 2015-07-29T17:58:00.000Z
 backstory_type: related coverage
 video: crime-and-punishment-three-strikes-and-youre-out
 type: backstories
 slug: related-coverage-of-crime-and-punishment-three-strikes-and-youre-out
----
+tags: []
 
+---
 **Born of Grief, ‘Three Strikes’ Laws Are Being Rethought**
 [The New York Times](http://www.nytimes.com/2013/12/02/booming/born-of-grief-three-strikes-laws-are-being-rethought.html?ref=booming)
 

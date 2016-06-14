@@ -1,12 +1,15 @@
 ---
-title: "Safety on Fire"
+title: Safety on Fire
+date: '2015-05-04 00:40:00'
+categories: []
+layout: post
 published: true
-date: 2015-05-04T00:40:00.000Z
 video: safety-on-fire
 type: video
 slug: safety-on-fire
----
+tags: []
 
+---
 **SAFETY ON FIRE**
 
 **April 29, 2015**

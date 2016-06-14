@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for Bush v. Gore"
+title: Related coverage for Bush v. Gore
+date: '2016-02-23 20:40:00'
+categories: []
 published: true
-date: 2016-02-23T20:40:00.000Z
 backstory_type: related coverage
 video: after-bush-v-gore
 type: backstories
 slug: related-coverage-for-bush-v-gore
----
+tags: []
 
+---
 **16 Years After Bush v. Gore, Still Wrestling With Ballot-Box Rules**
 [The New York Times](http://www.nytimes.com/2016/02/22/us/politics/16-years-after-bush-v-gore-still-wrestling-with-ballot-box-rules.html)
 

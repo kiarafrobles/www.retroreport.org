@@ -1,8 +1,11 @@
 ---
-title: "Jennifer Forde"
+title: Jennifer Forde
+date: '2015-09-25 18:55:00'
+categories: []
 published: true
-date: 2015-09-25T18:55:00.000Z
 role: Not on Masthead
 type: staff
 slug: jennifer-forde
+tags: []
+
 ---

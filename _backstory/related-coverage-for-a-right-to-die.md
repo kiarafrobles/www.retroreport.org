@@ -1,13 +1,16 @@
 ---
-title: "Related coverage for A Right to Die?"
+title: Related coverage for A Right to Die?
+date: '2015-12-17 22:27:00'
+categories: []
+layout: post
 published: true
-date: 2015-12-17T22:27:00.000Z
 backstory_type: backstory
 video: a-right-to-die
 type: backstories
 slug: related-coverage-for-a-right-to-die
----
+tags: []
 
+---
 **Stigma Around Physician-Assisted Dying Lingers**
 [The New York Times](http://www.nytimes.com/2015/03/23/us/stigma-around-physician-assisted-dying-lingers.html)
 

@@ -1,16 +1,18 @@
 ---
-title: "Faces of Treatment"
+title: Faces of Treatment
+date: '2015-07-22 11:38:00'
+categories: Photo Essay
+layout: post
 published: true
-date: 2015-07-22T11:38:00.000Z
-category: Photo Essay
 tagline: "​​Photographs by Sarah Weiser​​​"
-featured_image_path: /uploads/1437495512888_SW_Retro_Addiction_008_cropped-1600.jpg
+featured_image_path: "/uploads/1437495512888_SW_Retro_Addiction_008_cropped-1600.jpg"
 banner_height: 520
 video: from-crack-babies-to-oxytots-lessons-not-learned
 slug: faces-of-treatment
 type: reports
----
+tags: []
 
+---
 A photo essay by Sarah Weiser detailing the difficult path to recovery faced by pregnant addicts at New York City's Non-profit Center for Comprehensive Health Practice, one of the oldest centers in New York City to offer such treatment.
 
 ![](/webhook-uploads/1437492489603_SW_Retro_Addiction_001-1600px.jpg)

@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for The Terminator and the Washing Machine "
+title: 'Related coverage for The Terminator and the Washing Machine '
+date: '2016-03-08 16:40:00'
+categories: []
 published: true
-date: 2016-03-08T16:40:00.000Z
 backstory_type: related coverage
 video: the-terminator-and-the-washing-machine
 type: backstories
 slug: related-coverage-for-the-terminator-and-the-washing-machine
----
+tags: []
 
+---
 **Smart Robots Make Strides, but There’s No Need to Flee Just Yet**
 [The New York Times](http://www.nytimes.com/2016/03/07/us/smart-robots-make-strides-but-theres-no-need-to-flee-just-yet.html?_r=0)
 

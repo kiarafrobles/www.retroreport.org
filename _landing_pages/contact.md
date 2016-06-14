@@ -1,12 +1,12 @@
 ---
-title: "Contact"
+title: Contact
+date: '2015-01-13 13:30:00'
 published: true
-date: 2015-01-13T13:30:00.000Z
 page_category: about
 slug: contact
 include_content: forms/contact.html
----
 
+---
 Retro Report is produced in New York City
 
 Retro Report

@@ -1,7 +1,11 @@
 ---
-title: "Law & Society"
+title: Law & Society
+date: '2015-02-16 20:15:00'
+categories: []
+layout: post
 published: true
-date: 2015-02-16T20:15:00.000Z
 type: topics
 slug: law-society
+tags: []
+
 ---

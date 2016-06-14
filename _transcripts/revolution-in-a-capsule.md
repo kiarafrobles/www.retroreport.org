@@ -1,12 +1,15 @@
 ---
-title: "Revolution in a Capsule"
+title: Revolution in a Capsule
+date: '2014-09-22 01:00:00'
+categories: []
+layout: post
 published: true
-date: 2014-09-22T01:00:00.000Z
 video: revolution-in-a-capsule
 type: video
 slug: revolution-in-a-capsule
----
+tags: []
 
+---
 PROZAC: REVOLUTION IN A CAPSULE
 
 September 21, 2014

@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for Power Line Fears"
+title: Related coverage for Power Line Fears
+date: '2015-06-26 15:42:00'
+categories: []
 published: true
-date: 2015-06-26T15:42:00.000Z
 backstory_type: related coverage
 video: power-line-fears
 type: backstories
 slug: related-coverage-for-power-line-fears
----
+tags: []
 
+---
 **Power Lines, Electricity and Health**
 [Risk Science Center](http://www.riskscience.umich.edu/power-lines-electricity-health/)
 

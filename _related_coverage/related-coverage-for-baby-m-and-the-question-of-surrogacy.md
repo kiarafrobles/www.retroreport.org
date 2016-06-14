@@ -1,13 +1,15 @@
 ---
-title: "Related Coverage for Baby M and the Question of Surrogacy "
+title: 'Related Coverage for Baby M and the Question of Surrogacy '
+date: '2015-07-29 15:01:00'
+categories: []
 published: true
-date: 2015-07-29T15:01:00.000Z
 backstory_type: related coverage
 video: baby-m-and-the-question-of-surrogacy
 type: backstories
 slug: related-coverage-for-baby-m-and-the-question-of-surrogacy
----
+tags: []
 
+---
 **Baby M and the Question of Surrogate Motherhood**
 [The New York Times ](http://www.nytimes.com/2014/03/24/us/baby-m-and-the-question-of-surrogate-motherhood.html?ref=us)
 

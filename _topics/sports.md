@@ -1,7 +1,11 @@
 ---
-title: "Sports"
+title: Sports
+date: '2015-02-16 20:13:00'
+categories: []
+layout: post
 published: true
-date: 2015-02-16T20:13:00.000Z
 type: topics
 slug: sports
+tags: []
+
 ---

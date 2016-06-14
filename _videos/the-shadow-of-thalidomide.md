@@ -1,13 +1,17 @@
 ---
-title: "The Shadow of Thalidomide"
+title: The Shadow of Thalidomide
+date: '2013-09-23 23:00:00'
+categories: []
 published: true
-date: 2013-09-23T23:00:00.000Z
 staff_members:
-  - kit-roane
+- kit-roane
 topic: health
-description: "In the 1950s, thalidomide cut a wide swath of destruction across the world, leaving behind thousands of deformed infants, but that was only the beginning of the story."
-tweet: "In the 1950s, thalidomide caused tons of deformities, but that was only the beginning of the story:"
-featured_image_path: /uploads/1422558080091_449539503_1280.jpg
+description: In the 1950s, thalidomide cut a wide swath of destruction across the
+  world, leaving behind thousands of deformed infants, but that was only the beginning
+  of the story.
+tweet: 'In the 1950s, thalidomide caused tons of deformities, but that was only the
+  beginning of the story:'
+featured_image_path: "/uploads/1422558080091_449539503_1280.jpg"
 appearance: dark-text
 source_video:
   video_id: 6JzNnU2Hy0Q?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
@@ -16,11 +20,11 @@ source_video_2:
   video_id: 75056098
   video_provider: vimeo
   video_show_in_history: true
-  video_source_file: "https://player.vimeo.com/external/75056098.source.mov?s=07b305db388592fc1358e4fd1047547b&profile_id=0&download=1"
-# type: video
+  video_source_file: https://player.vimeo.com/external/75056098.source.mov?s=07b305db388592fc1358e4fd1047547b&profile_id=0&download=1
 slug: the-shadow-of-thalidomide
----
+tags: []
 
+---
 When it was introduced in Germany in the late 1950s, thalidomide was supposed to be something of a miracle drug: a completely safe sleeping pill that could also treat a range of ills. But after it spread across Europe and the rest of the world, this chemical farrago proved to be something far more sinister -- a poison of a sort, one that caused an untold number of spontaneous abortions and led to thousands of terribly deformed infants.
 
 The United States was largely spared this medical disaster thanks to the tenacity of one woman, a young FDA reviewer named Dr. Francis Kelsey, who fought more than a year to delay the drug's approval in the United States and ultimately prevented its release. The realization of how close America came to participating in the tragedy sweeping across Europe brought about regulatory reforms that held pharmaceutical firms far more accountable for the drugs they make.

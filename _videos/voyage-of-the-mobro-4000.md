@@ -1,13 +1,16 @@
 ---
-title: "Voyage of the Mobro 4000"
+title: Voyage of the Mobro 4000
+date: '2013-05-06 23:00:00'
+categories: []
 published: true
-date: 2013-05-06T23:00:00.000Z
 staff_members:
-  - harry-hanbury
+- harry-hanbury
 topic: law-society
-description: "The 1987 voyage of a barge loaded with New York garbage became a sensational fiasco, but it ended up fueling the modern recycling movement."
-tweet: "The '87 voyage of a barge of NY trash was a fiasco, but it helped fuel today's recycling movement:"
-featured_image_path: /uploads/1422558533381_436536066_1280.jpg
+description: The 1987 voyage of a barge loaded with New York garbage became a sensational
+  fiasco, but it ended up fueling the modern recycling movement.
+tweet: 'The ''87 voyage of a barge of NY trash was a fiasco, but it helped fuel today''s
+  recycling movement:'
+featured_image_path: "/uploads/1422558533381_436536066_1280.jpg"
 appearance: dark-text
 source_video:
   video_id: _kKpInODaL4?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
@@ -16,11 +19,11 @@ source_video_2:
   video_id: 62560526
   video_provider: vimeo
   video_show_in_history: true
-  video_source_file: "https://player.vimeo.com/external/62560526.source.mov?s=d594bb4cd8c8aaf21422bf1a518f9005&profile_id=0&download=1"
-# type: video
+  video_source_file: https://player.vimeo.com/external/62560526.source.mov?s=d594bb4cd8c8aaf21422bf1a518f9005&profile_id=0&download=1
 slug: voyage-of-the-mobro-4000
----
+tags: []
 
+---
 Dan Rather dubbed it “the most watched load of garbage in the memory of Man.” Johnny Carson joked about it in his nightly comedy routine. It grabbed headlines around the world. But for all the attention, Americans have never heard the full story of the Mobro garbage barge (a.k.a., “the gar-barge,” “the Flying Dutchman of Trash,” “the barge to nowhere,” “the floating hot potato.”) If you weren’t around in 1987 -- or just need a reminder -- the Mobro carried six million pounds of New York garbage, got turned away from its destination in North Carolina, and spent the next five months adrift – rejected by six states and three foreign countries.
 
 A quarter century later, Retro Report has tracked down the colorful characters most deeply involved in the debacle: Lowell Harrelson, the Alabama entrepreneur (and poet), who, though mocked at the time, turned out to be something of a visionary; Tommy Gesuale, the garbage hauler whose connections made the whole venture possible; Brendan Sexton, then New York City’s Sanitation Commissioner, who faced public fears that ranged from AIDS-infected flies to tropical vermin.

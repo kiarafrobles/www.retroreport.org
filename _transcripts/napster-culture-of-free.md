@@ -1,12 +1,15 @@
 ---
-title: "Napster: Culture of FREE"
+title: 'Napster: Culture of FREE'
+date: '2015-07-29 04:00:00'
+categories: []
+layout: post
 published: true
-date: 2015-07-29T04:00:00.000Z
 video: napster-culture-of-free
 type: video
 slug: napster-culture-of-free
----
+tags: []
 
+---
 **NAPSTER: THE CULTURE OF FREE**
 
 **July 29, 2015**

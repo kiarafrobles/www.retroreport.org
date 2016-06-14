@@ -1,15 +1,19 @@
 ---
-title: "Summer of Fire"
+title: Summer of Fire
+date: '2013-09-02 23:00:00'
+categories: []
 published: true
-date: 2013-09-02T23:00:00.000Z
 staff_members:
-  - laurence-b-chollet
-  - cristina-maldonado
-  - singeli-agnew
+- laurence-b-chollet
+- cristina-maldonado
+- singeli-agnew
 topic: nature
-description: "The lessons learned from the summer of 1988 when fires burned nearly one third of Yellowstone National Park continue to shape the way we fight wildfires raging across the West today."
-tweet: "Lessons learned from the 1988 Yellowstone fire continue to shape how we fight wildfires today:"
-featured_image_path: /uploads/1422558210637_447561590_1280.jpg
+description: The lessons learned from the summer of 1988 when fires burned nearly
+  one third of Yellowstone National Park continue to shape the way we fight wildfires
+  raging across the West today.
+tweet: 'Lessons learned from the 1988 Yellowstone fire continue to shape how we fight
+  wildfires today:'
+featured_image_path: "/uploads/1422558210637_447561590_1280.jpg"
 appearance: light-text
 source_video:
   video_id: 5FjOwwQtzvI?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
@@ -19,11 +23,11 @@ source_video_2:
   video_provider: vimeo
   video_running_time: 11
   video_show_in_history: true
-  video_source_file: "https://player.vimeo.com/external/73432943.source.mov?s=cf88417fc9883e3532b0aeee591afb08&profile_id=0&download=1"
-# type: video
+  video_source_file: https://player.vimeo.com/external/73432943.source.mov?s=cf88417fc9883e3532b0aeee591afb08&profile_id=0&download=1
 slug: summer-of-fire
----
+tags: []
 
+---
 “Part of our national heritage is under threat and on fire tonight.”
 
 That was how CBS’s Dan Rather described the fires raging through Yellowstone National Park in 1988 but it was only part of the story.

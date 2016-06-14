@@ -1,8 +1,11 @@
 ---
-title: "JP Olsen"
+title: JP Olsen
+date: '2015-09-25 17:49:00'
+categories: []
 published: true
-date: 2015-09-25T17:49:00.000Z
 role: Not on Masthead
 type: staff
 slug: jp-olsen
+tags: []
+
 ---

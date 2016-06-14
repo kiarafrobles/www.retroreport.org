@@ -1,12 +1,12 @@
 ---
-title: "Privacy Policy"
+title: Privacy Policy
+date: '2015-02-23 15:04:00'
 published: true
-date: 2015-02-23T15:04:00.000Z
-description: "Privacy Policy"
+description: Privacy Policy
 type: community
 slug: privacy-policy
----
 
+---
 **Summary**
 
 Our Website, **www.retroreport.org** ("Site"), and its Software Applications collect some Personal Data from its Users (each, a "User").

@@ -1,12 +1,15 @@
 ---
-title: "The Mystery of the Missing Bees"
+title: The Mystery of the Missing Bees
+date: '2014-09-29 01:00:00'
+categories: []
+layout: post
 published: true
-date: 2014-09-29T01:00:00.000Z
 video: the-mystery-of-the-missing-bees
 type: video
 slug: the-mystery-of-the-missing-bees
----
+tags: []
 
+---
 **MYSTERY OF THE MISSING BEES**
 
 **September 28, 2014**

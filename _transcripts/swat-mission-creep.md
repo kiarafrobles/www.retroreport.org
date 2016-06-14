@@ -1,12 +1,15 @@
 ---
-title: "SWAT: Mission Creep"
+title: 'SWAT: Mission Creep'
+date: '2015-08-05 09:00:00'
+categories: []
+layout: post
 published: true
-date: 2015-08-05T09:00:00.000Z
 video: swat-mission-creep
 type: video
 slug: swat-mission-creep
----
+tags: []
 
+---
 **SWAT: MISSION CREEP**
 
 **August 4, 2015**

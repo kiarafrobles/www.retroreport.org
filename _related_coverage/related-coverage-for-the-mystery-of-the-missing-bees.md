@@ -1,13 +1,15 @@
 ---
-title: "Related Coverage for the Mystery of the Missing Bees"
+title: Related Coverage for the Mystery of the Missing Bees
+date: '2015-08-11 20:25:00'
+categories: []
 published: true
-date: 2015-08-11T20:25:00.000Z
 backstory_type: related coverage
 video: the-mystery-of-the-missing-bees
 type: backstories
 slug: related-coverage-for-the-mystery-of-the-missing-bees
----
+tags: []
 
+---
 **The Head-Scratching Case of the Vanishing Bees**
 [The New York Times](http://www.nytimes.com/2014/09/29/us/the-head-scratching-case-of-the-vanishing-bees.html)
 

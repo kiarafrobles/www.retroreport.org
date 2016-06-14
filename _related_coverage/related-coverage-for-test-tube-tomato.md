@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for Test Tube Tomato"
+title: Related coverage for Test Tube Tomato
+date: '2015-08-20 19:28:00'
+categories: []
 published: true
-date: 2015-08-20T19:28:00.000Z
 backstory_type: related coverage
 video: test-tube-tomato
 type: backstories
 slug: related-coverage-for-test-tube-tomato
----
+tags: []
 
+---
 **You Call That a Tomato?**
 [The New York Times](http://www.nytimes.com/2013/06/24/booming/you-call-that-a-tomato.html?ref=booming&_r=0)
 

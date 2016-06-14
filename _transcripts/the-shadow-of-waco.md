@@ -1,12 +1,15 @@
 ---
-title: "The Shadow of Waco"
+title: The Shadow of Waco
+date: '2015-07-13 01:44:00'
+categories: []
+layout: post
 published: true
-date: 2015-07-13T01:44:00.000Z
 video: the-shadow-of-waco
 type: video
 slug: the-shadow-of-waco
----
+tags: []
 
+---
 **THE SHADOW OF WACO**
 
 **July 13, 2015**

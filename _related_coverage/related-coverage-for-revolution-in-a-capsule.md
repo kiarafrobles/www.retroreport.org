@@ -1,13 +1,15 @@
 ---
-title: "Related Coverage for Revolution in a Capsule"
+title: Related Coverage for Revolution in a Capsule
+date: '2015-06-16 21:29:00'
+categories: []
 published: true
-date: 2015-06-16T21:29:00.000Z
 backstory_type: related coverage
 video: revolution-in-a-capsule
 type: backstories
 slug: related-coverage-for-revolution-in-a-capsule
----
+tags: []
 
+---
 **Selling Prozac as the Life-Enhancing Cure for Mental Woes**
 [The New York Times](http://www.nytimes.com/2014/09/22/us/selling-prozac-as-the-life-enhancing-cure-for-mental-woes.html)
 

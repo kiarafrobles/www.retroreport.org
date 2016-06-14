@@ -1,12 +1,15 @@
 ---
-title: "Sybil: A Brilliant Hysteric?"
+title: 'Sybil: A Brilliant Hysteric?'
+date: '2014-11-24 02:00:00'
+categories: []
+layout: post
 published: true
-date: 2014-11-24T02:00:00.000Z
 video: sybil-a-brilliant-hysteric
 type: video
 slug: sybil-a-brilliant-hysteric
----
+tags: []
 
+---
 **A BRILLIANT HYSTERIC?**
 
 **November 23, 2014**

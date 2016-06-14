@@ -1,12 +1,15 @@
 ---
-title: "Pets Gone Wild"
+title: Pets Gone Wild
+date: '2015-08-20 00:19:00'
+categories: []
+layout: post
 published: true
-date: 2015-08-20T00:19:00.000Z
 video: pets-gone-wild
 type: video
 slug: pets-gone-wild
----
+tags: []
 
+---
 **PETS GONE WILD**
 
 **April 6, 2015**

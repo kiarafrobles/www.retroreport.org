@@ -1,12 +1,15 @@
 ---
-title: "Anatomy of an Interrogation"
+title: Anatomy of an Interrogation
+date: '2015-04-20 00:19:00'
+categories: []
+layout: post
 published: true
-date: 2015-04-20T00:19:00.000Z
 video: anatomy-of-an-interrogation
 type: video
 slug: anatomy-of-an-interrogation
----
+tags: []
 
+---
 **ANATOMY OF AN INTERROGATION**
 
 **April 20, 2015**

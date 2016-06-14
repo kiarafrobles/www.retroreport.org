@@ -1,13 +1,15 @@
 ---
-title: "Related Coverage for The Sleeper Cell That Wasn't"
+title: Related Coverage for The Sleeper Cell That Wasn't
+date: '2015-07-29 18:17:00'
+categories: []
 published: true
-date: 2015-07-29T18:17:00.000Z
 backstory_type: related coverage
 video: the-sleeper-cell-that-wasnt
 type: backstories
 slug: related-coverage-for-the-sleeper-cell-that-wasnt
----
+tags: []
 
+---
 **The Demise and Afterlife of the ‘Detroit Sleeper Cell’ Case**
 [The New York Times](http://www.nytimes.com/2013/11/18/booming/the-demise-and-afterlife-of-the-detroit-sleeper-cell-case.html?ref=booming)
 

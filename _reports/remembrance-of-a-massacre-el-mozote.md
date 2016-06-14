@@ -1,28 +1,33 @@
 ---
-title: "Remembrance of a Massacre — El Mozote"
+title: Remembrance of a Massacre — El Mozote
+date: '2014-12-10 19:44:00'
+categories: Photo Gallery
+layout: post
 published: true
-date: 2014-12-10T19:44:00.000Z
-category: Photo Gallery
-tagline: "In January of 1982, in the midst of El Salvador's civil war, photographer Susan Meiselas and I clandestinely crossed the border from Honduras to begin a reporting assignment behind guerrilla lines. "
-description: "Photographs by Susan Meiselas / Magnum Photos Introduction by Raymond Bonner "
-featured_image_path: /uploads/1433178458331_JDNO-n9rakgF4pL0TAu9vOLB5muo879kQ-xXRhEGZewERJyBrol_Okw0Ot7KWLkRL8WW74pCbAZ1i1FqehcWXNioAA0NNxg%3Ds1600
+tagline: 'In January of 1982, in the midst of El Salvador''s civil war, photographer
+  Susan Meiselas and I clandestinely crossed the border from Honduras to begin a reporting
+  assignment behind guerrilla lines. '
+description: 'Photographs by Susan Meiselas / Magnum Photos Introduction by Raymond
+  Bonner '
+featured_image_path: "/uploads/1433178458331_JDNO-n9rakgF4pL0TAu9vOLB5muo879kQ-xXRhEGZewERJyBrol_Okw0Ot7KWLkRL8WW74pCbAZ1i1FqehcWXNioAA0NNxg%3Ds1600"
 video: a-search-for-justice
 gallery_image_path:
-  - /uploads/1423581532629_el-mozote-intro-card.jpg
-  - /uploads/1423581530906_NYC15634.jpg
-  - /uploads/1423581533450_NYC15635.jpg
-  - /uploads/1423581533202_PAR51818.jpg
-  - /uploads/1423581531382_PAR167836.jpg
-  - /uploads/1423581531207_NYC16420.jpg
-  - /uploads/1423581531474_NYC16421.jpg
-  - /uploads/1423581532219_NYC16416.jpg
-  - /uploads/1423581533324_NYC16419.jpg
-  - /uploads/1423581531374_NYC16422.jpg
-  - /uploads/1423581533498_NYC16414.jpg
+- "/uploads/1423581532629_el-mozote-intro-card.jpg"
+- "/uploads/1423581530906_NYC15634.jpg"
+- "/uploads/1423581533450_NYC15635.jpg"
+- "/uploads/1423581533202_PAR51818.jpg"
+- "/uploads/1423581531382_PAR167836.jpg"
+- "/uploads/1423581531207_NYC16420.jpg"
+- "/uploads/1423581531474_NYC16421.jpg"
+- "/uploads/1423581532219_NYC16416.jpg"
+- "/uploads/1423581533324_NYC16419.jpg"
+- "/uploads/1423581531374_NYC16422.jpg"
+- "/uploads/1423581533498_NYC16414.jpg"
 slug: remembrance-of-a-massacre-el-mozote
 type: reports
----
+tags: []
 
+---
 Traveling at night to avoid detection by Salvadoran troops, leftist guerillas eventually brought us to a small village — El Mozote. The horrifying sights of a massacre, even the smell of death, were unavoidable — burned bodies beneath collapsed, charred beams of destroyed houses; skulls; children's toys; makeshift graves. The only survivor, Rufina Amaya, recalled hearing from her hiding place the pleas of her young son before he and her three daughters were machine-gunned to death — one was only eight months old; her blind husband was also executed.
 
 <figure data-type="image">[![](http://lh6.ggpht.com/ENAVcrzyB7yUayMAwhLXzxRMRABnGD7LyC_Jpj0kVCW4hG_xFL0W1A_keCTnkvspgZDlsZF8iOtA5_dJkcoFnkFSEK2EWz-NMw=s1200)](/webhook-uploads/1423580392900_NYC17325.jpg)

@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for The Battle for Busing "
+title: 'Related coverage for The Battle for Busing '
+date: '2015-08-19 20:45:00'
+categories: []
 published: true
-date: 2015-08-19T20:45:00.000Z
 backstory_type: related coverage
 video: the-battle-for-busing
 type: backstories
 slug: related-coverage-for-the-battle-for-busing
----
+tags: []
 
+---
 **Desegregation and the Public Schools**
 [The New York Times](http://www.nytimes.com/2013/09/09/booming/desegregation-and-the-public-schools.html?ref=booming&_r=0)
 

@@ -1,13 +1,17 @@
 ---
-title: "When a Bridge Falls"
+title: When a Bridge Falls
+date: '2014-03-04 00:00:00'
+categories: []
 published: true
-date: 2014-03-04T00:00:00.000Z
 staff_members:
-  - drew-magratten
+- drew-magratten
 topic: science-technology
-description: "At the height of rush hour on August 1, 2007 in Minneapolis, Minnesota, a bridge carrying eight lanes of I-35W over the Mississippi River suddenly collapsed, sending cars trucks plunging into the water below. "
-tweet: "States are spending more money than ever to repair bridges, but engineers say it’s not enough:"
-featured_image_path: /uploads/1422556520048_466116212_1280.jpg
+description: 'At the height of rush hour on August 1, 2007 in Minneapolis, Minnesota,
+  a bridge carrying eight lanes of I-35W over the Mississippi River suddenly collapsed,
+  sending cars trucks plunging into the water below. '
+tweet: 'States are spending more money than ever to repair bridges, but engineers
+  say it’s not enough:'
+featured_image_path: "/uploads/1422556520048_466116212_1280.jpg"
 appearance: dark-text
 source_video:
   video_id: 9G2T1i9BLQY?list=PLKB8zkQFlMyJ7iBJqT9pnnwTfXz_jtxbu
@@ -17,11 +21,11 @@ source_video_2:
   video_provider: vimeo
   video_running_time: 10
   video_show_in_history: true
-  video_source_file: "https://player.vimeo.com/external/87876277.source.mov?s=a570c0f4d2fcb4a8f482dcbd3e5befe9&profile_id=0&download=1"
-# type: video
+  video_source_file: https://player.vimeo.com/external/87876277.source.mov?s=a570c0f4d2fcb4a8f482dcbd3e5befe9&profile_id=0&download=1
 slug: when-a-bridge-falls
----
+tags: []
 
+---
 Thirteen people died and 145 were injured in one of the worst bridge accidents in years.
 
 This week's Retro Report examines the collapse and its effect on decaying bridges across the nation. Using archival footage, and interviews with survivors and those who investigated the accident, the video details what caused it to fall as well as the long-standing history of problems with the I-35W bridge.

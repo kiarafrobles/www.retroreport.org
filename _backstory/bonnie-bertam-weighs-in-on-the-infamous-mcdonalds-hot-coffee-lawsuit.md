@@ -1,11 +1,15 @@
 ---
-title: "Bonnie Bertam weighs in on the infamous McDonald's hot coffee lawsuit"
+title: Bonnie Bertam weighs in on the infamous McDonald's hot coffee lawsuit
+date: '2013-10-20 20:45:00'
+categories: []
+layout: post
 published: true
-date: 2013-10-20T20:45:00.000Z
 backstory_type: backstory
 video: taking-the-lid-off-the-mcdonalds-coffee-case
 type: backstories
 slug: bonnie-bertam-weighs-in-on-the-infamous-mcdonalds-hot-coffee-lawsuit
+tags: []
+
 ---
 <iframe width="600" height="130" frameborder="0" scrolling="no" src="https://www.wnyc.org/widgets/ondemand_player/takeaway/#file=%2Faudio%2Fxspf%2F326002%2F"></iframe>
 

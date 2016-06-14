@@ -1,22 +1,25 @@
 ---
-title: "The Terminator and the Washing Machine"
+title: The Terminator and the Washing Machine
+date: '2016-03-07 00:00:00'
+categories: []
 published: true
-date: 2016-03-07T00:00:00.000Z
 staff_members:
-  - erik-german
-description: "What the legendary match between a supercomputer and chess grandmaster Garry Kasparov reveals about today's artificial intelligence panic."
-tweet: "What the iconic match between a supercomputer & a chess grandmaster reveals about today's AI panic."
-featured_image_path: /uploads/1457269939676_38637_1_retro-ai.jpg
+- erik-german
+description: What the legendary match between a supercomputer and chess grandmaster
+  Garry Kasparov reveals about today's artificial intelligence panic.
+tweet: What the iconic match between a supercomputer & a chess grandmaster reveals
+  about today's AI panic.
+featured_image_path: "/uploads/1457269939676_38637_1_retro-ai.jpg"
 appearance: light-text
 source_video:
   video_id: npo0_uaSBSM
   video_provider: youtube
-  video_released_at: "2016-03-07T00:00:00.000Z"
+  video_released_at: '2016-03-07T00:00:00+00:00'
   video_running_time: 11
-# type: video
 slug: the-terminator-and-the-washing-machine
----
+tags: []
 
+---
 The first time the word “robot” ever appeared in literature in the 1920s, the fictional machines rose up and killed their creators. We’ve been telling the same story ever since. From Hal 9000 to the Terminator, it often seems the measure of a fictional machine’s intelligence is best taken by its wish to do us harm.
 
 It’s a scary vision for some observers, and not just technophobes: Scientists like Stephen Hawking; legacy technologists like Bill Gates; not to mention cutting-edge techies like Elon Musk, have all announced their worries about runaway A.I. killing off the human race.

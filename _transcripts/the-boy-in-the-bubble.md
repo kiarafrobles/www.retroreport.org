@@ -1,12 +1,15 @@
 ---
-title: "The Boy in the Bubble"
+title: The Boy in the Bubble
+date: '2015-12-07 01:00:00'
+categories: []
+layout: post
 published: true
-date: 2015-12-07T01:00:00.000Z
 video: the-boy-in-the-bubble
 type: video
 slug: the-boy-in-the-bubble
----
+tags: []
 
+---
 **The Boy in the Bubble**
 
 **December 7, 2015**

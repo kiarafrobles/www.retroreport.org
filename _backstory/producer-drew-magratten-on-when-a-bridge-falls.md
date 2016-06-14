@@ -1,12 +1,16 @@
 ---
-title: "Producer Drew Magratten on “When a Bridge Falls”"
+title: Producer Drew Magratten on “When a Bridge Falls”
+date: '2014-03-03 18:40:00'
+categories: []
+layout: post
 published: true
-date: 2014-03-03T18:40:00.000Z
-lead_copy: "Producer Drew Magratten on “When a Bridge Falls”"
+lead_copy: Producer Drew Magratten on “When a Bridge Falls”
 backstory_type: backstory
 video: when-a-bridge-falls
 type: backstories
 slug: producer-drew-magratten-on-when-a-bridge-falls
+tags: []
+
 ---
 <iframe width="100%" height="140" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&amp;url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F138805246&amp;show_artwork=true"></iframe>
 

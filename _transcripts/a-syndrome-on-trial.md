@@ -1,12 +1,15 @@
 ---
-title: "A Syndrome on Trial"
+title: A Syndrome on Trial
+date: '2015-09-14 00:00:00'
+categories: []
+layout: post
 published: true
-date: 2015-09-14T00:00:00.000Z
 video: a-syndrome-on-trial
 type: video
 slug: a-syndrome-on-trial
----
+tags: []
 
+---
 **A SYNDROME ON TRIAL**
 
 **September 14, 2015**

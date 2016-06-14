@@ -1,12 +1,15 @@
 ---
-title: "The Ferry: A Civil Rights Story"
+title: 'The Ferry: A Civil Rights Story'
+date: '2015-03-08 22:02:00'
+categories: []
+layout: post
 published: true
-date: 2015-03-08T22:02:00.000Z
 video: the-ferry-a-civil-rights-story
 type: video
 slug: the-ferry-a-civil-rights-story
----
+tags: []
 
+---
 **THE FERRY: A LONG TIME COMING**
 
 **March 7, 2015**

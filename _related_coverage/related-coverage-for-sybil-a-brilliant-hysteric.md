@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for Sybil: A Brilliant Hysteric?"
+title: 'Related coverage for Sybil: A Brilliant Hysteric?'
+date: '2015-07-28 16:12:00'
+categories: []
 published: true
-date: 2015-07-28T16:12:00.000Z
 backstory_type: related coverage
 video: sybil-a-brilliant-hysteric
 type: backstories
 slug: related-coverage-for-sybil-a-brilliant-hysteric
----
+tags: []
 
+---
 **Debate Persists Over Diagnosing Mental Health Disorders, Long After ‘Sybil’**
 [The New York Times](http://www.nytimes.com/2014/11/24/us/debate-persists-over-diagnosing-mental-health-disorders-long-after-sybil.html)
 

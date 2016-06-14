@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for Where Is My Grandchild?"
+title: Related coverage for Where Is My Grandchild?
+date: '2015-10-14 15:46:00'
+categories: []
 published: true
-date: 2015-10-14T15:46:00.000Z
 backstory_type: related coverage
 video: where-is-my-grandchild
 type: backstories
 slug: related-coverage-for-where-is-my-grandchild
----
+tags: []
 
+---
 **Children of Argentina’s ‘Disappeared’ Reclaim Past, With Help**
 [The NewYork Times](http://www.nytimes.com/2015/10/12/us/children-of-argentinas-disappeared-reclaim-past-with-help.html)
 

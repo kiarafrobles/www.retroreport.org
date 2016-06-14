@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for Freeing Willy"
+title: Related coverage for Freeing Willy
+date: '2015-08-19 20:35:00'
+categories: []
 published: true
-date: 2015-08-19T20:35:00.000Z
 backstory_type: related coverage
 video: freeing-willy
 type: backstories
 slug: related-coverage-for-freeing-willy
----
+tags: []
 
+---
 **The Whale Who Would Not Be Freed**
 [The New York Times](http://www.nytimes.com/2013/09/16/booming/the-whale-who-would-not-be-freed.html?ref=booming)
 

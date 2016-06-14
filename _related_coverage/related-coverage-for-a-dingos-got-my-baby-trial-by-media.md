@@ -1,13 +1,15 @@
 ---
-title: "Related coverage for A Dingo's Got My Baby: Trial by Media"
+title: 'Related coverage for A Dingo''s Got My Baby: Trial by Media'
+date: '2015-07-28 16:31:00'
+categories: []
 published: true
-date: 2015-07-28T16:31:00.000Z
 backstory_type: related coverage
 video: a-dingos-got-my-baby-trial-by-media
 type: backstories
 slug: related-coverage-for-a-dingos-got-my-baby-trial-by-media
----
+tags: []
 
+---
 **The Trial That Unleashed Hysteria Over Child Abuse**
 [The New York Times](http://www.nytimes.com/2014/11/17/us/vindication-at-last-for-a-woman-scorned-by-australias-news-media.html)
 

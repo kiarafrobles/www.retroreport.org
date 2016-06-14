@@ -1,13 +1,15 @@
 ---
-title: "Related Coverage on Crack Babies: A Tale from the Drug Wars"
+title: 'Related Coverage on Crack Babies: A Tale from the Drug Wars'
+date: '2013-07-27 11:27:00'
+categories: []
 published: true
-date: 2013-07-27T11:27:00.000Z
 backstory_type: related coverage
 video: from-crack-babies-to-oxytots-lessons-not-learned
 type: backstories
 slug: related-coverage-on-crack-babies-a-tale-from-the-drug-wars
----
+tags: []
 
+---
 **Revisiting the "Crack Babies" Epidemic That Was Not**
 [New York Times](http://www.nytimes.com/2013/05/20/booming/revisiting-the-crack-babies-epidemic-that-was-not.html?ref=booming&_r=0)
 

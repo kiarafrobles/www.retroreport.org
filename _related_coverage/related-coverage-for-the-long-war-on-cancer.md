@@ -1,13 +1,15 @@
 ---
-title: "Related Coverage for The Long War On Cancer"
+title: Related Coverage for The Long War On Cancer
+date: '2015-07-29 18:29:00'
+categories: []
 published: true
-date: 2015-07-29T18:29:00.000Z
 backstory_type: related coverage
 video: the-long-war-on-cancer
 type: backstories
 slug: related-coverage-for-the-long-war-on-cancer
----
+tags: []
 
+---
 **Hopeful Glimmers in Long War on Cancer**
 [The New York Times](http://www.nytimes.com/2013/11/04/booming/hopeful-glimmers-in-long-war-on-cancer.html?ref=booming)
 

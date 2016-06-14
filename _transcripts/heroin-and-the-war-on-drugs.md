@@ -1,12 +1,15 @@
 ---
-title: "Heroin and the War on Drugs"
+title: Heroin and the War on Drugs
+date: '2015-11-23 01:00:00'
+categories: []
+layout: post
 published: true
-date: 2015-11-23T01:00:00.000Z
 video: heroin-and-the-war-on-drugs
 type: video
 slug: heroin-and-the-war-on-drugs
----
+tags: []
 
+---
 **Heroin and the War on Drugs**
 
 **November 23, 2015**
